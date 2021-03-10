@@ -1,0 +1,21 @@
+﻿<newdataset>
+  <table>
+    <td>School Incentive Voucher</td>
+    <td1>Incentive Rate</td1>
+    <td2>Agency Code</td2>
+   
+    <td3>Product Name</td3>
+    <td4>For Month</td4>
+    <td5>Name</td5>
+    <td6>Address</td6>
+    <td7>Phone No</td7>
+    <td8> Icno</td8>
+    <td9>Valid Until</td9>
+    <td10>RECEIPT</td10>
+    <td11>Branch:</td11>
+    <td12>Customers's Sign</td12>
+    <td13>Prepared By:</td13>
+    <td14>Signature</td14>
+    <td15>Subject To Realisation</td15>
+  </table>
+</newdataset>

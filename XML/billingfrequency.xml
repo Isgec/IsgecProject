@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Billing Frequency</td>
+    <td1>CIR_OVERDUE_MAST</td1>
+    
+    <td2>COMP_CODE$~$BILL_CYCLE$~$PUBL_CODE$~$CREDIT_DAYS$~$CREDIT_LIMIT$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$CIR_OVERDUE_MAST$~$INSERT#UPDATE#DELETE#</td2>
+    <td3>COMP_CODE$~$BILL_CYCLE$~$PUBL_CODE</td3>
+  </table>
+
+  <table1>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>
+  </table1>
+  
+  
+</newdataset>

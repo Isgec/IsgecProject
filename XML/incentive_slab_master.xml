@@ -1,0 +1,71 @@
+﻿
+<newdataset>
+  <table>
+    <td>Company&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Incentive Type&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Reason&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Type&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td6>
+    <td7>Type&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Effective Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Comparative Frequency</td9>
+    <td10>Remark</td10>
+  </table>
+
+  <table1>
+    <td>Daily</td>
+    <td1>SD</td1>
+    <td2>Weekly</td2>
+    <td3>SW</td3>
+    <td4>Monthly</td4>
+    <td5>SM</td5>
+    <td6>Querterly</td6>
+    <td7>SQ</td7>
+    <td8>Yearly</td8>
+    <td9>SY</td9>
+  </table1>
+  
+  <table2> 
+    <td2>Fix</td2>
+    <td3>F</td3>
+    <td4>Per Copy</td4>
+    <td5>P</td5>
+  </table2>
+
+  <table3>
+    <td>COMP_CODE$~$INCT_SLAB_ID$~$INCT_TYPE$~$UNIT_CODE$~$BRANCH_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CALC_TYPE$~$REASON$~$EFF_DATE$~$CREATED_BY$~$INCT_BASE$~$RMRK$~$CIR_INCT_SLAB_HDR$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>CIR_INCT_SLAB_HDR</td1>
+    <td2>COMP_CODE$~$INCT_SLAB_ID$~$INCT_TYPE$~$UNIT_CODE$~$BRANCH_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CALC_TYPE$~$REASON$~$EFF_DATE$~$CREATED_BY$~$INCT_BASE$~$CIR_INCT_SLAB_HDR$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>INCT_SLAB_ID</td3>
+    <td4>COMP_CODE$~$INCT_SLAB_ID$~$INCT_TYPE$~$UNIT_CODE$~$BRANCH_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CALC_TYPE$~$REASON$~$EFF_DATE$~$UPDATED_BY$~$UPDATED_DT$~$RMRK$~$CIR_INCT_SLAB_HDR$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>COMP_CODE$~$INCT_SLAB_ID$~$INCT_TYPE$~$UNIT_CODE$~$BRANCH_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CALC_TYPE$~$REASON$~$EFF_DATE$~$EDTN_CODE$~$SUPPLY_TYPE$~$SUPPLY_FROM$~$SUPPLY_TILL$~$INCT_AMT$~$CREATED_BY$~$INCT_BASE$~$INCT_COPY$~$BASE_ON$~$STATUS$~$COPYRATE$~$INCT_SLABID_DET$~$CIR_INCT_SLAB_DET$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>COMP_CODE$~$INCT_SLAB_ID$~$CIR_INCT_SLAB_DET$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>REASON$~$SUPPLY_FROM$~$SUPPLY_TILL$~$INCT_AMT$~$UPDATED_BY$~$UPDATED_DT$~$INCT_SLABID_DET$~$CIR_INCT_SLAB_DET$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>INCT_SLAB_ID$~$MAIN_EDTN$~$EDTN_CODE$~$SUPPLY_TYPE</td8>
+    <td9>REASON$~$INCT_SLAB_ID$~$SUPPLY_FROM$~$SUPPLY_TILL$~$INCT_AMT$~$UPDATED_DT$~$INCT_BASE$~$INCT_COPY$~$BASE_ON$~$STATUS$~$COPYRATE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPPLY_TYPE$~$CIR_INCT_SLAB_DET$~$INSERT#UPDATE#DELETE#SELECT</td9>
+
+  </table3>
+
+
+  <table4>
+    <td0>Please Enter Publication Name.$~$Please Enter Publication Nick.$~$Please Enter Valid Period.$~$Please Enter Valid Type.$~$Please Enter Valid Date.$~$Do You want to skip this page?$~$Please fill All The (*) mandatory fields.$~$Data Saved Successfuly on Publication code $~$There is no data regarding your Query.$~$Are you sure! Do You want to delete this Entry ?$~$Data deleted Successfully.$~$There is no more data to be delete.$~$Data updated successfully.$~$Creation Date cannot be greater than the System Date.</td0>
+  </table4>
+
+
+  <table5>
+    <td>Daily</td>
+    <td1>GD</td1>
+    <td2>Weekly</td2>
+    <td3>GW</td3>
+    <td4>Monthly</td4>
+    <td5>GM</td5>
+    <td6>Querterly</td6>
+    <td7>GQ</td7>
+    <td8>Yearly</td8>
+    <td9>GY</td9>
+  </table5>
+</newdataset>
+
+

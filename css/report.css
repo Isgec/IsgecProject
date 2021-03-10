@@ -1,0 +1,438 @@
+﻿.heading
+{
+	font-family :Trebuchet MS ;
+	font-size :20px;
+	font-weight :bolder;
+	color :Black;
+}
+.heading1
+{
+	font-family :Verdana Arial Black;
+	font-size :20px;
+	font-weight :bolder;
+	color :Black;
+}
+.tdlabel
+{
+	width: 100px;
+	font-size:11px; 
+	height: 10px;
+	border-bottom:dashed;
+	border-bottom-color:Black;
+	border-bottom-width:thin;
+}
+.table1
+{
+
+margin-left:350PX; 
+height: 16px; 
+font-weight: bold; 
+font-size: 11px; 
+width:300px;
+}
+
+.table2
+{
+margin-left:50PX;
+ height: 16px;
+  font-weight: bold;
+   font-size:14PX; 
+   width: 800px;
+}
+.table3
+{
+margin-left:50PX;
+ width: 300px;
+ height: 10px; 
+ font-weight: bold;
+  font-size:14PX;
+   width: 800px;
+}
+.table4
+{
+margin-left:300PX;
+ height: 16px;
+  font-weight: bold;
+   font-size:14PX; 
+   width: 400px;
+}
+.table5
+{
+	
+width: 200px;
+font-size:11px;
+ height: 10px;
+}
+.table6
+{
+margin-left:50PX; 
+height: 16px; 
+font-weight: bold;
+ font-size:14PX; 
+ width: 800px;
+}
+.middle4
+{
+	font-size:smaller;
+	color:White;
+	
+	font-weight:bold;
+	/*border-bottom:dashed;*/
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+.middle3
+{
+	font-size:smaller;
+	
+	font-weight:bold;
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	 cursor :hand;
+}
+.rep_data
+{
+	font-size:xx-small;
+	 border-bottom-color:Black;
+     border-bottom:solid 1px black;
+}
+.rep_data1
+{
+	font-size:xx-small;
+	border-left:solid 1px black;	
+     border-bottom-color:Black;
+     border-bottom:solid 1px black;
+			
+	 border-left-color :Black ;
+	 border-left-width:thin ;
+	  
+	 
+}
+
+.rep_data2
+{
+	font-size:xx-small;
+	border-right:solid 1px black;	
+	 border-bottom:solid 1px black;	
+			
+	 border-right-color :Black ;
+	 border-right-width:thin ;
+	
+	  
+	 
+}
+
+.rep_datanew
+{
+	font-size:xx-small;
+	color :Red ;
+}
+.upper
+{
+	height:0px; 
+	width: 300px; 
+	font-size:x-small;
+	font-weight:bolder;
+	text-align:center;
+}
+.middle
+{
+	
+	 height:0px;
+	 width:300px;
+	 text-align:center;
+	 font-weight:bolder;
+	 font-size:x-small;
+	/* border-bottom:dashed;*/
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+.reporttext
+{
+
+	
+	font-family:Verdana Arial;
+	font-size:x-small;
+text-align:left; 
+width: 100px; 
+height: 22px;
+
+}
+.middle2
+{
+	
+	 height:0px;
+	 width:400px;
+	 text-align:left;
+	 font-size:x-small;
+	/* border-bottom:dashed;*/
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+.menucss
+{
+		
+	font-family: Verdana;
+	font-size: 13px;
+	color:#336699;
+	color:black;
+	text-align:left ;
+	
+	}
+	.left
+{
+	
+	 height: 22px;
+	 width:150px;
+	 text-align:left;
+	 font-weight:bolder;
+	 font-size:x-small;
+	/* border-bottom:dashed;*/
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+
+middle1
+{
+height:0px;
+	 width:300px;
+	 text-align:center;
+	 font-weight:bolder;
+	 font-size:x-small;
+	/* border-bottom:dashed;*/
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+	 margin-left:800px;
+
+}
+.font1
+{
+
+	
+	font-family:Verdana Arial;
+	font-size:x-small;
+
+
+}
+page
+{
+width: 100px;
+ height: 21px;
+ font-weight:bolder;
+	 font-size:x-small;
+	  border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+.upper1
+{
+	height:0px; 
+	width: 300px; 
+	font-size:x-small;
+	font-weight:bolder;
+	text-align:left;
+}
+.upper2
+{
+	height:0px; 
+	width: 200px; 
+	font-size:x-small;
+	font-weight:bolder;
+	text-align:left;
+}
+.reporttext1
+{
+
+	
+	font-family:Verdana Arial;
+	font-size:x-small;
+text-align:left; 
+width: 50px; 
+height: 22px;
+
+}
+.reporttext2
+{
+
+	
+	font-family:Verdana Arial;
+	font-size:x-small;
+text-align:left; 
+width: 100px; 
+height: 22px;
+
+}
+.middle13
+{
+	font-size:medium;
+	
+	font-weight:normal;
+	
+	
+}
+.middle14
+{
+	font-size:larger;
+	color:White;
+	
+	font-weight:bold ;
+	/*border-bottom:dashed;*/
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+
+
+.middle31
+{
+	font-size:smaller;
+	
+	font-weight:bold;
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	 
+}
+
+.middlelab
+{
+	font-size:medium ;
+	
+	font-weight:bold;
+	
+
+	 text-align :center ;
+	 
+}
+
+
+.t1
+{
+	font-family:Verdana;
+	font-size:smaller
+}	
+
+.t2
+{
+	font-family:Verdana;
+	font-size:smaller
+}
+
+
+.middle31new
+{
+	font-size:smaller;	
+	font-weight:bold;
+
+	
+	 
+}
+.middlenew1
+{
+	color:White;
+	font-weight :lighter;
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	 
+}
+
+.middlenewleft
+{
+	
+	
+	font-size:smaller;
+	border-left:solid;	
+	
+	border-bottom:solid;
+	font-weight :bold;
+	border-bottom:solid;	 
+	 border-left-color :Black ;
+	 border-left-width:thin ;
+	  border-bottom-color:Black;
+	 border-bottom-width:thin ;
+}
+
+.middlenewright
+{
+	 
+	
+	font-size:smaller;
+	border-right:solid;	
+	
+	border-bottom:solid;
+	font-weight :bold;
+	border-bottom:solid;	 
+	 border-right-color :Black ;
+	 border-right-width:thin ;
+	  border-bottom-color:Black;
+	 border-bottom-width:thin ;
+}
+
+
+.middlecenter
+{
+	
+	
+	font-size:smaller;
+	border-right:solid;	
+	
+	border-bottom:solid;
+	font-weight :bold;
+	border-bottom:solid;	 
+	 border-right-color :Black ;
+	 border-right-width:thin ;
+	  border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	 text-align:center;
+}
+.middlecenter1
+{
+	
+	
+	font-size:smaller;
+	border-right:solid 1px black;	
+	border-left:solid 1px black;	
+	border-bottom:solid 1px black;
+	font-weight :bold;
+	border-bottom:solid 1px black;	 
+	 border-right-color :Black ;
+	 border-right-width:thin ;
+	  border-left-color :Black ;
+	 border-left-width:thin ;
+	  border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	 text-align:center;
+}
+
+.middlecenterright
+{
+	
+	
+	font-size:smaller;
+	border-right:solid 1px black;	
+	border-left:solid 1px black;	
+	
+	font-weight :bold;
+	 
+	 border-right-color :Black ;
+	 border-right-width:thin ;
+	  border-left-color :Black ;
+	 border-left-width:thin ;
+	
+	 text-align:center;
+}
+
+
+.middle4new
+{
+	font-size:xx-small;
+	
+	
+
+	/*border-bottom:dashed;*/
+	border-bottom:solid 1px black;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}

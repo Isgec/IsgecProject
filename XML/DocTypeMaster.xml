@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <Table>
+    <td>Doc Type</td>
+    <td1>Doc Type Name</td1>
+    <td2>Alias</td2>
+    <td3>Type(Cr./Dr.)</td3>
+    <td4>Pay/Reason</td4>
+	  <td5>Freeze Flag</td5>
+  </Table>
+
+	<table1>
+		<td>Yes</td>
+		<td1>Y</td1>
+		<td2>No</td2>
+		<td3>N</td3>
+
+	</table1>
+</NewDataSet>

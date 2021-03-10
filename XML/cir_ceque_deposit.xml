@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>From Date</td>
+    <td1>To Date</td1>
+    <td2>Deposit Date</td2>
+    <td3>Deposit SlipNo.</td3>
+    <td4>Bank</td4>
+    <td5>Deposit Amt</td5>
+  </table>
+</newdata>

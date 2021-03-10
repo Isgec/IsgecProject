@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Area Type Code</td>
+    <td1>Area Type Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Status</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>AREA_TYPE$~$COMP_CODE</td6>
+    <td7>AREA_TYPE$~$AREA_TYPE_NAME$~$FREEZE_FLAG$~$COMP_CODE$~$CIR_AREA_TYPE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>CIR_AREA_TYPE_MAST</td8>
+    <td9>COMP_CODE$~$AREA_TYPE_NAME</td9>
+    
+  </table>
+  
+  
+  
+
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please enter Area Type Name.$~$Data Saved successfully at Area Type Code $~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.</td0>
+  </table2>
+
+
+  <table3>
+    <td>Sr No</td>
+    <td1>Area Type Code</td1>
+    <td2>Area Type Name</td2>
+    <td3>Status</td3>
+   </table3>
+
+  <table4>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Area Type Code</td2>
+    <td3>Area Type Name</td3>
+    <td4>Freeze Flag</td4>
+    
+  </table4>
+  
+</newdataset>

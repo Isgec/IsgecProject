@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Balance Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Agency Class</td10>
+    <td11>Agency Type</td11>
+    <td12>Date</td12>
+    <td13>Slab</td13>
+    <td14>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Ageing By</td16>
+    <td17>Ageing On</td17>
+    <td18>FIFO</td18>
+    <td19>Destination</td19>
+    <td20>Debit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+    <td21>Credit Upto</td21>
+    <td22>Date Slab</td22>
+    <td23>From Balance&lt;font color=red&gt;*&lt;/Font&gt;</td23>
+    <td24>Till Balance&lt;font color=red&gt;*&lt;/Font&gt;</td24>
+  </table>
+
+
+  <table1>
+
+    <td>Excel</td>
+    <td1>exc</td1>
+
+
+  </table1>
+
+
+
+  <table2>
+    <td>Debit</td>
+    <td1>D</td1>
+    <td2>Credit</td2>
+    <td3>C</td3>
+    <td4>Both</td4>
+    <td5>A</td5>
+    
+    
+  </table2>
+
+
+
+  <table3>
+
+    <td>Excel</td>
+    <td1>exe</td1>
+    <td2>Pdf</td2>
+    <td3>pdf</td3>
+  </table3>
+
+  <table4>
+
+    <td>Bill Date</td>
+    <td1>B</td1>
+    <td2>Due Date</td2>
+    <td3>D</td3>
+
+
+
+  </table4>
+
+  <table5>
+
+    <td>YES</td>
+    <td1>y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+
+
+  </table5>
+  <table6>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table6>
+  <table7>
+    <td>Day wise</td>
+    <td1>2</td1>
+    
+  </table7>
+
+
+
+
+</Newdataset>

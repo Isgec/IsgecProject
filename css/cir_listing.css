@@ -1,0 +1,69 @@
+﻿.header
+{
+border-top:solid 1px black;
+border-bottom:solid 1px black;
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+text-align:center
+}
+.header2
+{	
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+border-right:solid 1px black;
+border-top:solid 1px black;
+text-align:center;
+}
+.fields
+{	
+font-family:Arial;
+font-size:12px;
+text-align:left;
+}
+
+.header3
+{	
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+border-top:solid 1px black;
+}
+
+.headermain
+{	
+font-family:Arial;
+font-size:16px;
+font-weight:bold;
+
+
+}
+.headermain2
+{	
+font-family:Arial;
+font-size:14px;
+font-weight:bold;
+
+
+}
+.field2
+{	
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+border-right:solid 1px black;
+
+text-align:center;
+}
+
+.field3
+{	
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+
+
+text-align:center;
+}

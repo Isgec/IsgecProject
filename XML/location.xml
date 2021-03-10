@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdataset>
+
+  <table>
+
+    <td>Location ID</td>
+    <td1>Location Name&lt;font color=red&gt;*&lt;/font&gt;</td1>
+    <td2>Compcode</td2>
+    <td3>CRM_LOCATION_MASTER</td3>
+    <td4>LOC_ID$~$LOC_NAME$~$COMP_CODE$~$USERID$~$CREATED_BY$~$CREATED_DATE$~$SEQ_NO$~$CRM_LOCATION_MASTER$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>LOC_ID$~$LOC_NAME$~$COMP_CODE$~$CRM_LOCATION_MASTER$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>COMP_CODE$~$SEQ_NO</td6>
+    <td7>LOC_ID$~$LOC_NAME$~$COMP_CODE$~$USERID$~$UPDATED_BY$~$UPDATED_DATE$~$SEQ_NO$~$CRM_LOCATION_MASTER$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>COMP_CODE</td8>
+   
+
+  </table>
+
+  <table1>
+
+    <td>SrNo.</td>
+    <td1>Location ID</td1>
+    <td2>Location Name</td2>
+  </table1>
+
+
+
+</Newdataset>

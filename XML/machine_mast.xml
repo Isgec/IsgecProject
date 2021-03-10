@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Machine Id</td>
+    <td1>Standard Bundle&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Layer Size</td2>
+    <td3>Minimum Bundle&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Max Bundle&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Strapping</td5>
+    <td6>CIR_MACH_CONFIR_MAST</td6>
+    <td7>MACH_ID$~$STD_BUNDLE$~$MIN_BUNDLE$~$MAX_BUNDLE$~$LAYER_SIZE$~$STRAPPING$~$CREATED_BY$~$CREATED_DT$~$UPDATE_BY$~$UPDATED_DT$~$CIR_MACH_CONFIG_MAST$~$INSERT#UPDATE#DELETE#</td7>
+    <td8>MACH_ID$~$STD_BUNDLE$~$MIN_BUNDLE$~$MAX_BUNDLE$~$LAYER_SIZE$~$STRAPPING$~$CREATED_BY$~$CREATED_DT$~$UPDATE_BY$~$UPDATED_DT$~$CIR_MACH_CONFIG_MAST$~$INSERT#UPDATE#DELETE#</td8>
+    <td9>MACH_ID</td9>
+    <td10>MACH_ID$~$CIR_MACH_CONFIG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    
+  </table>
+  
+</dataset>

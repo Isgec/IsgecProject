@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name</td1>
+    <td2>Branch</td2>
+    <td3>Return Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>publication</td4>
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <td5>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$PUBLISHER_CODE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$cir_company_return_hdr$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT</td6>
+    <td7>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$PUBLISHER_CODE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$cir_company_return_hdr$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$PUBLISHER_CODE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$RETURN_COPY$~$SLNO$~$COMM_TYPE$~$COMM_RATE$~$cir_company_return_det$~$INSERT#UPDATE#DELETE#SELECT</td8>
+    <td9>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$SLNO</td9>
+    <td10>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$PUBLISHER_CODE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$RETURN_COPY$~$SLNO$~$COMM_TYPE$~$COMM_RATE$~$cir_company_return_det$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    <td11>Receipt No.</td11>
+    <td12>Doc Type</td12>
+    <td13>Publisher&lt;font color=red&gt;*F2&lt;/Font&gt;</td13>
+  </table>
+
+
+  <Table2>
+    <td>ADD:- </td>
+    <td1>UNSOLD COPIES CHALLAN </td1>
+    <td2>Branch:</td2>
+    <td3>Challan No.:</td3>
+    <td22>To:</td22>
+    <td13>Date:</td13>
+    <td24>Total:</td24>
+    <td35>Sale Tax(M.V.A.T.@)(%)</td35>
+    <td6>Bill Amount</td6>
+    <td17>Rupees in Words :</td17>
+    <td21>VAT TIN NO:27100524178.V</td21>
+    <td11>
+      We are sending here with the unsold copies of your Publication as mentioned below. Please acknowledge the receipt.
+    </td11>
+    <td12>Receiver Signature and Seal</td12>
+    <td14>Autorised Signature</td14>
+    <td15>Unit</td15>
+  </Table2>
+
+
+  <table3>
+    <td>ADD:- </td>
+    <td1> UNSOLD COPIES CHALLAN</td1>
+    <td2>Branch:</td2>
+    <td3>RECEIPT No.:</td3>
+    <td22>To:</td22>
+    <td13>Date:</td13>
+    <td24>Total:</td24>
+    <td35>Sale Tax(M.V.A.T.@)(%)</td35>
+    <td6>Bill Amount</td6>
+    <td17>Rupees in Words :</td17>
+    <td21>VAT TIN NO:27100524178.V</td21>
+    <td11>
+      We are sending here with the unsold copies of your Publication as mentioned below. Please acknowledge the receipt.
+    </td11>
+    <td12>Receiver Signature and Seal</td12>
+    <td14>Autorised Signature</td14>
+    <td15>Unit</td15>
+  </table3>
+
+
+  <table4>
+    <td>Unsold Return Receipt</td>
+  </table4>
+
+
+
+</newdataset>

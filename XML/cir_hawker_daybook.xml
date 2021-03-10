@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<table0>
+  <td0>Company Code</td0>
+  <td1>Company Name</td1>
+  <td2>Unit Code</td2>
+  <td3>Unit Name</td3>
+  <td4>Publ Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+  <td5>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  <td6>Edition</td6>
+  <td7>Report Type</td7>
+  <td8>Center Name</td8>
+  <td9>Hawker Name</td9>
+  <td10>Branch</td10>
+  <td11>Day</td11>
+  <td12>Month</td12>
+  <td13>Year</td13>
+  <td14>Supply Type</td14>
+  <td15>Destination</td15>
+</table0>

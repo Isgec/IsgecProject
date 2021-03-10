@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Receipt No.</td1>
+    <td2>Receipt Date&lt;font color=red&gt;&lt;/Font&gt;</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+
+    <td5>RECPTNO$~$DOCTYPE$~$USERID$~$COMP_CODE$~$RECPTDT$~$ENTRYDT$~$AGCD$~$DPCD$~$FRDT$~$TODT$~$PUBL$~$EDTN$~$APP_USERID$~$APP_DT$~$UNIT_CODE$~$SUP_AGCD$~$SUP_DPCD$~$VAR_USERID$~$FORM_NO$~$UNSOLD_TYPE$~$CIR_UNSOLD_HDR$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>RECPTNO$~$COMP_CODE</td6>
+    <td7>RECPTNO$~$DOCTYPE$~$COMP_CODE$~$RECPTDT$~$AGCD$~$DPCD$~$FRDT$~$TODT$~$PUBL$~$EDTN$~$APP_USERID$~$APP_DT$~$UNIT_CODE$~$SUP_AGCD$~$SUP_DPCD$~$FORM_NO$~$CIR_UNSOLD_HDR$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td2114>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2114>
+    <td3114>Edition &lt;font color=red&gt;[F2]&lt;/Font&gt;</td3114>
+    <td21>Entry Date</td21>
+    <td31>Billing Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td31>
+    <td211>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td211>
+    <td311>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td311>
+    <td72>RECPTNO$~$DOCTYPE$~$COMP_CODE$~$RECPTDT$~$AGCD$~$DPCD$~$SUPDATE$~$SHORT_RECPT$~$DAMAGE$~$LATE_RECPT$~$BNR$~$UNSOLD$~$APR_SHORT_RECPT$~$APR_DAMAGE$~$APR_LATE_RECPT$~$APR_BNR$~$APR_UNSOLD$~$VAR_SHORT_RECPT$~$VAR_DAMAGE$~$VAR_LATE_RECPT$~$VAR_BNR$~$VAR_UNSOLD$~$VAR_USERID$~$COPY_RATE$~$COMM_RATE$~$WASTE_ALW$~$WASTE_RATE$~$COPY_AMT$~$COMM_AMT$~$WASTE_AMT$~$PUBL$~$EDTN$~$APP_USERID$~$APP_DT$~$UNIT_CODE$~$SUPPLY_COPY$~$RATE_SUPPLY$~$BRANCH_CODE$~$COMM_CATG_TYPE$~$RETURN_PER$~$SUP_AGCD$~$SUP_DPCD$~$PER_COPY_WT$~$UNSOLD_WT$~$CIR_UNSOLD_DTL$~$INSERT#UPDATE#DELETE#SELECT</td72>
+    <td65>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$SUPDATE$~$PUBL$~$EDTN</td65>
+    <td721>CIR_UNSOLD_DTL</td721>
+    <td17>City Name</td17>
+    <td18>Agency Code</td18>
+    <td19>RECPTNO$~$DOCTYPE$~$COMP_CODE$~$RECPTDT$~$AGCD$~$DPCD$~$SUPDATE$~$SHORT_RECPT$~$LATE_RECPT$~$BNR$~$UNSOLD$~$APR_SHORT_RECPT$~$APR_LATE_RECPT$~$APR_BNR$~$APR_UNSOLD$~$COPY_RATE$~$COMM_RATE$~$WASTE_ALW$~$WASTE_RATE$~$COPY_AMT$~$COMM_AMT$~$WASTE_AMT$~$PUBL$~$EDTN$~$APP_USERID$~$APP_DT$~$UNIT_CODE$~$SUPPLY_COPY$~$RATE_SUPPLY$~$BRANCH_CODE$~$CIR_UNSOLD_DTL$~$INSERT#UPDATE#DELETE#SELECT</td19>
+    <td20>Approval Date</td20>
+    <td100>RECPTNO$~$DOCTYPE$~$USERID$~$COMP_CODE$~$RECPTDT$~$ENTRYDT$~$AGCD$~$DPCD$~$FRDT$~$TODT$~$PUBL$~$EDTN$~$APP_USERID$~$UNIT_CODE$~$SUP_AGCD$~$SUP_DPCD$~$UPDATE_BY$~$UPDATE_DT$~$FORM_NO$~$UNSOLD_TYPE$~$CIR_UNSOLD_HDR$~$INSERT#UPDATE#DELETE#SELECT</td100>
+    <td101>RECPTNO$~$DOCTYPE$~$COMP_CODE$~$RECPTDT$~$AGCD$~$DPCD$~$SUPDATE$~$SHORT_RECPT$~$DAMAGE$~$LATE_RECPT$~$BNR$~$UNSOLD$~$APR_SHORT_RECPT$~$APR_DAMAGE$~$APR_LATE_RECPT$~$APR_BNR$~$APR_UNSOLD$~$VAR_SHORT_RECPT$~$VAR_DAMAGE$~$VAR_LATE_RECPT$~$VAR_BNR$~$VAR_UNSOLD$~$COPY_RATE$~$COMM_RATE$~$WASTE_ALW$~$WASTE_RATE$~$COPY_AMT$~$COMM_AMT$~$WASTE_AMT$~$PUBL$~$EDTN$~$APP_USERID$~$UNIT_CODE$~$SUPPLY_COPY$~$RATE_SUPPLY$~$RETURN_PER$~$SUP_AGCD$~$SUP_DPCD$~$UPDATE_BY$~$UPDATE_DT$~$PER_COPY_WT$~$UNSOLD_WT$~$CIR_UNSOLD_DTL$~$INSERT#UPDATE#DELETE#SELECT</td101>
+    <td8>Select Type</td8>
+    <td9>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO</td9>
+    <td25>Supply Agency</td25>
+    <td27>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td27>
+    <td28>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td28>
+    <td29>7A No./GRN&lt;font color=red&gt;&lt;/Font&gt;</td29>
+  </table>
+
+
+
+
+
+
+  <table1>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please enter Dock Type.$~$Data Saved successfully.$~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$Please Select Publication.$~$Please Enter only numeric values.$~$Please Write Doc Type.$~$Please Select Receipt Date.$~$Please Select Agency Code.$~$Please Select From Date.$~$Please Select To Date.</td0>
+  </table2>
+
+
+  <table3>
+    <td>Sr No</td>
+    <td1>Drop Code</td1>
+    <td2>Drop Point Name</td2>
+  </table3>
+
+  <table4>
+    <td>Comp Code</td>
+    <td1>Unit</td1>
+    <td2>Dock Type</td2>
+    <td3>Receipt No.</td3>
+    <td4>Receipt Date</td4>
+    <td26>Entry Date</td26>
+    <td31>Publication</td31>
+    <td41>Edition</td41>
+    <td6>Press F2 for City Code.</td6>
+    <td7>From Date</td7>
+    <td8>To Date</td8>
+    <td9>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>SubRoute&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>SubSubRoute&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>UnsoldType</td12>
+  </table4>
+
+  <table5>
+
+    <td>Date Wise</td>
+    <td1>D</td1>
+    <td2>Rate Wise</td2>
+    <td3>R</td3>
+  </table5>
+  <table6>
+    <td>N</td>
+    <!--UTUSAN RECEIPT-->
+  </table6>
+  <table8>
+    <td>Normal</td>
+    <td1>N</td1>
+    <td2>Resale</td2>
+    <td3>R</td3>
+  </table8>
+</newdataset>

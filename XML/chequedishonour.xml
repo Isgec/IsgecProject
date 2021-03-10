@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Dear Sir,</td>
+    <td1>We wish you inform you that Cheque no</td1>
+    <td2>dated</td2>
+    <td3>drawn on</td3>
+    <td4>for Rs.</td4>
+    <td5>issued by you has been dishonoured by bank.</td5>
+    <td6>We also requested to make arrangement to clear this amount immediately.</td6>
+    <td7>We also requested you to note that if any payment default occur in future,</td7>
+    <td8>we would be forced to stop accepting your ads or reverse your present</td8>
+    <td9>pay Mode.</td9>
+    <td10>Thanking You,and assuring you of our best services at all times.</td10>
+    <td11>CUSTOMER RELATIONSHIP ASSOCIATE</td11>
+	<td12>Sub : Cheque Dishonour Letter</td12>
+  </table>
+  <table1>
+    <td>Dear Sir,</td>
+    <td1>This is to inform you that your cheque bearing no.</td1>
+    <td2>of</td2>
+    <td3>dated</td3>
+    <td4>for Rs.</td4>
+    <td5>has been returned unpaid by your Bank with the remarks </td5>
+    <td6>Your account is debited</td6>
+    <td7>with Rs.</td7>
+    <td8>- towards cheque bounce/penalty charges on above mentioned cheque.</td8>
+    <td9>You are hereby requested to deposit the said amount by Demand draft/Bank Transfer with cheque </td9>
+    <td10>bounce/penalty charges.</td10>
+    <td11>For any clarification, please feel free to contact us.</td11>
+    <td12>Thanking You,</td12>
+    <td13>Yours truly,</td13>
+    <td14>Authorized Signatory</td14>
+    <td15>Note: Dishonour of Cheque is a Criminal Offence under The Negotiable Instruments Act, 1881.</td15>
+    <td16>Sub : Cheque Dishonour</td16>
+  </table1>
+  
+</newdataset>

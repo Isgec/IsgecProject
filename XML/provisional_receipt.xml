@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Prov. Receipt No</td2>
+    <td3>Prov Receipt Date</td3>
+    <td4>Pay Mode&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Agency Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>City</td7>
+    <td8>Amount&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bank Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td9>
+    <td10>Cheque No.&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Cheque Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Narration/Remarks&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>CIR_RCPHDR_PROV</td14>
+    <td15>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$OTH_AMOUNT$~$CCDP$~$CCDS$~$RCDP$~$RCDS$~$OCDP$~$OCDS$~$REASON$~$REMARK$~$ACHD$~$PUBL$~$RECEIVED_FROM$~$STATUS$~$REF_RECPTNO$~$REF_DOCTYPE$~$USERID$~$CREATION_DATE$~$BRANCH_CODE$~$BKUP_SNO$~$MANNUALRECPTNO$~$REMARK_OTH$~$CIR_RCPHDR_PROV$~$INSERT#UPDATE#DELETE#</td15>
+    <td16>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$OTH_AMOUNT$~$CCDP$~$CCDS$~$RCDP$~$RCDS$~$OCDP$~$OCDS$~$REASON$~$REMARK$~$ACHD$~$PUBL$~$RECEIVED_FROM$~$STATUS$~$REF_RECPTNO$~$REF_DOCTYPE$~$USERID$~$BRANCH_CODE$~$BKUP_SNO$~$UPDATED_By$~$UPDATED_DT$~$MANNUALRECPTNO$~$REMARK_OTH$~$CIR_RCPHDR_PROV$~$INSERT#UPDATE#DELETE#</td16>
+    <td17>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO</td17>
+    <td18>Print Receipt</td18>
+    <td19>Single Marking</td19>
+    <td20>Multiple Marking</td20>
+    <td21>Amount In Hand</td21>
+    <td22>Adjustable Amount</td22>
+    <td23>Doc Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td23>
+    <td24>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td24>
+    <td25>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$CIR_RCPDET$~$CIR_OUTMAST_PROV$~$UPDATE</td25>
+    <td26>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$REMARK$~$</td26>
+    <td27>REMARK$~$</td27>
+    <td28>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$BALANCE$~$TDS$~$STAX$~$USRID$~$CIR_OUTMAST_PROV$~$INSERT#UPDATE#DELETE#SELECT</td28>
+    <td29>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$AMOUNT$~$UPDATED_BY$~$UPDATED_DATE$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td29>
+    <td30>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td30>
+    <td31>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$CIR_OUTMAST_PROV$~$INSERT#UPDATE#DELETE#SELECT</td31>
+    <td32>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$TDS$~$STAX$~$USRID$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td32>
+    <td33>Debit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td33>
+    <td34>Credit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td34>
+    <td35>Narr. in Oth. Lang.</td35>
+    <td36>Manual Receipt No.</td36>
+  </table>
+	<table1>
+		<td>Single Marking</td>
+		<td1>hide</td1>
+		<td2>Multiple Marking</td2>
+		<td3>hide</td3>
+		
+	</table1>
+</dataset>

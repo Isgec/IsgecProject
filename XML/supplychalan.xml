@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Supply Challan</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Agency Class</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Branch</td11>
+    <td12>Report Destination</td12>
+    <td13>Run Date</td13>
+    <td14>Agency Type</td14>
+    <td15>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Language</td16>
+    <td17>30</td17>
+    <td18>Break On</td18>
+    <td19>Company Name</td19>
+    <td20>Printing Center Name</td20>
+  </table>
+
+  <table1>
+    <td>Resale Supply Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Agency Class</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Dist.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Branch</td11>
+    <td12>Report Destination</td12>
+    <td13>Run Date</td13>
+    <td14>Agency Type</td14>
+    <td15>Language</td15>
+    <td16>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+    <td17>एजन्सी</td17>
+    <td18>पेपरचे नाव</td18>
+    <td19>एकूण</td19>
+    <td20>Company Name</td20>
+    <td21>Printing Center Name</td21>
+    <td22>Publication Type</td22>
+  </table1>
+</newdataset>

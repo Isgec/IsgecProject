@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <table>
+    <td>Festival Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Festival Description&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>CIR_FESTIVAL_MAST</td2>
+    <td3>FEST_NAME$~$CIR_FESTIVAL_MAST</td3>
+    <td4>FEST_CODE$~$FEST_NAME$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$CIR_FESTIVAL_MAST$~$INSERT#UPDATE#DELETE#</td4>
+    <td5>FEST_CODE$~$FEST_NAME$~$CIR_FESTIVAL_MAST$~$INSERT#UPDATE#DELETE#</td5>
+    <td6>FEST_CODE</td6>
+    <td7>FEST_CODE$~$CIR_FESTIVAL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td7>
+  </table>
+</NewDataSet>

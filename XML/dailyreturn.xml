@@ -1,0 +1,25 @@
+﻿<newdataset>
+  <table>
+    <td>Daily Return Report</td>
+    <td1>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Return Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Agency Class</td6>
+    <td7>Dist.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Report Destination</td9>
+    <td10>Run Date</td10>
+    <td11>Language</td11>
+    <td12>Return Date</td12>
+    <td13>Daily Return Report</td13>
+    <td14>Page No.</td14>
+    <td15>State.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Break On</td16>
+    <td17>Return Date: </td17>
+    <td18>Company Name</td18>
+    <td19>Printing Center Code</td19>
+    <td20>Publication Type</td20>
+  </table>
+</newdataset>

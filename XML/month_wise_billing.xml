@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name</td3>
+    <td4>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Branch Code</td5>
+    <td6>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Type</td11>
+    <td12>With Opening</td12>
+    <td13>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Sorted By</td15>
+    <td16>Format</td16>
+    <td17>Account Type</td17>
+    <td18>50</td18>
+    <td19>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Publication Code</td20>
+    <td21>Month Wise Billing Report</td21>
+    <td22>Run Date:</td22>
+    <td23>From:</td23>
+    <td24>To :</td24>
+    <td25>Unit:</td25>
+    <td26>Branch:</td26>
+    <td27>Page No.:</td27>
+    <table1>
+      <td>Month</td>
+      <td1>Copies</td1>
+      <td2>Gross_amt</td2>
+      <td3>Air_surch</td3>
+      <td4>Comm_amt</td4>
+      <td5>Net_amt</td5>
+    </table1>
+
+
+  </table>
+</newdataset>

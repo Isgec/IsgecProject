@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td1>Company Code </td1>
+    <td2>Company Name</td2>
+    <td3>Commission Code</td3>
+    <td4>Commission Description&lt;font color=red&gt;*&lt;/font&gt;</td4>
+    <td19>Commission Type</td19>
+    <td8>Status</td8>
+    <td9>COMP_CODE$~$COMM_CATG_CODE$~$COMM_CATG_DESC$~$COMM_CATG_TYPE$~$USERID$~$FREEZE_FLAG$~$UNIT$~$INTEGRATION_ID$~$CIR_COMM_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td9>
+    <td20>COMP_CODE$~$COMM_CATG_CODE$~$INSERT#UPDATE#DELETE#SELECT</td20>
+    <td21>COMP_CODE$~$COMM_CATG_CODE$~$</td21>
+    <td22>COMP_CODE$~$COMM_CATG_CODE$~$COMM_CATG_DESC$~$COMM_CATG_TYPE$~$USERID$~$FREEZE_FLAG$~$INTEGRATION_ID$~$CIR_COMM_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td22>
+    <td5>CIR_COMM_CATG_MAST</td5>
+    <td7>CIR_COMM_CATG_MAST</td7>
+    <td6>COMP_CODE$~$COMM_CATG_DESC</td6>
+    <td221>CIR_COMM_CATG_MAST</td221>
+    <td14>COMP_CODE$~$COMM_CATG_CODE$~$COMM_CATG_DESC$~$COMM_CATG_TYPE$~$FREEZE_FLAG$~$UNIT$~$INTEGRATION_ID$~$CIR_COMM_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td14>
+    <td15>Integration Id</td15>
+  </table>
+  <table1>
+    <tr>Inactive</tr>
+    <tr1>Y</tr1>
+  </table1>
+  <table2>
+    <td>Percentage Type</td>
+    <td1>P</td1>
+    <td2>Per Copy</td2>
+    <td3>C</td3>
+  </table2>
+  <table3>
+    <td>SrNo</td>
+    <td1>Commission Code</td1>
+    <td2>Commission Desc</td2>
+    <td3>Commission type</td3>
+    <td4>Status</td4>
+  </table3>
+</Newdataset>

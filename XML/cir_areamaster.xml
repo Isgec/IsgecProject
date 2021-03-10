@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name </td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Area Code</td4>
+    <td5>Area Name&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6> Name Other Lang.</td6>
+    <td7>Area Type&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>City Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td8>
+    <td9>District Name&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>State Name&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Country Name&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Zone Name&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Area Incharge</td13>
+    <td14>Status</td14>
+    <td15>COMP_CODE$~$UNIT_CODE$~$AREA_CODE$~$AREA_NAME$~$AREA_NAME_OTH_LANG$~$AREA_TYPE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$ZONE_CODE$~$AREA_INCHARGE$~$USERID$~$FREEZE_FLAG$~$taluka_code$~$CIR_AREA_MAST$~$INSERT#UPDATE#DELETE#SELECT</td15>
+    <td16>COMP_CODE$~$UNIT_CODE$~$AREA_CODE$~$AREA_NAME$~$AREA_NAME_OTH_LANG$~$AREA_TYPE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$ZONE_CODE$~$AREA_INCHARGE$~$FREEZE_FLAG$~$CIR_AREA_MAST$~$INSERT#UPDATE#DELETE#SELECT</td16>
+    <td17>COMP_CODE$~$AREA_CODE$~$UNIT_CODE</td17>
+    <td18>CIR_AREA_MAST</td18>
+    <td19>COMP_CODE$~$AREA_NAME</td19>
+	<td20>Font</td20>
+    <td21>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+  </table>
+
+  <table1>
+    <tr>Active</tr>
+    <tr1>N</tr1>
+    <tr2>Inactive</tr2>
+    <tr3>Y</tr3>
+  </table1>
+
+
+  <table2>
+    <tr>SNo.</tr>
+    <tr1>Area Code</tr1>
+    <tr2>Area Name</tr2>
+    <tr3>City Name</tr3>
+    <tr4>Area Type</tr4>
+    <tr5>Status</tr5>
+  </table2>
+</newdataset>

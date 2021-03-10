@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Comp Name</td>
+    <td1>Comp Code</td1>
+    <td2>Unit Name&lt;font color=red&gt;[F2]*</td2>
+    <td3>Unit Code</td3>
+    <td4>Branch&lt;font color=red&gt;[F2]*</td4>
+    <td5>Branch Code</td5>
+    <td6>Location&lt;font color=red&gt;[F2]*</td6>
+    <td7>Location Code</td7>
+    <td8>Publication&lt;font color=red&gt;[F2]*</td8>
+    <td9>Publication Code</td9>
+    <td10>Edition&lt;font color=red&gt;[F2]*</td10>
+    <td11>Edition Code&lt;font color=red&gt;*</td11>
+    <td12>Activity&lt;font color=red&gt;[F2]*</td12>
+    <td13>Activity Code</td13>
+    <td14>Trn No.&lt;font color=red&gt;*</td14>
+    <td15>Start Date&lt;font color=red&gt;*</td15>
+    <td16>End Date&lt;font color=red&gt;*</td16>
+    <td17>Report Type&lt;font color=red&gt;*</td17>
+    <td18>Destination&lt;font color=red&gt;*</td18>
+    <td19>Run</td19>
+    <td20>Clear</td20>
+    <td21>Exit</td21>
+    <td22>Status</td22>
+    <td23>Activity Sub Type&lt;font color=red&gt;[F2]</td23>
+    <td24>Item Name&lt;font color=red&gt;[F2]</td24>
+    <td25>Customer Name</td25>
+  </table>
+  <table1>
+    <td>Compete Report</td>
+    <td1>CO</td1>
+    <td2>Gift Detail Report</td2>
+    <td3>GF</td3>
+    <td4>Gift Voucher Report</td4>
+    <td5>GV</td5>
+  </table1>
+
+  <table2>
+    <td>On screen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+  </table2>
+  <table3>
+    <td>GIFT GIVEN</td>
+    <td1>GG</td1>
+    <td2>REJECT TIME LAPS</td2>
+    <td3>RT</td3>
+    <td4>REJECT</td4>
+    <td5>RE</td5>
+  </table3>
+</Newdataset>

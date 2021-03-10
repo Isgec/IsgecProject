@@ -1,0 +1,42 @@
+﻿<newdata>
+	<table>
+		<tr>Branch&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+		<tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+		<tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+		<tr3>Agency Name&lt;font color=red&gt;(F2)&lt;/Font&gt;</tr3>
+		<tr4>Reason</tr4>
+		<tr5>Bank Name</tr5>
+		<tr6>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</tr6>
+		<tr7>Executive (F2)</tr7>
+		<tr8>Destination Type</tr8>
+		<tr9>Representative</tr9>
+		<tr10>Retainer (F2)</tr10>
+		<tr11>Receipt No.</tr11>
+		<tr12>Doc. Type&lt;font color=red&gt;*&lt;/Font&gt;</tr12>
+		<tr13>Destination Type</tr13>
+		<td14>Run Report</td14>
+		<td15>Exit</td15>
+		<td16>Executive&lt;font color=red&gt;F[2]&lt;/Font&gt;</td16>
+
+	</table>
+
+	<table2>
+		<td>Credit Note</td>
+		<td1>CN</td1>
+		<td2>Debit Note</td2>
+		<td3>DN</td3>
+	</table2>
+
+
+
+	<table3>
+
+		<td>Onscreen</td>
+		<td1>0</td1>
+		<td2>Execl</td2>
+		<td3>1</td3>
+
+
+
+	</table3>
+</newdata>

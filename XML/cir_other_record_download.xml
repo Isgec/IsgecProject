@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Unit Name &lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Branch Name &lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Depo &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Commport No. &lt;font color=red&gt;&lt;/Font&gt;</td3>
+    <td4>Data For &lt;font color=red&gt;&lt;/Font&gt;</td4>
+    <td5>Filewise Download(For Serial)</td5>
+    <td6>Exit </td6>
+    <td7>Remark &lt;font color=red&gt;&lt;/Font&gt;</td7>
+    <td8>Record Status&lt;font color=red&gt;&lt;/Font&gt;</td8>
+
+  </table>
+  <table1>
+    <td>Depo Master(02)</td>
+    <td1>0</td1>
+    <td2>Edtion Rate(03)</td2>
+    <td3>1</td3>
+    <td4>HHC Incharge(04)</td4>
+    <td5>2</td5>
+    <td6>Hawker Master(05)</td6>
+    <td7>3</td7>
+    <td8>Edtion Master(06)</td8>
+    <td9>4</td9>
+  </table1>
+</dataset>

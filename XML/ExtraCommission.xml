@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+
+<td>Company Code</td>
+<td1>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+<td2>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+<td3>Agency Type</td3>
+<td4>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+<td5>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+<td6>Bill Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+<td7>Type&lt;font color=red&gt;&lt;/Font&gt;</td7>
+<td8>Format</td8>
+<td9>Extra Commission Report</td9>
+  <td10>Company Name</td10>
+  <td11>Printing Center Name</td11>
+  <td12>Branch Code</td12>
+</table>
+<table1>
+	<td>Sno</td>
+	<td1>Agency Name</td1>
+	<td2>City</td2>
+	<td3>Bill No</td3>
+	<td4>Bill Date</td4>
+	<td5>Bill Copy</td5>
+	<td6>Gross Amount</td6>
+	<td7>Comm Amount</td7>
+	<td8>Bill Amount</td8>
+	<td9>Actual Comm</td9>
+	<td10>Extra Comm</td10>
+	<td11>Credit NoteNo </td11>
+    
+</table1>
+
+	<table2>
+		<td>Sno</td>
+		<td1>Agency Name</td1>
+		<td2>City</td2>
+		<td3>Bill No</td3>
+		<td4>Bill Date</td4>
+		<td5>Bill Copy</td5>
+		<td6>Gross Amount</td6>
+		<td7>Comm Amount</td7>
+		<td8>Bill Amount</td8>
+		<td9>Actual Comm</td9>
+		<td10>Extra Comm</td10>
+		<td11>Credit NoteNo </td11>
+
+	</table2>
+
+
+
+
+
+
+</newdataset>

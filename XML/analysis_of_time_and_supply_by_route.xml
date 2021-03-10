@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company</td>
+    <td1>Printing center&lt;font color="red" &gt;[F2]</td1>
+    <td2>Publication Type&lt;font color="red" &gt;[F2]</td2>
+    <td3>Publication&lt;font color="red" &gt;*[F2]</td3>
+    <td4>Edition&lt;font color="red" &gt;*[F2]</td4>
+    <td5>sub Edition&lt;font color="red" &gt;*[F2]</td5>
+    <td6>Route&lt;font color="red" &gt;[F2]</td6>
+    <td7>Sub Route&lt;font color="red" &gt;[F2]</td7>
+    <td8>Sub Sub Route&lt;font color="red" &gt;[F2]</td8>
+    <td9>Return Based On</td9>
+    <td10>Supply From Date</td10>
+    <td11>Supply To Date</td11>
+    <td12>Destination</td12>
+    <TD13>Submit</TD13>
+    <td14>Clear</td14>
+    <td15>Exit</td15>
+  </table>
+
+  <table1>
+    <td>On Screen</td>
+    <td1>0</td1>
+    <td2>Excel</td2>
+    <td3>1</td3>
+    <td4>PDF</td4>
+    <td5>2</td5>
+  </table1>
+
+  <table2>
+    <td>Return Date</td>
+    <td1>0</td1>
+    <td2>Supply Date</td2>
+    <td3>1</td3>
+    
+  </table2>
+  
+  
+  
+</newdataset>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <tr>Printing Center &lt;font color=red&gt;[F2]*&lt;/Font&gt;</tr>
+    <tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Branch&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr3>
+    <tr4>Agency Type&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr4>
+    <tr5>Agency&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr5>
+    <tr6>From Amount</tr6>
+    <tr7>To Amount</tr7>
+    <tr8>Destination</tr8>
+    <tr9>Report Type</tr9>
+
+  </table>
+
+</newdata>

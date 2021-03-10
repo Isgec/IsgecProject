@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Unit Name</td0>
+    <td1>Branch Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Doc type&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>PayMode/Reason&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Receipt No.</td5>
+    <td6>Prov Rec Date</td6>
+    <td7>Prov Doc No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Voucher Date</td8>
+    <td9>Voucher No.</td9>
+    <td10>Entry Date</td10>
+    <td11>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td11>
+    <td12>Agency Code</td12>
+    <td13>Agency Sub code</td13>
+    <td14>Agency Region</td14>
+    <td15>Amount</td15>
+    <td16>Representative&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td16>
+    <td17>Amount In Hand</td17>
+    <td18>Narration</td18>
+    <td19>Debit A/c Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td19>
+    <td20>Credit A/c Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td20>
+    <td21>Received From</td21>
+    <td22>Cheque No</td22>
+    <td23>Cheque Date</td23>
+    <td24>Bank&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+    <td25>Cheque Deposit</td25>
+  </table>
+  <table1>
+    <td>Receipt Current Date</td>
+    <td1>N</td1>
+    <td2>Receipt Back Date</td2>
+    <td3>Y</td3>
+  </table1>
+</dataset>

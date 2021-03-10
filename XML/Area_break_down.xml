@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Printing Center Code</td1>
+		<td2>Agency type</td2>
+		<td3>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>Edition</td4>
+		<td5>Sub Edition</td5>
+		<td6>Zone</td6>
+		<td7>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+		<td10>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+		<td11>Form Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+		<td12>To date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+		<td13>Target Type</td13>
+		<td14>Target Supply</td14>
+		<td15>Break On&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+		<td16>Supply Base On</td16>
+		<td17>Type</td17>
+		<td18>Supply Limit</td18>
+		<td19>Report Destination</td19>
+		<td20>Area Break Down Statement</td20>
+		<td21>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td21>
+		<td22>Company Name</td22>
+    <td23>Supply Type</td23>
+    <td24>Include Depo Supply</td24>
+    <td25>Include Free Copy</td25>
+	</table>
+
+	<table1>
+		<td>--Select Break on--</td>
+		<td1>0</td1>
+		<td2>Zone</td2>
+		<td3>1</td3>
+		<td4>Region</td4>
+		<td5>2</td5>
+		<td6>State</td6>
+		<td7>3</td7>
+		<td8>Branch</td8>
+		<td9>4</td9>
+		<td10>District</td10>
+		<td11>5</td11>
+		<td12>Taluka</td12>
+		<td13>6</td13>
+		
+	</table1>
+
+
+	<table2>
+		<td>--Select Target Type--</td>
+		<td1>s</td1>
+		<td2>Fixed</td2>
+		<td3>f</td3>
+		<td4>Percentage</td4>
+		<td5>p</td5>
+	</table2>
+
+	<table3>
+		<td>Select Supply</td>
+		<td1>S</td1>
+		<td2>Gross</td2>
+		<td3>G</td3>
+		<td4>Average</td4>
+		<td5>A</td5>
+	</table3>
+	<table4>
+
+    <td>ABC City</td>
+    <td1>A</td1>
+	</table4>
+
+
+
+	<table5>
+		<td>City Name</td>
+		<td1>Gross supply</td1>
+		<td2>Paidquantity</td2>
+		<td3>Total</td3>
+		<td4>Total</td4>
+    <td5>Branch Name</td5>
+    <td6>Publication Name</td6>
+    <td7>From Date</td7>
+		
+	</table5>
+	<table6>
+		<td>unit</td>
+		<td1> Branch</td1>
+		<td2>Zone</td2>
+		<td3>Publication</td3>
+		<td4>Edition Name</td4>
+		<td5>Sub Edition</td5>
+		<td6>State</td6>
+		<td7>company Name</td7>
+		<td8>Date Wise Break Down Report</td8>
+		<td9>District</td9>
+		<td10>Run Date</td10>
+		<td11>District Total</td11>
+    <td12>Type</td12>
+    <td13>Include Free Copy</td13>
+    <td14>Agency</td14>
+		
+</table6>
+  <table7>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table7>
+	
+	
+</newdataset>

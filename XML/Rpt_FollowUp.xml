@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<newdata>
+  <table>
+    <tr>[Filter Dates To Include Transactions Of These Dates Only]</tr>
+    <tr1>Bills Upto&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>Payments Upto&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Accreditted</tr3>
+    <tr4>Non Accred</tr4>
+    <tr5>Others</tr5>
+    <tr6>Exclude Outstanding</tr6>
+    <tr7>Show All Transactions</tr7>
+    <tr8>Publication</tr8>
+    <tr9>Unit&lt;font color=red&gt;*&lt;/Font&gt;</tr9>
+    <tr10>Agency Category</tr10>
+    <tr11>Locations</tr11>
+    <tr12>Country</tr12>
+    <tr13>State</tr13>
+    <tr14>District</tr14>
+    <tr15>Regions</tr15>
+    <tr16>Agencies</tr16>
+    <tr17>Representatives</tr17>    
+    <tr18>Destination</tr18>
+    <tr19>Outstanding From</tr19>
+    <tr20>To</tr20>
+
+
+  </table>
+
+</newdata>

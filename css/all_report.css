@@ -1,0 +1,63 @@
+﻿.report_dropdpwn
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:17px;
+	width:175px;
+	
+}
+
+
+
+.rpttextbox_short
+{
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:70px;
+}
+
+
+.rpttextbox_short_lar
+{
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:90px;
+}
+
+
+.rpttextbox
+{
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:170px;
+}
+
+
+.LabelText   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:right;
+	height:11px;
+	font-size:small ;
+}
+.btextlist
+{
+	font-family:Verdana;
+	font-size:small ;
+}

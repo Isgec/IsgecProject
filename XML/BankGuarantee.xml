@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <tr> Printing Center</tr>
+    <tr1> Branch </tr1>
+    <tr2> From Date &lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3> To Date &lt;font color=red&gt;*&lt;/Font&gt; </tr3>
+    <tr4> Agency Name&lt;font color=red&gt;(F2)&lt;/Font&gt; </tr4>
+    <tr5> Agency Type </tr5>
+    <tr6> Destination </tr6>
+    <tr7> Run </tr7>
+    <tr8> Comp Code</tr8>
+  </table>
+</newdata>

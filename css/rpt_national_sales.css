@@ -1,0 +1,109 @@
+﻿.LabelText   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:left;
+	height:11px;
+	font-size:small ;
+}
+
+
+
+.TextfieldSec  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:180px;
+	text-align:left;
+    
+}
+.Textfield  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:134px;
+	text-transform:uppercase;
+	
+}
+.dropdownal   
+{
+	
+	
+	font-family: verdana;
+	font-size: 10px;	
+	width:140px;
+	
+	
+}
+
+.Textfieldreport  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:235px;
+	text-transform:uppercase;
+	
+}
+
+.dropdownreport  
+{
+	
+	
+	font-family: verdana;
+	font-size: 10px;	
+	width:240px;
+	
+	
+}
+
+.Textfielddate  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:92px;
+	text-align:left;
+    
+}.Textfieldreport1  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:295px;
+	text-transform:uppercase;
+	
+}
+
+.dropdownreport1  
+{
+	
+	
+	font-family: verdana;
+	font-size: 10px;	
+	width:300px;
+	
+	
+}

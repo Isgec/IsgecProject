@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Agency Class&lt;font color=red&gt;[F2] &lt;/Font&gt;</td1>
+    <td2>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication Type</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Type&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Remark</td8>
+    <td9>CIR_FOR_DISPUTE_BILL</td9>
+    <td10>pcompcode$~$punitcode$~$pagency_type$~$pclass_type$~$pagcd$~$pdpcd$~$ppubltype$~$ppublcode$~$pfromdate$~$ptilldate$~$ptype$~$puserid$~$pdateformate$~$CIR_FOR_DISPUTE_BILL$~$INSERT#UPDATE#DELETE#</td10>
+    
+  </table>
+  <table1>
+    <td>Disputed</td>
+    <td1>D</td1>
+   
+  </table1>
+
+  <table2>
+    <td>Newspaper</td>
+    <td1>N</td1>
+    <td2>Magazine</td2>
+    <td3>M</td3>
+  </table2>
+  
+</dataset>

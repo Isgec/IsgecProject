@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Subcode</td6>
+    <td7>Label Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Label Print</td10>
+    <td11>Clear</td11>
+    <td12>Sub Edition</td12>
+    <td13>District</td13>
+    <td14>Taluka</td14>
+    <td15>Select Type</td15>
+    <td16>Packet Type</td16>
+    <td17>Supply From</td17>
+    <td18>Supply To</td18>
+    <td19>Order By&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+    <td20>Naya India</td20>
+    <td21>Type</td21>
+    <td22>Religion&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+    <td23>Agency Type</td23>
+    <td24>Agency Class</td24>
+  </table>
+
+  <table1>
+    <td>Company Code</td>
+    <td1>Printing Center Code</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Destination</td6>
+    <td7>Supply Type wise Report</td7>
+    <td8>Report</td8>
+    <td9>Language</td9>
+    <td10>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Sub Edition</td11>
+    <td12>Branch</td12>
+    <td13>Show Run Date</td13>
+    <td14>Show Drop Point</td14>
+    <td15>Company Name</td15>
+    <td16>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td16>
+    <td17>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Type</td18>
+    <td19>Report Type</td19>
+    <td20>Destination</td20>
+    <td21>Detail</td21>
+    <td22>Summary</td22>
+    <td23>Show Run Date</td23>
+    <td24>COMP_CODE$~$UNIT_CODE$~$BILLNO$~$BILLDT$~$AGCD$~$DPCD$~$PUBL$~$BILL_COPY$~$GROSS_AMOUNT$~$SUR_AMOUNT$~$COMM_AMOUNT$~$BILL_AMOUNT$~$BILL_FRDT$~$BILL_TODT$~$BILL_FLAG$~$BILL_REMARK$~$USERID$~$CREATION_DATE$~$BILL_SEC_AMT$~$EXCOMM_RECPTNO$~$EXCOMM_RECPTDT$~$EXCOMM_AMT$~$BRANCH_CODE$~$BKUP_SNO$~$SEC_PER_RATE$~$ROUTE_CODE$~$BILL_COUNT$~$CIR_BILL$~$INSERT#UPDATE#DELETE#SELECT</td24>
+    <td25>COMP_CODE$~$UNIT_CODE$~$BILLNO</td25>
+  </table1>
+</newdataset>

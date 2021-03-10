@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Publ Freq</td4>
+    <td5>Publication</td5>
+    <td6>Edition</td6>
+    <td7>Branch</td7>
+    <td8>Center</td8>
+    <td9>Hawker</td9>
+    <td10>From date</td10>
+    <td11>To date</td11>
+    <td12>Destination</td12>
+  </table>
+</newdataset>

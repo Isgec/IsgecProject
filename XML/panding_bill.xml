@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+  <table0>
+    <tr0>
+		<td0>Company</td0>
+		<td1>Parentreg</td1>
+		<td2>Agtype</td2>
+		<td3>Agtyname</td3>
+		<td4>Agmain</td4>
+		<td5>Agsub</td5>
+		<td6>Agcode</td6>
+		<td7>Name</td7>
+		<td8>Billno</td8>
+		<td9>Client</td9>
+		<td10>Billdt</td10>
+		<td11>Osamt</td11>
+		<td12>Bbnd</td12>
+		<td13>Due</td13>
+		<td14>Od</td14>
+		<td15>Lod</td15>
+		
+	</tr0>
+  </table0>

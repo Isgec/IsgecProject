@@ -1,0 +1,21 @@
+﻿<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td3>
+    <td4>Branch Code</td4>
+    <td5>Branch Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>Agency Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td7>
+    <td8>Receipt From Date&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Receipt To Date&lt;font color=red&gt; *&lt;/Font&gt;</td9>
+    <td10>Doc Type</td10>
+    <td11>Receipt No&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td11>
+  </table>
+  <table1>
+    <td>Process</td>
+    <td1>Clear</td1>
+    <td2>Exit</td2>
+  </table1>
+</newdataset>

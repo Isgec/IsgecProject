@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Print Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Print Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Publication Code&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Publication Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Edition Code</td6>
+    <td7>Edition Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <td8>Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Department</td9>
+    <td10>Start Time</td10>
+    <td11>Release Time</td11>
+    <td12>Remark</td12>
+  </table>
+</Newdataset>

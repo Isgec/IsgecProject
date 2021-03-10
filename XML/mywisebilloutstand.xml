@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+  <tr> Printing Center </tr>
+  <tr1> Branch </tr1>
+  <tr2> From Date&lt;font color=red&gt;*&lt;/Font&gt; </tr2>
+  <tr3> To Date &lt;font color=red&gt;*&lt;/Font&gt; </tr3>
+  <tr4> Ageny &lt;font color=red&gt;[F2]&lt;/Font&gt;</tr4>
+  <tr5> Report Based On </tr5>
+  <tr6> Destination </tr6>
+  <tr7>On Screen</tr7>
+  <tr8>1</tr8>
+  <tr9>Excel</tr9>
+  <tr10>2</tr10>
+  <!--<tr11 >PDF</tr11>
+  <tr12>3</tr12>-->
+  <tr13> Run </tr13>
+  <tr14> Exit </tr14>
+  <tr15> Report Type </tr15>
+  
+</table>

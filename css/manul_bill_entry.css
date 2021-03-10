@@ -1,0 +1,329 @@
+﻿.LabelText   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:small;
+	
+}
+
+.LblText  
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:12px;
+	cursor:default;
+	
+	
+}
+
+.btext_other
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: 4CAadita;
+	font-size: 15px;
+	color: #000000;
+	height:13px;
+	width:180px;
+}
+
+.dropdown   
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:17px;
+	width:144px;
+}
+.Textfield  
+{	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:138px;
+	text-transform:uppercase;
+	margin-bottom: 0px;
+}
+
+.Textfieldnew
+{
+	border: 1px solid #929292;
+    background-color: #ffffff;
+    font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:535px;
+	text-transform:uppercase;
+}
+
+.OtherTextfield  
+{	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family:4CAadita;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:138px;
+	text-transform:uppercase;
+}
+
+.TextfieldSec  
+{	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:135px;
+}
+
+.hdntextfield  
+{	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:50px;
+}
+
+.Popupbar
+{
+	POSITION:relative;
+	WIDTH:692px;
+}
+
+.dtGrid
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #999999;
+	border-collapse: collapse;
+}
+
+.Grid
+{
+	/*border: 1px solid #929292;
+*/
+	background-color: #7daae3;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	height:13px;
+	width:100px;
+
+}
+
+.Textfieldlarge
+{
+ border: 1px solid #929292;
+ background-color: #ffffff;
+ font-family: verdana;
+ font-size: 10px;
+ color: #000000;
+ height:13px;
+ width:458px;	
+ text-transform:uppercase;
+}
+
+.Grid
+{
+	/*border: 1px solid #929292;
+*/
+	background-color: #7daae3;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	height:13px;
+	width:100px;
+
+}
+.dynamicgrid
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:138px;
+	text-align:right
+}
+
+
+.tabsHeader
+{
+font-family:Trebuchet MS;
+color:Black;
+text-align:center;
+height:11px;
+/*font-size:10px;*/
+font-size:small;
+cursor:hand;
+/*border:1px solid red;*/
+}
+
+.tabsHeadersr
+{
+font-family:Trebuchet MS;
+color:Black;
+text-align:center;
+height:11px;
+/*font-size:10px;*/
+font-size:small;
+	margin-bottom: 0px;
+}
+
+
+.gridview
+{
+font-family:Trebuchet MS;
+color:Black;
+font-size:11px;
+vertical-align:middle;
+
+}
+
+
+.paggingColor
+{
+padding-left:7px;
+font-weight:bold;
+color:Gray;
+font-size:16px;
+cursor:hand;
+}
+
+.paggingColorChange
+{
+padding-left:7px;
+font-weight:bold;
+font-size:16px;
+color:Red;
+cursor:hand;
+}
+
+.rpttextbox
+{
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:137px;
+}
+
+.page_prebtn_withouthand
+{
+font-size:16px;
+font-weight:bold;
+color:Gray;
+text-align:right;
+padding-left:490px;
+display:none;
+}
+
+.page_nextbtn_withouthand{
+font-size:16px;
+font-weight:bold;
+color:Gray;
+text-align:right;
+display:none;
+}
+
+.LabelTextnew   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:left;
+	height:11px;
+	font-size:small;
+}
+
+/***************************************************CHETAN CSS***********************************************************/
+
+/*************************************************NARRATION MASTER*****************************************************/
+
+.LabelText_new   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:small;
+}
+
+.Textfieldlargenew
+{	
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:25px;
+	width:381px;	
+	text-transform:uppercase;
+	margin-left: 0px;
+}
+
+
+.btext1
+{
+    text-transform:uppercase;	
+}
+
+/************************************************FINANCIAL YEAR MASTER*****************************************************/
+
+.Textfieldlarge_new
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:507px;	
+	text-transform:uppercase;
+}
+
+
+
+.topbutton
+{
+	/*background-color:Control;*/
+	font-weight: bold;
+	font-size:xx-small;
+	/*border-color:DarkGray;*/
+	background-color:#e1e1e1;
+	border-style:Outset;
+
+							
+}
+
+
+
+.RightTable
+{
+	position:relative;
+	margin-top:-1px;
+}
+
+
+.style3
+{
+	font-size:xx-small;
+}

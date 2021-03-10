@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Type</td0>
+    <td1>Edition / District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Detail / Summary&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <!--<td2>Target</td2>-->
+    <td3>Submit</td3>
+    <td4>Report Type</td4>
+    <!--<td4>Save</td4>-->
+    <td5>Clear</td5>
+    <td6>Exit</td6>
+    <td7>Order By</td7>
+    <td8>Destination</td8>
+  </table>
+
+  <table1>
+    <td1>District Agency Wise~1</td1>
+    <td2>Edition Agency Wise~2</td2>
+    <td3>Agency Wise~3</td3>
+  </table1>
+
+  <table2>
+    <td1>District Wise~1</td1>
+    <td2>Edition Wise~2</td2>
+ 
+  
+</table2>
+  
+</dataset>

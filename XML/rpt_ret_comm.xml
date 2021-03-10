@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <td>Process From Date&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Process To Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>OK</td2>
+    <td3>Cancel</td3>
+    <td4>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Unprocess</td6>
+    <td7>Processed</td7>
+    <td8>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>TDS(%)&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Process Date &lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Main Account</td12>
+    <td13>Sub Account</td13>
+    <td14>Assey Type</td14>
+    <td15>Section Name</td15>
+    <td16>Section Code</td16>
+    <td17>Threshold Limit</td17>
+    <td18>Grace Days</td18>
+    <td19>Remarks</td19>
+    <td20>Destination</td20>
+    <td21>Retainer Commission Report</td21>
+    <td22>Rajasthan Patrika </td22>
+    <td23>From Process Id</td23>
+    <td24>To Process Id</td24>
+    <td25>District</td25>
+    <td26>Taluka</td26>
+  </table>
+
+
+
+
+  <table1>
+    <td>Bill No.</td>
+    <td1>Bill Date</td1>
+    <td2>Amount</td2>
+    <td3>Client Name</td3>
+    <td4>Receipt No.</td4>
+    <td5>Receipt Date</td5>
+    <td6>Receipt Amount</td6>
+    <td7>No. Of Days</td7>
+    <td8>% of Commission</td8>
+    <td9>Commission Amount</td9>
+    <td10>Tds Amount</td10>
+    <td11>Payable Commission</td11>
+    <td12>Remarks</td12>
+    <td13>Sno.</td13>
+    <td14>Retainer Name</td14>
+    <td15>Grace Days</td15>>
+    
+  </table1>
+</newdata>
+
+
+

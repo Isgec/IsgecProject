@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newsdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Center Code</td2>
+    <td3>Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Supply Type&lt;font color=red&gt;&lt;/Font&gt;</td7>
+    <td8>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Sub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>SSub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Billing Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+    <td17>Sorted By&lt;font color=red&gt;&lt;/Font&gt;</td17>
+    <td18>Submit</td18>
+    <td19>Update</td19>
+    <td20>Clear</td20>
+    <td21>Exit</td21>
+    <td22>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$SUPPLY_TYPE_CODE$~$CIR_SUPPLY$~$UPDATE</td22>
+    <td23>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$SUPPLY_SPL1$~$SUPPLY_SPL2$~$ROUTE_CODE$~$SUBROUTE_CODE$~$SUB_SUBROUTE_CODE$~$LBL_PRINTNO$~$UPDATED_BY$~$UPDATED_DT$~$SP_SUPPLY_SUN1$~$SP_SUPPLY_MON1$~$SP_SUPPLY_TUE1$~$SP_SUPPLY_WED1$~$SP_SUPPLY_THU1$~$SP_SUPPLY_FRI1$~$SP_SUPPLY_SAT1$~$SP_SUPPLY_SUN2$~$SP_SUPPLY_MON2$~$SP_SUPPLY_TUE2$~$SP_SUPPLY_WED2$~$SP_SUPPLY_THU2$~$SP_SUPPLY_FRI2$~$SP_SUPPLY_SAT2$~$CIR_SUPPLY</td23>
+    <td24>Agency Type</td24>
+    <td25>Agency Class</td25>
+    <td26>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td26>
+    <td27>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+  </table>
+	<table1>
+		<td>Edition Route Wise</td>
+		<td1>1</td1>
+		<td2>Edition District Wise</td2>
+		<td3>2</td3>
+	</table1> 
+  <table2>
+    <td>Entered value is greater than supply order limit</td>
+    </table2>
+
+  <table3>
+    <td>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$SUSP$~$SUSPTY$~$CIR_SUSPEND_TRAN$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT$~$AGCD$~$DPCD</td1>
+    <td2>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$SUSPEND$~$SUSPEND_TYPE$~$CIR_AGMAST$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    
+  </table3>
+
+  <table4>
+    <td>State Wise</td>
+    <td1>S</td1>
+    <td2>City Wise</td2>
+    <td3>C</td3>
+    <td4>Agency Wise</td4>
+    <td5>A</td5>
+  </table4>
+  <table5>
+    <td>N</td> <!--filter for default sully type-->
+  </table5>
+</newsdataset>

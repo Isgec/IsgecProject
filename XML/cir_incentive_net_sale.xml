@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Company Name</td1>
+		<td2>Publication Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Publication Name</td3>
+		<td4>Agency Code&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+		<td5>Agency Name&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+		<td6>Target Sales(Base)&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+		<td7>Product Type&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+		<td8>Incentive Sale For&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+		<td9>Target</td9>
+		<td10>Return Applicable</td10>
+		<td11>COMP_CODE$~$UNIT_CODE$~$PROCESS_ID$~$INCT_BASE$~$AGCD$~$DPCD$~$PUBL$~$PUBL_TYPE$~$BASE_MONTH$~$TARGET_MONTH$~$TRGT_INCT$~$TRGT_RET$~$TRGT_PER$~$TRGT_BASE$~$CREATED_BY$~$CREATED_DATE$~$CIR_INCT_NET_SALE$~$INSERT#UPDATE#DELETE#SELECT</td11>
+		<td12>PROCESS_ID$~$COMP_CODE</td12>
+		<td13>View</td13>
+		<td14>COMP_CODE$~$UNIT_CODE$~$PROCESS_ID$~$INCT_BASE$~$AGCD$~$DPCD$~$PUBL$~$PUBL_TYPE$~$BASE_MONTH$~$TARGET_MONTH$~$TRGT_INCT$~$TRGT_RET$~$TRGT_PER$~$TRGT_BASE$~$CIR_INCT_NET_SALE$~$INSERT#UPDATE#DELETE#SELECT</td14>
+		<td15>CIR_PUBL_MAST</td15>
+		<td16>COMP_CODE$~$PUBL_NAME$~$PNICK</td16>
+		<td17>Account&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+		<td18>Print cent Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td18>
+		<td19>Print cent Name&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+		<td20>COMP_CODE$~$PUBL_SEQNO</td20>
+		<td21>Target Incentive</td21>
+		<td22>Year</td22>
+		<td23>Process Id</td23>
+		<td24>Net/Gross</td24>
+		<td25>COMP_CODE$~$UNIT_CODE$~$PROCESS_ID$~$INCT_BASE$~$AGCD$~$DPCD$~$PUBL$~$PUBL_TYPE$~$BASE_MONTH$~$TARGET_MONTH$~$TRGT_INCT$~$TRGT_RET$~$TRGT_PER$~$TRGT_BASE$~$UPDATED_BY$~$UPDATED_DATE$~$CIR_INCT_NET_SALE$~$INSERT#UPDATE#DELETE#SELECT</td25>
+
+
+	</table>
+	<table1>
+		<td>Daily</td>
+		<td1>1</td1>
+		<td2>Weekly</td2>
+		<td3>7</td3>
+		<td4>Fortnightly</td4>
+		<td5>15</td5>
+		<td6>Monthly</td6>
+		<td7>30</td7>
+		<td8>Quarterly</td8>
+		<td9>90</td9>
+		<td10>Yearly</td10>
+		<td11>365</td11>
+	</table1>
+	<table2>
+		<td>Newspaper</td>
+		<td1>N</td1>
+		<td2>Magzine</td2>
+		<td3>M</td3>
+	</table2>
+
+
+	<table3>
+
+		<td>Inactive</td>
+		<td1>Y</td1>
+		<td2>Active</td2>
+		<td3>N</td3>
+	</table3>
+
+	<table4>
+		<td0>Sr</td0>
+		<td1>Pub Code</td1>
+		<td2>Pub Name</td2>
+		<td3>Other Lang</td3>
+		<td4>Nick</td4>
+		<td5>Period</td5>
+		<td6>Type</td6>
+		<td7>DOB</td7>
+		<td8>Alert</td8>
+	</table4>
+
+	<table5>
+		<td0>Publication Code</td0>
+		<td1>Publication Name</td1>
+		<td2>Other Language</td2>
+		<td3>Publication Nick</td3>
+		<td4>Period</td4>
+		<td5>Publication Type</td5>
+		<td6>Date Of Birth</td6>
+		<td7>Alert</td7>
+		<td8>Freeze Flag</td8>
+		<td9>Company Code</td9>
+		<td10>Company Name</td10>
+	</table5>
+
+	<table6>
+		<td0>Please Enter Publication Name.$~$Please Enter Publication Nick.$~$Please Enter Valid Period.$~$Please Enter Valid Type.$~$Please Enter Valid Date.$~$Do You want to skip this page?$~$Please fill All The (*) mandatory fields.$~$Data Saved Successfuly on Publication code $~$There is no data regarding your Query.$~$Are you sure! Do You want to delete this Entry ?$~$Data deleted Successfully.$~$There is no more data to be delete.$~$Data updated successfully.$~$Creation Date cannot be greater than the System Date.</td0>
+	</table6>
+
+	<table7>
+		<td1>January</td1>
+		<td2>01</td2>
+		<td3>February</td3>
+		<td4>02</td4>
+		<td5>March</td5>
+		<td6>03</td6>
+		<td7>April</td7>
+		<td8>04</td8>
+		<td9>May</td9>
+		<td10>05</td10>
+		<td11>June</td11>
+		<td12>06</td12>
+		<td13>July</td13>
+		<td14>07</td14>
+		<td15>August</td15>
+		<td16>08</td16>
+		<td17>September</td17>
+		<td18>09</td18>
+		<td19>October</td19>
+		<td20>10</td20>
+		<td21>November</td21>
+		<td22>11</td22>
+		<td23>December</td23>
+		<td24>12</td24>
+		<td25></td25>
+		<td26></td26>
+	</table7>
+
+	<table8>
+		<td1>2000</td1>
+		<td2>2000</td2>
+		<td3>2001</td3>
+		<td4>2001</td4>
+		<td5>2002</td5>
+		<td6>2002</td6>
+		<td7>2003</td7>
+		<td8>2003</td8>
+		<td9>2004</td9>
+		<td10>2004</td10>
+		<td11>2005</td11>
+		<td12>2005</td12>
+		<td13>2006</td13>
+		<td14>2006</td14>
+		<td15>2007</td15>
+		<td16>2007</td16>
+		<td17>2008</td17>
+		<td18>2008</td18>
+		<td19>2009</td19>
+		<td20>2009</td20>
+		<td21>2010</td21>
+		<td22>2010</td22>
+		<td23>2011</td23>
+		<td24>2011</td24>
+		<td25>2012</td25>
+		<td26>2012</td26>
+		<td27>2013</td27>
+		<td28>2013</td28>
+		<td29>2014</td29>
+		<td30>2014</td30>
+		<td31>2015</td31>
+		<td32>2015</td32>
+		<td33>2016</td33>
+		<td34>2016</td34>
+		<td35>2017</td35>
+		<td36>2017</td36>
+		<td37>2018</td37>
+		<td38>2018</td38>
+		<td39>2019</td39>
+		<td40>2019</td40>
+		<td41>2020</td41>
+		<td42>2020</td42>
+		<td43>2021</td43>
+		<td44>2021</td44>
+		<td45></td45>
+		<td46></td46>
+	</table8>
+	<table9>
+		<td>Net</td>
+		<td1>N</td1>
+		<td2>Gross</td2>
+		<td3>G</td3>
+	</table9>
+</Newdataset>
+

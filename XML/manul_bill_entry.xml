@@ -1,0 +1,23 @@
+<table>
+	<tr>
+		<td0>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td0>
+		<td1>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+		<td2>Bill No.&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+		<td3>Payment Type&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>Bill Date</td4>
+		<td5>Date of Entry</td5>
+		<td6>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td6>
+		<td7>Address</td7>
+		<td8>Client&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td8>
+		<td9>Cleint Code</td9>
+		<td10>Agency Ref. No.</td10>
+		<td11>Agency Ref. Date</td11>
+		<td12>Category&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+		<td13>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+		<td14>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+		<td15>Published Date</td15>
+		<td16>No. of Ads</td16>
+		<td17>Bill Amount&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+		<td18>Remark</td18>
+	</tr>
+</table>

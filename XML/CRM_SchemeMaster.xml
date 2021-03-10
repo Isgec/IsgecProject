@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+	<Table>
+    <td>Comp Name</td>
+    <td1>Comp Code</td1>
+    <td2>Branch</td2>
+    <td3>Location&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Activity Code&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Activity Name&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>End Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Ph/Mb N0. Required</td10>
+    <td11>Address Proof Required</td11>
+    <td12>Gift Required</td12>
+    <td13>Unit&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Unit Code</td14>
+    <td15>Location Code</td15>
+    <td16>Freeze Flag</td16>
+    <td17>Segment&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Cost Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Scheme&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Pan No</td20>
+    <td21>Kill Date</td21>
+    <td22>Activity Laps Days</td22>
+  </Table>
+  <table1>
+    <td>YES</td>
+    <td1>Y</td1>
+    <td2>NO</td2>
+    <td3>N</td3>
+  </table1>
+	<table2>
+		<td>Period</td>
+		<td1>P</td1>
+		<td2>No Of Issue</td2>
+		<td3>I</td3>
+	</table2>
+  <table3>
+    <td>Per Scheme Rate</td>
+    <td1>SR</td1>
+    <td2>Per Copy Rate</td2>
+    <td3>CR</td3>
+  </table3>
+  <table4>
+    <td>REM. AMOUNT</td>
+    <td1>Y</td1>
+  </table4>
+</NewDataSet>

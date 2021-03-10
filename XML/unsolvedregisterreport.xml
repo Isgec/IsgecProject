@@ -1,0 +1,89 @@
+﻿<newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Printing Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Report Destination </td8>
+    <td9>Language</td9>
+    <td10>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Unsold Approved</td11>
+    <td12>Sub Edition</td12>
+    <td13>Company Name</td13>
+    <td14>Printing Center Name</td14>
+    <td15>Publication Type</td15>
+    <td16>Agency Code</td16>
+    <td17>Select</td17>
+    <td18>Supply Type</td18>
+    <td19>Unsold Type</td19>
+  </table>
+  
+  <table1>
+    <td>Run Date</td>
+    <td1>Unsold Register Report</td1>
+    <td2>S.No.</td2>
+    <!--<td3>Ag. Code</td3>-->
+    <td3>Party Code</td3>
+    <td4>City Name</td4>
+    <!--<td5>Reciept No.</td5>-->
+    <td5>UN Cr No.</td5>
+    <td6>Reciept Date</td6>
+    <!--<td7>Supply Date</td7>-->
+    <td7>Issue Date</td7>
+    <td8>Supply</td8>
+    <!--<td9>Copy Rate</td9>-->
+    <td9>Cover Price Rs.</td9>
+    <!--<td10>Comm. Percent</td10>-->
+    <td10>T D%</td10>
+    <!--<td11>Comm. Amt.</td11>-->
+    <td11>T D Amount</td11>
+    <td12>Late Recpt.</td12>
+    <!--<td13>Short Copy</td13>-->
+    <td13>Shortages</td13>
+    <td14>BNR</td14>
+    <!--<td15>Unsold Copy</td15>-->
+    <td15>Return Copies</td15>
+    <!--<td16>Return</td16>-->
+    <td16>W P V</td16>
+    <td17>Waste Rate</td17>
+    <td18>Waste Amt.</td18>
+    <td19>Total Amt.</td19>
+    <td20>Ag. Subcode</td20>
+    <!--<td21>Ag. Name</td21>-->
+    <td21>Distributor Name</td21>
+    <td22>From Date:</td22>
+    <td23>To Date:</td23>
+    <td24>Damage</td24>
+    <td25>Entry Date</td25>
+    <td26>Billed Copies</td26>
+    <td27>Sales Invoice No.</td27>
+  </table1>
+  
+  <table2>
+    <td0>Please select the Doctype.</td0>
+    <td1>Please Select From Date.</td1>
+    <td2>Please Select To Date.</td2>
+   </table2>
+
+  <table3>
+    <td>UCN</td>
+    <td1>UCN</td1>
+  </table3>
+  
+  <table4>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+  </table4>
+  
+  <table5>
+    <td>No</td>
+    <td1>N</td1>
+    
+  </table5>
+</newdataset>

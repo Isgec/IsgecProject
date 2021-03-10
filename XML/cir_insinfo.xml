@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing center&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Account Type</td2>
+    <td3>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt; </td3>
+    <td4>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7> Destination</td7>
+    <td8>Run</td8>
+    <td9>Clear</td9>
+    <td10>Exit</td10>
+    <td11>Pay Mode&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+  </table>
+
+  <table1>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>SC</td3>
+  </table1>
+  
+  <table2>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel Sheet</td2>
+    <td3>2</td3>
+    <td4>PDF File</td4>
+    <td5>3</td5>
+  </table2>
+  
+  <table3>
+    <td>Installment Infomation</td>
+    <td1>1</td1>
+    <td2>Summary Installment by branch</td2>
+    <td3>2</td3>
+    <td4>Percentage Installment by branch</td4>
+    <td5>4</td5>
+    <td6>Overall installment </td6>
+    <td7>3</td7>
+  </table3>
+
+  <table4>
+    <td>Total Inastallment Amt</td>
+    <td1>Total Paid Amt</td1>
+    <td2>Total Due Installment Amt</td2>
+    <td3>%Payment</td3>
+  </table4>
+
+  <table5>
+    <td>Dealer Name</td>
+    <td1>Inastallment Mode</td1>
+    <td2>Start Inastallment</td2>
+    <td3>Finish Inastallment</td3>
+    <td4>Inastallment Amt</td4>
+    <td5>Paid Amt</td5>
+    <td6>Balance</td6>
+  </table5> 
+</dataset>
+

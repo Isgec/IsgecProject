@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdataset>
+  <table>
+
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Representative Code</td2>
+    <td3>Representative Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Booklet No&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Booklet Serial No Start&lt;font color=red&gt;&lt;/Font&gt;</td5>
+    <td6>Booklet Serial No End&lt;font color=red&gt;&lt;/Font&gt;</td6>
+    
+    <td7>Status&lt;font color=red&gt;&lt;/Font&gt;</td7>
+    
+
+
+  </table>
+</Newdataset>

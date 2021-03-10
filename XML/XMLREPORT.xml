@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<table>
+	<td>Tally Company Name</td>
+	<td1>Company</td1>
+	<td2>Printing Center</td2>
+	<td3>Branch</td3>
+	<td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+	<td5>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+	<td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+	<td7>Doc Type</td7>
+	<td8>Pay Mode</td8>
+	<td9>Other A/C Head</td9>
+	<td10>Tally Voucher Type</td10>
+	<td11>Run</td11>
+	<td12>Exit</td12>
+	<td13>Agency A/C Head</td13>
+	<td14>Other A/C Head</td14>
+	<td15>Agency Name/Code</td15>
+	<td16>Branch Based On</td16>
+	<td17>Frequency Type</td17>
+	<td18>Tally Type</td18>
+	<td19>Commission A/C Head</td19>
+</table>
+
+<table1>
+	<td>Agency Name</td>
+	<td1>A</td1>
+	<td2>Agency Code</td2>
+	<td3>C</td3>
+</table1>
+
+	<table2>
+		<td>Agency Master</td>
+		<td1>M</td1>
+		<td2>Transaction</td2>
+		<td3>T</td3>
+	</table2>
+
+	<table3>
+		<td>one by  one</td>
+		<td1>1</td1>
+		<td2>Daily</td2>
+		<td3>2</td3>
+		<td4>Agency wise</td4>
+		<td5>3</td5>
+		<td6>single</td6>
+		<td7>4</td7>
+	</table3>
+	<table4>
+		<td>Normal</td>
+		<td1>1</td1>
+		<td2>Tally 9</td2>
+		<td3>2</td3>
+		
+	</table4>
+	</dataset>

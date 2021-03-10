@@ -1,0 +1,21 @@
+﻿<newdataset>
+  <table>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Center Name</td4>
+    <td5>Supply Date&lt;font color=red&gt;* &lt;/Font&gt;</td5>
+    <td6>Publication&lt;font color=red&gt;[F2] &lt;/Font&gt;</td6>
+    <td7>Edition&lt;font color=red&gt;[F2] &lt;/Font&gt;</td7>
+  </table>
+
+  <table1>
+    <td>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$PRESS_CODE$~$CENTER_AGCD$~$CENTER_DPCD$~$GT_DATE$~$GT_PASS_NO$~$MANUAL_GT_PASS_NO$~$GT_TIME$~$DISPATCH_IN_CHARGE$~$VEHICLE_NO$~$CREATED_BY$~$CIR_GTPASS_PRESS_HDR_TMP$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$GT_DATE$~$GT_PASS_NO$~$PUBL_CODE$~$EDTN_CODE$~$SUP_COPY$~$CREATED_BY$~$BUNDLES$~$CIR_GTPASS_PRESS_DET_TMP$~$INSERT#UPDATE#DELETE#SELECT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$PRESS_CODE$~$GT_DATE$~$GT_PASS_NO$~$DOCTYPE$~$CIR_GTPASS_PRESS_HDR$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>COMP_CODE$~$UNIT_CODE$~$GT_DATE$~$GT_PASS_NO</td3>
+    <td4>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$PRESS_CODE$~$CENTER_AGCD$~$CENTER_DPCD$~$GT_DATE$~$GT_PASS_NO$~$MANUAL_GT_PASS_NO$~$GT_TIME$~$DISPATCH_IN_CHARGE$~$VEHICLE_NO$~$UPDATED_BY$~$UPDATED_DT$~$CIR_GTPASS_PRESS_HDR$~$INSERT#UPDATE#DELETE#SELECT</td4>
+  </table1>
+</newdataset>
+

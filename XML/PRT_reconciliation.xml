@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <td>Printing Center&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt; [F2]&lt;/Font&gt;</td1>
+    <td2>From  Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Till  Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>From PRT No.</td4>
+    <td5>Till PRT No. </td5>
+    <td6>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Report Type</td7>
+    <td8>Format Type</td8>
+
+
+
+  </table>
+
+  <table1>
+    <td1>Onscreen</td1>
+    <td2>ons</td2>
+    <td3>Excel</td3>
+    <td4>exc</td4>
+  </table1>
+
+  <table2>
+    <td1>PRT Missing</td1>
+    <td2>1</td2>
+    <td3>PRT Issue Report</td3>
+    <td4>2</td4>
+    <td5>Issue Return PRT Report</td5>
+    <td6>3</td6>
+    <td7>PRT Cancel</td7>
+    <td8>4</td8>
+    <!--<td9>Inward Checklist</td9>
+    <td10>5</td10>
+    <td11>Pending For Main Receipt</td11>
+    <td12>6</td12>-->
+  
+  </table2>
+
+</newdata>
+

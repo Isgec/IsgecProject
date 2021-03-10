@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+    <tr>Branch&lt;font color=red&gt;&lt;/Font&gt;</tr>
+    <tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr3>
+    <tr4>Sub Agency Code</tr4>
+    <tr5>Client</tr5>
+    <tr6>Representative</tr6>
+    <tr7>Destination</tr7>
+    <tr9>From Date: -</tr9>
+    <tr10>To Date: -</tr10>
+    <tr44>Run Date: -</tr44>
+    <tr11>Bill Listing</tr11>
+    <tr12>BillListing (RepresentativeWise)</tr12>
+    <tr13>Bill Wise Outstanding</tr13>
+    <tr14>Print Center</tr14>
+    <tr15>Doc Type</tr15>
+    <tr16>Day Book</tr16>
+    <tr17>Agency Wise Summary</tr17>
+    <tr18>Agency Type</tr18>
+    <tr19>Paymode</tr19>
+    <tr20>Receipt Summary View</tr20>
+    <tr21>Opening Date&lt;font color=red&gt;*&lt;/Font&gt;</tr21>
+    <tr22>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</tr22>
+    
+
+  </table>
+
+  
+
+ 
+</newdata>

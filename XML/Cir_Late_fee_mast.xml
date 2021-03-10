@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <tr0>Company</tr0>
+    <tr1>Plant&lt;font color=red&gt;[F2]&lt;/font&gt;</tr1>
+    <tr2>Publication&lt;font color=red&gt;*[F2]&lt;/font&gt;</tr2>
+    <tr3>Edition&lt;font color=red&gt;*[F2]&lt;/font&gt;</tr3>
+    <tr4>Sub Edition&lt;font color=red&gt;*[F2]&lt;/font&gt;</tr4>
+    <td5>Type</td5>
+    <td6>Effective From&lt;font color=red&gt;*&lt;/font&gt;</td6>
+    <td7>Late Factor Fee </td7>
+    <td8>Sunday&lt;font color=red&gt;*&lt;/font&gt;</td8>
+    <td9>Monday&lt;font color=red&gt;*&lt;/font&gt;</td9>
+    <td10>Tuesday&lt;font color=red&gt;*&lt;/font&gt;</td10>
+    <td11>Wednesday&lt;font color=red&gt;*&lt;/font&gt;</td11>
+    <td12>Thursday&lt;font color=red&gt;*&lt;/font&gt;</td12>
+    <td13>Friday&lt;font color=red&gt;*&lt;/font&gt;</td13>
+    <td14>Saturday&lt;font color=red&gt;*&lt;/font&gt;</td14>
+    <td15>Rate</td15>
+    <td16>Printing Center</td16>
+    <td17>Type&lt;font color=red&gt;*&lt;/font&gt;</td17>
+    <td18>Status</td18>
+    <td19>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$RATE_TYPE$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$BRANCH_CODE$~$CIR_LATE_FEE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td19>
+    <td20>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$RATE_TYPE$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$BRANCH_CODE$~$CIR_LATE_FEE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td20>
+    <td21>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$RATE_TYPE$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$BRANCH_CODE$~$CIR_LATE_FEE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td21>
+    <td22>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$VALID_FROM$~$BRANCH_CODE</td22>
+    <td23>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$BRANCH_CODE$~$CIR_LATE_FEE_MAST$~$</td23>
+    <td24>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$VALID_FROM$~$BRANCH_CODE$~$CIR_LATE_FEE_MAST</td24>
+    <td25>Branch&lt;font color=red&gt;*[F2]&lt;/font&gt;</td25>
+  </table>
+  <table1>
+    <tr0>Per Copy</tr0>
+    <tr1>P</tr1>
+    <tr2>Fixed</tr2>
+    <tr3>F</tr3>
+  </table1>
+  <table2>
+    <tr0>Inactive</tr0>
+    <tr1>Y</tr1>
+    
+  </table2>
+  <table3>
+    <tr0>Supply Date From &lt;font color=red&gt;*&lt;/font&gt;</tr0>
+    <tr1>Supply Date Till &lt;font color=red&gt;*&lt;/font&gt;</tr1>
+    <tr2>SUBMIT</tr2>
+    <tr3>Process By &lt;font color=red&gt;*&lt;/font&gt;</tr3>
+    <tr4>Agency Name&lt;font color=red&gt;[F2]&lt;/font&gt;</tr4>
+    <tr5>Agency Type&lt;font color=red&gt;[F2]&lt;/font&gt;</tr5>
+    <tr6>Agency Class&lt;font color=red&gt;[F2]&lt;/font&gt;</tr6>
+    <tr7>Supply Type&lt;font color=red&gt;[F2]&lt;/font&gt;</tr7>
+    <tr8>Reason&lt;font color=red&gt;*[F2]&lt;/font&gt;</tr8>
+    <tr9>CANCEL</tr9>
+    <tr10>Company Name</tr10>
+  </table3>
+
+  <table4>
+    <trd0>View </trd0>
+    <td1>Sr No</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>From</td4>
+    <td5>Sun</td5>
+    <td6>Mon</td6>
+    <td7>Tue</td7>
+    <td8>Wed</td8>
+    <td9>Thu</td9>
+    <td10>Fri</td10>
+    <td11>Sat</td11>
+    
+    
+  </table4>
+  
+</dataset>

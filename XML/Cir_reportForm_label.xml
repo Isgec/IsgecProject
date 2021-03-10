@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Collection Datewise/Monthly Summary Report</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Normal/Security</td5>
+    <td6>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Language</td7>
+    <td8>Report Destination</td8>
+    <td9>Report</td9>
+    <td10>Cancel</td10>
+    <td11>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Document Type</td12 >
+    <td13>Payment Mode</td13>
+    <td14>Branch</td14>
+    <td15>District</td15>
+    <td16>Show Run Date</td16>
+  </table>
+
+  <table1>
+    <td>Datewise</td>
+    <td1>D</td1>
+    <td2>Monthly</td2>
+    <td3>M</td3>
+  </table1>
+
+  <table2>
+    <td>State/District/Taluka wise Agencywise Outstanding Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication</td3>
+    <td4>Account Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>Agency Sub Code</td7>
+    <td8>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>State/District/Taluka</td10>
+    <td11>Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Language</td12>
+    <td13>Report Destination</td13>
+    <td14>Report</td14>
+    <td15>Clear</td15>
+    <td16>Agency Class</td16>
+    <td17>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Company Name</td18>
+    <td19>Printing Center Code</td19>
+    <td20>Publication Type</td20>
+  </table2>
+
+  <table3>
+    <td>State</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>Taluka</td4>
+    <td5>3</td5>
+  </table3>
+
+  <table4>
+    <td>Monthly Net Sales Report</td>
+    <td1>Company Code</td1>
+    <td2>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication</td3>
+    <td4>Edition</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Language</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Clear</td10>
+    <td11>Sub Edition</td11>
+    <td12>Type</td12>
+  </table4>
+
+  <table5>
+    <td>State/District/Taluka wise Party Outstanding Summary Report</td>
+    <td1>Company Code</td1>
+    <td2>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Account Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>Agency Sub Code</td7>
+    <td8>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>State/District/Taluka</td10>
+    <td11>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Language</td13>
+    <td14>Report Destination</td14>
+    <td15>Run Report</td15>
+    <td16>Clear</td16>
+    <td17>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Debit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td18>
+    <td19>Credit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+    <td20>Report</td20>
+    <td21>Print Formate</td21>
+  </table5>
+
+  <table6>
+    <td>Return Date</td>
+    <td1>R</td1>
+    <td2>Supply Date</td2>
+    <td3>S</td3>
+  </table6>
+
+  <table7>
+    <td1>YES</td1>
+    <td2>Y</td2>
+    <td3>NO</td3>
+    <td4>N</td4>
+  </table7>
+  
+
+</newdataset>

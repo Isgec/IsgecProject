@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Company Name &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td0>
+    <td1>Company Code</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Printing Center Code</td3>
+    <td4>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Edition &lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Sub Edition &lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Supply Date &lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Total Supply</td10>
+    <td11>Submit</td11>
+    <td12>Clear</td12>
+    <td13>Exit</td13>
+    <td14>Save</td14>
+  </table>
+</dataset>

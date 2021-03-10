@@ -1,0 +1,55 @@
+<newdata>
+  <table>
+
+    <tr>Branch</tr>
+    <tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr3>
+    <tr4>Representative</tr4>
+    <tr5>Destination</tr5>
+    <tr6>Unit</tr6>
+    <tr7>Doc Type</tr7>
+    <tr8>Day Book</tr8>
+    <tr9>Paymode</tr9>
+    <td10>Exit</td10>
+    <td11>Agency Type</td11>
+    <td12>PayMode&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+
+  </table>
+
+  <table1>
+    <td>From Date: -</td>
+    <td1>To Date: -</td1>
+    <td2>Day Book Summary</td2>
+    <td3>Run Date: -</td3>
+    <td4>Unit: -</td4>
+    <td5>Printing Center: -</td5>
+
+  </table1>
+
+  <table2>
+
+    <td>S.No.</td>
+    <td1>Date</td1>
+    <td2>Agency Name</td2>
+    <td3>Doc Type</td3>
+    <td4>Doc No</td4>
+    <td5>Debit Amount</td5>
+    <td6>Credit Amount</td6>
+	  <td7>Agency Type Name</td7>
+  </table2>
+
+
+	<table3>
+
+		<td>Onscreen</td>
+		<td1>0</td1>
+		<td2>Execl</td2>
+		<td3>1</td3>
+		<td4>PDF</td4>
+		<td5>2</td5>
+		
+
+	</table3>
+  
+</newdata>

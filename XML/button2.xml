@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<newdata>
+  <table>
+
+    <tr>Run Report</tr>
+    <tr1>Exit</tr1>
+
+
+  </table>
+
+
+	<table1>
+		<tr>New</tr>
+		<tr1>Save</tr1>
+		<tr2>Modify</tr2>
+		<tr3>Query</tr3>
+		<tr4>Clear</tr4>
+		<tr5>Execute</tr5>
+		<tr6>Previous</tr6>
+		<tr7>First</tr7>
+		<tr8>Next</tr8>
+		<tr9>Last</tr9>
+		<tr10>Delete</tr10>
+		<tr11>Exit</tr11>
+	</table1>
+</newdata>

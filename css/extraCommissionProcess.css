@@ -1,0 +1,156 @@
+﻿.gridHeader
+{
+	background-color :#7DAAE3;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	border:1px solid #7DAAE3;
+
+}
+.girdData
+{
+	font-size:11px;
+	font-weight:normal;
+	border:1px solid #7DAAE3;
+}
+
+.gridTextfield
+{
+	 border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:135px;
+	
+}
+.gridTextfieldBundle
+{
+	 border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:90px;
+	
+}
+
+.CN_head
+{
+	font-family:Arial ;
+	font-weight :bold ;
+	font-size :16px;
+	text-align :center ;
+	vertical-align:top;
+}
+
+.CN_BranchAddress
+{
+	font-family:Arial ;
+	font-weight :normal ;
+	font-size :14px;
+	font-weight :bold;
+	text-align :center ;
+	vertical-align:top;
+}
+
+.CN_headBorder
+{
+	font-family:Arial ;
+	font-weight :normal ;
+	font-size :16px;
+	font-weight :bold;
+	text-align :center ;
+	vertical-align:top;
+	border-bottom :solid 1px black;
+}
+
+.CN_label
+{
+	font-family:Arial ;
+	font-weight :bold ;
+	font-size :12px;
+	vertical-align:top;
+	padding-left :5px;
+	height:20px;
+}
+
+.CN_text
+{
+	font-family:Arial ;
+	font-size :12px;
+	font-weight :normal ;
+	vertical-align :top;
+	padding-left :5px;
+	height :20px;
+}
+
+.CN_table
+{
+	border:solid 1px black;
+	width:700px;
+	height:350px;
+	
+	
+}
+
+.CN_tableDuplicate
+{
+	border:solid 1px black;
+	width:700px;
+	height:350px;
+	margin-top:20px;
+}
+
+.CN_particulars
+{
+	font-family:Arial ;
+	font-weight :bold ;
+	font-size :12px;
+	vertical-align:top;
+    text-align:center;
+	padding-left :5px;
+	border-bottom :solid 1px black;
+	border-top:solid 1px black;
+}
+
+.CN_particularsText
+{
+	font-family:Arial ;
+	font-weight :normal ;
+	font-size :12px;
+	vertical-align:top;
+    text-align:left;
+	padding-left :5px;
+	border-bottom :solid 1px black;
+    height:50px;
+    
+}
+
+.CN_RS_P
+{
+	font-family:Arial ;
+	font-weight :bold ;
+	font-size :12px;
+	vertical-align:top;
+	text-align:center;
+	border-bottom :solid 1px black;
+	border-top:solid 1px black;
+	border-left :solid 1px black;
+	
+}
+
+.CN_RS_P_Text
+{
+	font-family:Arial ;
+	font-weight :normal ;
+	font-size :12px;
+	vertical-align:top;
+	text-align:center;
+	border-bottom :solid 1px black;
+	border-left :solid 1px black;
+	height:50px;
+}
+

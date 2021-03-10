@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name</td3>
+    <td4>Branch Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Branch Code</td5>
+    <td6>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Type</td11>
+    <td12>With Opening</td12>
+    <td13>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Sorted By</td15>
+    <td16>Destination</td16>
+    <td17>Account Type</td17>
+    <td18>65</td18>
+    <td19>Agency Class</td19>
+    <td20> Agency Code</td20>
+    <td21> Zone</td21>
+    <td22>Scheme Code</td22>
+    <td23>Scheme Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td23>
+    <td24>Reader Code</td24>
+    <td25>Reader Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td25>
+    <td26>advt.accounts@manipalmedia.com</td26>
+    <td27>172.17.1.13</td27>
+    <td28>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td28>
+  </table>
+
+  <table1>
+    <td>Date</td>
+    <td1>Doc Type</td1>
+    <td2>Doc No.</td2>
+    <td3>Particulars</td3>
+    <td4>Cheque No.</td4>
+    <td5>Cheque Date</td5>
+    <td6>Debit Amount</td6>
+    <td7>Credit Amount</td7>
+    <td8>Agency Ledger Publication Wise</td8>
+    <td9>From Date</td9>
+    <td10>Todate</td10>
+    <td11>Run Date</td11>
+    <td12>Unit</td12>
+    <td13>Branch</td13>
+    <td14>Security Distribution Ledger</td14>
+    <td15>Balance</td15>
+    <td16>61</td16>
+    <td17>Ageing Type</td17>
+    <td18>Report Type</td18>
+  </table1>
+
+  <table2>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+    <td4>Mail</td4>
+    <td5>mail</td5>
+  </table2>
+
+  <table3>
+    <td>Yes</td>
+    <td1>Y</td1>
+  </table3>
+
+  <table4>
+    <td>Code Wise</td>
+    <td1>C</td1>
+  </table4>
+
+  <table5>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>SC</td3>
+  </table5>
+
+  <table6>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Monthly</td2>
+    <td3>M</td3>
+    <td4>Weekly</td4>
+    <td5>W</td5>
+  </table6>
+
+  <table7>
+    <td>Regular</td>
+    <td1>R</td1>
+    <!--<td2>Open Invoice Customer Statement</td2>
+    <td3>ST</td3>
+    <td4>Periodic Customer Statement (Head)</td4>
+    <td5>H</td5>
+    <td6>Open Invoice Customer Statement (Head)</td6>
+    <td7>HS</td7>-->
+  </table7>
+  <table8>
+    <td>Transaction Date</td>
+    <td1>Reference Number</td1>
+    <td2>Description</td2>
+    <td3>Product Issue Date</td3>
+    <td4>Qty</td4>
+    <td5>Unit Price</td5>
+    <td6>Debit</td6>
+    <td7>Credit</td7>
+    <td8>Balance</td8>
+    <td9>Invoice/STATEMENT OF ACCOUNT</td9>
+    <td10>Date</td10>
+
+    <td11>KOMPLEKS SRI UTUSAN, LOT6, JALAN P/10</td11>
+  </table8>
+  <table9>
+    <td1>Invoice Statment</td1>
+    <td2>B</td2>
+    <td3>Invoice Statment Summary</td3>
+    <td4>S</td4>
+    <td5>Invoice Statment Preprinted</td5>
+    <td6>P</td6>
+  </table9>
+
+  <table10>
+
+    <td>Periodic Customer Statement</td>
+    <td1>B</td1>
+    <td2>Open Invoice Customer Statement</td2>
+    <td3>ST</td3>
+
+  </table10>
+
+</newdataset>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+<table>
+<tr>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+<tr1>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+<tr2>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr2>
+<tr3>Center&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+<tr4>Branch&lt;font color=red&gt;&lt;/Font&gt;</tr4>
+<tr5>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</tr5>
+<tr6>Pay Mode</tr6>
+<tr7>Agency Type</tr7>
+<tr8>Receipt No</tr8>
+<tr9>04/01/1985</tr9>
+<tr10>01/04/1985</tr10>
+<tr11>1985/04/01</tr11>
+</table>
+
+  <table1>
+    <td>Y</td> <!--default flag  Y for default center and branch and N for regular use  -->
+  <td1>N</td1> <!--for enable Apply Date Y and N for Disable-->
+    <td2>30/09/2018</td2><!--month end date -->
+  </table1>
+</newdata>

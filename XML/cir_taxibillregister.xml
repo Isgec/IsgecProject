@@ -1,0 +1,33 @@
+﻿<newdataset>
+  <table>
+    <td>Transporter Bill Register</td>
+    <td1>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Transporter&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Vehicle No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Rate Type</td8>
+    <td9>Destination</td9>
+    <td10>Run Date:</td10>
+    <td11>Branch:</td11>
+    <td12>From Date:</td12>
+    <td13>To Date:</td13>
+	  <td14>Printing Center Name</td14>
+  </table>
+  <table1>
+    <td>Monthly</td>
+    <td1>M</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+  </table1>
+  <table2>
+    <td>Excel File</td>
+    <td1>exc</td1>
+    <td2>Pdf Format</td2>
+    <td3>pdf</td3>
+  </table2>
+  
+</newdataset>
+

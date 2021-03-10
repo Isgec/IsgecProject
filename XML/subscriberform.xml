@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+  <td>Company Name</td>
+  <td1>Printing center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+  <td2>Publication&lt;font color=red&gt;*</td2>
+  <td3>Edition</td3>
+  <td4>Agency&lt;font color= red&gt;[F2]</td4>
+  <td5>Destination</td5>
+  <td6>supply Type&lt;font color= red&gt;[F2]*</td6>
+  <td7>Issue Date&lt;font color= red&gt;*</td7>
+</table>
+
+<table1>
+  <td>Onscreen</td>
+  <td2>1</td2>
+</table1>
+</newdataset>

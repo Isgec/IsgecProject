@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdataset>
+  <table>
+
+      <td>Company Code</td>
+      <td1>Company Name</td1>
+      <td2>Batch Type&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+      <td3>Batch Source&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+      <td4>Batch No&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+      <td5>Batch Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+      <td6>Batch Mode&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+      <td7>Batch Count&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+      <td8>Batch Amount&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+      <td9>Bank Code&lt;font color=red&gt;&lt;/Font&gt;</td9>
+      <td10>Bank Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td10>
+      <td11>Bank Account No</td11>
+      <td12>Description</td12>
+   
+  </table>
+</Newdataset>

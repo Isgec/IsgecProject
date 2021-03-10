@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Activity&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>    
+    <td6>Client Name&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Client Id</td7>
+    <td8>permanent Address&lt;font color=red&gt;*&lt;/Font&gt;</td8>    
+    <td9>Correspondence Address</td9>
+    <td10>Landmark</td10>
+    <td11>Pin Code&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Phone No&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Mobile No&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Taluka</td15>
+    <td16>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+    <td17>Region</td17>
+    <td18>Zone</td18>
+    <td19>Entry Date&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+    <td20>COMP_CODE#UNIT_CODE#BRAN_CODE#ACT_CUST_MST</td20>
+    <td21>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$TRN_ID$~$CUST_NAME$~$TRN_DATE$~$HOUSE_NO$~$WING_CLOLONY$~$WING_CLOLONY_OTH$~$SOCIETY$~$SOCIETY_OTH$~$BLOCK_STREET$~$BLOCK_STREET_OTH$~$LOCALITY$~$TOWN_SUBRUB$~$CITY$~$STATE$~$PIN_CODE$~$STD_CODE$~$PHONE_RESI_OFF$~$PHONE_EXT_NO$~$MOBILE$~$EMAIL$~$REMARKS$~$PER_HOUSE_NO$~$PER_WING_CLOLONY$~$PER_WING_CLOLONY_OTH$~$PER_SOCIETY$~$PER_SOCIETY_OTH$~$PER_BLOCK_STREET$~$PER_BLOCK_STREET_OTH$~$PER_LOCALITY$~$PER_TOWN_SUBRUB$~$PER_CITY$~$PER_STATE$~$PER_PIN_CODE$~$PER_STD_CODE$~$PER_PHONE_RESI_OFF$~$PER_PHONE_EXT_NO$~$PER_MOBILE$~$PER_EMAIL$~$PER_REMARKS$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATE_DATE$~$ACTIVITY_CODE$~$CROSS_WORD_NO$~$PAN_NO$~$ACT_CUST_MST$~$INSERT#UPDATE#DELETE#SELECT</td21>
+    <td22>Address Proof</td22>
+    <td23>Search</td23>
+    <td24>Activity Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+    <td25>PAN Card</td25>
+
+    
+  </table>
+
+  <table2>
+    <TD>House No</TD>
+    <TD1>Wing/Colony</TD1>
+    <TD2>Wing/Colony Oth</TD2>
+    <TD3>Society[F2]</TD3>
+    <TD4>Block/Street</TD4>
+    <TD5>Block/Street Oth</TD5>
+    <TD6>District[F2]</TD6>
+    <TD7>Taluka[F2]</TD7>
+    <TD8>City [F2]</TD8>
+    <TD9>State</TD9>
+    <TD10>Pin&lt;font color=red&gt;*&lt;/Font&gt;</TD10>
+    <TD11>Dialing Code&lt;font color=red&gt;*&lt;/Font&gt;</TD11>
+    <TD12>Phone(Resi./Off.)&lt;font color=red&gt;*&lt;/Font&gt;</TD12>
+    <TD13>Ext No&lt;font color=red&gt;*&lt;/Font&gt;</TD13>
+    <TD14>Mobile&lt;font color=red&gt;*&lt;/Font&gt;</TD14>
+    <TD15>EMail&lt;font color=red&gt;*&lt;/Font&gt;</TD15>
+    <TD16>Comments</TD16>
+    
+  </table2>
+
+</newdataset>

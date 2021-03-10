@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt; &lt;/Font&gt;</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td2>
+    <td3>Unit Name</td3>
+    <td4>Branch Code&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td4>
+    <td5>Branch Name</td5>
+    <td6>Publication&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td6>
+    <td7>Edition&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td7>
+    <td8>Subedition&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td8>
+    <td9>Start Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Agency Class&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Agency Type</td11>
+    <td12>Agency&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td12>
+    <td13>Hawker&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td13>
+    <td14>Other&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Copy</td15>
+    <td16>Status&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    <td17>Approved By&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+    <td18>Address1</td18>
+    <td19>Mobile</td19>
+    <td20>Pin Code</td20>
+    <td21>Receiver Name&lt;font color=red&gt;*&lt;/Font&gt;</td21>
+    <td22>Address2</td22>
+    <td23>Address3</td23>
+    <td24>Department&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td24>
+    <td25>Supply Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td25>
+    <td26>End Date</td26>
+    <td27>City&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td27>
+    <td28>Taluka&lt;font color=red&gt; [F2]&lt;/Font&gt;</td28>
+    <td29>Entry Id&lt;font color=red&gt; &lt;/Font&gt;</td29>
+  </table>
+  <table1>
+    <td>Staff</td>
+    <td1>S</td1>
+    <td2>Agency</td2>
+    <td3>A</td3>
+    <td4>Other</td4>
+    <td5>O</td5>
+  </table1>
+</newdataset>

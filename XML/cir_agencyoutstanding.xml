@@ -1,0 +1,18 @@
+﻿<newdataset>
+  <table>
+    <td>Billwsie collection report</td>
+    <td1>Company Name</td1>
+    <td2>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Talukat&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency Type</td8>
+    <td9>Agency Class</td9>
+    <td10>Debit Up toDate</td10>
+    <td11>Credit Up toDate</td11>
+    <td12>Report Type</td12>
+
+  </table>
+</newdataset>

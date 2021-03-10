@@ -1,0 +1,67 @@
+﻿<newdataset>
+  <table>
+    <td>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Debit Upto &lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Region</td4>
+    <td5>State</td5>
+    <td6>District</td6>
+    <td7>Agency Type</td7>
+    <td8>Destination</td8>
+    <td9>Exit</td9>
+    <td10>Run Report</td10>
+    <td11>Agency Category</td11>
+    <td12>Debit From</td12>
+    <td13>Credit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Clear</td14>
+    <td15>Dispute-Type Name</td15>
+    <td16>Page Break Required</td16>
+  </table>
+  <table1>
+    <td>Date</td>
+    <td1>Doc. No.</td1>
+    <td2>Amount</td2>
+    <td3>Payment Adj</td3>
+    <td4>Amount Due</td4>
+    <td5>Client/Bank</td5>
+    <td6>Ro/Chq Date</td6>
+    <td7>Advertisement Outstanding</td7>
+    <td8>Sub Total  : Due Amount</td8>
+    <td9>Credit</td9>
+    <td10>Balance</td10>
+    <td11>Total  : Due Amount</td11>
+    <td12>Ro/Chq No</td12>
+    <td13>Ro Date</td13>
+    <td14>Bills Pending</td14>
+    <td15>Recipt/Credit Entries without bill details</td15>
+    <td16>Cr/Dr Adj</td16>
+
+  </table1>
+
+  <table2>
+    <td>Date</td>
+    <td1>Doc. No.</td1>
+    <td2>Amount</td2>
+    <td3>Payment</td3>
+    <td4>Amount</td4>
+    <td5>Client/Bank</td5>
+    <td6>Ro/Chq</td6>
+    <td7>Advertisement Outstanding</td7>
+    <td8>Sub Total  : Due Amount</td8>
+    <td9>Credit</td9>
+    <td10>Balance</td10>
+    <td11>Total  : </td11>
+    <td12>Ro/Chq</td12>
+    <td13>Ro Date</td13>
+    <td14>Bills Pending</td14>
+    <td15>Recipt/Credit Entries without bill details</td15>
+    <td16>Cr/Dr</td16>
+    <td17>Adj</td17>
+    <td18>Due</td18>
+    <td19>No.</td19>
+    <td20>Date</td20>
+    <td21>Due Amount</td21>
+  </table2>
+  
+  </newdataset>

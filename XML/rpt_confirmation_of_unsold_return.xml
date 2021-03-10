@@ -1,0 +1,37 @@
+﻿<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Report Destination</td8>
+    <td9>Include Sanction Qty</td9>
+    <td10>Report</td10>
+    <td11>No Akaun</td11>
+    <td12>Nama Agen</td12>
+    <td13>Bulan</td13>
+    <td14>No Borang 7A</td14>
+    <td15>Tarikh</td15>
+    <td16>Loji</td16>
+    <td17>Muka</td17>
+  </table>
+  <table1>
+    <td>YES</td>
+    <td1>Y</td1>
+    <td2>NO</td2>
+    <td3>N</td3>
+  </table1>
+  <table2>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table2>
+  
+</newdataset>

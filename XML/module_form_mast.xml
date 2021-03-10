@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Form Id</td>
+    <td1>Form Type&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Form Name&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Form Name on menu&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Module Name&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>FORM_ID$~$FORM_TYPE$~$FORM_NAME$~$FORM_MENUNAME$~$MODULE_ID$~$CREATION_USERID$~$FORM_SUB_TYPE$~$FORM_SUBSUB_TYPE$~$MODULE_FORM_MAST$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>FORM_ID$~$FORM_TYPE$~$FORM_NAME$~$FORM_MENUNAME$~$MODULE_ID$~$FORM_SUB_TYPE$~$FORM_SUBSUB_TYPE$~$MODULE_FORM_MAST$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>MODULE_FORM_MAST</td7>
+    <td8>FORM_ID$~$FORM_TYPE$~$FORM_NAME$~$FORM_MENUNAME$~$MODULE_ID$~$</td8>
+    <td9>FORM_ID$~$MODULE_ID$~$</td9>
+    <td10>Form Sub Type</td10>
+    <td11>Form Sub Sub Type</td11>
+    
+  </table>
+
+  <table1>
+      <td>Master</td>
+      <td1>M</td1>
+      <td2>Transaction</td2>
+      <td3>T</td3>
+      <td4>Report</td4>
+      <td5>R</td5>
+  </table1>
+
+  <table2>
+    <td>S. No.</td>
+    <td1>Form ID</td1>
+    <td2>From Type</td2>
+    <td3>Form Name</td3>
+    <td4>Form Menu name</td4>
+    <td5>Module NAME</td5>
+    <td6>Form Sub Type</td6>
+    <td7>Form Sub Sub Type</td7>
+  </table2>
+
+  <table3>
+    <td>You are not Authorized to see this form.$~$Please Select Form type.$~$Please enter form name.$~$Please enter form name as on menu.$~$Please Select Module name.$~$Form save with form code:$~$There is no data regarding your query.$~$Data modified successfully.$~$Data deleted Successfully.$~$No more data.$~$Please enter only numeric characters.</td>
+  </table3>
+  
+</newdataset>

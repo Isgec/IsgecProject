@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+<table>
+  <td>Daily</td>
+  <td1>1</td1>
+  <td2>Wekly</td2>
+  <td3>7</td3>
+  <td4>Fornightly</td4>
+  <td5>15</td5>
+  <td6>Monthly</td6>
+  <td7>30</td7>
+  <td8>Quarterly</td8>
+  <td9>90</td9>
+  <td10>Yearly</td10>
+  <td11>365</td11>
+</table>
+
+<table1>
+  <td>Company Code</td>
+  <td1>Unit</td1>
+  <td2>Period&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+  <td3>Route Mode</td3>
+  <td4>View</td4>
+  <td5>Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  <td7>Publication</td7>
+  <td8>Edition</td8>
+  <td9>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+  <td10>Language</td10>
+  <td11>Challan Report</td11>
+ </table1>
+
+  <table2>
+    <td>Delivery Challan for date :</td>
+    <td1>Departure Time :</td1>
+    <td2>Arrival Time :</td2>
+    <td3>Taxi No.</td3>
+    <td4>Driver Signature</td4>
+    <td5>Order By</td5>
+    
+  </table2>
+
+  <table4>
+    <td>Route Wise</td>
+    <td1>r</td1>
+    <td2>District Wise</td2>
+    <td3>d</td3>
+    <td4>Taluka Wise</td4>
+    <td5>t</td5>
+    
+  </table4>
+
+  <table5>
+    <td>Excel</td>
+    <td1>exc</td1>
+    <td2>PdfFormat</td2>
+    <td3>pdf</td3>
+
+  </table5>
+
+  <table6>
+    <td2>Other</td2>
+    <td3>o</td3>
+
+  </table6>
+
+  <table7>
+    <td>संयुक्त राष्ट्र महासचिव </td>
+    <td1>आध्यात्मिक गुरु दलाई  :</td1>
+    <td2>प्रस्तावित :</td2>
+    <td3>तिब्बत नीति </td3>
+    <td4>नेतृत्व करने के लिए </td4>
+
+  </table7>
+  
+</Newdataset>

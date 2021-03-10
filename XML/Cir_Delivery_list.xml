@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Printing Center Code</td1>
+		<td2>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+		<td3>Edition</td3>
+		<td4>Route</td4>
+		<td5>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+		<td6>Report Destination</td6>
+		<td7>Supply Type wise Report</td7>
+		<td8>Report</td8>
+		<td9>Language</td9>
+		<td10>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+		<td11>Sub Edition</td11>
+		<td12>Branch</td12>
+		<td13>Show Run Date</td13>
+		<td14>Show Drop Point</td14>
+		<td15>Company Name</td15>
+		<td16>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+		<td17>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+		<td18>Type</td18>
+		<td19>Report Type</td19>
+		<td20>Destination</td20>
+		<td21>Detail</td21>
+		<td22>Summary</td22>
+		<td23>Show Run Date</td23>
+		<td24>COMP_CODE$~$UNIT_CODE$~$BILLNO$~$BILLDT$~$AGCD$~$DPCD$~$PUBL$~$BILL_COPY$~$GROSS_AMOUNT$~$SUR_AMOUNT$~$COMM_AMOUNT$~$BILL_AMOUNT$~$BILL_FRDT$~$BILL_TODT$~$BILL_FLAG$~$BILL_REMARK$~$USERID$~$CREATION_DATE$~$BILL_SEC_AMT$~$EXCOMM_RECPTNO$~$EXCOMM_RECPTDT$~$EXCOMM_AMT$~$BRANCH_CODE$~$BKUP_SNO$~$SEC_PER_RATE$~$ROUTE_CODE$~$BILL_COUNT$~$CIR_BILL$~$INSERT#UPDATE#DELETE#SELECT</td24>
+		<td25>COMP_CODE$~$UNIT_CODE$~$BILLNO</td25>
+		<td26>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td26>
+		<td27>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+		<td28>Final/Unfinal</td28>
+	</table>
+
+	<table1>
+		<td>Country Routes</td>
+		<td1>Description</td1>
+		<td2>QUANTITY</td2>
+		<td3>SUBS</td3>
+		<td4>RETURNS</td4>
+		<td5>TIME</td5>
+		<td6>SIGNATURE</td6>
+	</table1>
+
+	<table2>
+		<td>TOWN</td>
+		<td1>Customer</td1>
+		<td2>Address</td2>
+		<td3>ID</td3>
+		<td4>TOTAL</td4>
+	</table2>
+	</newdataset>
+
+	

@@ -1,0 +1,68 @@
+﻿<newdataset>
+
+
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name &lt;font color=red&gt;F[2]*</td3>
+    <td4>Branch Code</td4>
+    <td5>Branch Name &lt;font color=red&gt;F[2]*</td5>
+    <td6>Publication Code</td6>
+    <td7>Publication Name &lt;font color=red&gt;F[2]*</td7>
+    <td8>Edition Code</td8>
+    <td9>Edition Name &lt;font color=red&gt;F[2]*</td9>
+    <td10>Agency Code</td10>
+    <td11>Agency Name&lt;font color=red&gt;F[2]*</td11>
+    <td12>Supply Date &lt;font color=red&gt;*</td12>
+    <td13>Dispatch Date &lt;font color=red&gt;*</td13>
+    <td14>Supply&lt;font color=red&gt;*</td14>
+    <td15>Delivery Type Code</td15>
+    <td16>Delivery Type Name&lt;font color=red&gt;F[2]*</td16>
+    <td17>Day Wise Delivery</td17>
+    <td18>Process</td18>
+    <td19>Exit</td19>
+    
+
+
+  </table>
+
+  <table1>
+
+    <td>Regular</td>
+    <td1>R</td1>
+    <rd2>Special Day1</rd2>
+    <td3>S1</td3>
+    <td4>Special Day2</td4>
+    <td5>S2</td5>
+    <td6>Special Mon1</td6>
+    <td7>SM1</td7>
+    <td8>Special Tue1</td8>
+    <td9>ST1</td9>
+    <td10>Special Wed1</td10>
+    <td11>SW1</td11>
+    <td12>Special Thu1</td12>
+    <td13>SW1</td13>
+    <td14>Special Fri1</td14>
+    <td15>SF1</td15>
+    <td16>Special Sat1</td16>
+    <td17>SST1</td17>
+    <td18>Special Sun1</td18>
+    <td19>SSN1</td19>
+    <td20>Special Mon2</td20>
+    <TD21>SM2</TD21>
+    <TD22>Special Tue2</TD22>
+    <td23>ST2</td23>
+    <td24>Special Wed2</td24>
+    <td25>SW2</td25>
+    <td26>Special Thu2</td26>
+    <td27>STH2</td27>
+    <td28>Special Fri2</td28>
+    <td29>SF2</td29>
+    <td30>Special Sat2</td30>
+    <td31>SST2</td31>
+    <td32>Special Sun2</td32>
+    <td33>SSN2</td33>      
+    
+  </table1>
+</newdataset>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<datatable>
+	<table>
+
+		<td>Unitwise Datewise Supply Report</td>
+		<lim>40</lim>
+		<td1> Agencywise Supply Report</td1>
+		<lim1>60</lim1>
+		<td2> Unit wise Month wise Outstanding Report</td2>
+		<lim2>40</lim2>
+    <td3>Raddi Sale Report</td3>
+    <lim3>20</lim3>
+		<td4>Net Sale Report</td4>
+		<lim4>30</lim4>
+	</table>
+</datatable>

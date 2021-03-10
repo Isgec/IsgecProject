@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+<table>
+  <td>Company Code</td>
+  <td1>Company Name</td1>
+  <td2>Unit Code</td2>
+  <td3>Unit Name</td3>
+  <td4>Agency Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+  <td5>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  <td6>Rate type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+  <td7>Rate&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+  <td8>Effective Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+  <td9>Hour&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+  <td10>COMP_CODE$~$UNIT_CODE$~$AGENCY_TYPE$~$PUBL_CODE$~$RATE_TYPE$~$RATE$~$EFFECTIVE_FROM$~$LATE_HOUR$~$CIR_LATE_FACTOR_MAST$~$INSERT#UPDATE#DELETE#SELECT</td10>
+  <td11>CIR_LATE_FACTOR_MAST</td11>
+  <td12>COMP_CODE$~$UNIT_CODE$~$AGENCY_TYPE$~$PUBL_CODE$~$RATE_TYPE$~$RATE$~$EFFECTIVE_FROM$~$LATE_HOUR$~$CIR_LATE_FACTOR_MAST$~$INSERT#UPDATE#DELETE#SELECT</td12>
+  <td13>View</td13>
+  <td14>COMP_CODE$~$AGENCY_TYPE$~$PUBL_CODE</td14>
+  <td15>COMP_CODE$~$AGENCY_TYPE</td15>
+
+
+
+</table>
+<table1>
+  <td>Per copy</td>
+  <td1>P</td1>
+  <td2>Fixed rate</td2>
+  <td3>F</td3>
+</table1>
+  
+  <table2>
+    <td0>Sr</td0>
+    <td1>Agency Type</td1>
+    <td2>Publication</td2>
+    <td3>Rate type</td3>
+    <td4>Rate</td4>
+    <td5>Effective Date</td5>
+    <td6>Hour</td6>
+  </table2>
+
+  <table3>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Agency Type</td4>
+    <td5>Publication</td5>
+    <td6>Rate type</td6>
+    <td7>Rate</td7>
+    <td8>Effective Date</td8>
+    <td9>Hour</td9>
+
+  </table3>
+</Newdataset>

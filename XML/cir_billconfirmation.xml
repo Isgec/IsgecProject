@@ -1,0 +1,81 @@
+﻿<newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Company Name</td1>
+		<td2>Unit Code</td2>
+		<td3>Unit Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+		<td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+		<td7>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+		<td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+		<td11>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+		<td12>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+		<td13>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+		<td14>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+		<td15>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+		<td16>From Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+		<td17>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+		<t18>Branch code&lt;font color=red&gt;[F2]&lt;/Font&gt;</t18>
+		<td19>Branch Name</td19>
+		<td20>To Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+		
+		<td21>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN$~$BRANCH_CODE$~$ZONE_CODE$~$REGION_CODE$~$DIST_CODE$~$TALUKA_CODE$~$ROUTE_CODE$~$CITY_CODE$~$AGENCY_TYPE$~$AGENCY_CLASS$~$BILL_DT$~$AGCD$~$DPCD$~$BILL_AMOUNT$~$BILL_NO$~$FLAG$~$CIR_BILL_CONFIRMATION$~$INSERT#UPDATE#DELETE#SELECT</td21>
+		<td22>Destination</td22>
+		<td23>Type</td23>
+	</table>
+	<table1>
+		<td>Month/Year</td>
+		<td1>Commission%</td1>
+		<td2>Supply Copy</td2>
+		<td3>Complementry</td3>
+		<td4>Unsold Copy</td4>
+		<td5>Amount</td5>
+		<td6>Run Date</td6>
+		<td7>Record Copy</td7>
+		<td8>Total</td8>
+		<td9>Indent</td9>
+	</table1>
+	<table2>
+		<td>Excel Sheet</td>
+		<td1>exc</td1>
+		<td2>Pdf File</td2>
+		<td3>pdf</td3>
+		<td4>Language</td4>
+	</table2>
+	<table3>
+		<td>Select</td>
+		<td1>0</td1>
+		<td2>Mark</td2>
+		<td3>Y</td3>
+		<td4>Unmark</td4>
+		<td5>N</td5>
+	</table3>
+	<table4>
+		<td>LANG</td>
+		<td1>E</td1>
+	
+	</table4>
+  <table5>
+    <td1>Agency Name :</td1>
+    <td2>Place :</td2>
+    <td3>Bill No. :</td3>
+    <td4>Bill for the Month of :</td4>
+    <td5>Bill Date :</td5>
+    <td6>Date</td6>
+    <td7>Copy</td7>
+    <td8>Rate</td8>
+    <td9>Sales Copy</td9>
+    <td10>Total Copy</td10>
+    <td11>Free Copy</td11>
+    <td12>Sales Copy</td12>
+    <td13>Sales Amount</td13>
+    <td14>Discount</td14>
+    <td15>C-11,Rojouri Garden,Near Gurdwara,New Delhi-27</td15>
+    <td16>Phone:011-47634451-53 Fax:011-47634460</td16>
+    <td17></td17>
+    <td18>VIGILANT MEDIA PVT. LTD.</td18>
+  </table5>
+</newdataset>

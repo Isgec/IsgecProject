@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>Printing Center Name</td3>
+    <td4>Branch Code</td4>
+    <td5>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Type</td6>
+    <td7>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Show</td10>
+    <td11>Submit</td11>
+    <td12>Process CN</td12 >
+    <td13>Print CN</td13>
+  </table>
+ 
+
+  <table2>
+    <td>Pending</td>
+    <td1>1</td1>
+    <td2>Processed</td2>
+    <td3>2</td3>
+  </table2>
+
+  <table>
+    <td>CREDIT NOTE</td>
+    <td1>Agency :</td1>
+    <td2>CR No.    :</td2>
+    <td3>CR Date :</td3>
+    <td4>Particulars</td4>
+    <td5>Rs.</td5>
+    <td6>P.</td6>
+    <td7>Extra Commission Paid to the agency against Bill No. </td7>
+    <td8>For the Month of </td8>
+    <td9>Prop. :</td9>
+    <td10>Regd off :</td10>
+    <td11>For :</td11>
+    <td12>Manager</td12>
+  </table>
+</newdataset>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Agency Code</td2>
+    <td3>Interest Rate&lt;font color=red&gt;&lt;/Font&gt;</td3>
+    <td4>Printing Center&lt;font color=red&gt;[F2] *&lt;/Font&gt;</td4>
+    <td5>Printing Code &lt;font color=red&gt; *&lt;/Font&gt;</td5>
+    <td6>TDS Rate</td6>
+    <td7>TDS Limit</td7>
+    <td8>Branch Code &lt;font color=red&gt; &lt;/Font&gt;</td8>
+    <td9>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Branch Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td11>
+    <td12>Agency Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td12>
+    <td13>Section Name&lt;font color=red&gt;[F2] *&lt;/Font&gt;</td13>
+    <td14>Agency SubCode</td14>
+    <td15>Section Code &lt;font color=red&gt; *&lt;/Font&gt;</td15>
+    <td16>Assesy Type &lt;font color=red&gt;[F2]* &lt;/Font&gt; </td16>
+    <td17>Assesy Type Code &lt;font color=red&gt;*&lt;/Font&gt; </td17>
+    <td18>Agency Type</td18>
+  </table>
+
+
+  <table1>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table1>
+
+
+  <table2>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Agency Code</td2>
+    <td3>Show Posting Data</td3>
+    <td4>Printing Center&lt;font color=red&gt;[F2] &lt;/Font&gt;</td4>
+    <td5>Printing Code &lt;font color=red&gt; &lt;/Font&gt;</td5>
+    <td6>TDS</td6>
+    <td7>TDS Limit</td7>
+    <td8>Branch Code</td8>
+    <td9>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Branch Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td11>
+    <td12>Agency Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td12>
+    <td13>Section Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td13>
+    <td14>Agency SubCode&lt;font color=red&gt; &lt;/Font&gt;</td14>
+    <td15>Section Code &lt;font color=red&gt; &lt;/Font&gt;</td15>
+    <td16>Destination</td16>
+    <td17>Reason for Credit&lt;font color=red&gt;* &lt;/Font&gt;</td17>
+    <td18>Debit A/c head&lt;font color=red&gt;[F2]* &lt;/Font&gt;</td18>
+    <td19>Credit A/c head(TDS)&lt;font color=red&gt;[F2]* &lt;/Font&gt;</td19>
+    <td20>Posting Date&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+    <td21>Reason for Debit&lt;font color=red&gt;* &lt;/Font&gt;</td21>
+<td22>Agency Type</td22>
+  </table2>
+  
+
+</newdataset>

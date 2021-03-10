@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Compnay Name</td>
+    <td1>Printing Center&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPL_NAME_SUN$~$SUPL_NAME_MON$~$SUPL_NAME_TUE$~$SUPL_NAME_WED$~$SUPL_NAME_THU$~$SUPL_NAME_FRI$~$SUPL_NAME_SAT$~$VALID_FROM$~$VALID_TILL$~$SHOW_ON_PO$~$INSERTION_FEE$~$SUN_ALLOW$~$MON_ALLOW$~$TUE_ALLOW$~$WED_ALLOW$~$THU_ALLOW$~$FRI_ALLOW$~$SAT_ALLOW$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATED_DATE$~$SUPL_CODE$~$SUPL_TYPE$~$OTHER_NAME_SUN$~$OTHER_NAME_MON$~$OTHER_NAME_TUE$~$OTHER_NAME_WED$~$OTHER_NAME_THU$~$OTHER_NAME_FRI$~$OTHER_NAME_SAT$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>PUBL_CODE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPL_NAME_SUN$~$SUPL_ONAME_SUN$~$SUPL_NAME_MON$~$SUPL_ONAME_MON$~$SUPL_NAME_TUE$~$SUPL_ONAME_TUE$~$SUPL_NAME_WED$~$SUPL_ONAME_WED$~$SUPL_NAME_THU$~$SUPL_ONAME_THU$~$SUPL_NAME_FRI$~$SUPL_ONAME_FRI$~$SUPL_NAME_SAT$~$SUPL_ONAME_SAT$~$VALID_FROM$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>PUBL_CODE$~$CIR_EDTN_SUPL_MAST</td5>
+    <td6>PUBL_CODE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPL_NAME_SUN$~$SUPL_ONAME_SUN$~$SUPL_NAME_MON$~$SUPL_ONAME_MON$~$SUPL_NAME_TUE$~$SUPL_ONAME_TUE$~$SUPL_NAME_WED$~$SUPL_ONAME_WED$~$SUPL_NAME_THU$~$SUPL_ONAME_THU$~$SUPL_NAME_FRI$~$SUPL_ONAME_FRI$~$SUPL_NAME_SAT$~$SUPL_ONAME_SAT$~$VALID_FROM$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>PUBL_CODE$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>SUPPLEMENT MASTER</td8>
+    <td9>Edition&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td9>
+    <td10>Sub Edition&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td10>
+    <td11>Sun</td11>
+    <td12>Mon</td12>
+    <td13>Tue</td13>
+    <td14>Wed</td14>
+    <td15>Thu</td15>
+    <td16>Fri</td16>
+    <td17>Sat</td17>
+    <td18>Insertion Fee&lt;font color=red&gt;*&lt;/Font&gt;</td18>
+    <td19>Show On Print Order</td19>
+    <td20>Supplement Name&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+    <td21>Valid Till</td21>
+    <td22>Supplement Name Fri(Other Language)</td22>
+    <td23>Supplement Name Sat</td23>
+    <td24>Supplement Name Sat(Other Language)</td24>
+    <td25>Valid From&lt;font color=red&gt;*&lt;/Font&gt;</td25>
+    <td26>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPL_NAME_SUN$~$VALID_FROM$~$VALID_TILL$~$SHOW_ON_PO$~$INSERTION_FEE$~$SUN_ALLOW$~$MON_ALLOW$~$TUE_ALLOW$~$WED_ALLOW$~$THU_ALLOW$~$FRI_ALLOW$~$SAT_ALLOW$~$SUPL_TYPE$~$OTHER_NAME_SUN$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td26>
+    <td27>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$VALID_FROM$~$SUPL_CODE$~$</td27>
+	  <td28>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$MAIN_EDTN$~$EDTN_CODE$~$SUPL_NAME_SUN$~$SUPL_NAME_MON$~$SUPL_NAME_TUE$~$SUPL_NAME_WED$~$SUPL_NAME_THU$~$SUPL_NAME_FRI$~$SUPL_NAME_SAT$~$VALID_FROM$~$VALID_TILL$~$SHOW_ON_PO$~$INSERTION_FEE$~$SUN_ALLOW$~$MON_ALLOW$~$TUE_ALLOW$~$WED_ALLOW$~$THU_ALLOW$~$FRI_ALLOW$~$SAT_ALLOW$~$UPDATED_BY$~$UPDATED_DATE$~$SUPL_CODE$~$SUPL_TYPE$~$OTHER_NAME_SUN$~$OTHER_NAME_MON$~$OTHER_NAME_TUE$~$OTHER_NAME_WED$~$OTHER_NAME_THU$~$OTHER_NAME_FRI$~$OTHER_NAME_SAT$~$CIR_EDTN_SUPL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td28>
+	  <td29>Select Supplement Day</td29>
+    <td30>Supplement Type</td30>
+    <td31>Comp Code</td31>
+    <td32>Font</td32>
+    <td33>Name In Oth.Lang.</td33>
+  </table>
+	
+  <table1>
+    <td>I</td>
+    <td1>I</td1>
+    <td2>L</td2>
+    <td3>L</td3>
+    <td4>E</td4>
+    <td5>E</td5>
+    <td6>A</td6>
+    <td7>A</td7>
+    <td9>B</td9>
+    <td10>B</td10>
+
+  </table1>
+  <table2>
+    <td>Sr.No.</td>
+	<td1>Printing Center</td1>
+    <td2>Publication</td2>
+    <td3>Main Edition</td3>
+    <td4>Edition</td4>
+    <td5>Supplement</td5>
+    <td6>Ins Fee</td6>
+    <td7>Print Ord</td7>
+    <td8>Valid From</td8>
+    <td9>Valid To</td9>
+    <td10>Tue(OL)</td10>
+    <td11>Wed</td11>
+    <td12>Wed(OL)</td12>
+    <td13>Thu</td13>
+    <td14>Fri</td14>
+    <td15>Fri(OL)</td15>
+    <td16>Sat</td16>
+    <td17>Sat(OL)</td17>
+    <td18>Valid From</td18>
+  </table2>
+	
+	<table3>
+	<td1>Yes</td1>
+	<td2>Y</td2>
+	<td3>No</td3>
+	<td4>N</td4>
+	</table3>
+	
+
+
+</Newdataset>

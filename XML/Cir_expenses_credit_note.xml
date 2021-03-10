@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Process By&lt;font color=red&gt;&lt;/Font&gt;</td1>
+    <td2>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Supply Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td7>
+    <td8>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Expences/Charges&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Month</td13>
+    <td14>Year</td14>
+    <td15>Type</td15>
+  </table>
+
+  <table1>
+    <td>Submit</td>
+    <td1>Clear</td1>
+    <td2>Exit</td2>
+  </table1>
+
+  <table2>
+    <td0>DAILY</td0>
+    <td1>D</td1>
+    <td2>WEEKELY</td2>
+    <td3>W</td3>
+    <td4>MONTHLY</td4>
+    <td5>M</td5>
+  </table2>
+
+  <table3>
+    <td>Center</td>
+    <td1>P</td1>
+    <td2>Branch</td2>
+    <td3>B</td3>
+    <td4>Zone</td4>
+    <td5>Z</td5>
+    <td6>Region</td6>
+    <td7>R</td7>
+    <td8>District</td8>
+    <td9>D</td9>
+    <td10>Taluka</td10>
+    <td11>T</td11>
+  </table3>
+
+  <!--<table4>
+    <td>January</td>
+    <td1>February</td1>
+    <td2>March</td2>
+    <td3>April</td3>
+    <td4>May</td4>
+    <td5>June</td5>
+    <td6>July</td6>
+    <td7>August</td7>
+    <td8>September</td8>
+    <td9>October</td9>
+    <td10>November</td10>
+    <td11>December</td11>
+  </table4>-->
+
+  <!--<table5>
+    <td>2010</td>
+    <td1>2011</td1>
+    <td2>2012</td2>
+    <td3>2013</td3>
+    <td4>2014</td4>
+    <td5>2015</td5>
+    <td6>2016</td6>
+    <td7>2017</td7>
+    <td8>2018</td8>
+    <td9>2019</td9>
+    <td10>2020</td10>
+    <td11>2021</td11>
+    <td12>2022</td12>
+    <td13>2023</td13>
+    <td14>2024</td14>
+    <td15>2025</td15>
+    <td16>2026</td16>
+    <td17>2027</td17>
+    <td18>2028</td18>
+    <td19>2029</td19>
+    <td20>2030</td20>
+    <td21>2031</td21>
+    <td22>2032</td22>
+    <td23>2033</td23>
+    <td24>2034</td24>
+    <td25>2035</td25>
+    <td26>2036</td26>
+    <td27>2037</td27>
+    <td28>2038</td28>
+    <td29>2039</td29>
+    <td30>2040</td30>
+    <td31>2041</td31>
+    <td32>2042</td32>
+    <td33>2043</td33>
+    <td34>2044</td34>
+    <td35>2045</td35>
+    <td36>2046</td36>
+    <td37>2047</td37>
+    <td38>2048</td38>
+    <td39>2049</td39>
+    <td40>2050</td40>
+    </table5>-->
+
+
+
+
+
+</newdataset>

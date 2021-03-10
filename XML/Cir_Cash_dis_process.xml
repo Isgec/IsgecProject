@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>Printing Center Code</td3>
+    <td4>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Receipt From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>As On RCR Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Credit Note From Date&lt;font color=red&gt; &lt;/Font&gt;</td7>
+    <td8>As On CN Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Discount %&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Sec/Copy</td11>
+    <td12>Balance Allowed</td12>
+    <td13>Security Diff. Allowed</td13>
+    <td14>Reason&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td14>
+    <td15>Debit A/C Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td15>
+    <td16>Credit A/C Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td16>
+    <td17>Temp Bill&lt;font color=red&gt;&lt;/Font&gt;</td17>
+    <td18>Process Date&lt;font color=red&gt;*&lt;/Font&gt;</td18>
+    <td19>Debit Upto Date&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+  </table>
+  </newdataset>

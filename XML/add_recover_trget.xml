@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+
+  <table>
+    <td>Center &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td>
+    <td1>Branch &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Type&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Agency Type &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Incentive Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Incentive Rate &lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Incentive Name</td6>
+    <td7>Incentive Slab Type &lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>From Slab&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>To Slab &lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Valid From</td10>
+    <td11>Valid To</td11>
+    <td12>Client&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Ad Sub Cat</td13>
+    <td14>Booking Type</td14>
+    <td15>Target</td15>
+  </table>
+
+
+  <table1>
+    <td>--Select Incentive Name--</td>
+    <td1>0</td1>
+    <td2>Commision</td2>
+    <td3>COM</td3>
+  </table1>
+</newdataset>

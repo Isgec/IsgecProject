@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Company Name</td>
+		<td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+		<td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>User&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Block/UnBlock&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+		<td5>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$USER_CODE$~$SUSPEND_TYPE_CODE$~$USER_FLAG</td5>
+		<td6>LOGIN_REASON_MAST</td6>
+		<td7>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$USER_CODE$~$SUSPEND_TYPE_CODE$~$USER_FLAG$~$</td7>
+		<td8>COMP_CODE$~$USER_CODE$~$SUSPEND_TYPE_CODE$~$</td8>
+    <td9>Role&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td9>
+	</table>
+	<table1>
+		<td>Select Block/Unblock</td>
+		<td1>0</td1>
+		<td2>Block</td2>
+		<td3>B</td3>
+		<td4>Unblock</td4>
+		<td5>U</td5>
+	</table1>
+	</newdataset>

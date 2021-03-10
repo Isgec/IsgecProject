@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <table>
+    <td>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Status</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Suspend type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Block/Unblock By&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Submit</td8>
+    
+    <!--<td9>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$TRN_DATE$~$AGENCY_UNBLOCK_APPROVAL$~$CIR_SUSPEND_TRAN$~$INSERT#UPDATE#DELETE#</td9>
+    <td10>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$TRN_DATE</td10>-->
+    <td11>Save</td11>
+    <td12>Execute</td12>
+    <td13>Delete</td13>
+    <td14>Report</td14>
+  </table>
+</NewDataSet>
+
+
+

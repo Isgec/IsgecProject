@@ -1,0 +1,21 @@
+﻿<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code&lt;font color=red&gt;&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Type</td5>
+    <td6>Report Destination</td6>
+    <td7>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Language</td9>
+    <td10>Company Name</td10>
+    <td11>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Publication Type</td12>
+    <td13>Order By&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Reason </td14>
+  </table>
+</newdataset>
+
+

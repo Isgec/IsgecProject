@@ -1,0 +1,81 @@
+﻿<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code&lt;font color=red&gt;&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Type</td5>
+
+    <td6>Report Destination</td6>
+    <td7>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Language</td9>
+    <td10>Company Name</td10>
+    <td11>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Publication Type</td12>
+    <td13>Order By&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Agency Type</td14>
+  </table>
+  <table1>
+    <td></td>
+    <td1>Run Date</td1>
+    <td2>Bill Register Report</td2>
+    <td3>AGCD</td3>
+    <td4>DPCD</td4>
+    <td5>Agency Name</td5>
+    <td6>Bill Copy</td6>
+    <td7>Gross Amt.</td7>
+    <td8>Comm Amt.</td8>
+    <td9>Bill Amt.</td9>
+    <td10>City Name</td10>
+    <td11>Bill No.</td11>
+    <td12>Bill Date</td12>
+    <td13>Vat Amount. </td13>
+    <td14>From Date:</td14>
+    <td15>To Date:</td15>
+    <td16>Vat Amt.</td16>
+    <td17>Total Amount</td17>
+
+
+  </table1>
+  <table2>
+    <td>Excel</td>
+    <td1>exc</td1>
+  
+  </table2>
+  <table3>
+    <td>District</td>
+    <td1>Dist.</td1>
+    <!--<td2>Taluka</td2>
+    <td3>Taluka</td3>-->
+    <td4>City</td4>
+    <td5>R</td5>
+    <!--<td6>Distributor</td6>
+    <td7>D</td7>-->
+  </table3>
+  <table4>
+
+    <td>Hindi</td>
+    <td1>Hindi</td1>
+  </table4>
+  <table5>
+    <td>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+  </table5>
+
+
+  <table6>
+    <td0>Credit Note No.</td0>
+    <td1>CRNO</td1>
+    <td2>Credit Note Date</td2>
+    <td3>CRDT</td3>
+    <td4>Agency Name</td4>
+    <td5>AGENCY_NAME</td5>
+  
+  </table6>
+
+</newdataset>
+
+

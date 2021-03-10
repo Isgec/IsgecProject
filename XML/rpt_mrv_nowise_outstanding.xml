@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Debit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center</td2>
+    <td3>Destination</td3>
+    <td4>Exit</td4>
+    <td5>Run Report</td5>
+    <td6>Debit From</td6>
+    <td7>Credit Upto&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Clear</td8>
+    <td9>From Ins no.&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>To Ins no.&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+  </table>
+</newdataset>

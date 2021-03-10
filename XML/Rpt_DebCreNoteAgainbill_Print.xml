@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <tr>Debit / Credit Note Against Bill Outstanding</tr>
+    <tr1>From Date :-</tr1>
+    <tr2>To Date :-</tr2>
+    <tr3>Branch :-</tr3>
+    <tr4>DocType :-</tr4>
+    <tr5>Pay Mode :-</tr5>
+    <tr6>Run Date :-</tr6>
+    <tr7>Print</tr7>
+  </table>
+</newdata>
+

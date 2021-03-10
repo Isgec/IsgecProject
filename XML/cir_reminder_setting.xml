@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+<table>
+  <td>Alert/Reminder Scheduler</td>
+  <td1>Task</td1>
+  <td2>Alert Via</td2>
+  <td3>Alert To</td3>
+  <td4>Schedule</td4>
+  <td5>Start Time</td5>
+  <td6>Select</td6>
+  
+  
+</table>
+<table1>
+  <td>PDC Cheques Alert</td>
+  <td1>Overdue Reminder</td1>
+  <td2>Bill</td2>
+  <td3>RCR/DN/CN</td3>
+  <td4>Supply Alteration</td4>
+  <td5>BG Expiry Reminders</td5>
+  <td6>Overdue Installment Reminder</td6>
+  <td7>Agency Creation/Order Entry</td7>
+  <td8>Unsold Approval Alert</td8>
+ 
+
+</table1>
+
+  <table2>
+    <td>Sunday</td>
+    <td1>Monday</td1>
+    <td2>Tuesday</td2>
+    <td3>Wednesday</td3>
+    <td4>Thursday</td4>
+    <td5>Friday</td5>
+    <td6>Saturday</td6>
+    
+  </table2>
+
+
+  <table3>
+
+    <td>January</td>
+    <td1>February</td1>
+    <td2>March</td2>
+    <td3>April</td3>
+    <td4>May</td4>
+    <td5>June</td5>
+    <td6>July</td6>
+    <td7>August</td7>
+    <td8>September</td8>
+    <td9>October</td9>
+    <td10>November</td10>
+    <td11>December</td11>
+    
+  </table3>
+
+  <table4>
+    <td>TASK_NAME$~$ALERT_BY$~$ALERT_FOR$~$SCHEDULE_FREQ$~$START_TIME$~$JAN_SUN$~$FEB_MON$~$MAR_TUE$~$APR_WED$~$MAY_THU$~$JUN_FRI$~$JUL_SAT$~$AUG_FLAG$~$SEP_FLAG$~$OCT_FLAG$~$NOV_FLAG$~$DEC_FLAG$~$MONTH_OF_DAY$~$CREATED_BY$~$UPDATE_BY</td>
+    <td1>CIR_SCHEDULE_REMINDER</td1>
+    <td2>TASK_NAME$~$USER_CODE$~$FLAG$~$CREATED_BY$~$UPDATE_BY</td2>
+    <td3>CIR_SCHEDULE_LOGIN</td3>
+    <td4>TASK_NAME$~$</td4>
+    
+    
+  </table4>
+  
+</newdataset>

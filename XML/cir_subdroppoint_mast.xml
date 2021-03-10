@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Drop Point Code</td4>
+    <td5>Drop Point Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Drop Poin Code</td6>
+    <td7>Sub Drop Poin Name&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Font</td8>
+    <td9>Name In Other Lang.</td9>
+    <td10>City&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td10>
+    <td11>Area&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td11>
+    <td12>Drop point Seq. No.</td12>
+    <td13>Status</td13>
+  </table>
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td>COMP_CODE$~$UNIT_CODE$~$DROP_POINT$~$SUB_DROP_POINT$~$SUB_DROP_POINT_NAME$~$SUB_DROP_POINT_SEQNO$~$USERID$~$CREATED_DATE$~$FREEZE_FLAG$~$SUB_DROP_POINT_OTH_NAME$~$UPDATED_BY$~$UPDATED_DT$~$LATITUDE$~$LOGNITUDE$~$CIR_SUB_DROP_POINT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$DROP_POINT$~$SUB_DROP_POINT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$SUB_DROP_POINT_SEQNO$~$CIR_SUB_DROP_POINT_MAST</td2>
+    <td3>COMP_CODE$~$UNIT_CODE$~$DROP_POINT$~$SUB_DROP_POINT$~$SUB_DROP_POINT_NAME$~$CIR_SUB_DROP_POINT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>COMP_CODE$~$UNIT_CODE$~$DROP_POINT$~$SUB_DROP_POINT$~$SUB_DROP_POINT_NAME$~$SUB_DROP_POINT_SEQNO$~$FREEZE_FLAG$~$SUB_DROP_POINT_OTH_NAME$~$UPDATED_BY$~$UPDATED_DT$~$CIR_SUB_DROP_POINT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>COMP_CODE$~$UNIT_CODE$~$DROP_POINT$~$SUB_DROP_POINT$~$CIR_SUB_DROP_POINT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td5>
+  </table2>
+</dataset>

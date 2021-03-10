@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Executive Code</td>
+    <td1>Executive Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Status</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <td5>EXECUTIVE_CODE$~$EXECUTIVE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$EXEC_DESIGNATION$~$EXEC_ADDR1$~$EXEC_ADDR2$~$AREA_CODE$~$PIN_CODE$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO$~$FAX_NO$~$EMAIL_ID$~$HR_CODE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$UNIT_CODE$~$USERID$~$TALU_CODE$~$EXEC_ONAME$~$DEPT_NAME$~$BRANCH_CODE$~$DIV_CODE$~$CIR_EXECUTIVE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>EXECUTIVE_CODE$~$COMP_CODE</td6>
+    <!--<td7>MODE_CODE$~$MODE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$cir_route_mode_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>-->
+    <td55>EXECUTIVE_CODE$~$EXECUTIVE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$EXEC_DESIGNATION$~$EXEC_ADDR1$~$EXEC_ADDR2$~$AREA_CODE$~$PIN_CODE$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO$~$FAX_NO$~$EMAIL_ID$~$HR_CODE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$EXEC_ONAME$~$TALU_CODE$~$DEPT_NAME$~$BRANCH_CODE$~$DIV_CODE$~$UNIT_CODE$~$CIR_EXECUTIVE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td55>
+    <td3225>Designation</td3225>
+    <td322>Address1</td322>
+    <td12>Address2</td12>
+    <td22>Area </td22>
+    <td32>City&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td32>
+    <td42>District</td42>
+    <td422>State</td422>
+    <td421>Country</td421>
+    <td4221>Pin Code</td4221>
+    <td427>Phone1</td427>
+    <td4227>Phone2</td4227>
+    <td4217>Mobile No.</td4217>
+    <td42217>Fax No.</td42217>
+    <td42275>Email Id</td42275>
+    <td42175>HR Code</td42175>
+    <td81>COMP_CODE#EXECUTIVE_CODE#EXECUTIVE_DESC#CIR_EXECUTIVE_MAST</td81>
+    <td812>CIR_EXECUTIVE_MAST</td812>
+    <td425>Taluka &lt;font color=red&gt;[F2]&lt;/Font&gt;</td425>
+    <td26>Other Name</td26>
+    <td27>Dept Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+    <td28>Sr No.</td28>
+    <td29>Executive Code</td29>
+    <td30>Executive Name</td30>
+    <td31>EXECUTIVE_CODE$~$EXECUTIVE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$EXEC_DESIGNATION$~$EXEC_ADDR1$~$EXEC_ADDR2$~$AREA_CODE$~$PIN_CODE$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO$~$FAX_NO$~$EMAIL_ID$~$HR_CODE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$EXEC_ONAME$~$TALU_CODE$~$DEPT_NAME$~$BRANCH_CODE$~$DIV_CODE$~$UNIT_CODE$~$CIR_EXECUTIVE_MAST</td31>
+    <td33>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td33>
+    <td34>Div Head Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td34>
+    <td35>Div Head Code</td35>
+    <td36>Unit Code</td36>
+    <td37>Unit Name</td37>
+  </table>
+
+
+  <table1>
+    <td>In Active</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please enter Executive Name.$~$Data Saved successfully at Executive Code $~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$First charter can not be a special charter.$~$You can not enter only special chartar.$~$Please Select City.$~$Please Enter Other Name.</td0>
+  </table2>
+
+
+  
+
+  <table4>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Executive Code</td2>
+    <td3>Executive Name</td3>
+    <td4>Freeze Flag</td4>
+    <td11>Executive Designation</td11>
+    <td113>Address1</td113>
+    <td21>Address1</td21>
+    <td31>area Code</td31>
+    <td41>City Code</td41>
+    <td413>District Code</td413>
+    <td88>State Code</td88>
+    <td18>Country Code</td18>
+    <td28>Pin Code</td28>
+    <td38>Phone No1</td38>
+    <td48>Phone No1</td48>
+    <td118>Mobile</td118>
+    <td4131>Fax No</td4131>
+    <td881>Email Id</td881>
+    <td181>HR Code</td181>
+    <td281>Freexe Flag</td281>
+  </table4>
+
+  <!--<table4>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Expenses Type Code</td2>
+    <td3>Expenses Type Name</td3>
+    <td4>Freeze Flag</td4>
+    <td11>Expenses Type Sign</td11>
+    <td11>Expenses Type Mode</td11>
+    <td21>Expenses Type Calculation Base</td21>
+    <td31>Expenses Type Calculation Date</td31>
+    <td41>Expenses Acc CDP</td41>
+    <td413>Expenses ACC CDS</td413>
+
+  </table4>-->
+
+  <table5>
+    <td>Debit</td>
+    <td1>1</td1>
+    <td2>Credit</td2>
+    <td3>-1</td3>
+  </table5>
+
+  <table6>
+    <td>Auto</td>
+    <td1>A</td1>
+    <td2>Manual</td2>
+    <td3>M</td3>
+  </table6>
+
+  <table7>
+    <td>Billing</td>
+    <td1>B</td1>
+    <td2>Credit</td2>
+    <td3>C</td3>
+    <td22>Date</td22>
+    <td32>D</td32>
+  </table7>
+
+
+</newdataset>

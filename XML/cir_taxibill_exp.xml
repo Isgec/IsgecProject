@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+  <td>Company Code</td>
+  <td1>Company Name</td1>
+  <td2>Printing Center </td2>
+  <td3>Print Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+  <td4>Transporter Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+  <td5>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  
+  <td6>Bill NO.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+  <td7>Gross Amount</td7>
+  <td8>Net Amount</td8>
+  <td9>Submit</td9>
+  
+</table>

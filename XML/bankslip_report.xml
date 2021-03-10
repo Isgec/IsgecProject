@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <td>Center&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>From Deposit Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Till Deposit Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Bank Tag&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Debit A/c Head &lt;font color=red&gt; [F2]&lt;/Font&gt;</td5>
+    <td6>Debit A/c Sub Head&lt;font color=red&gt; [F2]&lt;/Font&gt;</td6>
+    <td7>Format</td7>
+     <td8>Ad Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+     <td9>Slip Summary Required</td9>
+   
+    
+
+  </table>
+
+  <table1>
+    <td1>Onscreen</td1>
+    <td2>ons</td2>
+    <td3>Excel</td3>
+    <td4>exc</td4>
+    <td5>Pdf</td5>
+    <td6>pdf</td6>
+  </table1>
+  
+<table2>
+    <td1>Yes</td1>
+    <td2>Y</td2>
+    <td3>No</td3>
+    <td4>N</td4>
+    
+  </table2>
+  
+
+</newdata>
+

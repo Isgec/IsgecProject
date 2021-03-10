@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+<dataset>
+  <table>
+    <td>Bill Frequeny&lt;font color=red&gt;*&lt;/font&gt;</td>
+ 
+    <!--<td2>COMP_CODE$~$BILL_FREQ$~$PUBL_CODE$~$NO_OF_DAYS$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>COMP_CODE$~$BILL_FREQ$~$PUBL_CODE$~$NO_OF_DAYS$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td3>-->
+    <!--COMP_CODE, BILL_FREQ, PUBL_CODE, NO_OF_DAYS, INSERT_ID, CREATED_BY, CREATED_DT, UPDATED_BY, UPDATED_DT, UNIT_CODE, BRANCH_CODE, REG_CODE, EDTN_CODE, PERM_PER-->
+    <td2>COMP_CODE$~$BILL_FREQ$~$PUBL_CODE$~$NO_OF_DAYS$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$UNIT_CODE$~$BRANCH_CODE$~$REG_CODE$~$EDTN_CODE$~$PERM_PER$~$ZONE_CODE$~$AG_CLASS$~$AG_TYPE$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>BILL_FREQ$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>COMP_CODE$~$BILL_FREQ$~$PUBL_CODE$~$NO_OF_DAYS$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$UNIT_CODE$~$BRANCH_CODE$~$REG_CODE$~$EDTN_CODE$~$PERM_PER$~$ZONE_CODE$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>CIR_UNSOLD_RETURN_CONTROL</td5>
+    <td6>COMP_CODE$~$BILL_FREQ$~$PUBL_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$REG_CODE$~$EDTN_CODE$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>COMP_CODE$~$PUBL_CODE$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$UNIT_CODE$~$BRANCH_CODE$~$REG_CODE$~$EDTN_CODE$~$PERM_PER$~$ZONE_CODE$~$CIR_UNSOLD_RETURN_CONTROL$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>Agency Class</td8>
+    <td9>Agency Type</td9>
+  </table>
+
+
+  <table1>
+    <td0>Company</td0>
+    <td1>Publication</td1>
+    <td2>No Of Days</td2>    
+
+  </table1>
+
+  <table2>
+    <td0>Please Enter Bill Frequency.$~$Do You want to skip this page?$~$Data Saved Successfuly on Bill Frequency $~$There is no data regarding your Query.$~$Are you sure! Do You want to delete this Entry ?$~$Data deleted Successfully.$~$There is no more data to be delete.$~$Data updated successfully.</td0>
+  </table2>
+  <table3>
+    <td0>DAILY$~$WEEKLY$~$MONTHLY</td0>
+  </table3>
+  <table4>
+    <td>DAILY</td>
+    <td1>D</td1>
+    <td2>WEEKLY</td2>
+    <td3>W</td3>
+    <td4>MONTHLY</td4>
+    <td5>M</td5>
+  </table4>
+  
+</dataset>

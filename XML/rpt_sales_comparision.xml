@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Break On</td11>
+    <td12>First Period&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Second Period&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Report Destination</td16>
+    <td17>Report</td17>
+  </table>
+  <table1>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table1>
+  <table2>
+    <td>Branch</td>
+    <td1>0</td1>
+    <td2>Zone</td2>
+    <td3>1</td3>
+    <td4>Region</td4>
+    <td5>2</td5>
+    <td6>State</td6>
+    <td7>3</td7>
+    <td8>District</td8>
+    <td9>4</td9>
+  </table2>
+</newdataset>

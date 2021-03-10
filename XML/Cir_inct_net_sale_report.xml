@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+
+		<td>Company Name&lt;font color=red&gt;&lt;/Font&gt;</td>
+		<td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+		<td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+
+		<td6>Month&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+		<td7>Year&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+		<td8>Report Destination</td8>
+		<td9>Include Sanction Qty</td9>
+	</table>
+
+	<table1>
+		<td>On Screen</td>
+		<td1>1</td1>
+		<td4>PDF File</td4>
+		<td5>3</td5>
+		<td6>Excel Sheet</td6>
+		<td7>4</td7>
+	</table1>
+
+	<table2>
+		<td>summary</td>
+		<td1>Y</td1>
+		<td2>detail</td2>ss
+		<td3>N</td3>
+	</table2>
+
+	<table3>
+		<td1>January</td1>
+		<td2>01</td2>
+		<td3>February</td3>
+		<td4>02</td4>
+		<td5>March</td5>
+
+		<td6>03</td6>
+		<td7>April</td7>
+		<td8>04</td8>
+		<td9>May</td9>
+		<td10>05</td10>
+		<td11>June</td11>
+		<td12>06</td12>
+		<td111>July</td111>
+		<td122>07</td122>
+		<td13>August</td13>
+		<td14>08</td14>
+		<td15>September</td15>
+		<td16>09</td16>
+		<td44>October</td44>
+		<td18>10</td18>
+		<td55>November</td55>
+		<td100>11</td100>
+		<td66>December</td66>
+		<td178>12</td178>
+	</table3>
+
+	<table4>
+		<td>Tarikh</td>
+		<td1>Utusan M'sia</td1>
+		<td2>Mingguan Malaysia</td2>
+		<td3>Kosmo</td3>
+		<td4>Kosmo Ahad</td4>
+		<td5>Hai</td5>
+		<td6>Ringkasan</td6>
+		<td7>Jumlah Hantar</td7>
+		<td8>Jumlah Naskah</td8>
+		<td9>Beza</td9>
+	</table4>
+  <table5>
+    <td>Being a Payment for Sales incentive of</td>
+  </table5>
+</Newdataset>

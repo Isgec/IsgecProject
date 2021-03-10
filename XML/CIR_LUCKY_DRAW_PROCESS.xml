@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Location&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Gift Item Name&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Activity&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Gift Qty&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Single</td4>
+    <td5>Draw On</td5>    
+    <td6>Random Selection</td6>
+    <td7>Confirm</td7>
+    <td8>Refresh</td8>
+    <td9>Exit</td9>
+    <td10>State&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;&lt;/Font&gt;</td10>
+    <td11>District&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;&lt;/Font&gt;</td11>
+    <td12>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;&lt;/Font&gt;</td12>
+    <td13>City&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;&lt;/Font&gt;</td13>
+    <td14>Fetch</td14>
+    <td15>Customer Id</td15>
+    <td16>Customer Name</td16>
+    <td17>Remark</td17>
+    <td18>Date</td18>
+    <td19>Comp</td19>
+    <td20>Cross word no&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;&lt;/Font&gt;</td20>
+    <td21>Save</td21>
+    <td22>Status</td22>
+    <td23>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$TRN_ID$~$CUST_NAME$~$TRN_DATE$~$HOUSE_NO$~$WING_CLOLONY$~$WING_CLOLONY_OTH$~$SOCIETY$~$SOCIETY_OTH$~$BLOCK_STREET$~$BLOCK_STREET_OTH$~$LOCALITY$~$TOWN_SUBRUB$~$CITY$~$STATE$~$PIN_CODE$~$STD_CODE$~$PHONE_RESI_OFF$~$PHONE_EXT_NO$~$MOBILE$~$EMAIL$~$REMARKS$~$PER_HOUSE_NO$~$PER_WING_CLOLONY$~$PER_WING_CLOLONY_OTH$~$PER_SOCIETY$~$PER_SOCIETY_OTH$~$PER_BLOCK_STREET$~$PER_BLOCK_STREET_OTH$~$PER_LOCALITY$~$PER_TOWN_SUBRUB$~$PER_CITY$~$PER_STATE$~$PER_PIN_CODE$~$PER_STD_CODE$~$PER_PHONE_RESI_OFF$~$PER_PHONE_EXT_NO$~$PER_MOBILE$~$PER_EMAIL$~$PER_REMARKS$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATE_DATE$~$ACTIVITY_CODE$~$CROSS_WORD_NO$~$PAN_NO$~$ACT_CUST_MST$~$INSERT#UPDATE#DELETE#SELECT</td23>
+  </table>
+
+  <table1>
+    <td>No</td>
+    <td1>N</td1>
+    <td2>Yes</td2>
+    <td3>Y</td3>    
+  </table1>
+
+  <table2>
+    <td>All</td>
+    <td1>A</td1>
+    <td2>State</td2>
+    <td3>S</td3>
+    <td4>District</td4>
+    <td5>D</td5>
+    <td6>Taluka</td6>
+    <td7>T</td7>
+    <td8>City</td8>
+    <td9>C</td9>
+    
+  </table2>
+
+  <table3>
+    <td>STATUS</td>
+    <td1></td1>
+    <td2>GIFT GIVEN</td2>
+    <td3>GG</td3>
+    <td4>REJECT TIME LAPS</td4>
+    <td5>RT</td5>
+    <td6>REJECT</td6>
+    <td7>RE</td7>
+    <td8>GIFT REJECTED BY WINNER</td8>
+    <td9>RW</td9>  
+
+  </table3>
+</newdataset>

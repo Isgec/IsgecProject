@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+
+		<td>Agency</td>
+		<td1>A</td1>
+		<td2>Distribution</td2>
+		<td3>D</td3>
+
+	</table>
+
+
+	<table1>
+
+		<td>Date Wise</td>
+		<td1>D</td1>
+		<td2>Edition Ratewise</td2>
+		<td3>E</td3>
+
+	</table1>
+
+
+	<table2>
+
+		<td>Supply Date</td>
+		<td1>S</td1>
+		<td2>Received Date</td2>
+		<td3>R</td3>
+
+	</table2>
+
+
+</newdataset>

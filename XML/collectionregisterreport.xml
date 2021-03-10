@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Agency Name</td>
+    <td1>AGENCY_NAME</td1>
+    <td2>Recepit No</td2>
+    <td3>RECPTNO</td3>
+    <td4>Recepit Date</td4>
+    <td5>RECPTDT</td5>
+    <td6>City Wise</td6>
+    <td7>CITY_NAME</td7>
+
+  </table>
+
+
+
+</newdataset>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code</td1>
+    <td2>Publication Code&lt;font color=red&gt;*[F2]&lt;/font&gt;</td2>
+    <td3>Edition Code&lt;font color=red&gt;*[F2]&lt;/font&gt;</td3>
+    <td4>Status</td4>
+    <td5>Effective Date&lt;font color=red&gt;*&lt;/font&gt;</td5>
+    <td6>Monday&lt;font color=red&gt;*&lt;/font&gt;</td6>
+    <td7>Tuesday&lt;font color=red&gt;*&lt;/font&gt;</td7>
+    <td8>Wednesday&lt;font color=red&gt;*&lt;/font&gt;</td8>
+    <td9>Thursday&lt;font color=red&gt;*&lt;/font&gt;</td9>
+    <td10>Friday&lt;font color=red&gt;*&lt;/font&gt;</td10>
+    <td11>Saturday&lt;font color=red&gt;*&lt;/font&gt;</td11>
+    <td12>Sunday&lt;font color=red&gt;*&lt;/font&gt;</td12>
+    <td13>Company Name</td13>
+    <td14>Printing Center Name</td14>
+    <td15>Rate</td15>
+    <td16>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$CREATIED_BY$~$WASTE_CATG_CODE$~$CIR_WASTE_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td16>
+    <td17>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN</td17>
+    <td18>Publication Name&lt;font color=red&gt;*&lt;/font&gt;</td18>
+    <td19>Edition Name&lt;font color=red&gt;*&lt;/font&gt;</td19>
+    <td20>CIR_WASTE_RATE_MAST</td20>
+    <td21>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$WASTE_CATG_CODE$~$CIR_WASTE_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td21>
+    <td22>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$CREATIED_BY$~$CHANGED_BY$~$CHANGED_DATE$~$WASTE_CATG_CODE$~$CIR_WASTE_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td22>
+    <td23>Waste Rate Category&lt;font color=red&gt;[F2]&lt;/font&gt;</td23>
+  </table>
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+   
+  </table1>
+
+ 
+
+</Newdataset>

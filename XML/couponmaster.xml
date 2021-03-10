@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Center Main Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Center Sub Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>No Of Coupon &lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Hawker Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Coupon Date &lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Coupon Amount &lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Integration Id</td8>
+    <td9>COMP_CODE$~$UNIT_CODE$~$CENTER_CODE$~$CENTER_SUBCODE$~$NO_OF_COUPON$~$HAWKER_ID$~$COUPON_DT$~$COUPON_AMT$~$CREATED_BY$~$UPDATED_BY$~$SAP_ID$~$CUOPON_CODE$~$CIR_CASH_COUPON_DET$~$INSERT#UPDATE#DELETE#SELECT</td9>
+    <td10>COMP_CODE$~$UNIT_CODE$~$CENTER_CODE$~$CENTER_SUBCODE$~$NO_OF_COUPON$~$HAWKER_ID$~$COUPON_DT$~$COUPON_AMT$~$SAP_ID$~$CUOPON_CODE$~$CIR_CASH_COUPON_DET$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    <td11>COMP_CODE$~$UNIT_CODE$~$CENTER_CODE$~$CENTER_SUBCODE$~$NO_OF_COUPON$~$HAWKER_ID$~$COUPON_DT$~$COUPON_AMT$~$UPDATED_BY$~$SAP_ID$~$CUOPON_CODE$~$CIR_CASH_COUPON_DET$~$INSERT#UPDATE#DELETE#SELECT</td11>
+    <td12>CIR_CASH_COUPON_DET</td12>
+    <td13>Coupon Code</td13>
+   <td14>COMP_CODE$~$CUOPON_CODE</td14>
+    <!--<td16>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$INST_CODE$~$INST_NAME$~$VALID_FROM$~$VALID_TILL$~$INST_RATE$~$FREEZE_FLAG$~$UPDATED_BY$~$SAP_ID$~$CIR_CASH_COUPON_DET$~$INSERT#UPDATE#DELETE#SELECT</td16>
+    <td17>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$INST_CODE$~$INST_NAME$~$VALID_FROM$~$VALID_TILL$~$INST_RATE$~$FREEZE_FLAG$~$SAP_ID$~$CIR_CASH_COUPON_DET$~$INSERT#UPDATE#DELETE#SELECT</td17>-->
+
+
+  </table>
+
+ 
+</newdataset>

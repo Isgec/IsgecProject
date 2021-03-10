@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+<td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+<td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+<td2>Printing Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+<td3>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+<td4>Transporter Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+<td5>Freequency</td5>
+<td6>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+<td7>Billno&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+<td8>Entry Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+<td9>Submitt</td9>
+<td10>Clear</td10>
+<td11>Exit</td11>
+<td12>Process</td12>
+  <td13>Taxi&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+</table>

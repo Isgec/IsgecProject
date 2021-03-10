@@ -1,0 +1,60 @@
+﻿<newdataset>
+  <table>
+    <td>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Unit</td3>
+    <td4>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Branch</td6>
+    <td7>Report Destination</td7>
+    <td8>Report Type</td8>
+    <td9>Bill Register</td9>
+	  <td10>Paymode&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Advt Type</td12>
+    <td13>MRV No.</td13>
+    <td14>N</td14> <!--Y for rate Apply column show else N-->
+  </table>
+  <table1>
+    <td>Excel File</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+
+  </table1>
+	<table2>
+		<td>DateWise</td>
+		<td1>D</td1>
+		<td2>AgencyWise</td2>
+		<td3>A</td3>
+    <td4>Agency Statement</td4>
+    <td5>c</td5>
+    <td6>Latter</td6>
+    <td7>L</td7>
+    <td8>Print Format</td8>
+    <td9>P</td9>
+
+  </table2>
+
+	<table3>
+		<td>ALL</td>
+		<td1>A</td1>
+		<td2>Cash</td2>
+		<td3>C</td3>
+		<td4>Credit</td4>
+		<td5>CR</td5>
+	</table3>
+  <table4>
+    <td>Dear Sirs / Madame,</td>
+    <td1>The following are the details of the bills for the Period</td1>
+    <td2>invoiced to you ,the payment may kindly be made on due date/immediately.</td2>
+    <td3>The comments and non-reciept of bills if any,may kindly be intimated within a week</td3>
+    <td4>else we shall assume that you acknowledge this statement of bill</td4>
+    <td5>Yours faithfully,</td5>
+    <td6>For</td6>
+    <td7>Manager (Recovery)</td7>
+    <td8>To,</td8>
+
+  </table4>
+</newdataset>

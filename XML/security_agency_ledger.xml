@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+	<table>
+
+		<tr>Branch</tr>
+		<tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+		<tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+		<tr3>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr3>
+		<tr4>Sub Agency Code</tr4>
+		<tr5>Client</tr5>
+		<tr6>Representative</tr6>
+		<tr7>Destination</tr7>
+		<tr9>From Date: </tr9>
+		<tr10>To Date: </tr10>
+		<tr44>Run Date:</tr44>
+		<tr11>Bill Listing</tr11>
+		<tr12>BillListing (RepresentativeWise)</tr12>
+		<tr13>Bill Wise Outstanding</tr13>
+		<tr14>Print Center</tr14>
+		<tr15>Doc Type</tr15>
+		<tr16>Day Book</tr16>
+		<tr17>Agency Wise Summary</tr17>
+		<tr18>Agency Type</tr18>
+		<tr19>Paymode</tr19>
+		<tr20>Receipt Summary View</tr20>
+		<tr21>Child</tr21>
+		<tr22>Parent</tr22>
+		<tr23>Security Agency Ledger</tr23>
+		<tr24>Region</tr24>
+		<tr25>District</tr25>
+		<tr26>Taluka</tr26>
+		<TR27>Ledger Detail from Ambika Group</TR27>>
+		<TR28>Hello Agency</TR28>
+		<td29>erp.sapp@gmail.com</td29>
+		<td30>192.168.5.26</td30>
+		<td31>Bill Detail</td31>
+		<td32>Parent With Child</td32>
+		<td33>Monthly summary required</td33>
+		<td34>Branch based</td34>
+    <td35>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td35>
+	</table>
+	<table1>
+		<td>No</td>
+		<td1>N</td1>
+		<td2>Yes</td2>
+		<td3>Y</td3>
+	</table1>
+</newdata>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Company Name</td0>
+    <td1>Company Code</td1>
+    <td2>Unit Name&lt;font color=red&gt; [F2]*&lt;/Font&gt;</td2>
+    <td3>Unit Code</td3>
+    <td4>Agency Type</td4>
+    <td5>Agency Class</td5>
+    <td6>Publication&lt;font color=red&gt; [F2]*&lt;/Font&gt;</td6>
+    <td7>Route&lt;font color=red&gt; [F2]&lt;/Font&gt;</td7>
+    <td8>Supply Start Stop&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Supply Type</td9>
+  </table>
+</dataset>

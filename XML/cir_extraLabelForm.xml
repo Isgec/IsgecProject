@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset >
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Agency Code</td5>
+    <td6>Publication Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td6>
+    <td7>Main Edition Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <td8>Sub Edition Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td8>
+    <td9>Total Supply</td9>
+  </table>
+
+  <table1>
+    <td>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$PUBL_CODE$~$MEDTN_CODE$~$EDTN_CODE$~$FREEZE_FLAG$~$TOT_SUPPLY$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT</td>
+    <td1>CIR_EXTRA_LABLE_HDR</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$PUBL_CODE$~$MEDTN_CODE$~$EDTN_CODE$~$FREEZE_FLAG$~$SLNO$~$LABLE_ON_NAME$~$LABLE_ON_NAME_OTH$~$DROP_POINT_NAME$~$DROP_POINT_NAME_OTH$~$ROUTE$~$ROUTE_NAME_OTH$~$SUP_COPY$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT</td2>
+    <td3>CIR_EXTRA_LABLE_DET</td3>
+    <td4>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$PUBL_CODE$~$EDTN_CODE$~$SLNO$~$</td4>
+    <td5>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$PUBL_CODE$~$EDTN_CODE$~$</td5>
+    <td6>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$PUBL_CODE$~$MEDTN_CODE$~$EDTN_CODE$~$FREEZE_FLAG$~$SLNO$~$LABLE_ON_NAME$~$LABLE_ON_NAME_OTH$~$DROP_POINT_NAME$~$DROP_POINT_NAME_OTH$~$ROUTE$~$ROUTE_NAME_OTH$~$SUP_COPY$~$UPDATED_BY$~$UPDATED_DT</td6>
+  </table1>
+</newdataset>

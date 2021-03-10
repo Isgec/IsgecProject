@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Printing Center Code</td0>
+    <td1>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Unit Code</td3>
+    <td4>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Agency Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Submit</td8>
+    <td9>Clear</td9>
+    <td10>Exit</td10>
+    <td11>Doc Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td11>
+    <td12>Reason&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td12>
+    <td13>Credit Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td13>
+    <td14>Debit Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td14>
+    <td15>Process</td15>
+    <td16>Supply Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+  </table>
+</dataset>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <Table>
+    <td>Company Code</td>
+    <td1>Printing Center Code</td1>
+    <td2>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>FileType</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Print Order Report</td6>
+    <td7>Edition Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Company Name</td8>
+    <td9>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>SubEdition Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Final and Unfinal</td11>
+    <td12>C:\CIO365\SAP\</td12>
+  </Table>
+
+  <Table1>
+    <td>Print Order for Date</td>
+    <td1>Publication Name :</td1>
+    <td2>Prepared By</td2>
+    <td3>Checked By</td3>
+    <td22>Circulation Manager</td22>
+    <td13>Circulation Dept.</td13>
+    <td24>Received By</td24>
+    <td35>Name</td35>
+    <td6>Sign</td6>
+    <td17>Date</td17>
+    <td21>Time</td21>
+    <td11>Run Date : </td11>
+    <td12>Print Order Report </td12>
+    <td123>Page No.: </td123>
+  </Table1>
+
+  <table2>
+    <td>Based on Supply Posted</td>
+    <td1>1</td1>
+    <td2>Based On Standing Order</td2>
+    <td3>2</td3>
+  </table2>
+
+  <table3>
+    <td>Final</td>
+    <td1>Y</td1>
+    <td2>Unfinal</td2>
+    <td3>N</td3>
+  </table3>
+
+
+</Newdataset>
+
+

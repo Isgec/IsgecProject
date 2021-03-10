@@ -1,0 +1,89 @@
+﻿
+.p_boldupperhead
+{
+	font-size:12px;
+	font-family:Arial;
+	font-weight :bold;
+	Color: #000000;
+	text-align :left;
+	padding-bottom :0px;
+	vertical-align :top;
+}
+
+.p_grandtotallabel
+{
+	
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+text-align:right; 	
+}
+
+.p_grandtotal
+{
+font-family: Arial ;
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+border-top :solid 2px black;
+border-bottom:solid 2px black;
+text-align:right; 	
+}
+.p_grandtotal1
+{
+font-family: Arial ;
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+border-top :solid 2px black;
+border-bottom:solid 2px black;
+text-align:left; 	
+}
+
+.p_total
+{
+font-family: Arial ;	
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+text-align:right; 	
+}
+
+
+.p_columnname
+{
+font-family: Arial ;
+ FONT-WEIGHT:bold ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :10px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom : solid 2px black;
+ border-top :solid 2px black;
+
+}
+
+.tablemargintop
+{
+	margin-top :0px;
+}
+.tablemarginbottom
+{
+	margin-bottom:0px;
+}
+
+.records
+	{
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		padding-left:20px;
+	}

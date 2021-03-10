@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Destination</td6>
+    <td7>Supply Type wise Report</td7>
+    <td8>Report</td8>
+    <td9>Language</td9>
+    <td10>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Sub Edition</td11>
+    <td12>Branch</td12>
+    <td13>Show Run Date</td13>
+    <td14>Show Drop Point</td14>
+    <td15>Company Name</td15>
+    <td16>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+    <td17>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Type</td18>
+    <td19>Report Type</td19>
+    <td20>Destination</td20>
+    <td21>Detail</td21>
+    <td22>Summary</td22>
+    <td23>Show Run Date</td23>
+    <td24>COMP_CODE$~$UNIT_CODE$~$BILLNO$~$BILLDT$~$AGCD$~$DPCD$~$PUBL$~$BILL_COPY$~$GROSS_AMOUNT$~$SUR_AMOUNT$~$COMM_AMOUNT$~$BILL_AMOUNT$~$BILL_FRDT$~$BILL_TODT$~$BILL_FLAG$~$BILL_REMARK$~$USERID$~$CREATION_DATE$~$BILL_SEC_AMT$~$EXCOMM_RECPTNO$~$EXCOMM_RECPTDT$~$EXCOMM_AMT$~$BRANCH_CODE$~$BKUP_SNO$~$SEC_PER_RATE$~$ROUTE_CODE$~$BILL_COUNT$~$CIR_BILL$~$INSERT#UPDATE#DELETE#SELECT</td24>
+    <td25>COMP_CODE$~$UNIT_CODE$~$BILLNO</td25>
+    <td26>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td26>
+    <td27>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+  </table>
+
+  <table1>
+    <td>Please Select From  Supply Date.$~$Please Select Report Destination.$~$Please Select To Supply Date.</td>
+  </table1>
+
+  <table2>
+    <td>Company Name</td>
+    <td1>Printing Center Name</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Subcode</td6>
+    <td7>Label Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Label Print</td10>
+    <td11>Clear</td11>
+    <td12>Sub Edition</td12>
+    <td13>District</td13>
+    <td14>Taluka</td14>
+    <td15>Select Type</td15>
+    <td16>Packet Type</td16>
+    <td17>Supply From</td17>
+    <td18>Supply To</td18>
+    <td19>Order By&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+    <td20>Naya India</td20>
+    <td21>Type</td21>
+  </table2>
+
+  <table3>
+    <td>Please Select Label Date.$~$Please Select Report Destination.</td>
+  </table3>
+
+  <table4>
+    <td>Company Code</td>
+    <td1>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Edtion</td3>
+    <td4>Route/District/Taluka</td4>
+    <td5>Report Destination</td5>
+    <td6>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Route/District/Taluka wise Supply Report</td7>
+    <td8>Report Orientation</td8>
+    <td9>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Language</td10>
+    <td11>Report</td11>
+    <td12>Detail</td12>
+    <td13>Summary</td13>
+    <td14>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Sub Edition</td15>
+    <td16>Company Name</td16>
+    <td17>Printing Center Name</td17>
+    <td18>Supply Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Publication Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td21>
+    <td22>Rundate</td22>
+  </table4>
+
+  <table5>
+    <td>Please Select Publication.$~$Please Select Report Destination.$~$Please Select Supply Date.$~$Please Select Report Orientation.$~$Please Select Report type.</td>
+  </table5>
+
+  <table6>
+    <td>SUPPLY TYPE WISE REPORT&lt;font weight=bold&gt;</td>
+    <td1>Supply Date</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Route Total&lt;font weight=bold&gt;</td5>
+    <td6>Edition Total&lt;font weight=bold&gt;</td6>
+    <td7>Publication Total&lt;font weight=bold&gt;</td7>
+    <td8>Grand Total&lt;font weight=bold&gt;</td8>
+  </table6>
+
+  <table7>
+    <td>Branch</td>
+    <td1>5</td1>
+    <td2>Route</td2>
+    <td3>1</td3>
+    <td4>District</td4>
+    <td5>2</td5>
+    <td6>Taluka</td6>
+    <td7>3</td7>
+    <td8>DistrictTaluka</td8>
+    <td9>4</td9>
+    <td10>Distributor</td10>
+    <td11>6</td11>
+  </table7>
+
+  <table8>
+    <td>Vertical</td>
+    <td1>1</td1>
+    <td2>Horizontal</td2>ss
+    <td3>2</td3>
+  </table8>
+
+  <table9>
+    <td>On Screen</td>
+    <td1>1</td1>
+   <td2>Excel Sheet</td2>
+    <td3>4</td3>
+  </table9>
+
+  <table10>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Hindi</td2>
+    <td3>2</td3>
+  </table10>
+
+  <table11>
+    <td>Daily Variance Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Break On&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Route/District/Taluka</td5>
+    <td6>First Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Second Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Language</td8>
+    <td9>Report Destination</td9>
+    <td10>Run Report</td10>
+    <td11>Edition</td11>
+    <td12>Edition wise</td12>
+    <td13>Route/District/Taluka wise</td13>
+    <td14>Sub Edition</td14>
+    <td15>Break On&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Supply Type</td16>
+    <td17>Company Name</td17>
+    <td18>Printing Center Name</td18>
+    <td19>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+    <td22>Type</td22>
+    <td23>Final/Unfinal</td23>
+    <td24>Show Drop Point</td24>
+    <td25>Copy</td25>
+    <td26>Select</td26>
+    <td27>Day Supply</td27>
+  </table11>
+
+  <table12>
+    <td>Please Select Publication.$~$Please Select type whether you want report Route/District/Taluka wise.$~$Please Select First Date.$~$Please Select Second Date.</td>
+  </table12>
+
+  <table13>
+    <td>Publication wise Daily Return Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Publication</td3>
+    <td4>Edition</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Supply From Date</td7>
+    <td8>Supply To Date</td8>
+    <td9>Return From Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Return To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Language</td11>
+    <td12>Report Destination</td12>
+    <td13>Report</td13>
+    <td14>Clear</td14>
+    <td15>Document Type&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Flag&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    <td17>Sub Edition</td17>
+    <td18>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Company Name</td21>
+    <td22>Printing Center Name</td22>
+    <td23>Publication Type</td23>
+  </table13>
+
+  <table14>
+    <td>UCN</td>
+    <td1>UCN</td1>
+  </table14>
+
+  <table15>
+    <td>Approved</td>
+    <td1>Y</td1>
+    <td2>Unapproved</td2>
+    <td3>N</td3>
+  </table15>
+
+  <table16>
+    <td>Please Select Doc Type.$~$Please Select Return From date.$~$Please Select Return To date.</td>
+  </table16>
+
+  <table17>
+    <td>Bill Print Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Publication&lt;font color=red&gt;*</td3>
+    <td4>Bill Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Type</td6>
+    <td7>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bill From Number&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td9>
+    <td10>Bill Till Number&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td10>
+    <td11>Language</td11>
+    <td12>Report Destination</td12>
+    <td13>Run Report</td13>
+    <td14>Clear</td14>
+    <td15>Agency Code</td15>
+    <td16>Agency Sub Code</td16>
+    <td17>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Dist.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Agency Type</td21>
+    <td22>Agency Class</td22>
+    <td23>No.of Copy</td23>
+    <td24>Company Name</td24>
+    <td25>Publication Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td25>
+    <td26>Publication Type&lt;font color=red&gt;*</td26>
+    <td27>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+    <td28>Unsold Claimed v/s Physical</td28>
+  </table17>
+
+  <table18>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>
+  </table18>
+
+  <table19>
+    <td>Please Select Bill From Date.$~$Please Select Bill To Date.$~$Please Enter Bill From Number.$~$Please Enter Bill Till Number.</td>
+  </table19>
+
+  <table20>
+    <td>Agency wise Daily Return Report(District/Taluka)</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Publication</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Language</td7>
+    <td8>Report Destination</td8>
+    <td9>Report</td9>
+    <td10>Cancel</td10>
+    <td11>District/Taluka</td11>
+    <td12>Agency Code</td12>
+    <td13>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Document Type</td14>
+    <td15>Flag</td15>
+    <td16>Agency SubCode</td16>
+    <td17>Edition</td17>
+    <td18>Sub Edition</td18>
+    <td19>Company Name</td19>
+    <td20>Printing Center Name</td20>
+    <td21>Edition</td21>
+    <td22>Publication Type</td22>
+    <td23>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td23>
+  </table20>
+
+  <table21>
+    <td1>District</td1>
+    <td2>1</td2>
+    <td3>Taluka</td3>
+    <td4>2</td4>
+  </table21>
+
+  <table22>
+    <td>Collection Register Report (Normal/Security)</td>
+    <td1>Company</td1>
+    <td2>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Account Type</td5>
+    <td6>Document Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Payment Mode</td7>
+    <td8>Language</td8>
+    <td9>Report Destination</td9>
+    <td10>Run Report</td10>
+    <td11>Cancel</td11>
+    <td12>Sub Edition</td12>
+    <td13>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Print Run Date</td14>
+    <td15>Dist. Group Req.</td15>
+    <td16>District</td16>
+  </table22>
+
+  <table23>
+    <td>--Select A/C Type--</td>
+    <td1>0</td1>
+    <td2>Normal</td2>
+    <td3>NM</td3>
+    <td4>Security</td4>
+    <td5>SC</td5>
+  </table23>
+
+  <table24>
+    <td>Please Select Unit.$~$Please Select From Date.$~$Please Select To Date.</td>
+  </table24>
+
+  <table25>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>Taluka</td4>
+    <td5>3</td5>
+    <!--<TD6>DistrictTaluka</TD6>
+    <TD7>4</TD7>-->
+  </table25>
+
+  <table26>
+    <td>Suppliment</td>
+    <td1>S</td1>
+    <td2>Main Issue</td2>
+    <td3>M</td3>
+  </table26>
+
+  <table27>
+    <td>Open</td>
+    <td1>O</td1>
+    <td2>Inside</td2>
+    <td3>I</td3>
+  </table27>
+
+  <table28>
+    <td>On Screen</td>
+    <td1>1</td1>
+  </table28>
+
+  <table29>
+    <td>Based On Supply Posted</td>
+    <td1>1</td1>
+    <td2>Based On Standing Order</td2>
+    <td3>2</td3>
+  </table29>
+
+  <table30>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>Taluka</td4>
+    <td5>3</td5>
+    <td6>Branch</td6>
+    <td7>4</td7>
+    <!--<td8>Zone</td8>
+  <td9>5</td9>
+  <td10>Region</td10>
+  <td11>6</td11>
+  <td12>State</td12>
+  <td13>7</td13>-->
+  </table30>
+
+  <table31>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>NO</td2>
+    <td3>N</td3>
+  </table31>
+
+  <table32>
+    <td>--Select Copy--</td>
+    <td1>--Select Copy--</td1>
+    <td2>Only First Bill Copy</td2>
+    <td3>1</td3>
+    <td4>Only Second Bill Copy</td4>
+    <td5>2</td5>
+    <td6>Only Third Bill Copy</td6>
+    <td7>3</td7>
+    <td8>First and Second Bill Copy</td8>
+    <td9>4</td9>
+    <td10>First and Third Bill Copy </td10>
+    <td11>5</td11>
+    <td12>Second and Third bill copy</td12>
+    <td13>6</td13>
+    <td14>All Bill Prints</td14>
+    <td15>7</td15>
+  </table32>
+
+  <table33>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Pdf</td2>
+    <td3>3</td3>
+    <td4>Excel</td4>
+    <td5>2</td5>
+  </table33>
+
+  <table35>
+    <td>Tranction Date</td>
+    <td1>Reference Number</td1>
+    <td2>Description</td2>
+    <td3>Product Issue Date</td3>
+    <td4>Qty</td4>
+    <td5>Unit Price</td5>
+    <td6>Debit</td6>
+    <td7>Credit</td7>
+    <td8>Balance</td8>
+  </table35>
+
+  <table36>
+    <!--<td>Select Type</td>
+    <td1>0</td1>-->
+    <td2>Final</td2>
+    <td3>Y</td3>
+    <td4>Unfinal</td4>
+    <td5>N</td5>
+  </table36>
+
+  <table37>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table37>
+
+  <table38>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>Branch</td2>
+    <td3>2</td3>
+    <td4>Zone</td4>
+    <td5>3</td5>
+    <td6>Region</td6>
+    <td7>4</td7>
+    <td8>District</td8>
+    <td9>5</td9>
+    <td10>Taluka</td10>
+    <td11>6</td11>
+    <td12>State</td12>
+    <td13>7</td13>
+    <td14>Distributor</td14>
+    <td15>8</td15>
+  </table38>
+
+  <table39>
+    <td>Drop Point</td>
+    <td1>D</td1>
+    <td2>City</td2>
+    <td3>C</td3>
+  </table39>
+
+  <table40>
+    <td1>YES</td1>
+    <td2>Y</td2>
+    <td3>No</td3>
+    <td4>N</td4>
+  </table40>
+
+  <table41>
+    <td1>Pre Printed</td1>
+    <td2>1</td2>
+    <td3>Plain Paper</td3>
+    <td4>2</td4>
+  </table41>
+
+  <table42>
+    <td1>Plain Paper</td1>
+    <td2>2</td2>
+    <td3>Pre Printed</td3>
+    <td4>1</td4>
+  </table42>
+
+  <table43>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Pdf</td2>
+    <td3>3</td3>
+  </table43>
+
+  <table44>
+    <td>N</td>
+  </table44>
+
+  <table45>
+    <td>Paid</td>
+    <td1>Y</td1>
+    <td2>Unpaid</td2>
+    <td3>N</td3>
+    <td4>All</td4>
+    <td5>A</td5>
+  </table45>
+
+  <table46>
+    <td>Detail</td>
+    <td1>D</td1>
+    <td2>Summary</td2>
+    <td3>S</td3>
+  </table46>
+
+  <table47>
+    <td>Not Include</td>
+    <td1>E</td1>
+    <td2>Include</td2>
+    <td3>I</td3>
+  </table47>
+
+
+</newdataset>

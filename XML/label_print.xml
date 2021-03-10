@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<table>
+  <td>English</td>
+  <td1>0</td1>
+  <td2>Hindi</td2>
+  <td3>1</td3>
+ </table>
+  <table1>
+    <td>Print Format</td>
+    <td1>P</td1>
+    <td2>WAMAC Format</td2>
+    <td3>W</td3>
+  </table1>
+  <table2>
+    <td>Print Format</td>
+    <td1>P</td1>
+    <td2>MPC File</td2>
+    <td3>M</td3>    
+  </table2>
+  <table3>
+    <td>Print Format</td>
+    <td1>P</td1>
+    <td2>FERAG Format</td2>
+    <td3>F</td3>
+  </table3>
+  <table4>
+    <td>Print Format</td>
+    <td1>P</td1>
+  </table4>
+</dataset>

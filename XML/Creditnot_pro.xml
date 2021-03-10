@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+
+	<table>
+
+		<tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+		<tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+		<tr3>Agency Name &lt;font color=red&gt;(F2)&lt;/Font&gt;</tr3>
+		<tr4>Agency Type&lt;font color=red&gt;*&lt;/Font&gt;</tr4>
+		<tr5>Reason&lt;font color=red&gt;*(F2)&lt;/Font&gt;</tr5>
+		<tr6>Cash Discount Reason &lt;font color=red&gt;*(F2)&lt;/Font&gt;</tr6>
+		<tr7>Process</tr7>
+		<tr8>Exit</tr8>
+		<tr9>Agency Subcode</tr9>
+		<tr10>Printing Center</tr10>
+		<tr11>Branch</tr11>
+		<tr12>Clear</tr12>
+		<tr13>Submit</tr13>
+		<tr14>Report</tr14>
+	</table>
+	
+</dataset>

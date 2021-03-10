@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <tr>Agency Bill Wise Statement</tr>
+    <tr1>Date</tr1>
+    <tr2>Executive Name</tr2>
+    <tr3>Client Name</tr3>
+    <tr4>Publish Date</tr4>
+    <tr5>Package</tr5>
+    <tr6>Category</tr6>
+    <tr7>CLR Type</tr7>
+    <tr8>Size</tr8>
+    <tr9>Rate</tr9>
+    <tr10>DocType</tr10>
+    <tr11>Date</tr11>
+    <tr12>DocNo.</tr12>
+    <tr13>Debit</tr13>
+    <tr14>Credit</tr14>
+    <tr15>Balance</tr15>
+   <tr16>nilraj.punyanagari@gmail.com</tr16>
+<tr17>Agency Billwise Status Report From Ambika Group</tr17>
+<tr18>Hello Agency</tr18>
+<tr19>192.168.5.26</tr19>
+
+  </table>
+</newdata>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>UNIT</td>
+    <td1>DEPOT&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td1>
+    <td2>DATE&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>UNSOLD</td3>
+    <td4>SHORT</td4>
+    <td5>TORN</td5>
+    <td6>BRN</td6>
+    <td7>TOTAL</td7>
+    <td8>PUBLICATION&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>EDITION&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>RECEPT NO</td10>
+  </table>
+</newdataset>
+

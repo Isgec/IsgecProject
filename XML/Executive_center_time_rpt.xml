@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table0>
+    <td0>Company Name</td0>
+    <td1>Company Code</td1>
+    <td2>Unit Name</td2>
+    <td3>Unit Code</td3>
+    <td4>Month&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Year&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Type</td6>
+    <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Format</td9>
+    <td10>Executive</td10>
+
+  </table0>
+
+
+  <table1>
+    <td1>January</td1>
+    <td2>01</td2>
+    <td3>February</td3>
+    <td4>02</td4>
+    <td5>March</td5>
+    <td6>03</td6>
+    <td7>April</td7>
+    <td8>04</td8>
+    <td9>May</td9>
+    <td10>05</td10>
+    <td11>June</td11>
+    <td12>06</td12>
+    <td111>July</td111>
+    <td122>07</td122>
+    <td13>August</td13>
+    <td14>08</td14>
+    <td15>September</td15>
+    <td16>09</td16>
+    <td44>October</td44>
+    <td18>10</td18>
+    <td55>November</td55>
+    <td100>11</td100>
+    <td66>December</td66>
+    <td178>12</td178>
+  </table1>
+
+
+  <table2>
+    <!--<td1>Executive Calender</td1>
+    <td2>C</td2>
+    <td3>Executive Month Detail</td3>
+    <td4>D</td4>
+    <td5>Executive Center Detail</td5>
+    <td6>E</td6>
+    <td7>SPMD Summary</td7>
+    <td8>F</td8>
+    <td9>Group Summary</td9>
+    <td10>G</td10>
+    <td11>Group ManPower</td11>
+    <td12>G1</td12>-->
+
+    <td1>Executive Center Detail</td1>
+    <td2>E</td2>
+    <td3>SPMD Summary</td3>
+    <td4>F</td4>
+    <td5>Group Summary</td5>
+    <td6>G</td6>
+    <td7>Late Reached</td7>
+    <td8>L</td8>
+  </table2>
+
+
+</Newdataset>

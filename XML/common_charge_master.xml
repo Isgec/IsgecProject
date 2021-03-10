@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <chargecaltype>
+    <model>Select Charge Calculation Type</model>
+    <model>0</model>
+    <model>Percentage</model>
+    <model>P</model>
+    <model>Fixed</model>
+    <model>F</model>
+    <model>Qty</model>
+    <model>Q</model>
+  </chargecaltype>
+  <chargebasedon>
+    <model>Select Charge Based On</model>
+    <model>0</model>
+    <model>Gross</model>
+    <model>G</model>
+    <model>Net</model>
+    <model>N</model>
+    <model>Charge</model>
+    <model>C</model>
+    <model>QTY</model>
+    <model>Q</model>
+  </chargebasedon>
+  <purchasechargebasedon>
+    <model>Gross</model>
+    <model>G</model>
+    <model>Net</model>
+    <model>N</model>
+    <model>Charge</model>
+    <model>C</model>
+    <model>Fixed</model>
+    <model>F</model>
+  </purchasechargebasedon>
+  <purchasechargecaltype>
+    <model>Percentage</model>
+    <model>P</model>
+    <model>Fixed</model>
+    <model>F</model>
+   
+  </purchasechargecaltype>
+  <tablefixed>
+    <model>Fixed</model>
+    <model>F</model>
+  </tablefixed>
+</dataset>

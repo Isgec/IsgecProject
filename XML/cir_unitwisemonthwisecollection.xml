@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+  <td>Unit Wise Month Wise Collection Summary</td>
+  <td1>Run Date:</td1>
+  <td2>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+  <td3>Printing Center Name</td3>
+  <td4>Doc Type</td4>
+  <td5>Paymode/Reason</td5>
+  <td6>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+  <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+  <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+  <td9>Report Destination</td9>
+  <td10>From Date:</td10>
+  <td11>To Date:</td11>
+    <td12>Public Frequency</td12>
+  </table>
+
+  <table1>
+    <td>RCR</td>
+    <td1>RCR</td1>
+  </table1>
+  <table2>
+    <td>CASH</td>
+    <td1>CASH</td1>
+    <td2>BANK</td2>
+    <td3>BANK</td3>
+  </table2>
+  <table3>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>S</td3>
+  </table3>
+  <table4>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+  </table4>
+</newdataset>

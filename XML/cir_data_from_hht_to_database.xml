@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Data From HHT To Database</td>
+    <td1>Depo Name &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Remark &lt;font color=red&gt;&lt;/Font&gt;</td2>
+  </table>
+</dataset>

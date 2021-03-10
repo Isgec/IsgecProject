@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <Table>
+    <td>Company Code</td>
+    <td1>Unit</td1>
+    <td2>Publication</td2>
+    <td3>Date</td3>
+    <td4>Format</td4>
+  </Table>
+
+  <Table1>
+    <td>Print Order for Date</td>
+    <td1>Publication Name</td1>
+    <td2>Prepared By</td2>
+    <td3>Checked By</td3>
+    <td22>Circulation Manager</td22>
+    <td13>Circulation Dept.</td13>
+    <td24>Received By</td24>
+    <td35>Name</td35>
+    <td6>Sign</td6>
+    <td17>Date</td17>
+    <td21>Time</td21>
+    
+  </Table1>
+</Newdataset>
+

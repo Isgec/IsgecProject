@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+<table>
+<td>Company Code</td>
+<td1>Printing Center Code</td1>
+<td2>Publication&lt;font color=red&gt;*&lt;/font&gt;</td2>
+<td3>Edition&lt;font color=red&gt;*&lt;/font&gt;</td3>
+<td4>Status</td4>
+<td5>From Date&lt;font color=red&gt;*&lt;/font&gt;</td5>
+<td6>Monday&lt;font color=red&gt;*&lt;/font&gt;</td6>
+<td7>Tuesday&lt;font color=red&gt;*&lt;/font&gt;</td7>
+<td8>Wednesday&lt;font color=red&gt;*&lt;/font&gt;</td8>
+<td9>Thursday&lt;font color=red&gt;*&lt;/font&gt;</td9>
+<td10>Friday&lt;font color=red&gt;*&lt;/font&gt;</td10>
+<td11>Saturday&lt;font color=red&gt;*&lt;/font&gt;</td11>
+<td12>Sunday&lt;font color=red&gt;*&lt;/font&gt;</td12>
+<td13>Company Name</td13>
+<td14>Printing Center Name</td14>
+<td15>Rate</td15>
+<td16>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$USERID$~$FREEZE_FLAG$~$CURR_CODE$~$INTEGRATION_ID$~$CIR_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td16>
+<td17>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$VALID_FROM</td17>
+<td18>view</td18>
+ 
+	
+
+
+
+
+  <td19>Publication</td19>
+  <td20>Edition</td20>
+  <td21>Sun</td21>
+  <td22>Mon</td22>
+  <td23>Tues</td23>
+  <td24>Wed</td24>
+  <td25>Thu</td25>
+  <td26>Fri</td26>
+  <td27>Sat</td27>
+  <td28>Date</td28>
+  <td29>S.No</td29>
+  <td30>COMP_CODE$~$UNIT$~$PUBL$~$EDTN</td30>
+
+  <td31>SplDay1</td31>
+  <td32>SplDay2</td32>
+  <td33>Special Day Rate&lt;font color=red&gt;*&lt;/font&gt;</td33>
+  <td34>Special Date&lt;font color=red&gt;*&lt;/font&gt;</td34>
+  <td35>Remark</td35>
+  <td36>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$SPL_DAY_RATE$~$SPL_DAY_DATE$~$RMRK$~$USERID$~$cir_special_rate_mast$~$SELECT#INSERT#UPDATE#DELETE</td36>
+  <td37>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$SPL_DAY_DATE</td37>
+  <td38>Rate</td38>
+  <td39>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$INTEGRATION_ID$~$END_DATE$~$CIR_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td39>
+
+  <td40>CIR_RATE_MAST</td40>
+  <td41>CIR_SPECIAL_RATE_MAST</td41>
+  <td42>COMP_CODE$~$UNIT$~$PUBL$~$EDTN$~$MON_RATE$~$TUE_RATE$~$WED_RATE$~$THU_RATE$~$FRI_RATE$~$SAT_RATE$~$SUN_RATE$~$VALID_FROM$~$FREEZE_FLAG$~$INTEGRATION_ID$~$END_DATE$~$CIR_RATE_MAST$~$SELECT#INSERT#UPDATE#DELETE</td42>
+	<td43>Currency</td43>
+  <td44>Intergration Id</td44>
+  <td45>To Date</td45>
+</table>
+
+<table1>
+  <td>Inactive</td>
+  <td1>Y</td1>
+  
+  </table1>
+  <table2>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Code</td2>
+    <td3>unit Name</td3>
+    <td4>Publication Name</td4>
+    <td5>Edition Name</td5>
+    <td6>Sunday Rate</td6>
+    <td7>Monday Rate</td7>
+    <td8>Tuesday Rate</td8>
+    <td9>Wednesday Rate</td9>
+    <td10>Thursday Rate</td10>
+    <td11>Friday Rate</td11>
+    <td12>Saturday Rate</td12>
+    <td13>Valid Date</td13>
+    <td14>Freeze Flag</td14>
+
+    
+  </table2>
+  <table3>
+    <td>Data saved successfully.$~$Data Updated successfully.$~$Data Deleted successfully.$~$Do you want to delete this entry$~$Please enter numeric numbers only.$~$Do You want to skip the page.$~$Please fill the publication name.$~$Please fill the edition name.$~$Please fill the rate.$~$Please fill the valid date.$~$Rate already exist for this Publication/Edition and Period.$~$Data not updated$~$There is no data.$~$Please Fill The Date In Format.$~$You can not enter 2 decimal.$~$you can not enter more then 4 digit after decimal.$~$you can not enter more then 6 digit before decimal.$~$</td>
+  </table3>
+
+</Newdataset>

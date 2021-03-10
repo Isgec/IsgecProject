@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Publication Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>From Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Publication Type</td5>
+    <td6>Billing Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Clear</td8>
+    <td9>Process</td9>
+    <td10>Exit</td10>
+    <td11>Publication</td11>
+    <td12>Company Name</td12>
+    <td13>Printing Center Name</td13>
+    <td14>Processing Date</td14>
+    <td15>Billing Type</td15>
+  </table>
+
+
+</newdataset>

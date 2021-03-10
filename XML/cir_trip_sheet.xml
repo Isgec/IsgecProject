@@ -1,0 +1,77 @@
+﻿<newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Company Name</td1>
+		<td2>Unit Code</td2>
+		<td3>Unit Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Publication Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+		<td5>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+		<td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+		<td7>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+		<td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+		<td11>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+		<td12>Route&lt;font color=red&gt;&lt;/Font&gt;</td12>
+		<td13>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+		<td14>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+		<td15>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+		<td16>Supply Type</td16>
+		<td17>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+		<t18>Branch code&lt;font color=red&gt;[F2]&lt;/Font&gt;</t18>
+		<td19>Branch Name</td19>
+		<td20>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+		<td21>COMP_CODE$~$UNIT_CODE$~$PUBL$~$EDTN$~$BRANCH_CODE$~$ZONE_CODE$~$REGION_CODE$~$DIST_CODE$~$TALUKA_CODE$~$ROUTE_CODE$~$CITY_CODE$~$AGENCY_TYPE$~$AGENCY_CLASS$~$SUPPLY_TYPE$~$SUPDATE$~$AGCD$~$DPCD$~$SUP_COPY$~$INCREASE_DEREASE_COPY$~$FLAG$~$DIFF_COPY$~$CIR_INDENT_LETTER_DETAIL$~$INSERT#UPDATE#DELETE#SELECT</td21>
+		<td22>Destination</td22>
+		<td23>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td23>
+		<td24>To date&lt;font color=red&gt;*&lt;/Font&gt;</td24>
+		<td25>Return Range</td25>
+		<td26>From</td26>
+		<td27>To</td27>
+		<td28>%</td28>
+		<td29>Report Type</td29>
+		<td30>Destination</td30>
+		<td31>Drop Point&lt;font color=red&gt;F[2]&lt;/Font&gt;</td31>
+		<td32>Town&lt;font color=red&gt;F[2]&lt;/Font&gt;</td32>
+		<TD3>Trip Sheet Lang.</TD3>
+		<td34>With Supply</td34>
+		<td35>Report Type</td35>
+		<td36>Agency Type &lt;font color=red&gt;F[2]*&lt;/Font&gt;</td36>
+		<td37>Agency Code</td37>
+    <td38>Report Type</td38>
+    <td39>RunDate</td39>
+	</table>
+	<table1>
+		<td>Month/Year</td>
+		<td1>Commission%</td1>
+		<td2>Supply Copy</td2>
+		<td3>Complementry</td3>
+		<td4>Unsold Copy</td4>
+		<td5>Amount</td5>
+		<td6>Run Date</td6>
+		<td7>Record Copy</td7>
+		<td8>Total</td8>
+		<td9>Indent</td9>
+	</table1>
+	<table2>
+		<td>Excel Sheet</td>
+		<td1>exc</td1>
+		<td2>Pdf File</td2>
+		<td3>pdf</td3>
+		<td4>Language</td4>
+	</table2>
+	<table3>
+		<td>Select</td>
+		<td1>0</td1>
+		<td2>Mark</td2>
+		<td3>Y</td3>
+		<td4>Unmark</td4>
+		<td5>N</td5>
+	</table3>
+	<table4>
+		<td>English</td>
+		<td1>E</td1>
+		<td2>Hindi</td2>
+		<td3>H</td3>
+	</table4>
+</newdataset>

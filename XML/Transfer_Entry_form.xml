@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <DoctypeCrField>Doc Type(Cr.)&lt;font color=red&gt;*&lt;/Font&gt;</DoctypeCrField>
+    <DoctypeDrField>Doc Type(Dr.)</DoctypeDrField>
+    <PaymodeReasonField>Paymode/Reason&lt;font color=red&gt;*&lt;/Font&gt;</PaymodeReasonField>
+    <BranchCrField>Branch :- </BranchCrField>
+    <TransferCreditNoField>TC No.</TransferCreditNoField>
+    <DateField>Date</DateField>
+    <BranchDrField>Branch(Dr.)</BranchDrField>
+    <TransferDebitNoField>TD No.</TransferDebitNoField>
+    <CDateField>Date</CDateField>
+    <AgencyCrField> Credit Agency&lt;font color=red&gt;*&lt;/Font&gt;</AgencyCrField>
+    <AgencyRegionField>Agency Region</AgencyRegionField>
+    <AgencyCodeCrField>Agency Code</AgencyCodeCrField>
+    <AgencySubCodeCrField>Agency Sub Code</AgencySubCodeCrField>
+    <AgencyDrField>Debit Agency</AgencyDrField>
+    <AgencyRegionDrField>Agency Region</AgencyRegionDrField>
+    <AgencyCodeDrField>Agency Code</AgencyCodeDrField>
+    <AgencySubCodeDrField>Agency Sub Code</AgencySubCodeDrField>
+    <RefReceiptNoField>Ref Receipt No.</RefReceiptNoField>
+    <RefReceiptAmt>Ref Receipt Amount</RefReceiptAmt>
+    <RemainingBalanceField>Remaining Balance</RemainingBalanceField>
+    <NarrationField>Narration</NarrationField>
+    <AmountTransferredField>Amount Transferred&lt;font color=red&gt;*&lt;/Font&gt;</AmountTransferredField>
+    <AmountAdjustedField>Amount Adjusted</AmountAdjustedField>
+    <AmountInHandField>Amount In Hand</AmountInHandField>
+    <RunningDateField>Run Date</RunningDateField>
+    <BillDetailsField> Bill Detail</BillDetailsField>
+    <InWordRupeesField> In Word Rupees</InWordRupeesField>
+    <RupeesField> Rs. </RupeesField>
+    <AuthorisedField> Authorised Signature </AuthorisedField>
+    <preField> Prepared By </preField>
+    <transferField> Transfer Note Entry </transferField>
+    <InsertValueInTable1Field>"unit"$~$"doctype"$~$"recptno"$~$"amount"$~$"remark"$~$"userid"$~$"comp_code"$~$"received_region"$~$"ag_main_code"$~$"ag_sub_code"$~$ad_rcpthdr$~$INSERT#UPDATE#DELETE#SELECT</InsertValueInTable1Field>
+    <InsertValueInTable2Field>unit$~$doctype$~$recptno$~$amount$~$userid$~$comp_code$~$received_region$~$ag_main_code$~$ag_sub_code$~$ad_rcptdet</InsertValueInTable2Field>
+    <InsertValueInTable3Field>UNIT$~$DOCTYPE$~$RECPTNO$~$AMOUNT$~$COMP_CODE$~$USERID$~$RECEIVED_REGION$~$AG_MAIN_CODE$~$AG_SUB_CODE$~$ad_outstand</InsertValueInTable3Field>
+  </table>
+
+  <table1>
+      
+<td>unit$~$agcode$~$doctype$~$recptno$~$recptdt$~$amount$~$remark$~$userid$~$comp_code$~$received_region$~$ag_main_code$~$ag_sub_code$~$ad_rcpthdr$~$INSERT#UPDATE#DELETE#SELECT</td>
+
+    <!--<td>"unit"$~$"agcode"$~$"doctype"$~$"recptno"$~$"recptdt"$~$"amount"$~$"remark"$~$"userid"$~$"comp_code"$~$"received_region"$~$"ag_main_code"$~$"ag_sub_code"$~$ad_rcpthdr$~$INSERT#UPDATE#DELETE#SELECT</td>-->
+   
+      <!--<td>&gt;"&lt;unit&gt;"&lt;$~$&gt;"&lt;agcode&gt;"&lt;$~$"doctype"$~$"recptno"$~$"recptdt"$~$"amount"$~$"remark"$~$"userid"$~$"comp_code"$~$"received_region"$~$"ag_main_code"$~$"ag_sub_code"$~$ad_rcpthdr$~$INSERT#UPDATE#DELETE#SELECT</td>-->
+   
+  </table1>
+</Newdataset >

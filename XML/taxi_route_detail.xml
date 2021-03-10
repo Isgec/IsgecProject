@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center Name</td1>
+    <td2>Vehicle No&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>Taxi Code</td3>
+    <td4>Route Name</td4>
+    <td5>Sub Route Name</td5>
+    <td6>Sub Sub Route Name</td6>
+    <td7>Drop Point Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Sl.No.</td8>
+    <td9>Arrival Time</td9>
+    <td10>Stoppage Time</td10>
+    <td11>Latitude</td11>
+    <td13>Longitude</td13>
+    
+    
+  </table>
+
+  <table1>
+    <td>COMP_CODE$~$UNIT_CODE$~$TAXI_ID$~$VEHICLE_NO$~$DROP_POINT_CODE$~$ARRIVAL_TIME$~$STOPPAGE_TIME$~$DROP_POINT_SEQNO$~$LATITUDE$~$LONGITUDE$~$STATUS$~$CIR_TAXI_ROUTE$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$TAXI_ID$~$VEHICLE_NO$~$DROP_POINT_CODE$~$DROP_POINT_SEQNO$~$CIR_TAXI_ROUTE$~$INSERT#UPDATE#DELETE#SELECT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$TAXI_ID$~$DROP_POINT_CODE$~$CIR_TAXI_ROUTE$~$INSERT#UPDATE#DELETE#SELECT</td2>
+
+  </table1>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</newdataset>

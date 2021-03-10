@@ -1,0 +1,26 @@
+﻿<newdata>
+  <table>
+    <td>--Select User--</td>
+    <td1>--Select Module--</td1>
+    <td2>--Select Company--</td2>
+    <td3>--Select Unit--</td3>
+   </table>
+  <table1>
+    <td>User&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Module&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Company&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>User Group&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Form Type&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  </table1>
+  <table2>
+    <td>Save</td>
+    <td1>Cancel</td1>
+    <td2>Exit</td2>    
+  </table2>
+  <table3>
+    <td>COMP_CODE$~$UNIT_CODE$~$USER_CODE$~$MODULE_ID$~$FORM_ID$~$FORMNAME$~$BACK_DAYS$~$USER_RIGHT$~$CREATION_USERID$~$module_user_rights$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$USER_CODE$~$MODULE_ID$~$FORM_ID$~$</td1>
+  </table3>
+
+</newdata>

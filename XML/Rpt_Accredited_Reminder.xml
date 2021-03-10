@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<table>
+
+  <data>
+    <tr1>Branch</tr1>
+    <tr2>Debits Upto&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Credits Upto&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+    <tr4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr4>
+    <tr5>Code</tr5>
+    <tr6>Representative</tr6>
+    <tr7>Code</tr7>
+    <tr8>Amount </tr8>
+    <tr9>Destination</tr9>
+    <tr10>Date:</tr10>
+    <TR11>Agency Type</TR11>
+    <TR12>District</TR12>
+    <TR13>Page No.</TR13>
+    <TR14>Unit&lt;font color=red&gt;*&lt;/Font&gt;</TR14>
+    <TR15>Include Agency</TR15>
+    <TR16>Printing Center</TR16>
+    <tr17>As On Date&lt;font color=red&gt;*&lt;/Font&gt;</tr17>
+  </data>
+ <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+   <td4>PDF</td4>
+   <td5>3</td5>
+  </table1>
+</table>

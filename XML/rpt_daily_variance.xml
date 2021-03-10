@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+ 
+  <td0>Company</td0>
+  <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+  <td2>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+  <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+  <td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+  <td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+  <td6>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+  <td7>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+  <td8>Break on</td8>
+  <td9>Select</td9>
+  <td10>First Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+  <td11>Supply Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+  <td12>Second Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+  <td13>Language</td13>
+  <td14>Third Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+  <td15>Report Destination</td15>
+  <td16>Report</td16>
+</table>
+  <table1>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table1>
+  <table2>
+    <td>Publication</td>
+    <td1>0</td1>
+    <td2>Printing Center</td2>
+    <td3>1</td3>
+    <td4>Route</td4>
+    <td5>2</td5>
+    <td6>Zone</td6>
+    <td7>3</td7>
+    <td8>Region</td8>
+    <td9>4</td9>
+    <td10>State</td10>
+    <td11>5</td11>
+    <td12>District</td12>
+    <td13>6</td13>
+  </table2>
+  <table3>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Other language</td2>
+    <td3>2</td3>
+  </table3>
+</newdataset>

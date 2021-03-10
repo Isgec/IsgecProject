@@ -1,0 +1,32 @@
+﻿<newdataset>
+  <table>
+    <td>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Report Destination</td7>
+    <td8>Branch Based on</td8>
+    <td9>Report Type</td9>
+    <td10>Bill Requirement</td10>
+    <td11>Client&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Credit Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Tds/Spot Comm/Dispute</td13>
+  </table>
+  <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel Sheet</td2>
+    <td3>2</td3>
+    <!--<td4>CSV</td4>
+    <td5>C</td5>-->
+  </table1>
+  <table2>
+    <td>Trsancation</td>
+    <td1>M</td1>
+    <td2>Master</td2>
+    <td3>M</td3>
+  </table2>
+</newdataset>

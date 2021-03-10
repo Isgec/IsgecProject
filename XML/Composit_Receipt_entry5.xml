@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Branch Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td1>
+    <td2>Doc Type&lt;font color=red&gt;[F2]* &lt;/Font&gt;</td2>
+    <td3>Pay Mode\Reason&lt;font color=red&gt;[F2] &lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+    <td5>Provisional Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Posting Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Provisional Receipt Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bank</td8>
+    <td9>Narration</td9>
+    <td10>Unit Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td10>
+    <td11>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Receipt No.</td12>
+    <td13>Inward Rec Date</td13><!--Prov-->
+    <td14>Inward Doc No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14><!--Prov-->
+    <td15>Voucher Date</td15>
+    <td16>Voucher No.</td16>
+    <td17>Entry Date</td17>
+    <td18>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td18>
+    <td19>Agency Code</td19>
+    <td20>Agency Sub code</td20>
+    <td21>Agency Region</td21>
+    <td22>Amount</td22>
+    <td23>Representative&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td23>
+    <td24>Amount In Hand</td24>
+    <td25>Narration</td25>
+    <td26>Debit A/c Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td26>
+    <td27>Credit A/c Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td27>
+    <td28>Received From</td28>
+    <td29>Cheque No</td29>
+    <td30>Cheque Date</td30>
+    <td31>Bank&lt;font color=red&gt;[F2]&lt;/Font&gt;</td31>
+    <td32>Cheque Deposit</td32>
+    <td33>Bank City</td33>
+    <td34>Ref Doc Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td34>
+    <td35>Ref Rec. No.</td35>
+    <td36>Ref Rec. Dt</td36>
+    <td37>PRT No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td37><!--Manual Rec.-->
+    <td38>PRT Dt.</td38><!--Manual Rec.-->
+    <td39>SubReason&lt;font color=red&gt;[F2]&lt;/Font&gt;</td39>
+    <td40>Tan No.</td40>
+    <td41>Financial Year&lt;font color=red&gt;[F2]&lt;/Font&gt;</td41>
+    <tr42>Sub Debit A/c head&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr42>
+    <tr43>Sub Credit A/c head&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr43>
+    <tr44>Ad Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr44>
+  
+
+</table>
+  <table1>
+    <td>M</td>
+    <!-- F for Financial start date,C for Calander year first date,M for Month fist start date,D for current date-->
+    <td1>Y</td1>
+    <!--"Y" for "PRT NO. Check" and "N" for "PRT NO. [F2]"-->
+  </table1>
+  
+  
+</newdataset>

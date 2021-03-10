@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Company Name</td0>
+    <td1>Company Code</td1>
+    <td2>Printing Center Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td2>
+    <td3>Printing Center Code</td3>
+    <td4>Publication Type</td4>
+    <td5>Publication Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td5>
+    <td6>From Date&lt;font color=red&gt; *&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt; *&lt;/Font&gt;</td7>
+    <td8>Report Type&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Show Run Date</td9>
+    <td10>Destination</td10>
+  </table>
+  <table1>
+    <td0>---Select Report Type---</td0>
+    <td1>Z</td1>
+    <td2>Net Paid Circulation</td2>
+    <td3>1</td3>
+    <td4>Avg Gross Circulation</td4>
+    <td5>2</td5>
+  </table1>
+</dataset>

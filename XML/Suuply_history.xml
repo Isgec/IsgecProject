@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table0>
+    <td>Supply</td>
+    <td1>S</td1>
+    <td2>Net Sales</td2>
+    <td3>N</td3>
+    <td4>Unsold</td4>
+    <td5>U</td5>
+    <td6>Collection</td6>
+    <td7>C</td7>
+    <td8>Invoice</td8>
+    <td9>I</td9>
+   </table0>
+  <table1>
+    <td0>Muster Employee Uploder</td0>
+    <td1>Report Type&lt;font color=red&gt; &lt;/Font&gt;</td1>
+    <td2>Publiction&lt;font color=red&gt; [F2]&lt;/Font&gt;</td2>
+    <td3>Sub Edition&lt;font color=red&gt; [F2]&lt;/Font&gt;</td3>
+    <td4>Pay mode&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+   </table1>
+  
+</newdataset>

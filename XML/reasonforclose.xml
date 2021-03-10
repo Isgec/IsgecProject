@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Reason Code</td2>
+    <td3>Reason Name</td3>
+    <td4>Status</td4>
+    <td5>COMP_CODE$~$REASON_CODE$~$REASON_DESC$~$USERID$~$FREEZE_FLAG$~$CIR_AG_CLOSE_REASON$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>COMP_CODE$~$REASON_CODE</td6>
+    <td7>COMP_CODE$~$REASON_CODE$~$REASON_DESC$~$FREEZE_FLAG$~$CIR_AG_CLOSE_REASON$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>COMP_CODE#USERID#REASON_DESC#CIR_AG_CLOSE_REASON</td8>
+    <td9>cir_ag_close_reason</td9>
+  </table>
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td>Sr No</td>
+    <td1>Reason  Code</td1>
+    <td2>Reason  Name</td2>
+    <td3>Status</td3>
+  </table2>
+  
+  </newdataset>

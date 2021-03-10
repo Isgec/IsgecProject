@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table0>
+    <td>Company Name</td>
+    <td1>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Report Type</td4>
+    <td5>Account Type</td5>
+    <td6>Destination</td6>
+  </table0>
+  <table1>
+    <td>ON SCREEN</td>
+    <td1>1</td1>
+    <td2>EXCEL SHEET</td2>
+    <td3>2</td3>
+    <td4>CSV</td4>
+    <td5>3</td5>
+  </table1>
+  <table2>
+    <td>UNIT WISE COLLECTION</td>
+    <td1>1</td1>
+  </table2>
+  <table3>
+    <td>M</td>
+    <!-- F for Financial start date,C for Calander year first date,M for Month fist start date,D for current date-->
+  </table3>
+</newdataset>

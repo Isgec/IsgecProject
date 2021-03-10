@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<paybuk>
+<table>
+	<td>Company Name</td>
+	<td1>Printing Center&lt;font color=red&gt;[F2]&lt;/font&gt;</td1>
+	<td2>Branch&lt;font color=red&gt;[F2]&lt;/font&gt;</td2>
+	<td3>Agency Type&lt;font color=red&gt;[F2]&lt;/font&gt;</td3>
+	<td4>Agency Class&lt;font color=red&gt;[F2]&lt;/font&gt;</td4>
+	<td5>Publication&lt;font color=red&gt;[F2]*&lt;/font&gt;</td5>
+	<td6>Edition&lt;font color=red&gt;[F2]&lt;/font&gt;</td6>
+	<td7>Sub Edition&lt;font color=red&gt;[F2]&lt;/font&gt;</td7>
+	<td8>Publication Type&lt;font color=red&gt;[F2]&lt;/font&gt;</td8>
+	<td9>Report Type&lt;font color=red&gt;*&lt;/font&gt;</td9>
+	<td10>Destination</td10>
+	<td11>Submit</td11>
+	<td12>Exit</td12>
+	<td13>Period(Day)&lt;font color=red&gt;*&lt;/font&gt;</td13>
+	<td14>Month&lt;font color=red&gt;*&lt;/font&gt;</td14>
+	<td15>Year&lt;font color=red&gt;*&lt;/font&gt;</td15>
+	<td16>Day Book(Supply Report By Date)</td16>
+	<td17>Paid/Free&lt;font color=red&gt;&lt;/font&gt;</td17>
+</table>
+
+<table1>
+	<td>Printing Center Wise Summary</td>
+	<td1>1</td1>
+	<td2>Center and Branch Wise Summary</td2>
+	<td3>2</td3>
+	<td4>Zone Wise Summary</td4>
+	<td5>3</td5>
+	<td6>Zone and Region wise summary</td6>
+	<td7>4</td7>
+	<td8>State Wise Summary</td8>
+	<td9>5</td9>
+	<td10>State and District Wise Summary</td10>
+	<td11>6</td11>
+</table1>
+	
+	<table2>
+		<td>1-15</td>
+		<td1>1</td1>
+		<td2>16-31</td2>
+		<td3>2</td3>
+    <td4>1-31</td4>
+    <td5>3</td5>
+	</table2>
+	<table3>
+		<td>All</td>
+		<td1>blank</td1>
+		<td2>Paid</td2>
+		<td3>P</td3>
+		<td4>Free</td4>
+		<td5>F</td5>
+	</table3>
+  <table4>
+    <td>Issue Date</td>
+    <td1>1</td1>
+    <td2>2</td2>
+    <td3>3</td3>
+    <td4>4</td4>
+    <td5>5</td5>
+    <td6>6</td6>
+    <td7>7</td7>
+    <td8>8</td8>
+    <td9>9</td9>
+    <td10>10</td10>
+    <td11>11</td11>
+    <td12>12</td12>
+    <td13>13</td13>
+    <td14>14</td14>
+    <td15>15</td15>
+    <td16>extra2</td16>
+    <td17>extra3</td17>
+    <td18>extra4</td18>
+    <td19>extra5</td19>
+  </table4>
+  <table5>
+    <td>Issue Date</td>
+    <td1>16</td1>
+    <td2>17</td2>
+    <td3>18</td3>
+    <td4>19</td4>
+    <td5>20</td5>
+    <td6>21</td6>
+    <td7>22</td7>
+    <td8>23</td8>
+    <td9>24</td9>
+    <td10>25</td10>
+    <td11>26</td11>
+    <td12>27</td12>
+    <td13>28</td13>
+    <td14>29</td14>
+    <td15>30</td15>
+    <td16>31</td16>
+    
+  </table5>
+  <table6>
+    <td>Issue Date</td>
+    <td1>1</td1>
+    <td2>2</td2>
+    <td3>3</td3>
+    <td4>4</td4>
+    <td5>5</td5>
+    <td6>6</td6>
+    <td7>7</td7>
+    <td8>8</td8>
+    <td9>9</td9>
+    <td10>10</td10>
+    <td11>11</td11>
+    <td12>12</td12>
+    <td13>13</td13>
+    <td14>14</td14>
+    <td15>15</td15>
+    <td16>16</td16>
+    <td17>17</td17>
+    <td18>18</td18>
+    <td19>19</td19>
+    <td20>20</td20>
+    <td21>21</td21>
+    <td22>22</td22>
+    <td23>23</td23>
+    <td24>24</td24>
+    <td25>25</td25>
+    <td26>26</td26>
+    <td27>27</td27>
+    <td28>28</td28>
+    <td29>29</td29>
+    <td30>30</td30>
+    <td31>31</td31>
+  </table6>
+</paybuk>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <table>
+    <td>Race Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Race Description&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>CIR_RACE_MAST</td2>
+    <td3>RACE_DESC$~$CIR_RACE_MAST</td3>
+    <td4>RACE_CODE$~$RACE_DESC$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$CIR_RACE_MAST$~$INSERT#UPDATE#DELETE#</td4>
+    <td5>RACE_CODE$~$RACE_DESC$~$CIR_RACE_MAST$~$INSERT#UPDATE#DELETE#</td5>
+    <td6>RACE_CODE</td6>
+    <td7>RACE_CODE$~$CIR_RACE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td7>
+  </table>
+  </NewDataSet>

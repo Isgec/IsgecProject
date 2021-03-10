@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdatatype>
+
+  <table>
+
+    <td>New</td>
+    <td1>Save</td1>
+    <td2>Modify</td2>
+    <td3>Query</td3>
+    <td4>Execute</td4>
+    <td5>Clear</td5>
+    <td6>First</td6>
+    <td7>Previous</td7>
+    <td8>Next</td8>
+    <td9>Last</td9>
+    <td10>Delete</td10>
+    <td11>Exit</td11>
+    
+  </table>
+  
+  <table1>
+    
+    <td>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Reason&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>RO No.</td5>
+    <td6>Bill No.&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bill o/s&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Remarks</td9>
+    <td10>Client &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td10>
+    <td11>Executive&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td11>
+    <td12>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Bill Amt&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Booking Id</td14>
+
+    
+  </table1>
+  
+</Newdatatype>

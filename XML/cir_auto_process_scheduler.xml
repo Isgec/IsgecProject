@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+  <table>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>    
+  </table>
+
+  <table1>
+    <td>Daily Auto Bill Generation</td>
+    <td1>Weekly Auto Bill Generation</td1>
+    <td2>Monthly Auto Bill Generation</td2>
+    <td3>Overdue Payment Reminder Process</td3>
+    <td4>Overdue Installment Process</td4>
+    <td5>Bank Guarantee Expiry Process</td5>
+    <td6>Finalize Supply Orders(Before Billing)</td6>
+    <TD7>Subscription Print Order Process</TD7>
+    
+    
+  </table1>
+
+
+  <table2>
+    <td>Start Time</td>
+    
+  </table2>
+
+
+  <table3>
+  
+    <td>Weekly</td>
+    <td1>W</td1>
+    <td2>Monthly</td2>
+    <td3>M</td3>
+  </table3>
+
+  <table4>
+    <td>Sunday</td>
+    <td1>Monday</td1>
+    <td2>Tuesday</td2>
+    <td3>Wednesday</td3>
+    <td4>Thursday</td4>
+    <td5>Friday</td5>
+    <td6>Saturday</td6>
+    
+    
+    
+  </table4>
+
+  <table5>
+    <td>January</td>
+    <td1>February</td1>
+    <td2>March</td2>
+    <td3>April</td3>
+    <td4>May</td4>
+    <td5>June</td5>
+    <td6>July</td6>
+    <td7>August</td7>
+    <td8>September</td8>
+    <td9>October</td9>
+    <td10>November</td10>
+    <td11>December</td11>
+    
+  </table5>
+
+
+  <table6>
+    <td>SCHEDULE_NAME$~$TASK_FREQ$~$START_TIME$~$JAN_SUN$~$FEB_MON$~$MAR_TUE$~$APR_WED$~$MAY_THU$~$JUN_FRI$~$JUL_SAT$~$AUG_FLAG$~$SEP_FLAG$~$OCT_FLAG$~$NOV_FLAG$~$DEC_FLAG$~$MONTH_OF_DAY$~$CREATED_BY$~$UPDATED_BY</td>
+    <td1>PROCESS_SCHEDULE_MAST</td1>
+    <td2>SCHEDULE_NAME</td2>
+    
+  </table6>
+  
+
+  </newdataset>

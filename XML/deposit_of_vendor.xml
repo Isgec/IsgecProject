@@ -1,0 +1,47 @@
+﻿<newdata>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Break On</td11>
+    <td12>As on Date </td12>
+    <td13>Issue Date To</td13>
+    <td14>Report Destination</td14>
+    <td15>Report</td15>
+    <td16>Report Type</td16>
+  </table>
+  <table1>
+    <td>Publication</td>
+    <td1>0</td1>
+    <td2>Publication And Route</td2>
+    <td3>1</td3>
+  </table1>
+  <table2>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table2>
+  <table3>
+    <td>--Select Report Type--</td>
+    <td1>S</td1>
+    <td2>Summary</td2>
+    <td3>S</td3>
+    <td4>Detail</td4>
+    <td5>D</td5>
+    <td6>Insufficient Fund</td6>
+    <td7>I</td7>
+    <td8>Sufficient Fund</td8>
+    <td9>M</td9>
+  </table3>
+</newdata>

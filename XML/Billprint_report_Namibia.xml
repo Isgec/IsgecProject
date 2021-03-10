@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>P.O. 3436</td>
+		<td1>Windhoek</td1>
+		<td2>Tel.: +264 61 297 2000</td2>
+		<td3>Fax.: +264 61 220 120</td3>
+		<td4>Email:az-debtors@az.com.na</td4>
+	</table>
+	<table1>
+		<td>Tax Invoice Copy</td>
+		<td1>Vat Reg Nr:0026852-01-5</td1>
+		<td2>Co. Reg. No. 77/03366/07</td2>
+	</table1>
+	<table2>
+		<td>Date</td>
+		<td1>Page</td1>
+		<td2>Invoice No.</td2>
+	</table2>
+	<table3>
+		<td>Sold To</td>
+		<td1>Ship To</td1>
+	</table3>
+	<table4>
+		<td>Order No.</td>
+		<td1>Order Date</td1>
+		<td2>Customer No.</td2>
+		<td3>SalesPerson</td3>
+		<td4>PO Number</td4>
+		<td5>Ship Via</td5>
+		<td6>Terms</td6>
+		<td7>DCROS0</td7>
+		<td8>CUR</td8>
+	</table4>
+
+	<table5>
+		<td>Qty</td>
+		<td1>Ord.</td1>
+		<td2>Shp.</td2>
+		<td3>B/O</td3>
+		<td4>Item Number</td4>
+		<td5>Description</td5>
+		<td6>Unit Price</td6>
+		<td7>UOM</td7>
+		<td8>Extended Price</td8>
+		<td9>Each</td9>
+		<td10>NB: OUR TERMS ARE STRICTLY 30 DAYS FROM INVOICE DATE</td10>
+		<td11>Bank Details:</td11>
+		<td12>FNB-Windhoek Corporate</td12>
+		<td13>Branch No.:281872</td13>
+		<td14>Account No.:62199718944</td14>
+		<td15>Tel.: +264 61 297 2000</td15>
+		<td16>Fax.: +264 61 220 120</td16>
+		<td17>Tax Summary:</td17>
+		<td18>VAT</td18>
+	</table5>
+	<table6>
+		<td>Sub Total</td>
+		<td1>Total VAT</td1>
+		<td2>Total Amount</td2>
+		<td3>Less Payment</td3>
+		<td4>Less Pmt. Disc.</td4>
+		<td5>Amount Due</td5>
+	</table6>
+
+	<table7>
+		<td>P.O. 3436</td>
+		<td1>Windhoek</td1>
+		<td2>Tel.: +264 61 297 2000</td2>
+		<td3>Fax.: +264 61 220 120</td3>
+		<td4>Email:az-debtors@az.com.na</td4>
+	</table7>
+	
+	<table8>
+		<td>Tax Invoice Copy</td>
+		<td1>Vat Reg Nr:0026852-01-5</td1>
+		<td2>Co. Reg. No. 77/03366/07</td2>
+	</table8>
+	
+	<table9>
+		<td>Date</td>
+		<td1>Page</td1>
+		<td2>Invoice No.</td2>
+	</table9>
+		
+	<table10>
+		<td>Sold To</td>
+		<td1>Ship To</td1>
+	</table10>
+	
+	<table11>
+		<td>Order No.</td>
+		<td1>Order Date</td1>
+		<td2>Customer No.</td2>
+		<td3>SalesPerson</td3>
+		<td4>PO Number</td4>
+		<td5>Ship Via</td5>
+		<td6>Terms</td6>
+		<td7>DCROS0</td7>
+		<td8>CUR</td8>
+	</table11>
+
+	<table12>
+		<td>Qty</td>
+		<td1>Ord.</td1>
+		<td2>Shp.</td2>
+		<td3>B/O</td3>
+		<td4>Item Number</td4>
+		<td5>Description</td5>
+		<td6>Unit Price</td6>
+		<td7>UOM</td7>
+		<td8>Extended Price</td8>
+		<td9>Each</td9>
+		<td10>NB: OUR TERMS ARE STRICTLY 30 DAYS FROM INVOICE DATE</td10>
+		<td11>Bank Details:</td11>
+		<td12>FNB-Windhoek Corporate</td12>
+		<td13>Branch No.:281872</td13>
+		<td14>Account No.:62199718944</td14>
+		<td15>Tel.: +264 61 297 2000</td15>
+		<td16>Fax.: +264 61 220 120</td16>
+		<td17>Tax Summary:</td17>
+		<td18>VAT</td18>
+	</table12>
+	<table13>
+		<td>P.O. 3436</td>
+		<td1>Windhoek</td1>
+		<td2>Tel.: +264 61 297 2000</td2>
+		<td3>Fax.: +264 61 220 120</td3>
+		<td4>Email:az-debtors@az.com.na</td4>
+	</table13>
+
+	<table14>
+		<td>Tax Invoice Copy</td>
+		<td1>Vat Reg Nr:0026852-01-5</td1>
+		<td2>Co. Reg. No. 77/03366/07</td2>
+	</table14>
+
+	<table15>
+		<td>Date</td>
+		<td1>Page</td1>
+		<td2>Invoice No.</td2>
+	</table15>
+
+	<table16>
+		<td>Sold To</td>
+		<td1>Ship To</td1>
+	</table16>
+
+	<table17>
+		<td>Order No.</td>
+		<td1>Order Date</td1>
+		<td2>Customer No.</td2>
+		<td3>SalesPerson</td3>
+		<td4>PO Number</td4>
+		<td5>Ship Via</td5>
+		<td6>Terms</td6>
+		<td7>DCROS0</td7>
+		<td8>CUR</td8>
+	</table17>
+
+	<table18>
+		<td>Qty</td>
+		<td1>Ord.</td1>
+		<td2>Shp.</td2>
+		<td3>B/O</td3>
+		<td4>Item Number</td4>
+		<td5>Description</td5>
+		<td6>Unit Price</td6>
+		<td7>UOM</td7>
+		<td8>Extended Price</td8>
+		<td9>Each</td9>
+		<td10>NB: OUR TERMS ARE STRICTLY 30 DAYS FROM INVOICE DATE</td10>
+		<td11>Bank Details:</td11>
+		<td12>FNB-Windhoek Corporate</td12>
+		<td13>Branch No.:281872</td13>
+		<td14>Account No.:62199718944</td14>
+		<td15>Tel.: +264 61 297 2000</td15>
+		<td16>Fax.: +264 61 220 120</td16>
+		<td17>Tax Summary:</td17>
+		<td18>VAT</td18>
+	</table18>
+</newdataset>

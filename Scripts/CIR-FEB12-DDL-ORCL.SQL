@@ -1,0 +1,4 @@
+/////////////////////////////////22 FEB 2012///////UPDATE TABLE CIR_TAXI_ROUTE /////////////////////////
+alter table CIR_TAXI_ROUTE add LONGITUDE varchar2(10)
+alter table CIR_TAXI_ROUTE add LATITUDE varchar2(10)
+///////////////////////////////////END OF 22 FEB 2012//////////////////////

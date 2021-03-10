@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td0>Muster Employee Uploder</td0>
+    <td1>Unit Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td1>
+    <td2>Branch Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td2>
+    <td3>Agency&lt;font color=red&gt; [F2]&lt;/Font&gt;</td3>
+    <td4>Client&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+    <td5>From Date &lt;font color=red&gt; *&lt;/Font&gt;</td5>
+    <td6>To Date &lt;font color=red&gt; *&lt;/Font&gt;</td6>
+    <td7>Report Type&lt;font color=red&gt; &lt;/Font&gt;</td7>
+  </table>
+
+  <table1>
+    <td>Agency</td>
+    <td1>1</td1>
+    <td2>Executive</td2>
+    <td3>2</td3>
+    <td4>Non- Visited</td4>
+    <td5>3</td5>
+  </table1>
+</newdata>

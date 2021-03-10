@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RptNetBilling>
+  <table>
+    <td0>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td0>
+    <td1>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Code/Subcode</td5>
+    <td6>Zone</td6>
+    <td7>Region</td7>
+    <td8>State</td8>
+    <td9>District</td9>
+    <td10>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Destination</td11>
+    <td12>Net Billing</td12>
+    <td13>CN/DN Reason</td13>
+    <td14>Client&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Agency Type</td16>
+    <td17>Agency Category</td17>
+    <td18>Based On</td18>
+    <td19>Report Type</td19>
+    <td20>BillNo.</td20>
+  </table>
+
+
+  <table1>
+    <td>Sno.</td>
+    <td1>Agency Name</td1>
+    <td2>Agency City Name</td2>
+    <td3>Agency Type</td3>
+    <td4>Agency Category</td4>
+    <td5>Client</td5>
+    <td6>Executive</td6>
+    <td7>Retainer</td7>
+    <td8>Printing Center</td8>
+    <td9>Branch</td9>
+    <td10>BillNo.</td10>
+    <td11>Bill Date</td11>
+    <td12>Amount</td12>
+    <td13>CN Amount</td13>
+    <td14>DN Amount</td14>
+    <td15>Bill Net Amount</td15>
+    <td16>Received Amount</td16>
+    
+  </table1>
+  
+</RptNetBilling>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table0>
+    <td>Company Name</td>
+    <td1>Unit Name&lt;font color=red&gt; *&lt;/Font&gt;</td1>
+    <td2>Publication Type&lt;font color=red&gt; *&lt;/Font&gt;</td2>
+    <td3>Publication</td3>
+    <td4>Edition</td4>
+    <td5>Sub Edition</td5>
+    <td6>Agency Type</td6>
+    <td7>Agency Class</td7>
+    <td8>Route&lt;font color=red&gt; [F2]&lt;/Font&gt;</td8>
+    <td9>State&lt;font color=red&gt; [F2]&lt;/Font&gt;</td9>
+    <td10>District&lt;font color=red&gt; [F2]&lt;/Font&gt;</td10>
+    <td11>Supply Type&lt;font color=red&gt; [F2]&lt;/Font&gt;</td11>
+    <td12>Final Flag</td12>
+    <td13>Bill Pay</td13>
+    <td14>From Date&lt;font color=red&gt; *&lt;/Font&gt;</td14>
+    <td15>To Date&lt;font color=red&gt; *&lt;/Font&gt;</td15>
+    <td16>Report Type</td16>
+    <td17>Report For</td17>
+    <td18>Destination</td18>
+    <td19>Branch Name</td19>
+    <td20>Agency Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td20>
+    <td21>Supplement Type</td21>
+    <td22>Supplement&lt;font color=red&gt; [F2]&lt;/Font&gt;</td22>
+  </table0>
+  <table1>
+    <td>ALL</td>
+    <td1></td1>
+    <td2>Yes</td2>
+    <td3>Y</td3>
+    <td4>No</td4>
+    <td5>N</td5>
+  </table1>
+  <table2>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel Sheet</td2>
+    <td3>2</td3>
+  </table2>
+  <table3>
+    <td>ALL</td>
+    <td1></td1>
+    <td2>PAID</td2>
+    <td3>Y</td3>
+    <td4>UNPAID</td4>
+    <td5>N</td5>
+  </table3>
+  <table4>
+    <td>ROUTE WISE</td>
+    <td1>1</td1>
+    <td2>BRANCH WISE</td2>
+    <td3>2</td3>
+    <td4>DISTRICT WISE</td4>
+    <td5>3</td5>
+    <td6>STATE WISE</td6>
+    <td7>4</td7>
+  </table4>
+  <table5>
+    <td>M</td>
+    <!-- F for Financial start date,C for Calander year first date,M for Month fist start date,D for current date-->
+  </table5>
+  <table6>
+    <td>PUBLICATION WISE</td>
+    <td1>P</td1>
+    <td2>SUPPLY TYPE WISE</td2>
+    <td3>S</td3>
+    <td4>PUBLICATION SUPPLY TYPE WISE</td4>
+    <td5>T</td5>
+  </table6>
+  <table7>
+    <td>--SELECT SUPPLEMENT TYPE--</td>
+    <td1></td1>
+    <td2>PULLOUT</td2>
+    <td3>P</td3>
+    <td4>MAGZINE</td4>
+    <td5>M</td5>
+  </table7>
+</newdataset>

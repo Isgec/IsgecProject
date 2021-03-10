@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <td>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+ 
+    <td2>OK</td2>
+    <td3>Cancel</td3>
+    <td4>Publication</td4>
+    <td5>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Bill No</td6>
+    <td7>Booking Id</td7>
+    <td8>Insertion Date</td8>
+    <td9>Client Name&lt;font color=red&gt;(F2)&lt;/Font&gt;</td9>
+    <td10>Executive Name&lt;font color=red&gt;(F2)&lt;/Font&gt;</td10>
+    <td11>Retainer Name&lt;font color=red&gt;(F2)&lt;/Font&gt;</td11>
+    <td12>RO No.</td12>
+    <td13>Apply Date</td13>
+  </table>  
+  
+</newdata>
+
+

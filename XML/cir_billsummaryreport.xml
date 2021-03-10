@@ -1,0 +1,79 @@
+﻿<newdataset>
+  <table>
+    <td>Bill Summary Report</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Bill Frequency</td5>
+    <td6>Bill From Date&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td6>
+    <td7>Bill To Date&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <td8>Report Destination</td8>
+    <td9>Type</td9>
+    <td10>&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Sub Edition</td11>
+    <td12>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Agency Class</td13>
+    <td14>Representative&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Company Name</td15>
+    <td16>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+	  <td17>Grouping Required</td17>
+	  <td18>Format Required</td18>
+  </table>
+  <table1>
+    <td>S.No.</td>
+    <td1>Ag. Name</td1>
+    <td2>Bill Amt.</td2>
+    <td3>Return Amt</td3>
+    <td4>Total</td4>
+    <td5>Commission</td5>
+    <td6>Net</td6>
+    <td7>Dbt./Crdt.</td7>
+    <td8>Previous Bal.</td8>
+    <td9>Collection</td9>
+    <td10>Balance</td10>
+    <td11>Run Date</td11>
+    <td12>Bill Summary Report</td12>
+    <td13>From Date</td13>
+    <td14>To </td14>
+    <td15>40</td15> <!-- for maxlimit of pages-->
+  </table1>
+  
+  <table2>
+    <td>Weekly</td>
+    <td1>W</td1>
+    
+  </table2>
+  <table3>
+    <td>District</td>
+    <td1>D</td1>
+    <td2>Taluka</td2>
+    <td3>T</td3>
+	  <td4>Route</td4>
+	  <td5>R</td5>
+  </table3>
+
+  <table4>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+  </table4>
+  
+  <table5>
+    <td>Y</td>
+  </table5>
+	<table6>
+		<td>Yes</td>
+		<td1>Y</td1>
+		<td2>No</td2>
+		<td3>N</td3>
+	</table6>
+	<table7>
+		<td>Regular</td>
+		<td1>R</td1>
+		<td2>Vat</td2>
+		<td3>V</td3>
+	</table7>
+  
+</newdataset>

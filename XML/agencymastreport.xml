@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    
+    <td1>Company Code</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Agency Type</td3>
+    <td4>Report Destination</td4>
+    <td5>Language</td5>
+    <td6>AGENCY CODE</td6>
+    <td7>AGENCY SUB CODE</td7>
+    <td8>AGENCY NAME</td8>
+    <td9>ADDRESS</td9>
+    <td10>CITY NAME</td10>
+    <td11>S.NO.</td11>
+
+    <!--ADDED FROM HERE-->
+    <td12>BRANCH CODE</td12>
+    <td13>BRANCH NAME</td13>
+    <td14>AG NAME OTH LANG</td14>
+    <td15>AG CLASS</td15>
+    <td16>AG CLASS NAME</td16>
+    <td17>AG TYPE NAME</td17>
+    <td18>SUPPLY START DATE</td18>
+    <td19>ADDRESS2</td19>
+    <td20>ADDRESS3</td20>
+    <td21>PIN CODE</td21>
+    <td22>CITY CODE</td22>
+    <td23>DIST CODE</td23>
+    <td24>DIST NAME</td24>
+    <td25>STATE CODE</td25>
+    <td26>STATE NAME</td26>
+    <td27>TALUKA CODE</td27>
+    <td28>TALUKA NAME</td28>
+    <td29>STATION CODE</td29>
+    <td30>DROP POINT NAME</td30>
+    <td31>AREA CODE</td31>
+    <td32>AREA NAME</td32>
+    <td33>PHONE NO1</td33>
+    <td34>PHONE NO2</td34>
+    <td35>MOBILE NO1</td35>
+    <td36>MOBILE NO2</td36>
+    <td37>FAX NO</td37>
+    <td38>EMAIL ID</td38>
+    <td39>SUSPEND</td39>
+    <td40>SUSPEND TYPE</td40>
+    <td41>SUSPEND DATE</td41>
+    <td42>TO BILL</td42>
+    <td43>BILL AGCD</td43>
+    <td44>BILL DPCD</td44>
+    <td45>BILL AGENCY</td45>
+    <td46>PAYMODE</td46>
+    <td47>CREDIT DAYS</td47>
+    <td48>PRINT LABEL</td48>
+    <td49>PIN PACKET</td49>
+    <td50>PIN AGCD</td50>
+    <td51>PIN DPCD</td51>
+    <td52>PIN AGENCY</td52>
+    <td53>PIN OPEN INSIDE</td53>
+    <td54>NAME ON LABEL</td54>
+    <td55>PRINT SEQ</td55>
+    <td56>BILL CYCLE</td56>
+    <td57>SECURITY PER</td57>
+    <td58>SEC AMT LIMT</td58>
+    <td59>SUPPLY STOP FLAG</td59>
+    <td60>SUPPLY STOP PER</td60>
+    <td61>ABC CITY CODE</td61>
+    <td62>ABC CITY NAME </td62>
+    <td63>CON PER NAME</td63>
+    <td64>CON PER DESIG</td64>
+    <td65>CON PER PER ROLE</td65>
+    <td66>DATE OF BIRTH</td66>
+    <td67>CON PER PHONE NO1</td67>
+    <td68>CON PER PHONE NO2</td68>
+    <td69>CON PER MOBILE NO1</td69>
+    <td70>CON PER MOBILE NO2</td70>
+    <td71>CON PER FAX NO</td71>
+    <td72>CON PER EMAIL ID</td72>
+    <td73>Agency Class</td73>
+    
+    
+    
+ </table>
+  
+  <table1>
+    <td1>HINDUSTAN TIMES</td1>
+    <td2>AGENCY MASTER LISTING</td2>
+    <td3>Agency Type:</td3>
+    <td4>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Run Date:</td5>
+    <td6>Page No. :</td6>
+    <td7>Company Name</td7>
+    <td8>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Commission Category&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Agency Class:</td16>
+    <td17>Agency Suspend Status</td17>
+    <td18>Agency Status</td18>
+    <td19>AGENCY MASTER LISTING : Agency Type Wise</td19>
+    <td20>AGENCY MASTER LISTING : Agency Class Wise</td20>
+    <td21>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+    <td22>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+  </table1>
+  <table2>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+  </table2>
+
+  <table3>
+    <td>Hindi</td>
+    <td1>hind</td1>
+  </table3>
+  <table4>
+    <td1>Category Wise Agency And Depots Summary</td1>
+    <td2>1</td2>
+    <td3>Category And Branch Wise Summary</td3>
+    <td4>2</td4>
+    <td5>Category Wise Summary</td5>
+    <td6>3</td6>
+    <td7>Agency Type Wise List</td7>
+    <td8>4</td8>
+    <td9>Agency Class Wise List</td9>
+    <td10>5</td10>
+    
+  </table4>
+
+  <table5>
+    <td>Category</td>
+    <td1>Main Agency</td1>
+    <td2>Depot</td2>
+    <td3>Total</td3>
+  </table5>
+
+  <table6>
+    <td>Branch</td>
+    <td1>Total</td1>
+  </table6>
+
+  <table7>
+    <td1>Blocked</td1>
+    <td2>Y</td2>
+    <td3>Unblocked</td3>
+    <td4>N</td4>
+  </table7>
+
+  <table8>
+    <td1>Inactive</td1>
+    <td2>Y</td2>
+    <td3>All</td3>
+    <td4>0</td4>
+  </table8>
+  
+</newdataset>

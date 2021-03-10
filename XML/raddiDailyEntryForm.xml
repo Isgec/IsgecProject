@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+<table>
+  
+  <td>Company&lt;font color=red&gt;*&lt;/Font&gt;</td>
+  <td1>Unit&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+  <td2>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+  <td3>Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+  <td4>Account Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+  <td5>VAT</td5>
+  <td6>Other Tax</td6>
+  <td7>Publication</td7>
+  <td8>Main Edition</td8>
+  <td9>Sub Edition</td9>
+  <td10>Rate</td10>
+  <td11>No of copy</td11>
+  <td12>Total Weight </td12>
+  <td13> Rate</td13>
+  <td51>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX1_RATE$~$TAX2_RATE$~$TAX1_TYPE$~$TAX2_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$cir_return_sale_hdr$~$INSERT#UPDATE#DELETE#SELECT</td51>
+  <td61>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT</td61>
+  <td71>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX1_RATE$~$TAX2_RATE$~$TAX1_TYPE$~$TAX2_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$cir_return_sale_hdr$~$INSERT#UPDATE#DELETE#SELECT</td71>
+  <td81>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$NO_OF_COPY$~$COPY_WEIGHT$~$COPY_RATE$~$SLNO$~$cir_return_sale_det$~$INSERT#UPDATE#DELETE#SELECT</td81>
+  <td91>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$SLNO</td91>
+  <td101>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$NO_OF_COPY$~$COPY_WEIGHT$~$COPY_RATE$~$SLNO$~$cir_return_sale_det$~$INSERT#UPDATE#DELETE#SELECT</td101>
+  <td102>RET</td102>
+	<td21>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX2_RATE$~$TAX1_TYPE$~$TAX2_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$</td21>
+	<td22>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX1_RATE$~$TAX1_TYPE$~$TAX2_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$</td22>
+		<td23>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX1_RATE$~$TAX2_RATE$~$TAX2_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$</td23>
+			<td24>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ACC_CODE$~$TAX1_RATE$~$TAX2_RATE$~$TAX1_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$</td24>
+  <td25>Tax Rate1</td25>
+  <td26>Tax Rate2</td26>
+</table>
+  
+  <table1>
+    <td>Fixed</td>
+    <td1>F</td1>
+    <td2>Percentage</td2>
+    <td3>P</td3>
+  </table1>
+
+
+  <Table2>
+    <td>36,Haji Ismail Gani Build, Opp.Platform No-4 , Byculla (E), Mumbai - 40027 , Tel - 23712028, 24715208</td>
+    <td1>TAX INVOICE </td1>
+    <td2>Branch</td2>
+    <td3>Bill no.</td3>
+    <td22>To</td22>
+    <td13>Date</td13>
+    <td24>Total</td24>
+    <td35>Sale Tax(M.V.A.T.@)</td35>
+    <td6>Bill Amount</td6>
+    <td17>Rupees in Words :</td17>
+    <td21>VAT TIN NO:27100524178.V</td21>
+    <td11>"I/We hereby clearify that my/our registration Certificate under the Maharastra Valuue Added Tax Act. 2002 is in force on the dateon which sale 
+    of the goods specified in this tax invoice is made by me/us and that the transaction of sale covered by this tax invoice has been effected
+    by me/us and it shall be accounted for in the turnover of sales while filling of return and the due tax of any payble on the sale has been paid or shall be
+    paid"</td11>
+    <td12>Receiver's Signatory</td12>
+    <td14>Autorised Signatory</td14>
+    <td15>VAT TIN NO.:</td15>
+	  
+   </Table2>
+<table3>
+	<td>Other Tax</td>
+	<td1>Bill Amount</td1>
+	</table3>
+
+  <table4>
+    <td> Rate doesnot Match ,Please enter the correct rate</td>
+    <td1>Sorry There Is No Stock</td1>
+
+  </table4>
+
+</Newdataset>
+
+

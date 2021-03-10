@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+
+  <td>Company Code</td>
+  <td1>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+  <td2>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+  <td3>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+  <td4>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+  <td5>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+  <td6>Agency Class</td6>
+  <td7>Agency Type</td7>
+  <td8>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+  <td9>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+  <td10>Receipt Up To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+  <td11> Destination</td11>
+  <td12>State</td12>
+  <td13>Arrears Comparison Report</td13>
+  <td14>Break On</td14>
+  <td15>Report Type</td15>
+  <td16>Billing Type</td16>
+  <td17>Language</td17>
+  <td18>Data Filters</td18>
+  <td19>30</td19>
+  <td20>Represantative&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+  <td21>Company Name</td21>
+  <td22>Printing Center Name</td22>
+</table>
+<table1>
+  <td>AGCD</td>
+  <td1>Agency Name</td1>
+	<td2>Deposit Balance</td2>
+	<td3>Bill Amount</td3>
+	<td4>Arrears</td4>
+	<td5>Receipt</td5>
+	<td6>Balance</td6>
+	</table1>
+<table2>
+	<td>Agency Name</td>
+	<td1>City Name</td1>
+	<td2> Deposit Balance</td2>
+	<td3>Bill Amount</td3>
+	<td4>Arrears</td4>
+	<td5>Receipt</td5>
+	<td6>Other</td6>
+	<td7>Other</td7>
+	<td8>Balance</td8>
+	<td9>Debit</td9>
+	<td10>Credit</td10>
+    <td11>Amount</td11>
+  <td12>Description</td12>
+</table2>
+	<table3>
+		<td>Agency Name</td>
+		<td1>City Name</td1>
+		<td2> Deposit Balance</td2>
+		<td3>Bill </td3>
+		<td4>Arrears</td4>
+		<td5>Receipt</td5>
+		<td6>Other</td6>
+		<td7>Other</td7>
+		<td8>Balance</td8>
+		<td9>Debit</td9>
+		<td10>Credit</td10>
+		<td11>Amount</td11>
+
+	</table3>
+  <table4>
+    <td>State</td>
+    <td1>S</td1>
+    <td2>District</td2>
+    <td3>D</td3>
+    <td4>Taluka</td4>
+    <td5>T</td5>
+  </table4>
+  <table5>
+    <td>Summary</td>
+    <td1>S</td1>
+  </table5>
+  <table6>
+    <td>Weekly</td>
+    <td1>W</td1>
+  </table6>
+  <table7>
+    <td>Other Language</td>
+    <td1>2</td1>
+  </table7>
+  <table8>
+    <td>All</td>
+    <td1>A</td1>
+    <td2>Without Billing Data</td2>
+    <td3>W</td3>
+  </table8>
+
+</newdataset>

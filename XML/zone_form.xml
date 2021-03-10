@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>User&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Role</td1>
+    <td2>Company</td2>
+   <td3>COMP_CODE$~$USER_CODE$~$ZONE_CODE$~$USER_FLAG</td3>
+    <td4>LOGIN_ZONE_MAST</td4>
+    <td5>COMP_CODE$~$USER_CODE$~$REGION_CODE$~$USER_FLAG</td5>
+    <td6>LOGIN_REGION_MAST</td6>
+    <td7>COMP_CODE$~$USER_CODE$~$ZONE_CODE</td7>
+    <td8>COMP_CODE$~$USER_CODE$~$REGION_CODE</td8>
+    <td9>COMP_CODE$~$USER_CODE</td9>
+    <td10>COMP_CODE</td10>
+    
+
+
+
+  </table>
+
+  <table1>
+    <td>--Select Company--</td>
+  </table1>
+  </newdata>

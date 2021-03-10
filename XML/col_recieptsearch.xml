@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Branch Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Branch Name &lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Receipt No.</td2>
+    <td3>Bill Date</td3>
+    <td4>Bank Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Bill No.</td6>
+    <td7>Doctype</td7>
+    <td8>Cheque No.</td8>
+    <td9>Cheque Date</td9>
+    <td10>Submit</td10>
+    <td11>Clear</td11>
+    <td12>Exit</td12>
+    <td13>RO No.</td13>
+    <td14>RO Date</td14>
+    <td15>Client&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td16>
+    <td17>From Date</td17>
+    <td18>To Date</td18>
+    <td19>Based On</td19>
+    <td20>Bill Amount</td20>
+    <td21>Bill O/S</td21>
+    <td22>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+    <td23>Booking Id</td23>
+    <td24>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+    <td25>Booking Id</td25>
+    <td26>Prt No.</td26>
+    <td27>Bill Amount</td27>
+    
+  </table> 
+  
+</newdataset>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Agency Type&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>From Copy&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Till Copy&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Gift Value Type</td6>
+    <td7>Gift Value</td7>
+    <td10>Effective From</td10>
+    
+    <td8>City Code</td8>
+    <td9>City&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td9>
+    
+    <td12>COMP_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CITY_CODE$~$FROM_COPY$~$TILL_COPY$~$GIFT_VAL_TYPE$~$GIFT_VALUE$~$EFFECTIVE_FROM$~$CIR_GIFT_SUPPLY_MAST$~$SELECT#INSERT#UPDATE#DELETE</td12>
+
+    <!--<td11>COMP_CODE$~$UNIT_CODE$~$AREA_CODE$~$AREA_NAME$~$AREA_NAME_OTH_LANG$~$AREA_TYPE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$ZONE_CODE$~$AREA_INCHARGE$~$USERID$~$FREEZE_FLAG$~$CIR_AREA_MAST$~$INSERT#UPDATE#DELETE#SELECT</td11>
+    <td12>COMP_CODE$~$UNIT_CODE$~$AREA_CODE$~$AREA_NAME$~$AREA_NAME_OTH_LANG$~$AREA_TYPE$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$ZONE_CODE$~$AREA_INCHARGE$~$FREEZE_FLAG$~$CIR_AREA_MAST$~$INSERT#UPDATE#DELETE#SELECT</td12>
+    <td13>COMP_CODE$~$UNIT_CODE$~$AREA_CODE</td13>-->
+    <td11>CIR_GIFT_SUPPLY_MAST</td11>
+  <!-- <td15>COMP_CODE$~$AREA_NAME</td15>-->
+
+    <td13>view</td13>
+
+
+
+    <td14>Publication.</td14>
+    <td22>Agency Type</td22>
+   
+    <td15>City</td15>
+    <td16>From Copy</td16>
+    <td17>Till Copy</td17>
+    <td18>Gift Value</td18>
+    <td19>Gift Type Value</td19>
+    <td20>Effective Date</td20>
+    <td21>SNo.</td21>
+    <TD23>VIEW</TD23>
+    <td24>COMP_CODE$~$PUBL_CODE</td24>
+    <td25>COMP_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CITY_CODE$~$GIFT_VAL_TYPE$~$EFFECTIVE_FROM</td25>
+    <TD26>COMP_CODE$~$PUBL_CODE$~$AGENCY_TYPE$~$CITY_CODE$~$FROM_COPY$~$TILL_COPY$~$GIFT_VAL_TYPE$~$GIFT_VALUE$~$EFFECTIVE_FROM</TD26>
+    
+    
+  </table>
+  <table1>
+    <td>Per Copy</td>
+    <td1>P</td1>
+    <td2>Fixed</td2>
+    <td3>F</td3>
+
+
+
+  </table1>
+</Newdataset>

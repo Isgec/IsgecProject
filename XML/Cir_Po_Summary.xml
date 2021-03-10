@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Company Name</td0>
+    <td1>Company Code</td1>
+    <td2>Printing Center Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td2>
+    <td3>Printing Center Code</td3>
+    <td4>Publication&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+    <td5>Main Edition&lt;font color=red&gt; [F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt; [F2]&lt;/Font&gt;</td6>
+    <td7>From Date&lt;font color=red&gt; *&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Destination</td9>
+    <td10>Report Type&lt;font color=red&gt; *&lt;/font&gt;</td10>
+</table>
+  <table1>
+    <td0>---Select Report Type---</td0>
+    <td1>Z</td1>
+    <td2>Po Summary Report</td2>
+    <td3>A</td3>
+    <td4>Main Day Summary</td4>
+    <td5>B</td5>
+  </table1>
+</dataset>

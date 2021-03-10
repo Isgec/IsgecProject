@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Company Code</td1>
+    <td2>Unit Code&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+    <td5>Supdate&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Edition Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+  </table>
+</newdataset>

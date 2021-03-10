@@ -1,0 +1,285 @@
+﻿
+
+.newfont8
+{
+	
+ 
+		font-family:Arial;
+		font-size:9px;
+		color:Black;
+		font-weight:normal;
+		text-align:left ;
+		width:4%;
+		color: #000000;
+		background-color:#f8f9fd;
+		
+}
+
+
+.newfont8_right
+{
+	
+ 
+		font-family:Arial;
+		font-size:9px;
+		color:Black;
+		font-weight:normal;
+		text-align:right ;
+		width:4%;
+		
+}
+
+
+.tdforcolname17
+{
+	height:20px;
+	font-weight:bold;
+	font-size:14px;
+	font-family:Verdana;
+	color:black;	
+	text-align:center;
+}
+
+
+.tdforcolname4
+{
+	height:20px;
+	font-weight:bold;
+	font-size:9px;
+	font-family:Verdana;
+	color:Black;
+	width:6%;
+	text-align:right;
+}
+
+
+.tdforcolname2
+{
+	height:20px;
+	font-weight:bold;
+	font-size:10px;
+	font-family:Verdana;
+	color:Black;
+	width:6%;
+	text-align:left;
+	border-bottom:solid 1px;
+	border-top:solid 1px;
+	border-bottom-color:Black;
+	border-top-color:Black;    
+    vertical-align:top; 
+}
+
+.middle31
+{
+
+	font-size:10px;
+	font-family:Arial;
+    font-weight :bold;
+
+  
+	 
+}
+
+.tdforcolname2_head
+{
+	height:20px;
+	font-weight:bold;
+	font-size:10px;
+	font-family:Verdana;
+	color:Black;
+	width:6%;
+	text-align:left;
+
+}
+
+.tdforcolname2_head1
+{
+	height:20px;
+	font-size:10px;
+	font-family:Verdana;
+	color:Black;
+	width:4%;
+}
+
+
+.tdforcolname2_head11
+{
+	
+	font-size:10px;
+	font-family:Verdana;
+	color:Black;
+	
+}
+
+
+
+.newfont8_right_new
+{
+	
+ 
+		font-family:Arial;
+		font-size:9px;
+		color:Black;
+		font-weight:normal;
+		text-align:left ;
+		
+}
+
+
+.newfont8_right_new2
+{
+	
+ 
+		font-family:Arial;
+		font-size:9px;
+		color:Black;
+		font-weight:normal;
+		text-align:right;
+		
+}
+
+
+.newfont8_right_new1
+{
+	
+ 
+		font-family:Arial;
+		font-size:9px;
+		color:Black;
+		font-weight:normal;
+		text-align:right ;
+		
+}
+
+
+
+.newfontsupply_right_new
+{
+	
+	background-color:#f8f9fd;
+	font-family:Arial;
+	font-size:9px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right ;
+
+		
+}
+
+
+.newfontsupply_center_new
+{
+	
+	background-color:#f8f9fd;
+	font-family:Arial;
+	font-size:9px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center ;
+
+		
+}
+
+.tdforcolname_new
+{
+
+  border-bottom:solid 1px black;
+  border-bottom-width:thin;
+  height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:black;
+text-align:left;
+}
+.reporthead1
+{
+ font-family: verdana;
+ color:black;
+ FONT-WEIGHT:normal;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ border-bottom-style:solid;
+ border-bottom-color:Black;
+ border-bottom: 2px solid black;
+ border-bottom-style:solid;
+ border-top:2px solid black;
+border-top-color:Black;
+border-top-style:solid;
+}
+
+.reporthead11
+{
+ font-family: verdana ;
+ color:black;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:right ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ border-bottom-style:solid;
+border-bottom-color:Black;
+border-bottom: 2px solid black;
+border-bottom-style:solid;
+border-top:2px solid black;
+border-top-color:Black;
+border-top-style:solid;
+}
+
+.lightblue
+{
+
+color: black;
+border-bottom-style:solid;
+border-bottom-color:Black;
+border-bottom: 2px solid black;
+border-bottom-style:solid;
+border-top:2px solid black;
+border-top-color:Black;
+border-top-style:solid;
+
+}
+
+.reporthead12
+{
+ font-family: verdana ;
+ color:black;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left;
+ padding-left :0px;
+ vertical-align :text-top ;
+ color: black;
+border-bottom-style:solid;
+border-bottom-color:Black;
+border-bottom: 2px solid black;
+border-top:2px solid black;
+border-top-color:Black;
+border-top-style:solid;
+
+}
+
+.reporthead121
+{
+ font-family: verdana ;
+ color:black;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:right;
+ padding-left :0px;
+ color: black;
+border-bottom-style:solid;
+border-bottom-color:Black;
+border-bottom: 2px solid black;
+border-top:2px solid black;
+border-top-color:Black;
+border-top-style:solid;
+
+
+ 
+}
+ /*width:60px; */
+body {
+}

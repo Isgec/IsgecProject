@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Sub: outstanding Bill/s of Advertiesment</td>
+    <td1>Dear Sir / Madam</td1>
+    <td2>As per our books of account an amount of Rs.</td2>
+    <td3>is outstanding against bills upto</td3>
+    <td4>and payment received till</td4>
+    <td5>of advertiesment/s published in our publication. Details are given below:</td5>
+    <td6>Details of Unapplied Credit :</td6>
+  </table>
+  <table1>
+    <td>Total Inv Outstanding</td>
+    <td1>Less Unapplied CM</td1>
+    <td2>Less Unapplied Receipts</td2>
+    <td3>Net Outstanding</td3>
+    <td4>Total.</td4>
+  </table1>
+  <table2>
+    <td>Sub: Statement of Outstanding Bill.</td>
+    <tr1>We are enclosing a Statement of outstanding Bills Upto </tr1>
+    <tr2>Payments against invoice should always be settled in full. If any deduction</tr2>
+    <tr3> is made, reasons for such deduction must be</tr3>
+    <tr4>communicated to us along with the payment. Otherwise, it will be treated as short payment.</tr4>
+    <tr5>Thanks,</tr5>
+    <tr6>Advertisement Account Department.</tr6>
+    <tr7>आपके **** तक के बकाया बिलों का विवरण संलग्न है।</tr7>
+    <tr8>बिलों का भुगतान पूर्ण रूप से किया जाना आवश्यक है, यदि इसमें किसी भी प्रकार की कटौती आपके द्वारा की जाती है तो कटौती का</tr8>
+    <tr9> कारण हमें भुगतान के साथ ही सूचित किया जाना चाहिए। अन्यथा इसे आंशिक भुगतान माना जाएगा।</tr9>
+  </table2>
+  <table3>
+    <tr>&lt;font weight=bold&gt;Note:&lt;/Font&gt; </tr>
+    <tr1>If there is any discrepancy, Please confirm in writing to Advertisement</tr1>
+    <tr2> Account Department within 7 days from the date of</tr2>
+    <tr3>receipt of this statement, else above dues shall be deemed to be confirmed.</tr3>
+    <tr4>यदि उपरोक्त विवरण में किसी प्रकार की विसंगति है, तो कृपया प्राप्ति के 7 दिनों के भीतर विज्ञापन लेखा विभाग को लिखित रूप में सूचित करें।</tr4>
+    <tr5> अन्यथा उपरोक्त बकाया राशि आपके द्वारा स्वीकृत मानी जाएगी।</tr5>
+    <tr6>&lt;font weight=bold&gt;नोट: &lt;/Font&gt; </tr6>
+    
+  </table3>
+</dataset>

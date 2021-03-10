@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table0>
+   
+    <td0>Company Code</td0>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Edition</td6>
+    <td7>Subedition</td7>
+    <td8>Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Hawker Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>First Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Second Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Select</td12>
+    <td13>Copy</td13>
+    <td14>Supply</td14>
+    <td15>Destination</td15>
+    <td16>&lt;font color=red&gt;*Click On Check Box For Multiple Selection&lt;/Font&gt;</td16>
+   
+    
+  </table0>
+
+</newdataset>

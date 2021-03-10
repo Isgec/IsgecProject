@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+
+    <tr>Branch&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>Receipt No&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+    <tr4>PayMode/Reason&lt;font color=red&gt;*&lt;/Font&gt;</tr4>
+    <tr5>Agency Region&lt;font color=red&gt;*&lt;/Font&gt;</tr5>
+    <tr6>Voucher No&lt;font color=red&gt;*&lt;/Font&gt;</tr6>
+    <tr7>Amount Recd.&lt;font color=red&gt;*&lt;/Font&gt;</tr7>
+    <tr8>Amount</tr8>
+    <tr9>Amount In Hand</tr9>
+    <tr10>Agency&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr10>
+    <tr14>Cheque No</tr14>
+    <tr15>Cheque Date</tr15>
+    <tr16>Bank&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr16>
+    <tr17>Othercd</tr17>
+    <tr18>Remark</tr18>
+    <tr19>Client </tr19>
+    <tr21>Representative&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr21>
+    <tr22>Agency Code</tr22>
+    <tr23>Agency SubCode</tr23>
+    <tr24>Voucher Date&lt;font color=red&gt;*&lt;/Font&gt;</tr24>
+    <tr25>Adjusted Amt.</tr25>
+    <tr26>Bill No</tr26>
+    <tr27>Bill Date</tr27>
+    <tr28> Outstanding</tr28>
+    <tr29> Amount</tr29>
+    <tr37>Publication</tr37>
+    <tr30> TDS</tr30>
+    <tr31>Service Tax</tr31>
+    <tr32>  Remark</tr32>
+    <tr33>Adjusted Amount</tr33>
+    <tr34>Narration</tr34>
+    <tr35>Inward Rec. No.&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr35><!--Prov.Doc -->
+    <tr36>Cash/Bank&lt;font color=red&gt;*&lt;/Font&gt;</tr36>
+    <tr38>SAC&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr38>
+    <tr39>Sub SAC&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr39>
+    <tr40>GST On Amount</tr40>
+    <tr41>Sub Reason&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr41>
+    <tr42>Bank Branch</tr42>
+    <tr43>Ref DocType&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr43>
+    <tr44>Ref Doc Date</tr44>
+    <tr45>Ref Doc No</tr45>
+    <tr46>Ad Type&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr46>
+    <tr47>Printing Center&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr47>
+    <tr48>PRT Amt.</tr48>
+  </table>
+
+  <table1>
+    <tr>Debit A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr>
+    <tr1>Credit A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr1>
+    <tr2>Clearance  Type</tr2>
+    <tr3>Received From</tr3>
+    <tr4>Finance Pass</tr4>
+    <tr5>Cheque Deposit</tr5>
+    <tr6>Con.Amt</tr6>
+    <tr7>Rest Con.Amt</tr7>
+    <tr8>Sub Debit A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr8>
+    <tr9>Sub Credit A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr9>
+    <tr10>VAT A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr10>
+    <tr11>VAT Base.Amt</tr11>
+    <tr12>VAT Flag</tr12>
+    <tr13>VAT Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr13>
+    <tr14>VAT Amt</tr14>
+    <tr15>SAC Code&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr15>
+    <tr16>Sub SAC Code&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr16>
+    <tr17>Ref Doctype&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr17>
+    <tr18>PRT No.&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr18>
+    <tr19>PRT Dt.</tr19>
+    <tr20>GMR No.</tr20>
+    <tr21>GMR Dt.</tr21>
+    <tr22>Ref Receipt No</tr22>
+    <tr23>Tan No.</tr23>
+    <tr24>Financial Year&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr24>
+  </table1>
+  <table2>
+    <td>N</td><!-- IF Y then Bill Adjustment For Myanmar else Others Client-->!>
+  </table2>
+  <table3>
+    <td>N</td>
+    <!--IF Y then LINEAGE_MARKING show  else  hide (For Amar Ujala) -->
+    <td1>Y</td1>
+    <!--IF Y then Branch Enable  else  disable(For Amar Ujala) -->
+    <td2>Y</td2>
+    <!--IF Y then show heading (Apply Date,Cleint Name, Ro No, Pending Amount, Reference Id ) this use for amar ujala -->
+    <td3>Y</td3>
+    <!--IF Y then Bill Untag direct Execute and Bill Untag button enable in receipt form else button not show (For Amar Ujala) -->
+    <td4>N</td4>
+    <!--IF Y then Rest Con.Amt is Zero(0)  else show (For Amar Ujala) -->
+    <td5>Y</td5>
+    <!--IF Y then gst receipt formate call  else normal  -->
+    <td6>N</td6>
+    <!--IF Y then multiple marking form from date and to date required else not required  -->
+    <td7>N</td7>
+    <!--IF Y then Bill detail show in receipt print from other not show  -->
+    <td8>N</td8>
+    <!--IF N for new eceipt formate  Y for old receipt formate-->
+  <td9>N</td9><!--if Y than security entry modify allow else No-->
+    <td10>30/09/2018</td10> <!--month end date -->
+    <td11>Y</td11><!--if Y for hide consolidate else N for show-->
+    <td12>Y</td12><!--if Y for clear chq and prt no/dt  else N for Not clear chq and prt no/dt-->
+  </table3>
+</newdata>

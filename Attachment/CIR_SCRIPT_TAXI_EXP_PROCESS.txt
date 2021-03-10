@@ -1,0 +1,174 @@
+CREATE OR REPLACE PACKAGE BODY cir_transporter_bind IS
+  procedure cir_transporter_bind_p(
+      pcomp_code         in varchar2,
+      pdateformat     in varchar2,
+      pextra1             in varchar2,
+      pextra2             in varchar2,
+      p_accounts         out t_accounts_type)
+      As
+  Begin
+      open p_accounts for
+        select * from CIR_TRANSPORTER_MAST
+                where COMP_CODE=pcomp_code and (TRANSPORTER_NAME like pextra1||'%' OR pextra1 IS NULL)
+                       and (BRANCH_CODE=pextra2 OR pextra2 IS NULL OR pextra2='')
+                      order by TRANSPORTER_CODE;
+  End cir_transporter_bind_p;
+
+  procedure cir_transporter_bind_p(
+        pcomp_code in varchar2,
+        ptpt_code in varchar2,
+      pdateformat in varchar2,
+      pextra1 in varchar2,
+      pextra2 in varchar2,
+        p_accounts out t_accounts_type) as
+      Begin
+        open p_accounts for
+          select * from cir_transporter_mast
+                where COMP_CODE=pcomp_code and
+                      (TRANSPORTER_CODE=ptpt_code or nvl(ptpt_code,'0')='0') ;
+  End cir_transporter_bind_p;
+END cir_transporter_bind;
+/
+
+
+CREATE OR REPLACE procedure cir_taxi_bill_bind(
+pcomp_code    in varchar2,
+punit_code    in varchar2,
+ptrans_code   in varchar2,
+pbilldt       in varchar2,
+pdateformat   in varchar2,
+pextra1       in varchar2,
+pextra2       in varchar2,
+p_accounts   OUT   cur_type_new1.cursor_type)
+
+
+AS
+v_billdt date;
+  
+BEGIN
+
+v_billdt :=to_date(pbilldt,''''||pdateformat||'''');
+   
+  
+open p_accounts  for
+select * from cir_taxi_bill
+where comp_code = pcomp_code and UNIT_CODE = punit_code and TRANS_CODE=ptrans_code
+and BILLDT=v_billdt;
+End cir_taxi_bill_bind;
+/
+
+
+CREATE TABLE CIR_TAXI_BILL_EXP_DTL
+(
+  COMP_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  UNIT_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  TRANS_CODE     VARCHAR2(20 BYTE)              NOT NULL,
+  BILLNO         VARCHAR2(30 BYTE)              NOT NULL,
+  BILLDT         DATE,
+  REASON         VARCHAR2(500 BYTE),
+  AMOUNT         NUMBER(10,2),
+  ADD_DEDUC      VARCHAR2(8 BYTE),
+  USERID         VARCHAR2(8 BYTE),
+  CREATION_DATE  DATE                           DEFAULT SYSDATE
+)
+
+
+CREATE OR REPLACE PROCEDURE Cir_insert_taxi_bill_exp
+(
+    pcompcode  varchar2,
+    punitcode  varchar2,
+    ptrancode  varchar2,
+    pbillno    varchar2,
+    pbilldt    varchar2,
+    preasom    varchar2,
+    pamount    varchar2,
+    padddec    varchar2,
+    pdateformat varchar2,
+    puserid   varchar2,
+    pextra1   varchar2,
+    pextra2   varchar2,
+    pextra3   varchar2,
+    pextra4   varchar2,
+    pextra5   varchar2
+    
+     )
+
+ AS
+  v_cnt  int;
+  v_billdt date;  
+   BEGIN
+
+  v_billdt :=to_date(pbilldt,''''||pdateformat||'''');
+   
+          /*select count(*) into v_cnt from CIR_TAXI_BILL_EXP_DTL where
+            COMP_CODE=pcompcode and UNIT_CODE=punitcode and TRANS_CODE =ptrancode
+            and BILLNO=pbillno AND BILLDT=v_billdt;
+            
+            
+            if(v_cnt>0)
+            then
+                update CIR_TAXI_BILL_EXP_DTL set
+                                           AMOUNT=pamount,
+                                           REASON=preasom
+            where COMP_CODE=pcompcode and UNIT_CODE=punitcode and TRANS_CODE =ptrancode
+            and BILLNO=pbillno AND BILLDT=v_billdt;
+            
+
+            else */               
+            INSERT INTO CIR_TAXI_BILL_EXP_DTL(COMP_CODE,UNIT_CODE,TRANS_CODE,BILLNO,BILLDT,REASON,AMOUNT,ADD_DEDUC,USERID,CREATION_DATE)
+                VALUES(pcompcode,punitcode,ptrancode,pbillno,v_billdt,preasom,pamount,padddec,puserid,sysdate);
+            --end if;
+            commit;
+
+    
+
+
+
+
+
+
+end;
+/
+
+
+CREATE OR REPLACE PROCEDURE Cir_execute_taxi_bill_exp
+(
+    pcompcode  varchar2,
+    punitcode  varchar2,
+    ptrancode  varchar2,
+    pbillno    varchar2,
+    pbilldt    varchar2,
+    pdateformat varchar2,
+    puserid   varchar2,
+    pextra1   varchar2,
+    pextra2   varchar2,
+    pextra3   varchar2,
+    pextra4   varchar2,
+    pextra5   varchar2,
+    p_accounts      OUT cur_type_new1.cursor_type)
+     
+
+ AS
+  v_cnt  int;
+  v_billdt date;  
+   BEGIN
+
+  v_billdt :=to_date(pbilldt,''''||pdateformat||'''');
+   
+  
+            open p_accounts  for
+            select * from CIR_TAXI_BILL_EXP_DTL 
+            where COMP_CODE=pcompcode and UNIT_CODE=punitcode and TRANS_CODE =ptrancode
+            and BILLNO=pbillno AND BILLDT=v_billdt;
+            
+            
+           
+    
+
+
+
+
+
+
+end;
+/

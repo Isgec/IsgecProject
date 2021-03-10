@@ -1,0 +1,33 @@
+﻿.maintable
+{
+overflow: auto;
+ width:100%;
+ }
+ 
+ .tdforcolname
+ {
+height:20px;  
+ font-weight:bold; 
+ font-size:xx-small;	
+ }
+ 
+ .tdforcolnametotal
+ {
+
+ font-weight:bold; 
+ font-size:x-small;	
+ }
+ 
+  .tdforcolname1
+ { 
+ 
+ font-size:x-small;	
+ }
+ .fortotal
+ {
+ 
+  border-bottom:dotted 1px black;
+   border-top:dotted 1px black;
+   font-size:x-small;	
+   font-weight:bold;
+ }

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table>
+    <td>Edition Wise Rate Report</td>
+    <td1>Company</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Edition</td6>
+    <td7>Sub Edition</td7>
+    <td8>Report Destination</td8>
+    <td9>Font</td9>
+    <td10>Company Name</td10>
+    <td11>Printing Center Name</td11>
+  </table>
+
+	<table1>
+		<td>Edition Wise Rate Report</td>
+		
+	</table1>
+ 
+  
+  
+  <table2>
+    <td>Edition Wise Summary Billing</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Break On</td7>
+    
+    <td8>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>State/District/Zone/Region</td10>
+    <td11>ReportDesignation</td11>
+    <td12>Report Type</td12>
+    <td13>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Agency class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Include Insertion Fee</td15>
+    <td16>Paid/Free</td16>
+    <td17>Edition Wise Summary Billing</td17>
+    <td18>Return Based On</td18>
+  </table2>
+  <table3>
+    <td0>Billing Summary</td0>
+    <td1>B</td1> 
+    <td2>Unsold Return Summary</td2>
+    <td3>R</td3>
+    <td4>Comissionwise/Editionwise Bill Summary</td4>
+    <td5>CER</td5>
+  </table3>
+  <table4>
+    <td0>Product</td0>
+    <td1>Copy</td1>
+    <td2>Bill Amount</td2>
+    <td3>Comm Amount</td3>
+    <td4>Insertion Amount</td4>
+    <td5>Net Amount</td5>
+    
+  </table4>
+  <table5>
+    <td0>Product</td0>
+    <td1>Copy</td1>
+    <td2>Return Amount</td2>
+    <td3>Comm Amount</td3>
+    <td4>Insertion Amount</td4>
+    <td5>Net Amount</td5>
+    
+  </table5>
+  <table6>
+    <td0>Return Date</td0>
+    <td1>1</td1>
+    <td2>Supply Date</td2>
+    <td3>2</td3>
+   
+
+  </table6>
+ <table7>
+    <td0>Edition</td0>
+    <td1>MONDAY</td1>
+    <td2>TUESDAY</td2>
+    <td3>WEDNESDAY</td3>
+    <td4>THURSDAY</td4>
+    <td5>FRIDAY</td5>
+    <td6>SATURDAY</td6>
+    <td7>SUNDAY</td7>
+    <td8>SPL.ISSUE</td8>
+    <td9>GRAND TOTAL</td9>
+    <td10>AMOUNT</td10>
+    <td11>COMISSION</td11>
+    <td12>ED.TOTAL</td12>
+    <td13>G.TOTAL</td13>
+   <td14>COPIES</td14>
+   <td15>AMOUNT</td15>
+ </table7>
+  
+</newdataset>

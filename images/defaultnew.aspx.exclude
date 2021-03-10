@@ -1,0 +1,405 @@
+<%@ Page language="c#" Codebehind="defaultnew.aspx.cs" AutoEventWireup="false" Inherits="ezine.defaultnew" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>defaultnew</title>
+		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
+		<meta content="C#" name="CODE_LANGUAGE">
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<LINK href="style.css" type="text/css" rel="stylesheet">
+		<script language="javascript" src="javascript/popcalendar.js">	</script>
+		<script language="javascript" src="javascript/myjava.js">	</script>
+		<SCRIPT language="javascript" src="Functions.js"></SCRIPT>
+		<LINK href="general.css" type="text/css" rel="stylesheet">
+		<script>
+	function sendmail()
+{
+var cc=document.getElementById("txtcc").checked;
+      defaultnew.mail(document.getElementById("txtname").value,document.getElementById("txtemail").value,document.getElementById("txtrname").value,document.getElementById("txtremail").value,cc,document.getElementById("txtmess").value)
+	if(document.Form1.txtname.value=="")
+{
+alert("enter Sender name");
+document.Form1.txtname.focus();
+return false;
+}
+if(document.Form1.txtemail.value=="")
+{
+alert("enter Sender Email");
+document.Form1.txtemail.focus();
+return false;
+}
+if(!validateEmailAddress(document.Form1.txtemail.value))
+{
+alert("Please enter correct mailid");
+document.Form1.txtemail.focus();
+return false;
+}
+if(document.Form1.txtrname.value=="")
+{
+alert("enter Recipient Name");
+document.Form1.txtrname.focus();
+return false;
+}
+if(document.Form1.txtremail.value=="")
+{
+alert("enter Recipient Email");
+document.Form1.txtremail.focus();
+return false;
+}
+if(document.Form1.txtmess.value=="")
+{
+alert("enter Message");
+document.Form1.txtmess.focus();
+return false;
+}
+}
+//for MyAccount
+function myaccount()
+{
+document.getElementById("myrightbar").innerHTML="";
+document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'  onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+}
+		
+		//for Readers
+		function Readers()
+		{
+		document.getElementById("myrightbar").innerHTML="";
+
+document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'  onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+		document.getElementById("myrightbar").innerHTML+="<table cellSpacing=0 cellPadding=0 width=100% align=center><tr><td align=left width=10></td><td class=heading>For Readers</td></tr><tr><td></td><td class=normal><br>4C-eZine™ replicates the look and feel of the print edition of your favourite magazines on the web. eZineMart has additional functionality over the print edition and many utilitarian features that makes viewing the digital edition a unique and delighful experience.</td></tr><tr><td></td><td class=normal><br>Advantages to Readers are:</td></tr><tr><td></td><td class=normal><br><ol><li>Reach subscribers abroad at a lower cost, in time and save on shipping</li><li>Now you can read your favourite publication in any part of the country or the world because of the web based global availability </li><li>Subscribe to the print or/ and the digital edition</li></ol></td><tr></table>";
+		
+		}
+		//for advertizer
+		function Advertizer()
+		{
+		document.getElementById("myrightbar").innerHTML="";
+		
+		document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'  onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+		document.getElementById("myrightbar").innerHTML+="<table cellSpacing=0 cellPadding=0 width=100% align=center><tr><td align=left width=10></td><td class=heading>For Advertiser</td></tr><tr><td></td><td class=normal><br>4C-eZine™ also helps advertisers increase reach and recall by integrating audio-video advertisements with the advertisements already </td></tr><tr><td></td><td class=normal>published in the magazines hosted on eZineMart. It also allows marketers to conduct context based surveys and offer other innovations to a highly involved audience.</td></tr><tr><td></td><td class=normal><br>Advantages to Advertisers are:</td></tr><tr><td></td><td class=normal><br><UL TYPE=SQUARE><li>See where your advertisement has appeared in the digital edition without waiting for the physical copy of the magazine to reach you</li><li>Many publishers offer the current issue or archives free to view to visitors to eZineMart. Your ad published in one of the magazines hosted on eZineMart gets viewed by readers who may not be reading the offline magazine</li><li>Show flash advertisements instead of still advertisements by replacing the static ad in the digital edition*</li><li>Show targeted Pop-up/ under ads based on the demographic profile of the user</li><li>Targeted ads can be displayed based on either the editorial content or advertisement being viewed</li><li>The pop-up ads can be TV commercials (TVC) still ads</li><li>Conduct online survey/ polls</li></UL><tr><td></td><td class=normal>At a small add on cost. Contact <a  class=link  href=mailto:adsales@eZineMart.com> adsales@eZineMart.com</a> for details</td></tr></td></tr> </table>";
+		}
+		//for publisher
+		function Publisher()
+		{
+		document.getElementById("myrightbar").innerHTML="";
+		document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'  onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+		document.getElementById("myrightbar").innerHTML+="<table cellSpacing=0 cellPadding=0 width=100% align=center><tr><td align=left width=10></td><td class=heading>For Publishers</td></tr><tr><td></td><td class=normal><br>For Publishers, 4C-eZine™ opens new channels of revenue generation, higher brand recall and a loyal readership.</td></tr><tr><td></td><td class=normal><br>The advantages of being on eZineMart for publishers are:</td></tr><tr><td></td><td class=normal><br><ol><li>Launch a digital edition</li><li>More revenues through enhanced reader base</li><li>	Paid or free access to current digital issue of the magazine</li><li>Premium subscription based access to paid archives for readers</li><li>Ability to showcase content without allowing users to copy-paste the content as the option of showing text as an image also exists</li><li>Reduce cost of printing and distribution</li><li>Be there with the other magazines on a single platform</li><li>Sell subscriptions of the printed edition using the eZineMart shopping cart and payment gateway</li><li>Free trial for product sampling to non readers in India</li><li>Archival of all the print issues </li><li>Interactive features allow online readers to submit feedback to articles, share the articles and have discussions with other readers</li><li>A transparent merchant login account with multiple reports that provides</li></ol><ol TYPE=a><li >Registration data of readers who have opted in (name, contact details, demographic profile and other data)</li><li>	View active, new, expired, suspended accounts</li><li>View what other publications have been subscribed by their readers</li><li>Check ledger account online for revenues accrued </li></ol></td></tr></table>";
+		
+		}
+		//for contact us
+		function contactus()
+		{
+			document.getElementById("myrightbar").innerHTML="";
+			document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'  onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+			document.getElementById("myrightbar").innerHTML+="<table cellSpacing=0 cellPadding=0 width=100% align=center><tr><td align=left width=10></td><td><font class=heading>Contact Us</font></td></tr><tr><td></td><td class=contact><br>Corporate Office</td></tr><tr><td></td><td class=contact><br><br>&nbsp;eZineMart</td></tr><tr><td></td><td class=normal>&nbsp;<br>&nbsp;B-14, Shashi Gardens,<br>&nbsp;Mayur Vihar - I,<br>&nbsp;Delhi - 110091, INDIA<br>&nbsp;Tel: +91-11-22750658, 22756497<br>&nbsp;Fax: +91-11-22754177</td></tr></table><table><tr><br><br><td></td><td width=100 class=contact>Publishers</td><td></td><td><a  class=link  href=mailto:sales@eZineMart.com>sales@eZineMart.com </a></td></tr><tr><td></td><td width=100 class=contact>Advertisers</td><td></td><td><a  class=link href=mailto:adsales@eZineMart.com>adsales@eZineMart.com </a></td></tr><tr><td></td><td width=100 class=contact>Readers</td><td></td><td><a  class=link href=mailto:feedback@eZineMart.com>feedback@eZineMart.com </a></td></tr><tr><td></td><td width=100 class=contact>Careers</td><td></td><td><a  class=link href=mailto:jobs@eZineMart.com>jobs@eZineMart.com </a></td></tr><tr><td></td><td width=100 class=contact>Support</td><td></td><td><a  class=link href=mailto:support@eZineMart.com>support@eZineMart.com </a></td></tr></table>";
+		}
+		//for about us
+		function aboutus()
+		{
+			document.getElementById("myrightbar").innerHTML="";
+			document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='#' onclick='javascript:aboutus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#' onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:Readers();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#' onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='#' onclick='javascript:contactus();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr></table>";
+			document.getElementById("myrightbar").innerHTML+="<table cellSpacing=0 cellPadding=0 width=100% align=center><tr><td align=left width=10></td><td><font class=heading>About us</font> </td></tr><tr><td></td><td><font class=normal><br><p class=normal><b>eZineMart</b> is the digitization service and e-publishing solution offered by 4Cplus. eZineMart creates and publishes the digital edition of magazines<b>.eZineMart™ </b>uses the 4C-eZine™ solution as the core engine.<b> 4C-eZine™</b>generates the e-magazine in minutes and makes it available on the Internet allowing Publishers to reach out to readers who are beyond the reach of traditional distribution channels. Users can access the e-magazine –any where and any time.</p><p class=normal></p><p class=normal style='text-align:justify'><b>&nbsp;&nbsp;eZineMart™</b> leverages the technical strengths of 4Cplus, high levels of ISO 9001:2000 certified services and benefits of economies of scale to provide visitors <u>access to world class digital editions of their favourite magazine titles. </p></font></td></tr></table>";
+			
+		}
+		function closearc()
+		{
+			 document.getElementById("archives_dialog").style.visibility="hidden";
+			 document.getElementById("archives_dialog").style.display="none";
+		}
+		
+		function insertrating(pubid)
+		{
+		
+		defaultnew.insertRating(pubid);
+		}
+		function searchresult()
+		{
+	//alert(document.getElementById("title").value);
+		document.getElementById("myrightbar").innerHTML="";
+		defaultnew.getRightBarData(document.getElementById("title").value,document.getElementById("category").value,document.getElementById("language").value,searchresult_callBack);
+		return false;
+		}
+function searchresult_callBack(response)
+{
+	//alert(response.value);
+	if(response.value!=null && response.value!="")
+	{
+	document.getElementById("myrightbar").innerHTML=response.value;
+	}
+	else
+	{
+	document.getElementById("myrightbar").innerHTML="<table width=100% cellspacing=3 ><tr height=20><td background=images/topbar.jpg width=100%><a href=defaultnew.aspx style=text-decoration:none ><font face=verdana size=1 color=white>&nbsp;<b>Home&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></font></a><a href='aboutus.aspx' onclick='javascript:hello();' style=text-decoration:none ><font face=verdana size=1 color=white><b>About us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#' onclick='javascript:Publisher();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Publishers&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#' style=text-decoration:none ><font face=verdana size=1 color=white><b>Reader&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a><a href='#'onclick='javascript:Advertizer();' style=text-decoration:none ><font face=verdana size=1 color=white><b>Advertizer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font></font><a href='contactus.aspx' style=text-decoration:none ><font face=verdana size=1 color=white><b>Contact us&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b></a></font><a href='#'onclick='javascript:myaccount();' style=text-decoration:none ><font face=verdana size=1 color=white><b>My Account&nbsp;&nbsp;&nbsp;</b></a></font></td></tr>";
+	document.getElementById("myrightbar").innerHTML+="<tr><td ><br>&nbsp;&nbsp;<font class=link>Sorry, No Data Available</font></td></tr></table>";
+	}
+}
+			/*for drag & drop of div tag*/
+document.onmousedown=drags
+document.onmouseup=new Function("dragapproved=false")
+		</script>
+	</HEAD>
+	<body bottomMargin="0" leftMargin="5" topMargin="5" rightMargin="5" MS_POSITIONING="GridLayout">
+		<form id="Form1" method="post" runat="server">
+			<!--outer table start-->
+			<table cellSpacing="0" cellPadding="0" width="100%" align="center">
+				<!--row for top table(header) start-->
+				<tr>
+					<td width="100%">
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tr>
+								<td vAlign="top" align="left" width="22%" height="7"><IMG height="78" src="images/ezine-logo.jpg" width="237"></td>
+								<td vAlign="top" align="center" width="78%" background="images/tagline-bg.JPG"><IMG height="78" src="images/tagline.jpg" width="459"></td>
+							</tr>
+							<tr>
+								<td vAlign="top" align="left">
+									<table cellSpacing="0" cellPadding="0" width="237" border="0">
+										<tr vAlign="top" align="left">
+											<td colSpan="3" height="15"><IMG height="15" src="images/welcome-top.jpg" width="237"></td>
+										</tr>
+										<tr>
+											<td vAlign="top" align="left" width="12"><IMG src="images/welcome-left.jpg" width="12"></td>
+											<td vAlign="top" align="left" width="207">
+												<table cellSpacing="0" cellPadding="0" width="207">
+													<tr>
+														<td class="welcomebg" vAlign="top" align="left" width="100%" background="images/welcome-bg.jpg">
+															<table height="100%" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																<tr>
+																	<td width="35%"><IMG height="100%" src="images/welcome.jpg" width="100%" border="0">
+																	</td>
+																	<td id="welcome" width="65%" runat="server"></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td class="loginbg" background="images/login-bg.jpg">
+															<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+																<tr>
+																	<td align="right" width="30%"><font class="textmaroon">Login</font></td>
+																	<td align="left" width="70%">&nbsp;&nbsp; <input class="textbox" id="login" type="text" size="10" name="login"></td>
+																</tr>
+																<tr>
+																	<td colSpan="2" height="10"></td>
+																</tr>
+																<tr>
+																	<td align="right" width="30%"><font class="textmaroon">Password</font></td>
+																	<td align="left" width="70%">&nbsp;&nbsp; <input class="textbox" id="password" type="password" size="10" name="password">
+																		&nbsp; <input class="gobutton" id="Button1" onclick="javascript:return validatelogin();" type="button"
+																			value="Go" name="button">
+																	</td>
+																</tr>
+																<tr>
+																	<td vAlign="middle" align="left" width="100%" colSpan="2" height="35"><font class="textmaroonnormal">New 
+																			User| Forgot Password?</font></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+											<td vAlign="top" align="right" width="18"><IMG height="115" src="images/welcome-right.jpg" width="18"></td>
+										</tr>
+									</table>
+								</td>
+								<td vAlign="top" align="center">
+									<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<tr vAlign="middle">
+											<td class="topng" id="topmagzine" align="center" width="99%" runat="server"></td>
+											<td vAlign="top" align="right" width="1%"><IMG height="130" src="images/top5-right.jpg" width="19"></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<!--row for middle part start-->
+				<tr vAlign="top">
+					<td align="center" width="100%">
+						<table cellSpacing="0" cellPadding="0" width="968" align="center" border="0">
+							<tr>
+								<!--td for left bar start-->
+								<td vAlign="top" width="218">
+									<table cellSpacing="0" cellPadding="0" width="100%" align="center">
+										<tr>
+											<td width="100%" height="4"></td>
+										</tr>
+										<tr>
+											<td width="100%" height="15">
+												<!--table for find magazine start-->
+												<table class="findmag" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+													<tr>
+														<td align="left" width="100%" colSpan="2" height="30"><IMG src="images/find-magazine.jpg"></td>
+													</tr>
+													<tr>
+														<td style="HEIGHT: 13px" align="left" width="40%">&nbsp;<font class="textmaroon">By 
+																Title</font>
+														</td>
+														<td style="HEIGHT: 13px" align="left" width="60%">&nbsp;&nbsp;&nbsp;<asp:dropdownlist id="title" Runat="server" CssClass="dropbox"></asp:dropdownlist>
+														</td>
+													</tr>
+													<tr>
+														<td align="center" width="100%" colSpan="2" height="6"></td>
+													</tr>
+													<tr>
+														<td align="left" width="35%">&nbsp;<font class="textmaroon">By Category</font>
+														</td>
+														<td align="left" width="65%">&nbsp;&nbsp;&nbsp;<asp:dropdownlist id="category" runat="server" CssClass="dropbox"></asp:dropdownlist>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" colSpan="2">
+															<div id="searchhidden" style="DISPLAY: none">
+																<table cellSpacing="0" cellPadding="0" width="100%" align="center">
+																	<tr>
+																		<td align="center" width="100%" colSpan="2" height="6"></td>
+																	</tr>
+																	<tr>
+																		<td align="left" width="35%">&nbsp;<font class="textmaroon">Date From</font>
+																		</td>
+																		<td align="right" width="65%">&nbsp;&nbsp;&nbsp;<asp:textbox id="datefrom" runat="server" cssclass="textbox"></asp:textbox>
+																			<script language="javascript">
+																document.write("<img src='images/cal1.gif'  onclick='popUpCalendar(this, Form1.datefrom, \"mm/dd/yyyy\")' height=17 width=18> ")
+																			</script>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td align="center" width="100%" colSpan="2" height="6"></td>
+																	</tr>
+																	<tr>
+																		<td align="left" width="35%">&nbsp;<font class="textmaroon">Date To</font></td>
+																		<td align="right" width="65%">&nbsp;&nbsp;&nbsp;<asp:textbox id="dateto" runat="server" cssclass="textbox"></asp:textbox>
+																			<script language="javascript">
+																document.write("<img src='images/cal1.gif'  onclick='popUpCalendar(this, Form1.dateto, \"mm/dd/yyyy\")' height=17 width=18> ")
+																			</script>
+																		</td>
+																	</tr>
+																</table>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td align="center" width="100%" colSpan="2" height="6"></td>
+													</tr>
+													<tr>
+														<td align="left" width="35%">&nbsp;<font class="textmaroon">Language</font>
+														</td>
+														<td align="left" width="65%">&nbsp;&nbsp;&nbsp;<asp:dropdownlist id="language" runat="server" CssClass="dropbox"></asp:dropdownlist>
+														</td>
+													</tr>
+													<tr>
+														<td align="center" width="100%" colSpan="2">
+															<div id="searchhidden1" style="DISPLAY: none">
+																<table cellSpacing="0" cellPadding="0" width="100%" align="center">
+																	<tr>
+																		<td align="center" width="100%" colSpan="2" height="6"></td>
+																	</tr>
+																	<tr>
+																		<td align="left" width="35%">&nbsp;<font class="textmaroon">Periodicity</font>
+																		</td>
+																		<td align="right" width="65%">&nbsp;&nbsp;&nbsp;<asp:dropdownlist id="periodicity" runat="server" CssClass="dropbox"></asp:dropdownlist>
+																		</td>
+																	</tr>
+																</table>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td align="center" width="100%" colSpan="2" height="10"></td>
+													</tr>
+													<tr>
+														<td width="100%" colSpan="2">
+															<table cellSpacing="0" cellPadding="0" width="100%">
+																<tr>
+																	<td align="left" width="80%">&nbsp;&nbsp;<span class="hand" onclick="javascript:showsearch();"><font class="textmaroonnormal"><u>Advanced 
+																					Search</u></font></span></td>
+																	<td align="right" width="20%"><asp:button id="Button2" runat="server" CssClass="gobutton" Text="Go"></asp:button>&nbsp;&nbsp;&nbsp;</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td align="center" width="100%" colSpan="2" height="13"></td>
+													</tr>
+												</table>
+												<!--table for find magazine end--></td>
+										</tr>
+										<tr>
+											<td align="center" width="100%" height="10"></td>
+										</tr>
+										<tr>
+											<td align="center" width="100%" height="32">
+												<!--table for new this week start-->
+												<table cellSpacing="0" cellPadding="0" width="100%" align="center">
+													<tr>
+														<td background="images/newezine.gif" height="32"></td>
+													</tr>
+													<tr>
+														<td align="center" width="100%">
+															<table class="new" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+																<tr>
+																	<td id="leftmain" vAlign="top" height="550" runat="server"></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" background="images/new-bottom.jpg" height="7"></td>
+													</tr>
+												</table>
+												<!--table for new this week end--></td>
+										</tr>
+										<tr>
+											<td align="center" width="100%" height="10"></td>
+										</tr>
+										<tr>
+											<td vAlign="top" align="center" width="100%"><a href="http://www.ezinemart.com" target="_blank"><IMG border='0' src="images/4c-ezine-logo.jpg"></a>
+											</td>
+										</tr>
+									</table>
+								</td>
+								<!--td for left bar end-->
+								<!--td for right bar start-->
+								<td id="myrightbar" vAlign="top" runat="server" height="925"></td>
+								<!--td for right bar end--></tr>
+						</table>
+					</td>
+				</tr>
+				<!--row for middle part end-->
+				<!--row for bottom start-->
+				<tr>
+					<td align="center" width="100%">
+						<hr align="center" width="95%" color="#d77827" SIZE="2">
+						<font face="arial" color="buttonshadow" size="2">Copyrights 2006. All rights 
+							reserved.<br>
+							Powered by 4C-eZine<br>
+							Privacy Policy | Disclaimer</font>
+					</td>
+				</tr>
+				<!--row for bottom start--></table>
+			<!-- for archive-->
+			<div class="drag" id="archives_dialog" style=" BORDER-RIGHT: black 0px ridge; BORDER-TOP: black 0px ridge; Z-INDEX: 108; BACKGROUND: white; LEFT: 200px; VISIBILITY: hidden; BORDER-LEFT: black 0px ridge; WIDTH: 450px; BORDER-BOTTOM: black 0px ridge; POSITION: absolute; TOP: 48px">
+				<TABLE cellSpacing="0" cellPadding="0" border="0">
+					<tr>
+						<td><IMG src="images/archives.gif" useMap="#FPMap2" border="0"> <map name="FPMap2">
+								<area shape="RECT" coords="427,8,449,23" href="javascript:closearc()">
+							</map>
+						</td>
+					</tr>
+				</TABLE>
+				<div id="archive1" align="left" style="BORDER-RIGHT:black 1px ridge; BORDER-TOP:black 0px ridge; LEFT:0px; BACKGROUND-IMAGE:none; OVERFLOW:auto; BORDER-LEFT:black 1px ridge; WIDTH:450px; BORDER-BOTTOM:black 1px ridge; POSITION:absolute; TOP:28px; BACKGROUND-COLOR:white">
+					<table cellSpacing="0" cellPadding="0" width="448" border="0" align="center">
+						<tr>
+							<td vAlign="top" align="center">
+							</td>
+						</tr>
+						<tr>
+							<td vAlign="top" align="center" width="100%"><iframe id="archi" runat="server" HEIGHT="500" width="448" scrolling="no" frameborder="0"></iframe>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<!--archive end--> --&gt; 
+			<!--outer table start--></form>
+	</body>
+</HTML>

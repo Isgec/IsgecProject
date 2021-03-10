@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<callform>
+  <table>
+    <td>Company Name</td>
+    <td1>Remark</td1>
+    <td2>Remark Name&lt;font color=red&gt; *&lt;/font&gt;</td2>
+    <td3>COMP_CODE$~$REMARK_CODE$~$REMARK_NAME$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATE_DATE$~$act_remark_mst$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>Company</td4>
+  </table>
+ 
+</callform>

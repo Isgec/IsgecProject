@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+	<table>
+	
+		<td>Printing Center</td>
+		<td1>Unit</td1>
+		<td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+		<td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>Agency Code</td5>
+	    <td6>Agency Type</td6>	
+		<td7>User&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>		
+		<td8>Bank&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>Destination</td9>
+		<td10>On Screen</td10>
+		<td11>1</td11>
+		<td12>Excel</td12>
+		<td13>2</td13>
+		<td14>PDF</td14>
+	     <td15>3</td15>
+		<td16>Run</td16>
+		<td17>Exit</td17>
+
+    <td18>Grouping</td18>
+    <td19>Our Bank</td19>
+    <td20>O</td20>
+    <td21>Bank</td21>
+    <td22>B</td22>
+    
+    <td23>Bank</td23>
+		
+		
+	
+</table>
+  <table1>
+    <td>Reciept Date</td>
+    <td1>Receipt No.</td1>
+    <td2>Doc Type</td2>
+    <td3>Bill No.</td3>
+    <td4>Bill Date</td4>
+    <td5>Agency Name</td5>
+    <td6>Cheque No.</td6>
+    <td7>Cheque Date</td7>
+    <td8>Amount</td8>
+    <td9></td9>
+    <maxrow>65</maxrow>
+    
+    
+  </table1>
+  <table2>
+    <td>USER</td>
+    <td1>AGENCY TYPE</td1>
+    <td2>BANK</td2>
+  </table2>
+	
+</newdata>

@@ -1,0 +1,526 @@
+﻿/**************for daily post****************************************/
+/*********************FOR LABEL PRINTING*************************************************/
+.lable_route_dailypost
+{
+	font-weight:bold;
+	font-size:15px;
+	color :Black ;
+	font-family:Arial;
+	
+	margin-top:0px;
+
+}
+.lable_print_dailypost
+{
+	font-weight:bold;
+	font-size:16px;
+	color :Black ;
+	font-family:Arial;
+	margin-top:0px;
+
+}
+
+.lable_print_dailypost_new
+{
+	font-weight:bold;
+	font-size:10px;
+	color :Black ;
+	font-family:Arial;
+	margin-top:0px;
+
+}
+.lable_cname_dailypost
+{
+	font-weight:bold;
+	font-size:20px;
+	color :Black ;
+	font-family:Arial;
+	
+	margin-top:0px;
+
+}
+
+.lable_cname_dailypost1
+{
+	font-weight:bold;
+	font-size:20px;
+	color :Black ;
+	font-family:Gandhi;
+	
+	margin-top:0px;
+
+}
+
+.lable_route_rr
+{
+	font-weight:bold;
+	font-size:15px;
+	color :Black ;
+	font-family:Arial;
+	
+	 vertical-align :text-top ;
+
+}
+.lable_route_rr_agency
+{
+	font-weight:bold;
+	font-size:25px;
+	color :Black ;
+	font-family:Arial;
+	
+	 vertical-align :text-top ;
+
+}
+
+
+.lable_route_border_train
+{
+	border-top: 1px solid Black;
+	border-right: 1px solid Black;
+  border-bottom  : 1px solid Black;
+	 vertical-align :text-top ;
+
+}
+
+.lable_route_border_train_left
+{
+	border-top: 1px solid Black;
+	border-left: 1px solid Black;
+  border-bottom  : 1px solid Black;
+	 vertical-align :text-top ;
+
+}
+.lable_route_border
+{
+	font-weight:bold;
+	font-size:15px;
+	color :Black ;
+	font-family:Arial;
+	border-top: 2px solid Black;
+	border-left: 2px solid Black;
+border-bottom: 2px solid Black;
+	 vertical-align :text-top ;
+
+}
+.lable_route_border_right1
+{
+	font-weight:bold;
+	font-size:15px;
+	color :Black ;
+	font-family:Arial;
+	border-top: 2px solid Black;
+	border-right: 2px solid Black;
+border-bottom: 2px solid Black;
+	 vertical-align :text-top ;
+border-left: 2px solid Black;
+}
+.lable_route_borderright
+{
+	border-top: 1px solid Black;
+	border-right: 1px solid Black;
+  border-bottom  : 1px solid Black;
+	 vertical-align :text-top ;
+
+}
+.lable_route_MATER
+{
+	font-weight:bold;
+	font-size:17px;
+	color :Black ;
+	font-family:Arial;
+	padding-left:50px;
+	 vertical-align :text-top ;
+}
+
+.lable_route_rrhindi
+{
+	font-weight:bold;
+	font-size:15px;
+	color :Black ;
+	font-family:Arial;
+	
+	 vertical-align :text-top ;
+
+}
+
+.lable_route_rrTRAIN
+{
+	font-weight:bold;
+	font-size:25px;
+	color :Black ;
+	font-family:Arial;
+	
+	 vertical-align :text-top ;
+
+}
+.lable_route_COPY
+{
+	font-weight:bold;
+	font-size:20px;
+	color :Black ;
+	font-family:Arial;
+	
+	 vertical-align :text-top ;
+
+}
+/******************************FOR BILL PRINTING**********************************************/
+
+.reportheadforbill
+{
+ font-family: verdana ;
+ FONT-WEIGHT:normal ;
+ font-size: 13px;
+ text-align:left ;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom:solid 1px black;
+ border-top:solid 1px black;
+ /*border-right:solid 1px black;*/
+ height:30px;
+ padding-right:7px;
+ vertical-align:middle;
+ /*width:60px; */
+}
+
+
+.route_records_bill
+	{
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		border-left:solid 1px black;
+		padding-right:7px;
+	}
+	
+	.route_records_bill_leftmost
+	{
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		padding-right:7px;
+		
+	}
+	
+	.newhead_hindidainik
+	{
+	font-family :Bhaskar;
+	font-size :30px;
+	font-weight :bold;
+	text-align :center ;
+	
+	}
+	
+	.newhead_bill
+	{
+	font-family :verdana;
+	font-size :21px;
+	font-weight :bold;
+	text-align :center ;
+	
+	}
+	
+	.routewise_billprint
+{
+	font-size :12px;
+	font-family :verdana;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+	padding-left:4px;
+	}
+
+	
+	.routewise_to
+{
+	font-size :12px;
+	font-family :verdana;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+	padding-left:160px;
+	}
+	.agencywise_to
+{
+	font-size :12px;
+	font-family :verdana;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+	padding-left:250px;
+	}
+	
+	.agencywise_to123
+{
+	font-size :12px;
+	font-family :verdana;
+	color:Black;
+	
+	vertical-align :top;
+	padding-left:250px;
+	}
+.routewise_bill
+{
+	font-size :12px;
+	font-family :verdana;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+}
+
+.route_records
+	{
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+	}
+	
+	.rpt_sale
+{
+	text-align:right;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.rpt_sale_pad
+{
+	text-align:right;
+	font-family:Arial;
+	font-size:11px;
+	padding-right:20px;
+}
+
+.rpt_gamount
+{
+	text-align:right;
+	font-family:Arial;
+	font-size:11px;
+	padding-right:10px;
+}
+
+.rpt_gamountamt
+{
+	text-align:right;
+	font-family:Arial;
+	font-size:11px;
+	padding-right:20px;
+}
+
+.rpt_sale_cent
+{
+	text-align:center;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.billcopies
+{
+	padding-left:20px; 
+	/*border-right:solid 1px black;*/
+	border-left:solid 1px black;
+	font-family:Arial;
+	font-size:11px;
+}
+
+.bill_printRecords
+{
+ font-family :Arial ;
+ font-size :14px;
+ color:Black ;
+
+
+}
+.dashLine
+{
+	border-bottom-color :Black ;
+	border-bottom-style:dotted ;
+	border-bottom-width:thin ;
+
+}
+
+.newhead
+	{
+	font-family :verdana;
+	font-size :20px;
+	font-weight :bold;
+	color :#0a4a83;
+	text-align :center ;
+	
+	}
+	
+	.routewise
+{
+	font-size :12px;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+}
+
+.previousPage
+{
+	font-family:verdana;font-size:small;font-weight:normal;color:black;text-align:right;cursor:hand;padding-left:400px;
+}
+
+.nextpage
+{
+	font-family:verdana;font-size:small;font-weight:normal;cursor:hand;color:black;text-align:right;
+}
+
+
+/********************for transfer note screen****************************************************/
+
+.all_border
+{
+
+border-top: 1px solid Black;
+	border-left: 1px solid Black;
+border-bottom: 1px solid Black;
+	border-right: 1px solid Black;
+	font-size :30px;
+	text-align:center;	
+	height:40px;
+	width:20px;
+	}
+.all_border1
+{
+
+border-top: 4px solid #a0bfeb;
+	border-left: 4px solid #a0bfeb;
+border-bottom: 4px solid #a0bfeb;
+	border-right: 4px solid #a0bfeb;
+	}
+	
+.btext
+{
+	
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: arial;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:180px;
+}
+
+.dropdown
+	{
+	
+	 border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:150px;
+		
+}
+.TextField12
+{
+		
+	font-family: Arial;
+	font-size: 11px;
+	/*color:#336699;*/
+	widows:50px;
+	color:black;
+	text-align:center;
+	
+	
+	
+}
+
+.TextField123
+{
+		
+	font-family: Arial;
+	font-size: 11px;
+	/*color:#336699;*/
+	widows:50px;
+	color:black;
+	text-align:LEFT;
+	
+	
+	
+}
+
+.TextField
+{
+		
+	font-family: Arial;
+	font-size: 12px;
+	/*color:#336699;*/
+	widows:50px;
+	color:black;
+	text-align:center;
+	
+	
+}
+
+
+.Grid_report
+{
+	font-family: Arial;	
+	font-size: 10px;
+	color:black;
+	text-decoration:none;
+	
+	margin-left: 0px;
+	text-align:center;
+		border-color:#F8F8FF;
+}
+.rep_data
+{
+	/*font-size:x-small;*/
+	font-family:Arial;
+	font-size:10px;
+              vertical-align:top;
+	
+}
+
+.middle31new
+{
+	/*font-size:smaller;*/
+	font-weight:bold;
+	font-family:Arial;
+	font-size:11px;
+	
+	
+	border-bottom:solid;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin ;
+	  vertical-align:top;
+	  border-top:solid;
+	  border-top-color:Black;
+	  border-top-width:thin;
+	 
+}
+.headingc
+{
+	/*font-size:smaller;*/
+	font-weight:bold;
+	font-family:Arial;
+	font-size:16px;
+	
+	
+		  vertical-align:top;
+	  border-top:solid;
+	  
+}
+.middle33
+{
+	/*font-size:smaller;*/
+	font-weight:bold;
+	font-family:Arial;
+	font-size:12px;
+	
+	
+		  vertical-align:top;
+	  border-top:solid;
+	  
+}

@@ -1,0 +1,52 @@
+﻿<newdata>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Break On</td11>
+    <td12>Issue Date From&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Issue Date To&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Report Destination</td14>
+    <td15>Report</td15>
+	<td16>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    </table>
+  <table1>
+    <td>Publication</td>
+    <td1>0</td1>
+    <td2>Publication And Route</td2>
+    <td3>1</td3>
+  </table1>
+  <table2>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table2>
+	  <table3>
+		  <td>Agency wise</td>
+		  <td1>1</td1>
+		  <td2>Route wise</td2>
+		  <td3>2</td3>
+		  <td4>Branch wise</td4>
+		  <td5>3</td5>
+		  <td6>Zone wise</td6>
+		  <td7>4</td7>
+		  <td8>Region wise</td8>
+		  <td9>5</td9>
+		  <td10>District wise</td10>
+		  <td11>6</td11>
+		  <td12>State wise</td12>
+		  <td13>7</td13>
+	  </table3>
+  
+</newdata>

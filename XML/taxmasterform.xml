@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Tax No.&lt;font color=red &gt;*</td4>
+    <td5>Tax Type Id&lt;font color=red &gt;*</td5>
+    <td6>Valid From&lt;font color=red &gt;*</td6>
+    <td7>Tax Code Type&lt;font color=red &gt;*</td7>
+    <td8>Tax Rate&lt;font color=red &gt;*</td8>
+    <td9>Tax Status&lt;font color=red &gt;*</td9>
+    <td10>View</td10>
+    <td11>COMP_CODE~$$TAX_TYPE_ID$~$TAX_ID$~$VALID_FROM$~$TAX_CALC_TYPE$~$TAX_RATE$~$TAX_STATUS$~$CIR_TAX_MAST$~$INSERT#UPDATE#DELETE#SELECT</td11>
+    <td12>COMP_CODE$~$TAX_TYPE_ID$~$TAX_ID$~$VALID_FROM$~$TAX_CALC_TYPE$~$TAX_RATE$~$TAX_STATUS$~$CIR_TAX_MAST$~$INSERT#UPDATE#DELETE#SELECT</td12>
+    <td13>COMP_CODE$~$TAX_ID</td13>
+  </table>
+
+  <table1>
+    <td>Vat</td>
+    <td1>1</td1>
+    
+  </table1>
+
+  <table2>
+    <td>Fix</td>
+    <td1>F</td1>
+    <td2>Percentage</td2>
+    <td3>P</td3>
+    
+  </table2>
+
+  <table3>
+    <td>Active</td>
+    <td1>Y</td1>
+    <td2>Inactive</td2>
+    <td3>N</td3>
+  </table3>
+  
+  
+</newdataset>

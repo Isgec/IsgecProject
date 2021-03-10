@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>User&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Role</td1>
+    <td2>Company</td2>
+    <td3>COMPCODE$~$USERID$~$SUPPLY_TYPE$~$FLAG</td3>
+    <td4>cir_supply_typewise_per</td4>
+    <td5>COMP_CODE$~$USER_CODE$~$REGION_CODE$~$USER_FLAG</td5>
+    <td6>LOGIN_REGION_MAST</td6>
+    <td7>COMPCODE$~$USERID$~$SUPPLY_TYPE</td7>
+    <td8>COMPCODE$~$USERID$~$REGION_CODE</td8>
+    <td9>COMPCODE$~$USERID</td9>
+    <td10>COMPCODE</td10>
+  
+
+
+
+  </table>
+
+  <table1>
+    <td>--Select Company--</td>
+  </table1>
+</newdata>

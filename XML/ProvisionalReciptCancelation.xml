@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+   
+    <td0>Print Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td0>
+    <td1>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Doctype&lt;font color=red&gt;*&lt;/Font&gt;</td2>    
+    <td3>Inward No.&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Paymode</td4>
+    <td5>Date</td5>
+    <td6>Agency Name</td6>
+    <td7>Cheque No.</td7>
+    <td8>Cheque Date</td8>
+    <td9>PRT No.</td9>
+    <td10>PRT Date</td10>
+    <td11>Amount</td11>
+    <td12>Cancel Remark</td12>
+
+  </table>
+</newdata>

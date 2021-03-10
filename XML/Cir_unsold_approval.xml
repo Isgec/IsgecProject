@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<dataset>
+  <table>
+    <td>User&lt;font color=red&gt;[F2]&lt;/font&gt;</td>
+	 <td1>User Group&lt;font color=red&gt;*[F2]&lt;/font&gt;</td1>
+    <td2>COMP_CODE$~$BRANCH_CODE$~$USER_ID$~$OVERRIDE_BACKDAYS$~$APPROVAL_PER$~$INSERT_ID$~$CREATED_BY$~$CREATED_DT$~$PRINTING_CENTER$~$REGION$~$ZONE$~$PUBL$~$EDTN$~$SUB_EDTN$~$FREQUENCY$~$UNS_APR_DAYS$~$AG_TYPE$~$AG_CLASS$~$CIR_UNSOLD_APR_PERMISSION$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>COMP_CODE$~$BRANCH_CODE$~$USER_ID$~$OVERRIDE_BACKDAYS$~$APPROVAL_PER$~$INSERT_ID$~$UPDATED_BY$~$UPDATED_DT$~$PRINTING_CENTER$~$REGION$~$ZONE$~$PUBL$~$EDTN$~$SUB_EDTN$~$FREQUENCY$~$UNS_APR_DAYS$~$AG_TYPE$~$AG_CLASS$~$CIR_UNSOLD_APR_PERMISSION$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>COMP_CODE$~$BRANCH_CODE$~$USER_ID$~$CIR_UNSOLD_APR_PERMISSION$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>CIR_UNSOLD_APR_PERMISSION</td5>
+    <td6>USER_ID$~$INSERT_ID$~$CIR_UNSOLD_APR_PERMISSION$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>COMP_CODE$~$BRANCH_CODE$~$USER_ID$~$INSERT_ID$~$OVERRIDE_BACKDAYS$~$APPROVAL_PER$~$UPDATED_BY$~$UPDATED_DT$~$PRINTING_CENTER$~$REGION$~$ZONE$~$PUBL$~$EDTN$~$SUB_EDTN$~$FREQUENCY$~$UNS_APR_DAYS$~$CIR_UNSOLD_APR_PERMISSION$~$INSERT#UPDATE#DELETE#SELECT</td7>
+
+   
+  </table>
+
+
+  <table1>
+    <td0>Company</td0>
+    <td1>Branch</td1>
+    <td2>Doctype</td2>
+    <td3>Amount</td3>
+
+  </table1>
+
+  <table2>
+    <td0>Please Enter User Name.$~$Do You want to skip this page?$~$Data Saved Successfuly on User id $~$There is no data regarding your Query.$~$Are you sure! Do You want to delete this Entry ?$~$Data deleted Successfully.$~$There is no more data to be delete.$~$Data updated successfully.</td0>
+  </table2>
+
+  <table3>
+    <td0>Yes$~$Y$~$No$~$N</td0>
+  </table3>
+</dataset>

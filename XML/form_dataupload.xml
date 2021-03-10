@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<table0>
+	<tr0>
+
+		<td0>Company Code</td0>
+		<td1>Company Name</td1>
+		<td2>Unit Code</td2>
+		<td3>Unit Name</td3>
+		<td4>Branch Code</td4>
+		<td5>Data Type</td5>
+		<td6>Format</td6>
+		<td7>Clear</td7>
+		<td8>From Date&lt;font color=red&gt;*&lt;/font&gt;</td8>
+		<td9>To Date&lt;font color=red&gt;*&lt;/font&gt;</td9>
+		<td10>From Voucher No&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+		<td11>To Voucher No&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+		<td12>Run</td12>
+		<td13>Clear</td13>
+		<td14>Exit</td14>
+		<td15>Format</td15>
+		<td16>Voucher Report</td16>
+		<td17>Doc Type Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+		<td18>Pass or Unpass</td18>
+    <td19>As on Date&lt;font color=red&gt;*&lt;/font&gt;</td19>
+    <td20>Module Type&lt;font color=red&gt;*&lt;/font&gt;</td20>
+    
+  </tr0>
+	<tr1>
+
+		<td0>Company Code</td0>
+		<td1>Company Name</td1>
+		<td2>Unit Code</td2>
+		<td3>Unit Name</td3>
+		<td4>Branch Code</td4>
+		<td5>Branch Name</td5>
+		<td6>Doc Type Code</td6>
+		<td7>Doc Type Name</td7>
+		<td8>From Date</td8>
+		<td9>To Date</td9>
+		<td10>From Voucher No</td10>
+		<td11>To Voucher No</td11>
+		<td12>Run</td12>
+		<td13>Clear</td13>
+		<td14>Exit</td14>
+		<td15>Format</td15>
+		<td16>Voucher Report</td16>
+		<td17>Doc Type Name</td17>
+		
+
+	</tr1>
+</table0>
+	<table1>
+		<tr>
+			<td0>BOOKID</td0>
+			<td1>AGCODE</td1>
+			<td2>MAINCODE</td2>
+			<td3>MAINAG</td3>
+			<td4>CLIENT</td4>
+			<td5>EXECODE</td5>
+			<td6>EXENAME</td6>
+			<td7>ADTYCODE</td7>
+			<td8>ADTYPE</td8>
+			<td9>ADCAT1</td9>
+			<td10>ADCATNM1</td10>
+			<td11>ADCAT2</td11>
+			<td12>ADCATNM2</td12>
+			<td13>ADCAT3</td13>
+			<td14>ADCATNM3</td14>
+			<td15>ADCAT4</td15>
+			<td16>ADCATNM4</td16>
+			<td17>ADCAT5</td17>
+			<td18>ADCATNM5</td18>
+			<td19>AGNAME</td19>
+			<td20>ADD1</td20>
+			<td21>ADD3</td21>
+			<td22>STREET</td22>
+			<td23>CITYCODE</td23>
+			<td24>CITYNAME</td24>
+			<td25>STATE</td25>
+			<td26>STATENAME</td26>
+			<td27>CARDRATE</td27>
+			<td28>AGRDRATE</td28>
+			<td29>TOTAL</td29>
+			<td30>DISPER</td30>
+			<td31>DISCOOUNT</td31>
+			<td32>REVCODE</td32>
+			<td33>REVCENTRE</td33>
+			<td34>TD</td34>
+			<td35>AGCOMN</td35>
+			<td36>BOX</td36>
+			<td37>BOOKTYPE</td37>
+			<td38>BOOKTYNAME</td38>
+			<td39>PAGEPERM</td39>
+			<td40>SPLDISPER</td40>
+			<td41>SPADISPER</td41>
+			<td42>CASHDISC</td42>
+			<td43>DISCPER</td43>
+			<td44>BILLNO</td44>
+			<td45>BILLDATE</td45>
+			<td46>BOXCHRG</td46>
+			<td47>GROSS</td47>
+			<td48>TOTALDIS</td48>
+			<td49>NETAMT</td49>
+
+		</tr>
+		<tr1>
+			<td0>Booking Id</td0>
+			<td1>Agency Code</td1>
+			<td2>Agency Main Code</td2>
+			<td3>Agency Sub Code</td3>
+			<td4>Client Name</td4>
+			<td5>Executive Code</td5>
+			<td6>Executive Name</td6>
+			<td7>Ad Type Code</td7>
+			<td8>Adv Type</td8>
+			<td9>Ad. Cat. Code</td9>
+			<td10>Ad. Cat. Name</td10>
+			<td11>Ad. Sub Cat. Code</td11>
+			<td12>Ad. Sub Cat. Name</td12>
+			<td13>Ad. Sub Cat3</td13>
+			<td14>Ad. Sub Cat3. Name</td14>
+			<td15>Ad. Sub Cat4</td15>
+			<td16>Ad. Sub Cat4. Name</td16>
+			<td17>Ad. Sub Cat5</td17>
+			<td18>Ad. Sub Cat5. Name</td18>
+			<td19>Agency Name</td19>
+			<td20>Add1</td20>
+			<td21>Add2</td21>
+			<td22>Street</td22>
+			<td23>City Code</td23>
+			<td24>City Name</td24>
+			<td25>State</td25>
+			<td26>State Name</td26>
+			<td27>Card Rate</td27>
+			<td28>Agrred Rate</td28>
+			<td29>Total Area</td29>
+			<td30>Discount Per</td30>
+			<td31>Discount</td31>
+			<td32>Revenue Center Code</td32>
+			<td33>Revenue Center Name</td33>
+			<td34>Trade Discount</td34>
+			<td35>Agency Comm.</td35>
+			<td36>Box Code</td36>
+			<td37>Booking Type</td37>
+			<td38>Booking Type Nmae</td38>
+			<td39>Page Perm.</td39>
+			<td40>Special Disc. Per.</td40>
+			<td41>Space Disc. Per.</td41>
+			<td42>Cash Disc.</td42>
+			<td43>Disc. Premium</td43>
+			<td44>Bill No</td44>
+			<td45>Bill Date</td45>
+			<td46>Box Chrg.</td46>
+			<td47>Gross Amount</td47>
+			<td48>Total Disc.</td48>
+			<td49>Bill Amount</td49>
+		</tr1>
+		<tr2>
+			<td0>AGCODE</td0>
+			<td1>AGNAME</td1>
+			<td2>MAINCODE</td2>
+			<td3>AGSCODE</td3>
+			<td4>DOCTYPE</td4>
+			<td5>REASONCD</td5>
+			<td6>REASNAME</td6>
+			<td7>REVCODE</td7>
+			<td8>REVCENTRE</td8>
+			<td9>PARENTREG</td9>
+			<td10>RCPTNO</td10>
+			<td11>RCPTDATE</td11>
+			<td12>AMOUNT</td12>
+			<td13>DRAMT</td13>
+			<td14>CRAMT</td14>
+			<td15>Add1</td15>
+			<td16>Add2</td16>
+			<td17>Street</td17>
+			<td18>CITYCODE</td18>
+			<td19>CITYNAME</td19>
+			<td20>State</td20>
+			<td21>STATENAM</td21>
+
+		</tr2>
+		<tr3>
+			<td0>Agency Code</td0>
+			<td1>Agency Name</td1>
+			<td2>Agency Main Code</td2>
+			<td3>Agency Sub Code</td3>
+			<td4>Doc Type</td4>
+			<td5>Reason Code</td5>
+			<td6>Reason Name</td6>
+			<td7>Revenue Center Code</td7>
+			<td8>Revenue Center Name</td8>
+			<td9>Parent Region</td9>
+			<td10>Receipt No.</td10>
+			<td11>Receipt Date</td11>
+			<td12>Amount</td12>
+			<td13>Debit Amount</td13>
+			<td14>Credit Amount</td14>
+			<td15>Add1</td15>
+			<td16>Add2</td16>
+			<td17>Street</td17>
+			<td18>City Code</td18>
+			<td19>City Name</td19>
+			<td20>State</td20>
+			<td21>State Name</td21>
+
+		</tr3>
+		<tr4>
+			<td0>FoxPro</td0>
+		</tr4>
+    <tr7>
+      <td0>BOOKING ID</td0>
+      <td1>AGENCY MAIN CODE</td1>
+      <td2>AGENCY SUB CODE</td2>
+      <td3>CLIENT CODE</td3>
+      <td4>EXECUTIVE CODE</td4>
+      <td5>EXECUTIVE NAME</td5>
+      <td6>Agency Name</td6>
+      <td10>ADD1 </td10>
+      <td11>ADD2 </td11>
+      <td12>STREET</td12>
+      <td13>CITY CODE</td13>
+      <td14>CITY NAME</td14>
+      <td15>STATE</td15>
+      <td16>STATE NAME</td16>
+      <td17>CARD RATE</td17>
+      <td18>REVENUE CENTER NAME</td18>
+      <td19>AGENCY COMM.</td19>
+      <td20>ADD.AGENCY COMM.</td20>
+      <td21>BOOKING TYPE</td21>
+      <td22>BOOKING TYPE NAME</td22>
+      <td23>BILL NO.</td23>
+      <td24>BILL DATE</td24>
+      <td25>BOX CHARGES</td25>
+      <td26>GROSS AMT</td26>
+      <td27>TOTA DISCOUNT</td27>
+      <td28>BILL AMT</td28>
+  </tr7>
+	</table1>
+</dataset>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Company Code</td1>
+    <td2>Unit Name</td2>
+    <td3>Unit Code</td3>
+    <td4>Branch Name</td4>
+    <td5>Branch Code</td5>
+    <td6>Publication Type</td6>
+    <td7>Publication</td7>
+    <td8>Edition</td8>
+    <td9>Sub Edition</td9>
+    <td10>Agency Type</td10>
+    <td11>Agency Class</td11>
+    <td12>Agency Name</td12>
+    <td13>Freeze Flag</td13>
+    <td14>Report Destination</td14>
+    <td15>To Date&lt;font color=red&gt; *&lt;/Font&gt;</td15>
+  </table>
+  <table1>
+    <td>Company Name&lt;font color=red&gt; *&lt;/Font&gt;</td>
+    <td1>Company Code&lt;font color=red&gt; *&lt;/Font&gt;</td1>
+    <td2>Unit Name&lt;font color=red&gt; *&lt;/Font&gt;</td2>
+    <td3>Unit Code&lt;font color=red&gt; *&lt;/Font&gt;</td3>
+    <td4>Branch Name&lt;font color=red&gt; *&lt;/Font&gt;</td4>
+    <td5>Branch Code&lt;font color=red&gt; *&lt;/Font&gt;</td5>
+    <td6>Publication Type&lt;font color=red&gt; *&lt;/Font&gt;</td6>
+    <td7>Publication&lt;font color=red&gt; *&lt;/Font&gt;</td7>
+    <td8>Edition&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Sub Edition&lt;font color=red&gt; *&lt;/Font&gt;</td9>
+    <td10>Agency Type&lt;font color=red&gt; *&lt;/Font&gt;</td10>
+    <td11>Agency Class&lt;font color=red&gt; *&lt;/Font&gt;</td11>
+    <td12>Agency Name&lt;font color=red&gt; *&lt;/Font&gt;</td12>
+    <td13>Freeze Flag&lt;font color=red&gt; *&lt;/Font&gt;</td13>
+    <td14>Report Destination&lt;font color=red&gt; *&lt;/Font&gt;</td14>
+  </table1>
+  <table2>
+    <td>Company Name&lt;font color=red&gt; *&lt;/Font&gt;</td>
+    <td1>Company Code&lt;font color=red&gt; *&lt;/Font&gt;</td1>
+    <td2>Unit Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td2>
+    <td3>Unit Code&lt;font color=red&gt; *&lt;/Font&gt;</td3>
+    <td4>Branch Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td4>
+    <td5>Branch Code&lt;font color=red&gt; *&lt;/Font&gt;</td5>
+    <td6>Publication Type&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td6>
+    <td7>Publication&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td7>
+    <td8>Edition&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td8>
+    <td9>Sub Edition&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td9>
+    <td10>Agency Type&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Class&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td11>
+    <td12>Agency Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td12>
+    <td13>Freeze Flag&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td13>
+    <td14>Report Destination&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td14>
+  </table2>
+</dataset>

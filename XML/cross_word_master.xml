@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Comp Name</td>
+    <td1>Comp Code</td1>
+    <td2>Activity&lt;font color=red&gt;[F2]*</td2>
+    <td3>Date&lt;font color=red&gt;*</td3>
+    <td4>Cross Word No</td4>
+    <td5>Cross Word Name</td5>
+    <td6>COMP_CODE$~$ACT_CODE$~$CROSS_WORD_DT$~$CROSS_WORD_NO$~$CROSS_WORD_NAME$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATE_DATE$~$ACT_CROSS_WORD_MST$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    
+  </table>
+  
+
+  
+</Newdataset>
+

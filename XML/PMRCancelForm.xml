@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Branch &lt;font color=red&gt;* [F2]&lt;/Font&gt;</td>
+    <td1>Transaction No&lt;font color=red&gt;&lt;/Font&gt;</td1>
+    <td2>Transaction Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Booklet No &lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Issue For&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Issue To &lt;font color=red&gt;* [F2]&lt;/Font&gt;</td5>
+    <td6>PRT No. From &lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>PRT  No. To &lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Remark</td8>
+    <td9>Printing Center &lt;font color=red&gt;* [F2]&lt;/Font&gt;</td9>
+    <td10>Return Date</td10>
+    <td11>Party Name &lt;font color=red&gt;* &lt;/Font&gt;</td11>
+    <td12>Party Amount&lt;font color=red&gt;* &lt;/Font&gt;</td12>
+    <tr13>Ad Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr13>
+  </table>
+
+  <table1>
+    <td>Issue</td>
+    <td1>S</td1>
+    <td2>Cancel</td2>
+    <td3>C</td3>
+    <td4>Lost</td4>
+    <td5>L</td5>
+  </table1>
+</newdata>

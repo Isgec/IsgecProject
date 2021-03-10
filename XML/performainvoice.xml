@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Comapany Name</td1>
+    <td2>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>No of Copy</td3>
+    <td4>Rate</td4>
+    <td5>Amount</td5>
+    <td6>Bill Amount</td6>
+    <td7>Destination</td7>
+    <td8>Report</td8>
+    <td9>Clear</td9>
+    <td10>Exit</td10>
+    <td11>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>District</td12>
+    <td13>Agency Type</td13>
+    <td14>Publication</td14>
+    <td15>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+  </table>
+
+  <table1>
+    <td>Excel</td>
+    <td1>1</td1>
+    <td2>PDF</td2>
+    <td3>2</td3>
+  </table1>
+
+  <table2>
+    <td> Plot No3, Sector No.7, Off Sion-Panvel Road, Nerul, Navi Mumbai 400 706</td>
+    <td1>3,JAMES HICKAY SARANI,(FORMERLY DACRES LANE),KOLKATA</td1>       
+  </table2>
+
+  <table3>
+    <td>Prabhat Khabar Logo</td>
+    <!--<td1>For Network 18 Media & Investments Ltd.</td1>-->
+  </table3>
+
+</newdataset>

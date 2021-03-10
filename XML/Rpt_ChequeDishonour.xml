@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<table>
+  <td>Comp code</td>
+  <td1>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+  <td2>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+  <td3>DN/RDN No.</td3>
+  <td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+  <td5>Agency Code</td5>
+  <td6>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+  <td7>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+  <td8>Region</td8>
+  <td9>Dist.</td9>
+  <td10>Destination</td10>
+  <td11>Report Type</td11>
+</table>

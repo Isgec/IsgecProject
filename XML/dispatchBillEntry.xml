@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+	<Table>
+		<td>Branch &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td>
+		<td1>Ad Type</td1>
+		<td2>From Bill Date &lt;font color=red&gt;*&lt;/Font&gt;</td2>
+		<td3>Till Bill Date &lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>From Bill No.</td4>
+		<td5>Till Bill No.</td5>
+		<td6>Agency Name &lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+		<td7>Client Name &lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>From Dispatch Date</td8>
+		<td9>Till Dispatch Date</td9>
+		<td10>Mode Of Dispatch</td10>
+		<td11>Dockit No.</td11>
+		<td12>Status(Bill Dispatch/Bill Not Dispatch)&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Agency Type</td13>
+	</Table>
+	<table1>
+		<td>Yes</td>
+		<td1>Y</td1>
+		<td2>No</td2>
+		<td3>N</td3>
+	</table1>
+  <table2>
+    <td>--Select Dispatch To--</td>
+    <td1>0</td1>
+    <td2>Agency</td2>
+    <td3>A</td3>
+    <td4>Client</td4>
+    <td5>C</td5>
+    <td6>Retainer</td6>
+    <td7>R</td7>
+    <td8>Other</td8>
+    <td9>O</td9>
+    <td10>Executive</td10>
+    <td11>E</td11>
+  </table2>
+  <table3>
+    <td0>S.No.</td0>
+    <td1>Bill No.</td1>
+    <td2>Bill Date</td2>
+    <td3>Bill Amount</td3>
+    <td4>Dispatch To</td4>
+    <td5>Dispatch No.</td5>
+    <td6>Mode Of Dispatch</td6>
+    <td7>Dockit No.</td7>
+    <td8>Dispatch Date</td8>
+    <td9>Remark</td9>
+    <td10>Agency Name And City</td10>
+    <td11>Client Name And City</td11>
+    <td12>Publish Date</td12>
+    <td13>Dispatch Bill Entry</td13>
+  </table3>
+</NewDataSet>
+

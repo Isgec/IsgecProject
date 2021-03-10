@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdatatype>
+  
+  <table>
+    
+      <td>Branch</td>
+      <td1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+      <td2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+      <td3>Region</td3>
+    <td4>Printing Center</td4>
+    <td5>District</td5>
+    <td6>Taluka</td6>
+      <td7>Agency Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td7>
+      <td8>Destination</td8>
+      <td9>Parent Wise</td9>
+    <td10>Branch Based On</td10>
+    
+  </table>
+
+  <table1>
+    
+    <td>Ledger Wise Agency Summary </td>
+    <td1>From Date :</td1>
+    <td2>To Date  :</td2>
+    <td3>Region Code  </td3>
+    <td4>Region Name   </td4>
+    <td5>Run Date :</td5>
+    
+  </table1>
+
+  <table2>
+    <td>S. No.</td>
+    <td1>Agency Code</td1>
+    <td2>Agency Name</td2>
+    <td3>City</td3>
+    <td4>Opening Balance</td4>
+    <td5>Billing Amount</td5>
+    <td6>Other Debits</td6>
+    <td7>Receipt Amount</td7>
+    <td8>Other Credits</td8>
+    <td9>Closing Balance</td9>
+    <td10>Branch</td10>
+    <td11>Printing Center</td11>
+    <td12>Category</td12>
+    <td13>Agency Subcode</td13>
+  </table2>
+
+  <table3>
+    <td>Master</td>
+    <td1>M</td1>
+    <td2>Transaction</td2>
+    <td3>T</td3>
+  </table3>
+
+
+
+
+</Newdatatype>

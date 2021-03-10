@@ -1,0 +1,40 @@
+﻿<newdata>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication Frequency</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>SubEdtion&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Date To&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Report Destination</td12>
+  </table>
+  <table1>
+    <td>onscreen</td>
+    <td1>0</td1>
+    <td2>excel</td2>
+    <td3>1</td3>
+    <td4>pdf</td4>
+    <td5>2</td5>
+  </table1>
+
+  <table2>
+    <td>Daily</td>
+    <td1>1</td1>
+    <td2>Weekly</td2>
+    <td3>7</td3>
+    <td4>Fortnightly</td4>
+    <td5>15</td5>
+    <td6>Monthly</td6>
+    <td7>30</td7>
+    <td8>Quarterly</td8>
+    <td9>90</td9>
+    <td10>Yearly</td10>
+    <td11>365</td11>
+  </table2>
+</newdata>

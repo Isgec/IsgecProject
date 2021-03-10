@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td0>Retainer Commission</td0>
+    <td1>Retainer Name&lt;font color=red&gt; [F2]*&lt;/Font&gt;</td1>
+    <td2>Retainer Code</td2>
+    <td3>PAN No.</td3>
+    <td4>Bank A/c No.</td4>
+    <td6>Retainer Commission Verify</td6>
+    <td7>Retainer Commission Approval</td7>
+    <td8>Unit Name&lt;font color=red&gt; [F2]*&lt;/Font&gt;</td8>
+    <td9>Retainer/Executive</td9>
+    
+  </table>
+</newdata>

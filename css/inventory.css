@@ -1,0 +1,305 @@
+﻿.lbtxt  
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:left;
+	margin-left:5px;
+	height:11px;
+	font-size:small;
+	width:120px;
+}
+
+.txtcode
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:60px;
+	text-transform:uppercase;
+	margin-left: 0px;
+}
+
+.txtname
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:173px;
+	text-transform:uppercase;
+}
+
+.textname
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:240px;
+	text-transform:uppercase;
+}
+
+.textpriority
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:40px;
+	text-transform:uppercase;
+}
+
+.headergrid
+{
+	font-family : Arial;
+	font-size: 11px;
+	font-weight:bold;
+	color:white;
+	height:20px;
+	text-align:left;
+	background-color:#7DAAE3;
+}
+
+.Gridtxtchar
+{
+	font-family: Verdana;	
+	font-size: 10px;
+	color:black;
+	text-decoration:none;
+	margin-left: 0px;
+	text-align:left;
+    border:1px solid #7DAAE3;
+    
+}
+.Gridtxtnum
+{
+	font-family: Verdana;	
+	font-size: 10px;
+	color:black;
+	text-decoration:none;
+	margin-left: 0px;
+	text-align:left;
+  border:1px solid #7DAAE3;
+}
+
+.gridtable
+{
+	margin-top:0px;
+	margin-bottom:10px;
+	border: 1px solid #7DAAE3;
+ 
+	}
+	.gridmsg
+	{
+		text-align:center;
+		 font-size: 15px;}
+	
+.textgrid
+{
+	border: 0px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	width:90px;
+	
+}
+
+
+
+
+
+.headergrid
+{
+	font-family : Arial;
+	font-size: 11px;
+	font-weight:bold;
+	color:white;
+	height:20px;
+	text-align:left;
+	background-color:#7DAAE3;
+}
+
+
+.txtfld
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	width:200px;
+	text-transform:uppercase;
+	margin-left: 0px;
+}
+.col_head
+{
+
+font-size:10px;
+font-weight:bold;
+text-align:center;
+border:1px solid #7DAAE3;
+width:80px;
+background-color:#7DAAE3;
+
+	}
+	 .btext_con_grid
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;	
+	width:80px;
+}
+.fixed_header
+{
+	position:absolute;
+	overflow:auto;
+	}
+	
+	.col_checkbox
+{
+
+font-size:10px;
+font-weight:bold;
+text-align:center;
+border:1px solid #7DAAE3;
+width:30px;
+	}
+		 .btext_checkbox
+{
+	
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;	
+	width:30px;
+}
+.btext_record
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;	
+	width:30px;
+}
+
+/**//*#F5F0F0;*/
+.top_DYNAMIC_CLASS
+    {      
+/*filter:alpha(opacity=90);*/
+background-color:#a0bfeb;
+display:block;
+position:absolute;
+color: black;
+border: 1 red solid;
+/*background-image:url('Images/form.jpeg');
+background-repeat:repeat-x;*/
+    }
+    .open_tab
+{
+
+width:160PX;
+font-family:Verdana;
+text-align:right;
+font-size:10px;
+background-color:White; 
+height:20px;
+border:#a0bfeb solid 2px;
+border-bottom:0;	
+cursor:pointer;
+}
+.close_tab
+{
+width:160PX;
+font-family:Verdana;
+text-align:right;
+font-size:10px;
+background-color:#a0bfeb; 
+height:20px;	
+cursor:pointer;
+}
+.vivekgrid
+{
+	border: 0px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 11px;
+	color: #000000;
+	width:80px;
+	
+	
+}
+	 .btext_con_grid_dig
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;	
+	width:80px;
+	text-align:right;
+}
+.fortaxtbox
+{
+		
+	font-family::Verdana;
+	font-size: 10px;
+	width:90px;
+		
+}
+.gridview
+{
+font-family:Verdana ;
+color:Black;
+font-size:10px;
+vertical-align:top;
+}
+
+.fordropdown
+{
+		
+	font-family::Verdana;
+	font-size: 10px;
+	width:40px;
+}
+
+
+
+.rep_border_left
+{
+font-family: Arial;
+font-size: 12px;
+text-align:left;	
+border-left:solid 1px black;
+}
+.rep_border_right
+{
+font-family: Arial;
+font-size: 12px;
+text-align:right;	
+border-left:solid 1px black;
+}
+
+input[type=text]:focus, textarea:focus
+{
+    background-color: #FFFF80;
+}
+
+.lbtxt1  
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:left;
+	margin-left:5px;
+	height:11px;
+	font-size:15px;
+	width:170px;
+}

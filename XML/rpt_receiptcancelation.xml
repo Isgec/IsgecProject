@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdataset>
+  <table>
+
+    <td>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+    
+    <td1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Destination</td5>
+    <td6>Run Report</td6>
+    <td7>Exit</td7>
+    
+  </table>
+
+  <table1>
+
+
+    <tr>Onscreen</tr>
+    <tr1>0</tr1>
+    <tr2>Excel</tr2>
+    <tr3>1</tr3>
+    <tr4>Pdf</tr4>
+    <tr5>2</tr5>
+    
+
+
+  </table1>
+  
+  
+</newdataset>
+
+
+
+

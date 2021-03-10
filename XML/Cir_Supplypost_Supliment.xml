@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+	<table>
+		<td0>Type</td0>
+		<td1>Edition / District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+		<td2>Target</td2>
+		<td3>Submit</td3>
+		<td4>Supply Post</td4>
+		<td5>Clear</td5>
+		<td6>Exit</td6>
+		<td7>Branch&lt;font color=red&gt; [F2]&lt;/Font&gt;</td7>
+		<td8>Publication&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td8>
+		<td9>Supplement Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td9>
+		<td10>Supplement Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+		<td11>Select Supply From</td11>
+		<td12>File/Voucher</td12>
+		<td13>Copy Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+		<td14>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+		<td15>Unit Code</td15>
+		<td16>Unit Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td16>
+    <td17>Supplement Type</td17>
+    <td18>Edition&lt;font color=red&gt; [F2]&lt;/Font&gt;</td18>
+    <td19>Supply Type&lt;font color=red&gt; [F2]&lt;/Font&gt;</td19>
+    <td20>State&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+    <td21>District&lt;font color=red&gt;*&lt;/Font&gt;</td21>
+    <td22>Week Day&lt;font color=red&gt;*&lt;/Font&gt;</td22>
+    <td23>Posting For&lt;font color=red&gt;*&lt;/Font&gt;</td23>
+	</table>
+</dataset>

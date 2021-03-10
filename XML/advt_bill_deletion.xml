@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td0>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td0>
+    <td1>Company Name</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Fin Doc Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Advt Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Fin Ref ID&lt;font color=red&gt;&lt;/Font&gt;</td5>
+    <td6>Bill No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Booking No.</td7>
+    <td8>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Bill Date</td9>
+    <td10>Ref Doc Type</td10>
+  </table>
+
+  <table1>
+    <td0>BILL</td0>
+    <td1>BILL</td1>
+  </table1>
+  
+  <table2>
+    <td>1</td>
+  </table2>
+  
+</newdataset>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Unit&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Bank&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Deposite Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Type&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+  </table>
+
+  <table1>
+    <td>Deposited Slip</td>
+    <td1>D</td1>
+    <td2>Not Deposited</td2>
+    <td3>N</td3>
+  </table1>
+</newdata>

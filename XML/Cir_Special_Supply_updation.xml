@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Status</td>
+    <td1>Supply&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Supply Copies</td2>
+    <td3>Supply Type</td3>
+    
+    </table>
+
+  <table1>
+    <td>Base Supply</td>
+    <td1>BASE_SUPPLY</td1>
+    <td2>Sunday</td2>
+    <td3>SUPPLY_SUN</td3>
+    <td4>Monday</td4>
+    <td5>SUPPLY_MON</td5>
+    <td6>Tuesday</td6>
+    <td7>SUPPLY_TUE</td7>
+    <td8>Wednesday</td8>
+    <td9>SUPPLY_WED</td9>
+    <td10>Thursday</td10>
+    <td11>SUPPLY_THU</td11>
+    <td12>Friday</td12>
+    <td13>SUPPLY_FRI</td13>
+    <td14>Saturday</td14>
+    <td15>SUPPLY_SAT</td15>
+    <td16>Special Supply 1</td16>
+    <td17>SUPPLY_SPL1</td17>
+    <td18>Special Supply 2</td18>
+    <td19>SUPPLY_SPL2</td19>
+    <td20>Special Sunday 1</td20>
+    <td21>SP_SUPPLY_SUN1</td21>
+    <td22>Special Monday 1</td22>
+    <td23>SP_SUPPLY_MON1</td23>
+    <td24>Special Tuesday 1</td24>
+    <td25>SP_SUPPLY_TUE1</td25>
+    <td26>Special Wednesday 1</td26>
+    <td27>SP_SUPPLY_WED1</td27>
+    <td28>Special Thrusday 1</td28>
+    <td29>SP_SUPPLY_THU1</td29>
+    <td30>Special Friday 1</td30>
+    <td31>SP_SUPPLY_FRI1</td31>
+    <td32>Special Saturday 1</td32>
+    <td33>SP_SUPPLY_SAT1</td33>
+    <td34>Special Sunday 2</td34>
+    <td35>SP_SUPPLY_SUN2</td35>
+    <td36>Special Monday 2</td36>
+    <td37>SP_SUPPLY_MON2</td37>
+    <td38>Special Tuesday 2</td38>
+    <td39>SP_SUPPLY_TUE2</td39>
+    <td40>Special Wednesday 2</td40>
+    <td41>SP_SUPPLY_WED2</td41>
+    <td42>Special Thrusday 2</td42>
+    <td43>SP_SUPPLY_THU2</td43>
+    <td44>Special Friday 2</td44>
+    <td45>SP_SUPPLY_FRI2</td45>
+    <td46>Special Saturday 2</td46>
+    <td47>SP_SUPPLY_SAT2</td47>
+   </table1>
+    
+  <table2>
+    <td0>Percentage</td0>
+    <td1>P</td1>
+    <td2>Fix</td2>
+    <td3>F</td3>
+  </table2>
+
+</newdataset>

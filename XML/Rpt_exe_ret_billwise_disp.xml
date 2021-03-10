@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <tr>Executive/Retainer Bill Wise Statement</tr>
+    <tr1>Date</tr1>
+    <tr2>Agency Name</tr2>
+    <tr3>Client Name</tr3>
+    <tr4>Publish Date</tr4>
+    <tr5>Package</tr5>
+    <tr6>Sub Category</tr6>
+    <tr7>CLR Type</tr7>
+    <tr8>Size</tr8>
+    <tr9>Rate</tr9>
+    <tr10>Vch Type</tr10>
+    <tr11>Vch Date</tr11>
+    <tr12>Vch No.</tr12>
+    <tr13>Debit</tr13>
+    <tr14>Credit</tr14>
+    <tr15>Balance</tr15>
+
+
+
+
+
+  </table>
+</newdata>

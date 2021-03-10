@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Code</td>
+    <td1>Description</td1>
+    <td2>Edition</td2>
+    <td3>Sub Edition</td3>
+    <td4>BillCopy</td4>
+    <td5>Free Copies</td5>
+    <td6>Unsold</td6>
+    <td7>Short</td7>
+    <td8>Damage</td8>
+    <td9>Late</td9>
+    <td10>Missing</td10>
+    <td11>Total</td11>
+  </table>
+  <table1>
+    <td>Publication</td>
+    <td1>Edition</td1>
+    <td2>SubEdition</td2>
+    <td3>Total Invoice</td3>
+    <td4>Comm</td4>
+    <td5>Cover Price</td5>
+    <td6>Vender Price</td6>
+    <td7>Invoice RM</td7>
+  </table1>
+</dataset>

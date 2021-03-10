@@ -1,0 +1,74 @@
+
+select * from ad_outstand where BILLNO IN('BGL/20-1/25020')
+
+select * from AD_BILLS where BILNO IN('BGL/20-1/25020')
+
+SELECT * FROM AD_OUTSTAND WHERE RECPTNO IN('BAN/20-06/000013')
+
+
+
+select * from ad_rcptdet where billno!='' ='BGL/16-11/6696' recptno='BAN/20-05/000008'
+
+SELECT SUM(AMOUNT) FROM AD_OUTSTAND WHERE RECPTNO IN('BAN/20-06/000013')
+
+
+UPDATE  AD_OUTSTAND SET AMOUNT=-917526 WHERE RECPTNO IN('BAN/20-06/000013')AND  BILLNO IS NOT NULL
+
+
+SELECT * FROM AD_RCPTHDR WHERE RECPTNO IN('BAN/20-06/000013')
+
+-266175
+
+select * from ad_outstand where BILLNO='BGL/18-3/16751'
+
+select branch_code,pub_center from branch_mst
+
+update ad_outstand set print_center = unit where print_center is null and doctype<>'BILL'
+
+
+select  ag_main_code,ag_sub_code,unit,recptno,billno,billdt,bkfor,doctype,amount from AD_OUTSTAND 
+where AGCODE='ZZ1812ZZZ1812' and billno='BGL/20-1/25020'
+
+select  ag_main_code,ag_sub_code,unit,bildt from ad_bills where AGCODE='ZZ1812ZZZ1812' and bilno='BGL/20-1/25020'
+
+exec rpt_agency_outstanding @pcompcode='VW001',@punitcode=NULL,@ppcentcode=NULL,@pagmain_code='ZZ1812',@pagsub_code='ZZZ1812',
+@pason_date='2020-03-31 00:00:00',@pagtype=NULL,@pregioncode='',@pstatecode='',@pdistcode='',@pdateformat='dd/mm/yyyy',@preptype='',
+@puserid='SA0',@pextra1='',@pextra2=NULL,@pextra3=NULL,@pextra4=NULL,@pextra5=NULL
+
+select abs(sum(amount)) rec_amt,0 cndn_amt from ad_outstand 
+                    where comp_code='VW001' and doctype='RCR' and
+                    billdt='2020-01-01' and billno='BGL/20-1/25020' 
+					and (recptno is not null or recptno<>'') and recptdt is not null
+
+
+
+                union all
+                select 0 rec_amt, abs(sum(amount)) cndn_amt from ad_outstand 
+                    where comp_code=@v1_comp_code and doctype<>'RCR' and
+                    billdt=@v1_docdt and billno=@v1_docno and (recptno is not null or recptno<>'') and recptdt is not null) x;
+
+
+
+select abs(sum(amount)) rec_amt,0 cndn_amt from ad_outstand 
+                    where comp_code='VW001' and doctype='RCR' and
+                    billdt='01/01/2020' and billno='BGL/20-1/25020' and (recptno is not null or recptno<>'') and recptdt is not null
+                union all
+                select 0 rec_amt, abs(sum(amount)) cndn_amt from ad_outstand 
+                    where comp_code='VW001' and doctype<>'RCR' and
+                    billdt='01/01/2020' and billno='BGL/20-1/25020' and (recptno is not null or recptno<>'') and recptdt is not null
+
+
+                select count(*) from ad_bills where comp_code_v='VW001' and bildt='01/01/2020' and bilno='BGL/20-1/25020';
+				if isnull(@v_exists,0)>0 begin
+					select unit,--@v_print_center=print_center,
+					idnum,replace(substring(isnull(clientname,clientcd),1,30),',','') ,
+					substring(ronum,1,30),rodate,
+						   (select "pub_alias" from pub_mast p where p."Pub_Code"=pripub and p.comp_code='VW001'),
+						   case when ad_bills.bill_pay='OP0' then ad_bills.gross_amt else ad_bills.billamt end,
+						   ag_main_code,bk_agsubcode,
+						   ad_bills.gross_amt,
+						   (select "Exec_name" from exec_mast where 
+						   convert(varchar(20),"Exe_no")=ad_bills.executive_name and comp_code='VW001') ,
+						   (select "Retain_Name" from retainermaster where "Retain_Code"= ad_bills.retainer_code and comp_code='VW001') 
+						   ,AGCODE
+						from ad_bills where comp_code_v='VW001' and bildt='01/01/2020' and bilno='BGL/20-1/25020';

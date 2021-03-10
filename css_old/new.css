@@ -1,0 +1,201 @@
+﻿.imageclass
+ {
+	background-image:url(images/header-img.jpg);
+	background-repeat:repeat-x;
+    
+}
+
+.newfont
+{
+ font-family: verdana ;
+ color:White;
+ FONT-WEIGHT: bold;
+  font-size: 12px;
+}
+
+.newtext
+{
+ font-family: verdana ;
+ color:#5e5c5d;
+ FONT-WEIGHT: bold;	
+ font-size: 11px;
+text-align:center;
+}
+.newtext1
+{
+ font-family: verdana ;
+ color:#5e5c5d;
+ FONT-WEIGHT: bold;	
+ font-size: 11px;
+ text-align:center;
+}
+.forall
+{
+font-family: arial ;
+ font-size: 13px;
+text-align:center;
+	}
+
+
+.forreport
+{
+	font-size:11px;
+	height:30px;
+	font-weight:bold;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:11px;
+	/*border-bottom:dashed;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;*/
+	 background-image:url(Images/header_bg.jpg);
+	 background-repeat:repeat-x; 
+	}
+	.fortotal
+	{
+		background-color:inherit;
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+
+	}
+	
+	
+	.forrecords1
+	{
+		background-color:#f8f9fd;
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+
+	}
+	.forrecords2
+	{
+		background-color:#e4e8f8;
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+	}
+	.pagingleft
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+	
+	
+	}
+	.pagingright
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+
+	}
+	.pagingcenter
+	{  
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff; 
+	}
+	.newhead
+	{
+	font-family :verdana;
+	font-size :23px;
+	font-weight :bold;
+	color :#0a4a83;
+	
+	}
+	
+	.upperhead
+	{
+	/*height:0px; 
+	width: 300px; */
+	font-size:12px;
+	font-weight:bold;
+	font-family:Verdana;
+	Color: #000000;
+
+		}
+		
+		.headrep11
+		{
+			
+	font-size:12px;
+	font-weight:normal;
+	font-family:Verdana;
+	Color:#000000;
+	
+}
+.print
+{
+		font-family:Arial;
+		font-size:12px;
+		color: #000000;
+		font-weight:normal;
+}
+
+.mail
+{
+  font-family:Arial;
+  font-size:11px;
+  font-weight:normal;
+}
+
+
+.colortextbox
+{
+display: block;
+text-indent: 3px;
+border:solid 1px;
+border-color:#B5E2FE;
+padding: 2px 0;
+text-decoration: none;
+color: black;
+}
+
+     .printhead
+	{
+	font-family :verdana;
+	font-size :23px;
+	font-weight :bold;
+	color :#5e5c5d;
+	
+	}
+	
+	
+	.printtext
+	{
+		font-family:Arial;
+		font-size:12px;
+	}
+	
+	.printing
+{
+	font-size:9px;
+	
+	font-family:Verdana;
+	font-weight:bold;
+	border-bottom:dashed;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+	 
+}
+
+.total
+{
+	font-size :12px;
+	font-family :Verdana ;
+	font-weight :bold ;
+	color:Black;
+}

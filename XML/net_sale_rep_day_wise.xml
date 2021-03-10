@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name</td1>
+    <td2>Publication&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Main Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Report Type</td14>
+    <td15>Break On</td15>
+    <td16>Return Based</td16>
+    <td17>Language</td17>
+    <td18>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Commission&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+    <td22>Destination</td22>
+  </table>
+
+  <table1>
+    <td>Main Edition Wise</td>
+    <td1>2</td1>
+    <td2>District Taluka Wise</td2>
+    <td3>3</td3>
+  </table1>
+
+  <table2>
+   
+    <td>Region</td>
+    <td1>R</td1>
+    <td2>State</td2>
+    <td3>S</td3>
+    <td4>District</td4>
+    <td5>D</td5>
+    <td6>Branch</td6>
+    <td7>B</td7>
+    <td8>Zone</td8>
+    <td9>Z</td9>
+    <td10>Route</td10>
+    <td11>O</td11>
+    <td12>Agency</td12>
+    <td13>A</td13>
+ </table2>
+
+  <table3>
+    <td>Supply Date</td>
+    <td1>S</td1>
+  </table3>
+
+  <table4>
+    <td>Other Language</td>
+    <td1>2</td1>
+  </table4>
+
+  <table5>
+
+    <td>Onscreen</td>
+    <td1>O</td1>
+    <td2>Excel</td2>
+    <td3>E</td3>
+    <td4>Pdf</td4>
+    <td5>P</td5>
+  </table5>
+</Newdataset>

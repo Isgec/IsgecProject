@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>HHC Auto Txt Generation Form</td>
+    <td1>Remark &lt;font color=red&gt;&lt;/Font&gt;</td1>
+    <td2>Record status &lt;font color=red&gt;&lt;/Font&gt;</td2>
+    <td3>Remarks &lt;font color=red&gt;&lt;/Font&gt;</td3>
+    <td4>Depo Name &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+  </table>
+</dataset>

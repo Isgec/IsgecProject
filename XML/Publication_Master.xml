@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Company Name</td1>
+		<td2>Publication Code</td2>
+		<td3>Publication Desc&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>Desc In Oth Lang.</td4>
+		<td5>Publication Nick&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+		<td6>Publication Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+		<td7>Product Type&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+		<td8>Start Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+		<td9>Alert</td9>
+		<td10>Status</td10>
+    <td11>COMP_CODE$~$PUBL$~$PUBL_NAME$~$PUBL_NAME_OTH_LANG$~$PNICK$~$PERIOD$~$PRO_TYPE$~$DOB$~$USERID$~$FREEZE_FLAG$~$PUBL_ALERT$~$ACC_CODE$~$PUBL_SEQNO$~$PUBLISHER$~$PUB_COLOR$~$INTEGRATION_ID$~$COMPETITOR$~$CIR_PUBL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td11>
+    <td12>PUBL$~$COMP_CODE</td12>
+    <td13>View</td13>
+    <td14>COMP_CODE$~$PUBL$~$PUBL_NAME$~$PUBL_NAME_OTH_LANG$~$PNICK$~$PERIOD$~$PRO_TYPE$~$DOB$~$FREEZE_FLAG$~$PUBL_ALERT$~$ACC_CODE$~$PUBL_SEQNO$~$PUBLISHER$~$PUB_COLOR$~$CIR_PUBL_MAST$~$INSERT#UPDATE#DELETE#SELECT</td14>
+    <td15>CIR_PUBL_MAST</td15>
+    <td16>COMP_CODE$~$PUBL_NAME$~$PNICK</td16>
+    <td17>Account&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Sequence no.</td18>
+    <td19>Language</td19>
+    <td20>COMP_CODE$~$PUBL_SEQNO</td20>
+    <td21>Publication Colour</td21>
+    <td22>Intergration Id</td22>
+    <td23>Competitor</td23>
+	</table>
+	<table1>
+		<td>Daily</td>
+		<td1>1</td1>
+		<td2>Weekly</td2>
+		<td3>7</td3>
+		<td4>Fortnightly</td4>
+		<td5>15</td5>
+		<td6>Monthly</td6>
+		<td7>30</td7>
+    <td8>Quarterly</td8>
+    <td9>90</td9>
+		<td10>Yearly</td10>
+		<td11>365</td11>
+    <td12>Select weeks days</td12>
+    <td13>5</td13>
+	</table1>
+	<table2>
+		<td>Newspaper</td>
+		<td1>N</td1>
+		<td2>Magzine</td2>
+		<td3>M</td3>
+	</table2>	
+  
+  <table3>	
+    <td>Inactive</td>
+		<td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table3>
+  <table4>
+    <td0>Sr</td0>
+    <td1>Pub Code</td1>
+    <td2>Pub Name</td2>
+    <td3>Other Lang</td3>
+    <td4>Nick</td4>
+    <td5>Period</td5>
+    <td6>Type</td6>
+    <td7>DOB</td7>
+    <td8>Alert</td8>
+  </table4>
+
+  <table5>
+    <td0>Publication Code</td0>
+    <td1>Publication Name</td1>
+    <td2>Other Language</td2>
+    <td3>Publication Nick</td3>
+    <td4>Period</td4>
+    <td5>Publication Type</td5>
+    <td6>Date Of Birth</td6>
+    <td7>Alert</td7>
+    <td8>Freeze Flag</td8>
+    <td9>Company Code</td9>
+    <td10>Company Name</td10>
+  </table5>
+  <table6>
+    <td0>Please Enter Publication Name.$~$Please Enter Publication Nick.$~$Please Enter Valid Period.$~$Please Enter Valid Type.$~$Please Enter Valid Date.$~$Do You want to skip this page?$~$Please fill All The (*) mandatory fields.$~$Data Saved Successfuly on Publication code $~$There is no data regarding your Query.$~$Are you sure! Do You want to delete this Entry ?$~$Data deleted Successfully.$~$There is no more data to be delete.$~$Data updated successfully.$~$Creation Date cannot be greater than the System Date.</td0>
+  </table6>
+  <table7>
+    <td1>RED</td1>
+    <td2>RED</td2>
+    <td3>GREEN</td3>
+    <td4>GREEN</td4>
+    <td5>BLUE</td5>
+    <td6>BLUE</td6>
+  </table7>
+
+  
+</Newdataset>
+

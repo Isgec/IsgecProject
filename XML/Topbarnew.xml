@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td text="E">Ad-Booking |</td>
+		<td1 text="E"> Finance |</td1>
+		<td2  text="E">Ad-Accounts |</td2>
+		<!--<td3 text="D"> Newsprint |</td3>-->
+		<td3 text="E">Layout-X |</td3>
+		<!--<td5 text="E"> News-Wrap |</td5>-->
+		<td4 text="E"> Newsprint |</td4>
+		<td5 text="E">PAM |</td5>
+		<td6 text="E">Payroll |</td6>
+		<td7 text="E">Dashboard</td7>
+	</table>
+</Newdataset>

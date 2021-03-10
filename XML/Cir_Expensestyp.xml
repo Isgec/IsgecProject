@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Expenses Type Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Expenses Type Description&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Expenses Type Mode</td4>
+    <td5>Expenses Dr Ac Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Status</td6>
+    <td7>Reason&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <!--<td14>Expenses  Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>-->
+    <!--<td>Expenses Type Code</td>
+    <td1>Expenses Type Description&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>FREEZE_FLAG</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>-->
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <!--ajay comment <td8>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$EXP_TYPE_SIGN$~$EXP_TYPE_MODE$~$EXP_TYPE_CALC_BASE$~$EXP_TYPE_CALC_DATE$~$DR_CDP$~$CR_CDP$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td8>-->
+
+    <td8>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$EXP_TYPE_MODE$~$DR_CDP$~$EXP_REASON$~$CR_CDP$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td8>
+
+   <td9>EXP_TYPE_CODE$~$COMP_CODE</td9>
+
+    <td10>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$USERID$~$COMP_CODE$~$EXP_TYPE_MODE$~$DR_CDP$~$EXP_REASON$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    <!--<td7>MODE_CODE$~$MODE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$cir_route_mode_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>-->
+    <!--ajay comment <td55>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$EXP_TYPE_SIGN$~$EXP_TYPE_MODE$~$EXP_TYPE_CALC_BASE$~$EXP_TYPE_CALC_DATE$~$DR_CDP$~$CR_CDP$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td55>-->
+
+    <td55>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$EXP_TYPE_MODE$~$DR_CDP$~$EXP_REASON$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td55>
+    
+    
+    
+    <!--<td322>Expenses Type Description</td322>
+    <td12>Expenses Type Mode</td12>
+    <td22>Expenses Account Head</td22>
+    <td32>Reason</td32>-->
+    <!--<td42>Expenses Acc. CDP</td42>
+    <td422>Expenses Acc. CDS</td422>-->
+    <td81>COMP_CODE#USERID#EXP_TYPE_DESC#CIR_EXPENSES_TYPE_MAST</td81>
+    <td812>CIR_EXPENSES_TYPE_MAST</td812>
+   
+  </table>
+
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+  <!--<table1>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table1>-->
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please enter Expenses Type Name.$~$Data Saved successfully at Expenses Type Code $~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$First charter can not be a special charter.$~$You can not enter only special chartar.</td0>
+  </table2>
+
+
+  <table3>
+    <td>Sr No</td>
+    <td1> Code</td1>
+    <td2>Expenses Type Name</td2>
+    <td3>Expenses Account </td3>
+    <td4>Status</td4>
+    <td5>Reason</td5>
+    
+  </table3>
+
+  <table4>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Expenses Type Code</td2>
+    <td3>Expenses Type Name</td3>
+    <td4>Freeze Flag</td4>
+    <td11>Expenses Type Sign</td11>
+    <td11>Expenses Type Mode</td11>
+    <td21>Expenses Type Calculation Base</td21>
+    <td31>Expenses Type Calculation Date</td31>
+    <td41>Expenses Acc CDP</td41>
+    <td413>Expenses ACC CDS</td413>
+
+  </table4>
+
+  <table4>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Expenses Type Code</td2>
+    <td3>Expenses Type Name</td3>
+    <td4>Freeze Flag</td4>
+    <td11>Expenses Type Sign</td11>
+    <td11>Expenses Type Mode</td11>
+    <td21>Expenses Type Calculation Base</td21>
+    <td31>Expenses Type Calculation Date</td31>
+    <td41>Expenses Acc CDP</td41>
+    <td413>Expenses ACC CDS</td413>
+
+  </table4>
+
+  <table5>
+    <td>Debit</td>
+    <td1>1</td1>
+    <td2>Credit</td2>
+    <td3>-1</td3>
+  </table5>
+
+
+  <table6>
+    <td>Manual</td>
+    <td1>M</td1>
+    <td2>Auto</td2>
+    <td3>A</td3>
+    
+  </table6>
+  <!--<table6>
+    
+    --><!--<td1>A</td1>--><!--
+    <td>Manual</td>
+    <td1>Auto</td1>
+    --><!--<td3>M</td3>--><!--
+  </table6>-->
+
+  <table7>
+    <td>Billing</td>
+    <td1>B</td1>
+    <td2>Credit</td2>
+    <td3>C</td3>
+    <td22>Date</td22>
+    <td32>D</td32>
+  </table7>
+
+  <table9>
+
+    <td0>EXP_TYPE_CODE$~$EXP_TYPE_DESC$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$EXP_TYPE_MODE$~$cir_expenses_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td0>
+  
+    
+    
+  </table9>
+
+  <table10>
+    <td>Expenses Cr Ac Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+  </table10>
+  
+</newdataset>

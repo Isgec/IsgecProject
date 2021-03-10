@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table0>
+    <td0>Company Code</td0>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Publ Code</td4>
+    <td5>Publ Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Main/Sub</td8>
+    <td9>Date</td9>
+    <td10>destination</td10>
+  </table0>
+</newdataset>

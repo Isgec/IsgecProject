@@ -1,0 +1,144 @@
+﻿.textingridright
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:right;
+}
+
+
+.textingridleft
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:left;
+}
+
+
+.textingridcenter
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:center;
+}
+
+.textingridhead
+{
+	
+	font-family:Arial;
+	Color:White;
+	font-size:14px;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+.textingridleft_supply
+{
+	
+	font-family:Arial;
+	
+	font-size:11px;
+	text-align:left;
+}
+
+
+.textingridright_supply
+{
+	
+	font-family:Arial;
+	
+	font-size:11px;
+	text-align:right;
+	
+}
+
+.textingridleft_supply_red
+{
+	
+	font-family:Arial;	
+	Color:Red;	
+	font-size:11px;
+	text-align:left;
+	
+}
+
+
+.Textfield_large_corr  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:190px;
+	text-transform:uppercase;
+	
+}
+
+.dropdown_large_corr
+
+{
+
+border: 1px solid #929292;
+background-color: #ffffff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+height:16px;
+width:195px;
+
+}
+
+.dropdown_large_corr1
+
+{
+
+border: 1px solid #929292;
+background-color: #ffffff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+height:16px;
+width:196px;
+
+}
+
+
+
+.Textfield_exlarge_corr  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:562px;
+	text-transform:uppercase;
+	
+}
+
+
+
+.Textfield__spon
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:180px;
+	text-transform:uppercase;
+	
+}

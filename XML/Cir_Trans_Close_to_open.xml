@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <!--<table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Opening Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Process</td8>
+    <td9>Exit</td9>
+   <td10>Transfer Closing To Opening Balance</td10>
+  </table>-->
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Opening Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Process</td6>
+    <td7>Exit</td7>
+    
+  </table>
+</newdataset>

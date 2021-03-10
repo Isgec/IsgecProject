@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Block Unblock Status Report </td>
+    <td1>Company</td1>
+    <td2>Printing Center</td2>
+    <td3>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Status&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Block/Unblock By&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Block/Unblock Type</td6>
+    <td7>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Block/Unblock Reason&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Report Designation</td11>
+    <td12>Showed Approved</td12>
+  </table>
+  <table1>
+    
+    <td>Block Agencies</td>
+    <td1>Y</td1>
+    <td2>Unblock Agencies</td2>
+    <td3>N</td3>
+    
+  </table1>
+
+  <table2>
+    <td>Auto</td>
+    <td1>A</td1>
+    <td2>Manual</td2>
+    <td3>M</td3>
+   
+  </table2>
+  <table3>
+    <td>OnScreen</td>
+    <td1>ons</td1>
+    <td2>Excel</td2>
+    <td3>exc</td3>
+    <td4>Pdf File</td4>
+    <td5>pdf</td5>
+ 
+  </table3>
+
+  <table4>
+    <td>Auto</td>
+  </table4>
+  
+  <table5>
+    <td>manual</td>
+  </table5>
+  <table6>
+    <td>Yes</td>
+  </table6>
+  <table7>
+    <td>NO.</td>
+    <td1>Dealer Name </td1>
+    <td2>Aging</td2>
+    <td3>Full Payment</td3>
+    <td4>Manul Unblock</td4>
+    <td5>Time</td5>
+    <td6>Unblock group</td6>
+    <td7>Unblock By </td7>
+    <td8>Unblock Reason </td8>
+    <td9>Dealer Code</td9>
+    
+  </table7>
+ 
+  </newdataset>

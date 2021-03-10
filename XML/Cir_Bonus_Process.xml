@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td0>Company Name</td0>
+    <td1>Unit Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td1>
+    <td2>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Bill Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Bill Freqency&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Date of Process&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Cutoff&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Cutoff Amount&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Final Process</td8>
+    <td9>Report Destination</td9>
+    <td10>Ason Date</td10>
+    <td11>Pay Reason</td11>
+  </table>
+</dataset>

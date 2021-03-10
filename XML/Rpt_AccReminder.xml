@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <table>
+    <data>
+      <tr>Bill No.</tr>
+      <tr1>Bill Date</tr1>
+      <tr2>Client Name</tr2>
+      <tr3>Amount</tr3>
+      <tr4>S.No.</tr4>
+      <tr5>Reminder</tr5>
+      <tr6>Page No</tr6>
+      <tr7>We are enclosing a statement of outstanding bills upto MRV-. It may please be noted </tr7>
+      <tr8>that a sum of Rs. ****** is still due from you. Bill-wise and Client-wise details are enclosed to</tr8>
+      <tr9>enable you to go through the statement and arrange immediate settlement.</tr9>
+      <tr10></tr10>
+      <tr11>Payments against invoice should always be settled in full. If you deduction is made, reasons for </tr11>
+      <tr12>such deduction must be communicated to us along with the payment. Otherwise,It will be treated </tr12>
+      <tr13>as short payment.</tr13>
+      <tr14>Thanks and Regards ,</tr14>
+      <tr15>Avinandan Mitra</tr15>
+      <tr16>Corporate Manager-Treasury and Sales Accounts-Advertisement</tr16>
+      <tr17>Eaclo.As above.</tr17>
+      <tr18>yes</tr18>
+      <tr19>We are giving here under the details of the Advertising bill(s)which has/have not been paid so far:-</tr19>
+      <tr20>To,</tr20>
+      <tr21>Dear Sir/Madam</tr21>
+      <tr22>Sub: Payment of our Advertising bill(s)</tr22>
+
+      <tr23>Authorized Signatory :-</tr23>
+      <tr24>S. S. Kataria,</tr24>
+      <tr25>Vice President, Marketing</tr25>
+      <tr26>Parveen Sindhu,</tr26>
+      <tr27>Manager Recovery.</tr27>
+      <tr28>Anil Gahlawat,</tr28>
+      <tr29>Unit Head.</tr29>
+      <tr30>Sagar Choudhary,</tr30>
+      <tr31>Unit Head.</tr31>
+      <tr32>R.R Soni,</tr32>
+      <tr33>Advertisement Manager.</tr33>
+    </data>
+    <DATA1>
+       
+      <tr>Bill No.</tr>
+      <tr1>Bill Date</tr1>
+      <tr2>Client Name</tr2>
+      <tr3>Amount</tr3>
+      <tr4>S.No.</tr4>
+      <tr5>Reminder</tr5>
+      <tr6>Page No</tr6>
+      <tr7>It has come to our attantion that your account with the republikein is long outstanding and  </tr7>
+      <tr8>overdue.Below is a summery of the current situation as at</tr8>
+      <tr9>Your total balance outstanding on your account CXR2846 is ******</tr9>
+      <tr10></tr10>
+      <tr11>Your overdue amount of ****** has been outstanding for more than 90 days and is payable  </tr11>
+      <tr12>immediately</tr12>
+      <tr13>Please ensure the overdue amounts are paid immediately,failure to do so will result in a </tr13>
+      <tr14>hold placed on your account with us and further necessary actions to recover the debt.</tr14>
+      <tr15>Please act on the above as a matter of urgency and we look forward to working together in </tr15>
+      <tr16>future</tr16>
+      <tr17>kinds regards</tr17>
+      <tr18>Caroline Gomes</tr18>
+      <tr19>Financial Manager </tr19>
+      <tr20>(061)297 2091</tr20>
+      <tr21>Dear Customer</tr21>
+      <tr22>FINAL NOTICE</tr22>
+
+      <tr23>Authorized Signatory :-</tr23>
+      <tr24>S. S. Kataria,</tr24>
+      <tr25>Vice President, Marketing</tr25>
+      <tr26>Parveen Sindhu,</tr26>
+      <tr27>Manager Recovery.</tr27>
+      <tr28>Anil Gahlawat,</tr28>
+      <tr29>Unit Head.</tr29>
+      <tr30>Sagar Choudhary,</tr30>
+      <tr31>Unit Head.</tr31>
+      <tr32>R.R Soni,</tr32>
+      <tr33>Advertisement Manager.</tr33>
+      
+    </DATA1>
+  </table>
+  

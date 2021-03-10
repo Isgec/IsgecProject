@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Transaction>
+    
+    <td4>Inward Entry~show~provisionalreceipt.aspx</td4>
+    <td1>Receipt Entry~show~ReceiptEntry</td1>
+    <td23>Composit Receipt Entry~show~Composit_Receipt_entry</td23>
+    <td31>Provisional DN/CN Entry~show~CNDN_ProvisionalReceipt</td31>
+    <td32>Provisional Transfer Note Entry~show~Prov_Transfer_entry_form.aspx</td32>
+    <td2>Advance Receipt Entry~hide~ReceiptEntry</td2>
+    <td3>Receipt Adjustment~show~Receipt_Adjustment</td3>
+    <!--<td4>Inward Entry~show~provisionalreceipt.aspx</td4>-->
+    <td5>PDC/PR Receipt Posting~hide~Add_Provisional_Receipt_Posting</td5>
+    <td6>Security Receipt Entry~hide~securityReceipt</td6>
+    <td7>Interest Calculation~hide~InterestCalculation</td7>
+    <td8>Interest Calculation Posting~hide~InterestCalculationPosting</td8>
+    <td9>Bill Wise Outstanding Entry~hide~BillWiseOpeningBalance</td9>
+    <td10>Bill Untaging~show~bill_untagging</td10>
+    <td11>dispatch bill~hide~dispatchBillEntry</td11>
+    <td12>Bill Dispute Entry~hide~dispute_execute_form</td12>
+    <td13>Ad Bills Adjustment~hide~RCB_adbills_adjustment</td13>
+    <td14>Retainer Commision Process~show~Ret_Com_Det</td14>
+    <td15>Retainer Commision Process For Branch~hide~Ret_Com_Det</td15>
+    <td16>Inter Unit Amt Transfer~hide~Inter_unit_amt_transfer</td16>
+    <td17>Transfer Note Entry~show~Transfer_entry_form.aspx</td17>
+    <td18>Small Amount Writeoff~show~SmallAmountWriteOff</td18>
+    <td19>Credit Note Process~hide~credit_not_process</td19>
+    <td20>Discount Credit Note Process~hide~credit_process_note</td20>
+    <td21>PRT Issue Entry~show~PMRCancelForm</td21><!--PMR Book-->
+    <td22>Receipt Search/Ro Number~show~col_recieptsearch</td22>
+    <td24>Bank Deposite Slip Entry~show~chq_deposite_slip</td24>
+    <td25>Retainer Bill Hold~hide~retain_grace_days</td25>
+    <td26>Receipt Transfer~hide~advt_receipt_trans</td26>
+    <td27>Unit DocType Lock~hide~doctype_unit_lock</td27>
+    <td28>Receipt Entry Modify~show~ReceiptEntry_Modify</td28>
+    <td29>Reatiner Special Commission~hide~retainer_spcl_comm</td29>
+    <td30>Reatiner Commission Approval~hide~retainer_comm_approval</td30>
+    <td33>Outstanding Balance Query~show~Ad_OutstandingQuery</td33>
+	<td34>Internal DN/CN Entry~show~InternalCnDnEntry</td34>
+	<td35>Retainer Comm. Adjustment~show~ColRetainerCommAdj.aspx</td35>
+    <td36>Retainer Comm. Adjustment Verify~show~ColRetainerCommAdjVerify.aspx</td36>
+    <td37>Retainer Comm. Adjustment Approval~show~ColRetainerCommAdjApproval.aspx</td37>
+	 <td38>Mrv Provisional Receipt~show~ColMrvProvisionalReceipt.aspx</td38>
+    <td39>CASH FRT~show~cash_provisionalreceipt.aspx</td39>
+  </Transaction>
+  <MRV>
+    <td1>MRV Process~show~MRV_process</td1>
+    <td2>MRV Data Updation~show~mrv_updation</td2>
+  </MRV>
+  <LOKMAT_Report>
+    <td0>Bill Register~show~rpt_billregister</td0>
+    <td1>Receipt/PDC Register~show~Rpt_Receipt_Register</td1>
+    <td2>Credit/Debit Note Register~show~Rpt_DebCreNoteAgainstBillout</td2>
+    <td3>Multiple Receipt Print~show~multireceipt_print</td3>
+    <td4>UnAdjusted Receipt Report~show~unadjusted_report</td4>
+    <td5>Agencywise Receipt Register~show~Rpt_Agwise_Rcpt_Rgstr</td5>
+    <td6>Collection Book~show~Rpt_Collection_Book</td6>
+    <td7>Day Book~show~day_book</td7>
+    <td8>Collection Summary~show~kppl_collection_summary</td8>
+    <td9>Cheque Register~show~cheque_register</td9>
+    <td10>Agency Bill Wise Oustanding Report~show~bill_wise_outstanding</td10>
+    <td11>Collection Ageing Report~show~Collection_Detail_Report</td11>
+    <td12>Agency Bill Wise Status Report~show~Rpt_Agency_billwise</td12>
+    <td13>Client Bill Wise Status Report~show~Rpt_client_billwise</td13>
+    <td14>Executive/Retainer Bill Wise Status Report~show~Rpt_exec_ret_billwise</td14>
+    <td15>Billing Summary~show~Rpt_CreditDetails</td15>
+    <td16>Ledger Wise Agency Summary~show~PartyWiseOutstandingSummary</td16>
+    <td17>Agency Ledger~show~Agency_ledger</td17>
+    <td18>Cheque Dishonour Letter~show~RPt_ChequeDishonour</td18>
+    <td19>Outstanding Letter~show~Rpt_Accredited_Reminder</td19>
+    <td20>No Dues Certificate Report~show~no_dues_certificate</td20>
+    <td21>Security Agency Ledger~show~Security_Agency_ledger</td21>
+    <td22>Security Agency Ledger Summary~show~securityledgerwiseoutstanding</td22>
+    <td23>Interest Calculation Report~show~InterestCalculationReportView</td23>
+      <td24>Collection against cheque Bounce Report~show~Rpt_coll_chk_bounce</td24>
+    <td25>Collection Received From other Unit~show~Bra_coll_against_oth_bra</td25>
+	<td26>Publication Wise Revenue Sharing Report~show~rpt_publwise_revenue_sharing</td26>
+    <td27>Balance Confirmation Letter~show~Rpt_Confirmation_Balance</td27>
+<td28>Blank Security Cheque Report~show~Rpt_Blank_Cheque</td28>
+    <td29>Provisional Retainer Commission~show~Provision_Retainer_Commission</td29>
+    <td30>Retainer Wise Receipt Register~show~Rpt_Retainer_Receipt_Reg</td30>
+    <td31>Agency Ageing~show~Rpt_Agency_Ageing</td31>
+    <td32>No Move Agency~show~Rpt_No_Move_Agency</td32>
+  </LOKMAT_Report>
+  <Commission_Report>
+    <td>Retainer Commission Statement~show~ReportRetainerCommition</td>
+  </Commission_Report>
+  <Master>
+    <td1>Document Master~hide~DocTypeMaster</td1>
+    <td2>Reason Master~show~Reason_Master</td2>
+    <td3>Reason Group Master~show~reasongroupmast</td3>
+    <td4>Bank Master~show~BankMaster</td4>
+    <td5>Transfer Closing To Opening Balance~show~Transfer_op_clo_bal</td5>
+    <td6>Opening Balance Entry~hide~open_balance</td6>
+    <td7>Doc Type Permission Master~show~doc_type_permission</td7>
+    <td8>Clearance Type Master~hide~ClearanceType</td8>
+    <td9>Dispute form~hide~dispute_execute_form</td9>
+    <td10>Multiple Opening Balance Entry~hide~multpialOpeningbalance</td10>
+    <td11>Dispatch Mode~hide~bill_dis_mode</td11>
+    <td12>Dispute Master~hide~Dispute_Master</td12>
+	<td41>PRT Print Stock Master~show~Prt_print_stotk_master</td41>
+	<td13>Multi Open Pages~show~Open_multi_tasking</td13>
+  </Master>
+  <Register_Reports>
+    <td1>Bill Register~hide~rpt_billregister</td1>
+    <td2>Receipt Debit Credit Note Register~hide~Rpt_Receipt_Register</td2>
+    <td3>Debit Credit Note Against Outstanding~hide~Rpt_DebCreNoteAgainstBillout</td3>
+    <td4>Multiple Receipt Print~hide~multireceipt_print</td4>
+    <td5>Multiple Receipt only~hide~multireceiptonly</td5>
+    <td6>UnAdjusted Receipt Report~hide~unadjusted_report</td6>
+    <td7>Agencywise Receipt Register~hide~Rpt_Agwise_Rcpt_Rgstr</td7>
+    <td8>Receipt Debit Credit Note Date Wise Summery~show~receipt_summary</td8>
+    <td9>Collection Book~hide~Rpt_Collection_Book</td9>
+    <td10>Day Book~hide~day_book</td10>
+    <td11>Daily Listing Report~hide~Rpt_Daily_listing</td11>
+    <td12>Collection against cheque Bounce Report~HIDE~Rpt_coll_chk_bounce</td12>
+    <td13>Pay In Slip Report~hide~Rpt_pay_fn_slip</td13>
+    <td14>Collection Summary~hide~kppl_collection_summary</td14>
+    <td15>Cheque Register~hide~cheque_register</td15>
+  </Register_Reports>
+  <BillWise_Reports>
+    <td1>Bill Listing And Control~hide~Rpt_Doc_Listing</td1>
+    <td2>Bill Listing For TDS And Service Tax~hide~Rpt_Bill_Listing</td2>
+    <td3>Agency Bill Wise Oustanding Report~hide~bill_wise_outstanding</td3>
+    <td4>Collection Ageing Report~hide~Collection_Detail_Report</td4>
+    <td5>Agency Bill Wise Status Report~hide~Rpt_Agency_billwise</td5>
+    <td6>Client Bill Wise Status Report~hide~Rpt_client_billwise</td6>
+    <td7>Executive/Retainer Bill Wise Status Report~hide~Rpt_exec_ret_billwise</td7>
+    <td8>Billing Summary~hide~Rpt_CreditDetails</td8>
+    <td9>Executive/Retainer BillWise Register~show~rpt_exec_billwise_reg</td9>
+    <td10>Reason Wise Summary~show~agencycCollection_Detail</td10>
+    <td11>MonthWise Billing Summary Report~show~billing_summary_report</td11>
+    <td12>Bill Deletion report~hide~Bill_Cancelation_rpt</td12>
+    <td13>Receipt Deletion report~hide~receiptcancelation</td13>
+    <td14>MonthWise Collection Summary Report~hide~monthly_billing_collection_summary_report</td14>
+    <td15>Billing Advice Report~hide~billing_advice_rpt</td15>
+    <td16>Branch Collection Against others Branch~show~Bra_coll_against_oth_bra</td16>
+    <td17>collection against bill~show~collection_against_bill</td17>
+    <td18>Bill Wise Outstanding~hide~BILLWISE_OUTSTANDING_SUMMARY</td18>
+    <td19>Receipt Search/Ro Number~hide~col_recieptsearch</td19>
+    <td20>Agency Wise Outstanding~show~rptagencyoutstanding</td20>
+  </BillWise_Reports>
+  <Ledger_Reports>
+    <td1>Ledger Wise Agency Summary~hide~PartyWiseOutstandingSummary</td1>
+    <td2>Agency Ledger~hide~Agency_ledger</td2>
+    <td3>Ledger wise Agency Monthly Summary~show~ag_wise_monthly_summ</td3>
+    <td4>Agency Outstanding Summary~hide~ag_type_wise_summ</td4>
+    <td5>Group Wise Summary~hide~agency_type</td5>
+    <td6>Client/Exec/Retainer Ledger~show~client_ecec_ter_ledger</td6>
+  </Ledger_Reports>
+  <!--<Security_Reports>
+    <td7>Security Agency Ledger~show~Security_Agency_ledger</td7>
+    <td8>Security Agency Ledger Summary~show~securityledgerwiseoutstanding</td8>
+    <td16>Interest Calculation Report~show~InterestCalculationReportView</td16>
+  </Security_Reports>-->
+  <Business_Reports>
+    <td1>Executive/Retainer Analysis Summary~hide~Rpt_summary_report</td1>
+    <td2>Agency Analysis Summary~hide~Rpt_agency_summary_report</td2>
+    <td3>Suppliment Wise Business~hide~Rpt_suppliment_business</td3>
+    <td4>Agency Wise Outstanding Analysis~show~agencywise_business_out</td4>
+    <td5>Retainer/Executive wise Analysis Outstanding~hide~retainerexecwise_bill_outstan</td5>
+    <td6>Agency/Executive/Retainer wise Otstanding Report~hide~Rpt_ag_exeret_report</td6>
+    <td7>Agency Ageing~hide~Rpt_Agency_Ageing</td7>
+    <td8>Billing And Collection Data~show~Form_for_coll_belling</td8>
+    <td9>Branch Wise Collection Report~show~branch_wise_collection_rpt</td9>
+    <!--<td10>Pending Bills For Budget~show~rpt_panding_bills_form</td10>-->
+    <td11>Agency Master Listing~show~ad_agency_mst_listing</td11>
+    <td12>Agency Client Detail~show~Agency_details_Report</td12>
+  </Business_Reports>
+ 
+  <Letter_Reports>
+    <td1>Bank Guarantee~hide~Rpt_Bank_Guarantee</td1>
+    <td2>Cheque Dishonour Letter~hide~RPt_ChequeDishonour</td2>
+    <td3>Reminder~hide~Rpt_Accredited_Reminder</td3>
+    <td4>No Dues Certificate Report~hide~no_dues_certificate</td4>
+    <td5>Tally Xml Report~hide~xmlreport</td5>
+    <td6>Rate Certificate~hide~rpt_rate_certificate</td6>
+    <td7>Confirmation of Balance~hide~Rpt_Confirmation_Balance</td7>
+    <td8>Reconcilation~hide~Reconciliation_Report</td8>
+  </Letter_Reports>
+  <Admin_Section>
+    <td1>Receipt Deletion~hide~voucher_deletion?admin=A</td1>
+    <td2>Invoice Cancellation~hider~Invoice_cancellation</td2>
+    <td3>Change Printing Center~show~CngPrintingCenter</td3>
+    <td4>Monthlock Statement~hide~monthlock_statement</td4>
+    <td5>Document Typewise Permission~hide~documenttypewise</td5>
+    <td6>Change Password~show~cngpassword</td6>
+	  <td7>Inword Receipt Cancelation~show~ProvisionalReciptCancelation</td7>
+  </Admin_Section>
+</root>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td0>Agency Master Listing Report</td0>
+		<td1>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+		<td2>Format</td2>
+		<td3>Run</td3>
+    <td4>Report Type</td4>
+	</table>
+
+	<table1>
+		<tr>Onsreccn</tr>
+		<tr1>0</tr1>
+		<tr2>Excel</tr2>
+		<tr3>1</tr3>
+		<tr4>PDF</tr4>
+		<tr5>2</tr5>
+    <td6>CSV</td6>
+    <td7>3</td7>
+	</table1>
+	
+</Newdataset>

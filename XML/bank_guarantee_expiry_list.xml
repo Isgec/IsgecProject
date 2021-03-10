@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Company</td>
+    <td1>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Expiry Days&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Instrument Type</td4>
+  </table>
+  <table1>
+    <td>Bank Guarantee</td>
+    <td1>BG</td1>
+    <td2>Cheque</td2>
+    <td3>CH</td3>
+    <td4>Agreement</td4>
+    <td5>AG</td5>
+  </table1>
+  <table2>
+    <td>Bank Guarantee Expiry</td>
+  </table2>
+</newdata>

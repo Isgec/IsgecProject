@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Publication&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td>
+    <td1>Edition&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Agency Type</td2>
+    <td3>Company Code</td3>
+    <td40>Company Name</td40>
+    <td4>Plant Code</td4>
+    <td420>Plant Name</td420>
+    <td322>Supply type&lt;font color=red&gt;*&lt;/Font&gt;</td322>
+    <td12>Agency Class</td12>
+    <td22>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+    <td32>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td32>
+    <td42>Special Supply&lt;font color=red&gt;*&lt;/Font&gt;</td42>
+    <td422>Copy/Percent&lt;font color=red&gt;*&lt;/Font&gt;</td422>
+    <td421>Supply&lt;font color=red&gt;*&lt;/Font&gt;</td421>
+    <td4221>From Supply&lt;font color=red&gt;*&lt;/Font&gt;</td4221>
+    <td81>PCOMP_CODE$~$PUNIT_CODE$~$PPUBL_CODE$~$PEDTN_CODE$~$PSUP_TYPE$~$PAG_TYPE$~$PAG_CLASS$~$PDIST_CODE$~$PTALUKACODE$~$PUSERCODE$~$PSPL_TYPE$~$PCOPY_PERCENT_FLAG$~$PCOPY_PERCENT$~$PSUPPLY_FROM$~$PSUPPLY_TILL$~$PDATEFORMAT$~$PEXTRA1$~$PEXTRA2</td81>
+    <td812>CIR_TRANSPORTER_MAST</td812>
+    <td17>Till Supply&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+    <td18>Total Supply</td18>
+    <td19>Total Base Supply</td19>
+    <td20>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Week Day&lt;font color=red&gt;*&lt;/Font&gt;</td21>
+    <td243>Select State</td243>
+    <td242>Select Route</td242>
+    <td24>Commission Category&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+    <td25>From Date&lt;font color=red&gt;*&lt;/font&gt;</td25>
+    <td26>To date&lt;font color=red&gt;*&lt;/font&gt;</td26>
+    <td27>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td27>
+    <td28>Select</td28>
+  </table>
+  
+  <table1>
+    <td>Supply</td>
+    <td1>S</td1>
+    <td2>Unsold</td2>
+    <td3>U</td3>
+  </table1>
+</newdataset>

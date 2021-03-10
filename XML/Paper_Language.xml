@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <!-->this is to bind the destination drop down-->
+  <table>
+    <tr>English</tr>
+    <tr1>English</tr1>
+    <tr2>Hindi</tr2>
+    <tr3>Hindi</tr3>
+    <tr4>Marathi</tr4>
+    <tr5>Marathi</tr5>
+  </table>
+
+</newdata>

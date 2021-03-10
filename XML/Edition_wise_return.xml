@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table>
+    <td>Edition Wise Return Analysis</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Edition&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Sub Edition</td5>
+    <td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>Supply From Date
+    <td9>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>Supply To Date
+    <td10>Agency Type</td10>
+    <td11>Agency Class</td11>
+    <td12>Return From Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Return To Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Break On&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Language</td15>
+    <td16>Report Destination</td16>
+    <td17>UCN</td17>
+    <td18>Edition Wise Return Analysis</td18>
+    <td19>From Date :</td19>
+    <td20>To Date :</td20>
+    <td21>Run Date :</td21>
+    <td22>Unit : </td22>
+    <td23>Publication : </td23>
+    <td24>Edition : </td24>
+    <td25>Sub Edition : </td25>
+    <td26>Agency : </td26>
+    <td27>State : </td27>
+    <td28>Dist : </td28>
+    <td29>Taluka : </td29>
+    <td30>Agency Type : </td30>
+    <td31>Agency Class : </td31>
+    <td32>Company Name</td32>
+    <td33>Printing Center Name</td33>
+    <td34>Publication Type &lt;font color=red&gt;*&lt;/Font&gt;</td34>
+  </table>
+
+  <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <!--<td4>PDF File</td4>
+    <td5>2</td5>-->
+    <td6>Excel Sheet</td6>
+    <td7>3</td7>
+  </table1>
+
+  <table2>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Hindi</td2>
+    <td3>2</td3>
+  </table2>
+
+ 
+  
+  
+</newdataset>

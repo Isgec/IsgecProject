@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+  <td>Branch</td>
+  <td1>B</td1>
+  <td2>Zone</td2>
+  <td3>Z</td3>
+  <td4>Region</td4>
+  <td5>R</td5>
+  <td6>State</td6>
+  <td7>S</td7>
+  <td8>District</td8>
+  <td9>D</td9>
+  <td10>Taluka</td10>
+  <td11>T</td11>
+  <td12>Route</td12>
+  <td13>O</td13>
+</table>
+  <table1>
+    <td>All</td>
+    <td1>0</td1>
+    <td2>Paid</td2>
+    <td3>S01</td3>
+    <td4>Free</td4>
+    <td5>S02</td5>
+  </table1>
+  <table2>
+    <td>MONTH</td>
+    <td1>No.of Days</td1>
+    <td2>Total Sales</td2>
+    <td3>Total Return</td3>
+    <td4>Net Sales</td4>
+    <td5>Average Net Sales</td5>
+    <td6>RM</td6>
+    <td7>VERIFICATION OF SALE-BY MONTH(IN VALUE OF RINGGIT MALAYSIA)</td7>
+    <td8>AUDIT OF CIRCULATION</td8>
+    <td9>UTUSAN MELAYU (M) BHD</td9>
+    <td10>VERIFICATION OF SALE-BY MONTH(IN NO. OF COPYS)</td10>
+  </table2>
+  <table3>
+    <td>OnScreen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>4</td3>
+  </table3>
+  <table4>
+    <td>Branch : </td>
+    <td1>Zone : </td1>
+    <td2>Region : </td2>
+    <td3>State : </td3>
+    <td4>District : </td4>
+    <td5>Taluka : </td5>
+    <td6>Route : </td6>
+  </table4>
+  <table5>
+    <td>Branch</td>
+    <td1>Zone</td1>
+    <td2>Region</td2>
+    <td3>State</td3>
+    <td4>District</td4>
+    <td5>Taluka</td5>
+    <td6>Route</td6>
+  </table5>
+  </newdataset>

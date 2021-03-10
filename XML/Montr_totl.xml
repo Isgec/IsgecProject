@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<Table>
+		<td>Company Name</td>
+		<td1>Printing Center &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+		<td2>Publication Type</td2>
+		<td3>Publication</td3>
+		<td4>Edition&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td4>
+		<td5>Sub Edition&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+		<td6>Break On</td6>
+		<td7>Page</td7>
+		<td8>Date From</td8>
+		<td9>Report Destination</td9>
+		<td10>Date To</td10>
+		<td11>Report</td11>
+		<td12>Exit</td12>
+		<td13>Cancel</td13>
+		<td14>Branch &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td14>
+		<td15>Agency Type&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td15>
+		<td16>Agency Class  &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td16>
+		<td17>Paid/Free</td17>
+		<td18>Copies/Value</td18>
+		<td19>Return Based On</td19>
+		<td20>Select</td20>
+		<td21>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+		<td22>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+		<td23>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td23>
+		<td24>Destrict&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+		<td25>Current Month&lt;font color=red&gt;*&lt;/Font&gt;</td25>
+		<td26>Year&lt;font color=red&gt;*&lt;/Font&gt;</td26>
+		<td27>Last Month&lt;font color=red&gt;*&lt;/Font&gt;</td27>
+		<td28>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td28>
+		<td29>Commission Category</td29>
+		<td30>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td30>
+		<td31>Report Type</td31>
+		<td32>Disputed Amt.</td32>
+		<td33>Agency Suspended Type</td33>
+		<td34>Branch Status</td34>
+		<td35>Agency Status</td35>
+		<td36>Overdue Status For</td36>
+	</Table>
+	<table1>
+		<td>Select</td>
+		<td1>0</td1>
+		<td2>Branch</td2>
+		<td3>1</td3>
+		<td4>Zone</td4>
+		<td5>2</td5>
+		<td6>Region</td6>
+		<td7>3</td7>
+		<td8>State</td8>
+		<td9>4</td9>
+		<td10>District</td10>
+		<td11>5</td11>
+	</table1>
+	<table2>
+		<td>Paid</td>
+		<td1>1</td1>
+		<td2>Free</td2>
+		<td3>2</td3>
+	</table2>
+	<table3>
+		<td>Return Date</td>
+		<td1>1</td1>
+		<td2>Supply Date</td2>
+		<td3>2</td3>
+	</table3>
+	<table4>
+		<td>Branch Wise</td>
+		<td1>1</td1>
+		<td2>Agency Wise</td2>
+		<td3>2</td3>
+	</table4>
+	<table5>
+		<td>Zone and State</td>
+		<td1>1</td1>
+		<td2>Zone State and Branch</td2>
+		<td3>2</td3>
+	</table5>
+	<table6>
+		<td>Active</td>
+		<td1>1</td1>
+		<td2>Inactive</td2>
+		<td3>2</td3>
+		<td4>All</td4>
+		<td5>3</td5>
+	</table6>
+	<table7>
+		<td>All</td>
+		<td1>1</td1>
+		<td2>Daily</td2>
+		<td3>2</td3>
+		<td4>Weekly</td4>
+		<td5>3</td5>
+		<td6>Monthly</td6>
+		<td7>4</td7>
+	</table7>
+	<table8>
+		<td>All</td>
+		<td1>1</td1>
+		<td2>Blocked</td2>
+		<td3>2</td3>
+		<td4>Unblocked</td4>
+		<td5>3</td5>
+	</table8>
+	<table9>
+		<td>Yes</td>
+		<td1>1</td1>
+		<td2>No</td2>
+		<td3>2</td3>
+
+	</table9>
+
+
+</Newdataset>
+
+
+
+

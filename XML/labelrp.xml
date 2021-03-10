@@ -1,0 +1,46 @@
+﻿<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center Name</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Other Publication</td5>
+    <td6>Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Other Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Sub Edition</td8>
+    <td9>District</td9>
+    <td10>Taluka</td10>
+    <td11>Supply From</td11>
+    <td12>Sub Route</td12>
+    <td13>Sub Sub Route</td13>
+    <td14>Agency Name</td14>
+    <td15>Mode Type</td15>
+    <td16>Label Formate</td16>
+    <td17>Print Label</td17>
+    <td18>Cancel</td18>
+    <td19>Exit</td19>
+    <td20>Destination</td20>
+    <td21>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td21>
+  </table>
+  <table1>
+    <td>English Label Print</td>
+    <td1>1</td1>
+    <td2>Hindi Label Print</td2>
+    <td3>2</td3>
+    <td4>Advance Hindi Label</td4>
+    <td5>3</td5>
+    <td6>Train Label</td6>
+    <td7>4</td7>
+    <td8>V.P.l Label</td8>
+    <td9>5</td9>
+    <td10>REGD POST</td10>
+    <td11>6</td11>
+    <td12>Main Train Label First</td12>
+    <td13>7</td13>
+    <td14>Main Train Label Second</td14>
+    <td15>8</td15>
+    <td16>RNI Format</td16>
+    <td17>9</td17>
+  </table1>
+</newdataset>

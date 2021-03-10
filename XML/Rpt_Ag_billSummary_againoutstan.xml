@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <tr>Unit&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+    <tr3>District Name</tr3>
+    <tr4>Region Name</tr4>
+    <tr5>Bank Name</tr5>
+    <tr6>Printing Center</tr6>
+    <tr7>Daily Summary(Y/N)</tr7>
+    <tr8>Destination Type</tr8>
+    <tr9>Representative</tr9>
+    <tr10>Agency</tr10>
+    <tr11>UpTo Date</tr11>
+
+  </table>
+</newdata>
+
+

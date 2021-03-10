@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name</td1>
+    <td2>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Unit Name</td3>
+    <td4>Receipt No.&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Voucher No.</td6>
+    <td7>Entry Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Agency Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td8>
+    <td9>Publication&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td9>
+    <td10>Agency Code&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Agency Sub Code&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Agency DP\City</td12>
+    <td13>Doc Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td13>
+    <td14>Pay Mode\Reason&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td14>
+    <td15>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Amount&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    <td17>Other Amount</td17>
+    <td18>Amount In Hand</td18>
+    <td19>Adjustable Amount</td19>
+    <td20>TDS%</td20>
+    <td21>TDS Amount</td21>
+    <td22>Service Tax</td22>
+    <td23>Service Tax Amount</td23>
+    <td24>Bank Code&lt;font color=red&gt; [F2]&lt;/Font&gt;</td24>
+    <td25>Bank Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td25>
+    <td26>Cheque No./DD</td26>
+    <td27>Cheque Date</td27>
+    <td28>Representative Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td28>
+    <td29>Representative&lt;font color=red&gt;[F2]&lt;/Font&gt;</td29>
+    <td30>Narration</td30>
+    <td31></td31>
+    <td32>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$OTH_AMOUNT$~$CCDP$~$CCDS$~$RCDP$~$RCDS$~$OCDP$~$OCDS$~$REASON$~$REMARK$~$ACHD$~$VOUCHERNO$~$VOUCHERDT$~$VCHTYPE$~$PUBL$~$RECEIVED_FROM$~$TDSRATE$~$TDSAMT$~$STAXRATE$~$STAXAMT$~$STATUS$~$REF_RECPTNO$~$REF_RECPTDT$~$REF_AMOUNT$~$REF_DOCTYPE$~$CANCEL_USER$~$CANCEL_DATE$~$CANCEL_REMARK$~$USERID$~$prov_rec_no$~$prov_rec_dt$~$REMARK_OTH$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td32>
+    <td33>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$REASON$~$REMARK$~$ACHD$~$VOUCHERNO$~$VOUCHERDT$~$PUBL$~$RECEIVED_FROM$~$USERID$~$BRANCH_CODE$~$CCDP$~$RCDP$~$prov_rec_no$~$prov_rec_dt$~$REMARK_OTH$~$REF_RECPTNO$~$REF_RECPTDT$~$CREATION_DATE$~$MANNUALRECPTNO$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$SAC_CODE$~$SUB_SAC_CODE$~$GST_ON_AMOUNT$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td33>
+    <td34>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$SAC_CODE$~$SUB_SAC_CODE$~$GST_ON_AMOUNT$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td34>
+    <td35>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td35>
+    <td36>Multiple Marking</td36>
+    <td37>MULTIPLE MARKING</td37>
+    <td38>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td38>
+    <td39>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td39>
+    <td40>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td40>
+    <td41>Ok</td41>
+    <td42>Cancel</td42>
+    <td43>Single Marking</td43>
+    <td44>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$TDS$~$STAX$~$USRID$~$BRANCH_CODE$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td44>
+    <td45>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$BALANCE$~$TDS$~$STAX$~$USRID$~$BRANCH_CODE$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td45>
+    <td46>Exit</td46>
+    <td47>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td47>
+    <td48>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYPE$~$RECPTNO$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td48>
+    <td49>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$CIR_RCPDET$~$CIR_OUTMAST$~$UPDATE</td49>
+    <td50>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$PUBL$~$BILLNO$~$BILLDT$~$AMOUNT$~$TDS$~$STAX$~$VOUCHERNO$~$STATUS$~$</td50>
+    <td51>REMARK$~$</td51>
+    <td52>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$REMARK$~$</td52>
+    <td53>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYPE$~$RECPTNO$~$REMARK$~$REMARK_OTH$~$CIR_RCPHDR</td53>
+    <td54>Print Receipt</td54>
+    <td55>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td55>
+    <td56>Debit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td56>
+    <td57>Credit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td57>
+    <td58>Provisional Recpt.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td58>
+    <td59>Provisional Date</td59>
+    <td60>Narr. in Oth. Lang.</td60>
+    <td61>CIR_RCPHDR_TEMP</td61>
+    <td62>CIR_RCPDET_TEMP</td62>
+    <td63>CIR_OUTMAST_TEMP</td63>
+    <td64>RCR</td64>
+    <td65>Installment</td65>
+    <td66>Total Due Amount</td66>
+    <td67>Newspaper</td67>
+    <td68>Magazine</td68>
+    <td69>Books</td69>
+    <td70>Installment</td70>
+    <td71>Disputed Amt</td71>
+    <td72>Get O/S Balance</td72>
+    <td73>Receipt Date From</td73>
+    <td74>Receipt Date To</td74>
+    <td75>Cheque Date From</td75>
+    <td76>Cheque Date To</td76>
+    <td77>Ref. Receipt Date</td77>
+    <td78>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td78>
+    <td79>Pay Mode&lt;font color=red&gt;&lt;/Font&gt;</td79>
+    <td80>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td80>
+    <td81>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td81>
+    <td82>Agency</td82>
+    <td83>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$FILENAME$~$CREATED_BY$~$CIR_RCPT_DOCUMENT$~$INSERT#UPDATE#DELETE#SELECT</td83>
+    <td84>CIR_RCPT_DOCUMENT_TEMP</td84>
+    <td85>Date Of Entry</td85>
+    <td86>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$CIR_RCPT_DOCUMENT$~$INSERT#UPDATE#DELETE#SELECT</td86>
+    <TD87>Publication Type</TD87>
+    <td88>Agency Name&lt;font color=red&gt;&lt;/Font&gt;</td88>
+    <td89>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$FILENAME$~$UPDATED_BY$~$UPDATED_DT$~$CIR_RCPT_DOCUMENT$~$INSERT#UPDATE#DELETE#SELECT</td89>
+    <td90>Ageing Analysis</td90>
+    <td91>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$AMOUNT$~$CREATED_BY$~$ADV_UNADJUST_AMT$~$REMARK$~$CIR_RCP_UNADJ_TEMP$~$INSERT#UPDATE#DELETE#SELECT</td91>
+    <td92>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td92>
+    <td93>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$AMOUNT$~$UPDATED_BY$~$UPDATED_DATE$~$ADV_UNADJUST_AMT$~$REMARK$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td93>
+    <TD94>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</TD94>
+    <td95>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</td95>
+    <td96>Scheme&lt;font color=red&gt;[F2]&lt;/Font&gt;</td96>
+    <td97>Reader&lt;font color=red&gt;[F2]&lt;/Font&gt;</td97>
+    <td98>Provisional Recpt.</td98>
+    <td99>Segment&lt;font color=red&gt;[F2]&lt;/Font&gt;</td99>
+    <td100>Vat Flag</td100>
+    <td101>Vat Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td101>
+    <td102>Vat Base Amt.</td102>
+    <td103>Vat A/C Head&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td103>
+    <td104>Vat Amt.</td104>
+    <td105>Vpl No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td105>
+    <td106>Deduction</td106>
+    <td107>Security Amt</td107>
+    <td108>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$AMOUNT$~$CREATED_BY$~$ADV_UNADJUST_AMT$~$REMARK$~$ACHD$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td108>
+    <td109>Service A/C&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td109>
+    <td110>Sub Service A/C&lt;font color=red&gt;[F2]&lt;/Font&gt;</td110>
+    <td111>Post Date&lt;font color=red&gt;*&lt;/Font&gt;</td111>
+  </table>
+  <table1>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>SC</td3>
+  </table1>  <!--Narration setting for receipt print punyanagri-->
+  <table2><!--for total characters(170 for exact print)(maxlimit=200)-->
+    <td>200</td><!--for first line characters(85 for exact print)-->
+    <td1>85</td1>
+  </table2>
+  <table3>
+    <td>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$REASON$~$REMARK$~$ACHD$~$VOUCHERNO$~$VOUCHERDT$~$PUBL$~$RECEIVED_FROM$~$USERID$~$BRANCH_CODE$~$CCDP$~$RCDP$~$prov_rec_no$~$prov_rec_dt$~$REMARK_OTH$~$REF_RECPTNO$~$REF_RECPTDT$~$MANNUALRECPTNO$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$CCDS$~$RCDS$~$MANNUALRECPTDT$~$BANK_DEPOSIT_DT$~$SAC_CODE$~$SUB_SAC_CODE$~$GST_ON_AMOUNT$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$CIR_OUTMAST_PROV$~$INSERT#UPDATE#DELETE#SELECT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td2>
+  </table3>
+  <table4>
+    <td>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$SCH_OPT$~$R_ID$~$SEG_CODE$~$VAT_FLAG_IN_CN$~$VAT_CODE$~$VAT_BASE_AMT$~$VAT_CDP$~$VAT_AMT$~$VAT_PER$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td>
+  </table4>
+  <table5>
+    <td>Summary</td>
+    <td1>Detail</td1>
+    <td2>From Date</td2>
+    <td3>To Date</td3>
+    <td4>Run</td4>
+    <td5>Cancel</td5>
+    <td6>Bills</td6>
+  </table5>
+  <table6>
+    <td>Installment</td>
+    <td1>show</td1>
+    <td2>Ageing</td2>
+    <td3>hide</td3>
+    <td4>osbalance</td4>
+    <td5>hide</td5>
+    <td6>Summary</td6>
+    <td7>hide</td7>
+    <td8>Detail</td8>
+    <td9>hide</td9>
+    <td10>Bills</td10>
+    <td11>hide</td11>
+    <td12>Scheme</td12>
+    <td13>hide</td13>
+    <td14>Reader</td14>
+    <td15>hide</td15>
+    <td16>Segment</td16>
+    <td17>hide</td17>
+    <td18>Deduction</td18>
+    <td19>show</td19>
+    <td20>vpl Detail</td20>
+    <td21>hide</td21>
+    <td22>Sec Amt Detail</td22>
+    <td23>hide</td23>
+  </table6>
+  <table7>
+    <td></td>
+    <!--blank td for prefix receipt number-->
+    <td1></td1>
+    <td2></td2>
+  </table7>
+</Newdataset>

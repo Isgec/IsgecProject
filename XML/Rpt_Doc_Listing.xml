@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <tr>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>Document Type</tr2>
+    <tr3>Pay Mode</tr3>
+    <tr4>Summary</tr4>
+    <tr5>Daily Summary</tr5>
+    <tr6>Unit</tr6>
+    <tr7>Location</tr7>
+    <tr8>From Voucher</tr8>
+    <tr9>To Voucher</tr9>
+    <tr10>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr10>
+    <tr11>Agency Code</tr11>
+    <tr12>Filter Amount</tr12>
+    <tr13>Destination</tr13>
+    <tr14>User Name</tr14>
+
+
+  </table>
+</newdata>

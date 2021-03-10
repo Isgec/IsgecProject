@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>COMP NAME</td>
+    <td1>UNIT&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>HAWKER&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>PUBLICATION&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>EDITION&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>RECP NO</td5>
+    <td6>RECPT DATE&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>RECP AMOUNT&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>COPIES</td8>
+    <td9>VALID FROM&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>VALIDITY TO&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>DEPOT&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td11>
+    <td12>SCHEME CODE&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+  </table>
+</newdataset>

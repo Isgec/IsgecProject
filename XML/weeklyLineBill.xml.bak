@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company</td >
+    <td1>Unit</td1>
+    <td2>Branch</td2>
+    <td3>Agency Type</td3>
+    <td4>Agency Class</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Language</td10>
+    <td11>Report Destination</td11>
+    <td12>Weekly Line Bill</td12>
+    <td13>Bill Type</td13>
+    <td14>Publication Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Publication</td15>
+  </table>
+
+  <table1>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Other Language</td2>
+    <td3>2</td3>
+  </table1>
+
+  <table2>
+    <td>Onscreen</td>
+    <td1>1</td1>
+      </table2>
+
+  <table3>
+    <td>Weekly Bill</td>
+    <td1>1</td1>
+    <td2>Weekly Bill Depo</td2>
+    <td3>2</td3>
+  </table3>
+</newdataset>

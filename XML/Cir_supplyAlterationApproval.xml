@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center Code</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Branch Code</td4>
+    <td5>Branch Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Agency Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td6>
+    <td7>Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>ID</td8>
+    <td9>Approval Date</td9>
+    <td10>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$ID$~$DT$~$APPR_DT$~$CREATED_BY$~$BRAN_CODE$~$APPR_FLAG$~$cir_supply_appr_hdr$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    <td11>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$ID$~$DT$~$APPR_DT$~$PUBL$~$EDTN$~$SUPPLY_FLAG$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$CREATED_BY$~$cir_supply_appr_det$~$INSERT#UPDATE#DELETE#SELECT</td11>
+    <td12>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$ID$~$SUPPLY_TYPE_CODE$~$cir_supply_appr_det$~$INSERT#UPDATE#DELETE#SELECT</td12>
+    <td13>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$ID$~$APPR_DT$~$PUBL$~$EDTN$~$SUPPLY_FLAG$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$UPDATED_BY$~$UPDATED_DATE$~$cir_supply_appr_det$~$INSERT#UPDATE#DELETE#SELECT</td13>
+    <td14>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$ID$~$cir_supply_appr_hdr$~$INSERT#UPDATE#DELETE#SELECT</td14>
+    <td15>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$ID$~$cir_supply_appr_det$~$INSERT#UPDATE#DELETE#SELECT</td15>
+    <td16>Agency Code</td16>
+  </table>
+</newdataset >
+

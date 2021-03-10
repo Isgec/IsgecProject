@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Retainer&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Process Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  </table>
+</newdata>

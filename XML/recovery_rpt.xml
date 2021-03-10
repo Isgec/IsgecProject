@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+
+
+    <td>Company&lt;font color=red&gt; [F2]&lt;/Font&gt;</td>
+    <td1>Printing Center&lt;font color=red&gt; [F2]&lt;/Font&gt;</td1>
+    <td2>From  Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Till  Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Report Type</td4>
+    <td5>Destination </td5>
+     <td6>Ad Type &lt;font color=red&gt;&lt;/Font&gt;</td6>
+
+    <tr7>District &lt;font color=red&gt;[F2]&lt;/Font&gt;</tr7>
+    <tr8>State</tr8>
+
+
+  </table>
+
+  <table1>
+    <td1>Onscreen</td1>
+    <td2>ons</td2>
+    <td3>Excel</td3>
+    <td4>exc</td4>
+    <!--<td5>Pdf</td5>
+    <td6>pdf</td6>
+    <td7>Csv</td7>
+    <td8>csv</td8>-->
+  </table1>
+
+  <table2>
+     <td3>Annexure - 6</td3>
+    <td4>B</td4>
+    <td1>Annexure - 7</td1>
+    <td2>R</td2>
+    <td5>Annexure - 8</td5>
+    <td6>8</td6>
+    <td7>Annexure - 12</td7>
+    <td8>RRC</td8>
+  </table2>
+
+<table3>
+    <td1>Print</td1>
+    <td2>DI0</td2>
+    <td3>Digital</td3>
+    <td4>DI1</td4>
+    <td5>Event</td5>
+    <td6>EV0</td6>
+   
+  
+  </table3>
+
+</newdata>
+

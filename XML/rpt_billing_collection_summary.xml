@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <tr>Printing Center</tr>
+    <tr1>Region</tr1>
+    <tr2>Branch</tr2>
+    <tr3>District</tr3>
+    <tr4>Total</tr4>
+    <tr5>Head</tr5>
+    <tr6>Cash</tr6>
+    <tr7>Bank</tr7>
+    <tr8>Collection</tr8>
+    <tr9>Billing Status</tr9>
+    <tr10>On</tr10>
+    <tr11>Upto Date</tr11>
+    <tr12>Run Date</tr12>
+    <tr13>Page No.</tr13>
+    <tr14>From Date</tr14>
+    <tr15>To Date</tr15>
+    <tr16>COLLECTION AND BILLING SUMMARY</tr16>
+  </table>
+</newdata>
+

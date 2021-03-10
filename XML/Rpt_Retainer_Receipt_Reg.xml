@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Retainer&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Report Type</td5>
+    <td6>Destination</td6>
+    <td7>Agency Type</td7>
+    <td8>Agency</td8>
+    <td9>Debit Upto</td9>
+    <td10>Credit Upto</td10>
+    <td11>Report Type</td11>
+  </table>
+  <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+    <td4>Csv</td4>
+    <td5>3</td5>
+  </table1>
+</newdata>

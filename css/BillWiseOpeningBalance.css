@@ -1,0 +1,217 @@
+﻿
+/* Made by Neha */
+
+.Buttons
+{
+	font-family:Verdana;
+	font-size:large;
+	width:120px;
+}
+
+.Dropdown
+{
+	width:144px;
+	font-family:Verdana;
+	font-size:10px;
+	text-align:center;
+	margin-left:17px;
+  
+}
+/*
+.Dropdownn
+{
+	width:144px;
+	font-family:Verdana;
+	font-size:10px;
+	text-align:center;
+margin-left:37px;
+	height:100px;
+}*/
+
+.Pub_new
+{
+	width:144px;
+	font-family:Verdana;
+	font-size:10px;
+
+	height:100px;
+}
+
+.Agency_new
+{
+	font-family:Verdana;
+	font-size:10px;
+	width:410px;
+	margin-left:17px;
+	height:12px;
+
+	
+}
+
+.Label_new
+{
+	font-family:Verdana;
+	font-size:small;
+
+}
+
+.Label_new1
+{
+	font-family:Verdana;
+	font-size:small;
+	
+	
+	
+
+}
+
+.HeadSpace_new
+{
+	margin-top:10px;
+}
+
+.Textbox_new
+{
+	width:140px;
+	margin-left:37px;
+	height:12px;
+	
+}
+	
+.Reason_new
+{
+	margin-left:25px;
+	font-family:Verdana;
+	font-size:small;
+}
+
+.Reason_drop
+{
+	margin-left:19px;
+	width:144px;
+	font-family:Verdana;
+	font-size:10px;
+	text-align:center;
+
+	height:100px;
+	
+}
+
+.Submit_new
+{
+	margin-left:240px;
+	margin-top:40px;
+	width:100px;
+
+}
+
+.Clear_new
+{
+	
+	margin-top:40px;
+	width:100px;
+
+}
+
+.Remarks_new
+{
+	width:410px;
+	margin-left:16px;
+	height:15px;
+
+}
+
+.topbutton
+{
+	/*background-color:Control;*/
+	font-weight: bold;
+	/*border-color:DarkGray;*/
+	background-color:#e1e1e1;
+	border-style:Outset;
+	width: 60px;
+	height:24px;
+	font-size:x-large;				
+}
+
+
+
+.Bill_new
+{
+	width:140px;
+	font-family:Verdana;
+	text-align:left;
+	margin-left:17px;
+	height:12px;
+
+}
+
+
+.LabelRO_new
+{
+	font-family:Verdana;
+	font-size:small;
+	margin-left:16px;
+	
+}
+
+.TextRO_new
+{
+	
+	width:140px;
+	height:12px;
+}
+
+.BillDt_new
+{
+	margin-left:16px;
+	font-family:Verdana;
+	font-size:small;
+	
+}
+
+.TextField
+{  
+	margin-left:16px;
+	font-family:Verdana;
+	font-size:small;
+}
+
+
+.lblunit
+{
+	
+	font-family:Verdana;
+	font-size:small;
+}
+
+.lbldoctype
+{
+	font-family:Verdana;
+    font-size :small;
+   /* width:200px;*/
+    
+}
+
+.BillText_new
+{
+	width:110px;
+	margin-left:8px;
+	height:12px;
+}
+
+.BillOS
+{
+	
+	font-family:Verdana;
+	margin-left:16px;
+	font-size:small;
+	
+	/*width:200px;*/
+}
+
+.BillOS_Text
+{
+	width:140px;
+	
+	height:12px;
+}

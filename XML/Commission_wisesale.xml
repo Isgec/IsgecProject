@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table>
+    <td>Commission And Rate Wise Sale</td>
+    <td1>Company Code</td1>
+    <td2>Publication Center  Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Agency Type</td10>
+    <td11>Language</td11>
+    <td12>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Break On</td14>
+    <td15>Report Destination</td15>
+    <td16>City</td16>
+    <td17>Branch :</td17>
+    <td18>Commission And Rate Wise Sale</td18>
+    <td19>From Date :</td19>
+    <td20>To Date :</td20>
+    <td21>Run Date :</td21>
+    <td22>Unit : </td22>
+    <td23>Publication : </td23>
+    <td24>Edition : </td24>
+    <td25>Sub Edition : </td25>
+    <td26>Agency : </td26>
+    <td27>State : </td27>
+    <td28>Dist : </td28>
+    <td29>Taluka : </td29>
+    <td30>Agency Type : </td30>
+    <td31>Agency Name : </td31>
+    <td32>Based on </td32>
+  </table>
+
+  <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <!--<td4>PDF File</td4>
+    <td5>3</td5>-->
+    <td6>Excel Sheet</td6>
+    <td7>4</td7>
+  </table1>
+
+  <table2>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Hindi</td2>
+    <td3>2</td3>
+  </table2>
+
+  <table3>
+    <td></td>
+    <td1>Company Name</td1>
+    <td2>Publication Center Name</td2>
+    <td3>Publication Type&lt;font color=red&gt;[F2]</td3>
+  </table3>
+  
+</newdataset>

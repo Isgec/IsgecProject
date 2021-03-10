@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <Table>
+    <td>Reason Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Reason Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Alias&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Group Code&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+	  <td4>Doc Type</td4>
+    <td5>Cheque Validation</td5>
+    <td6>Flag</td6>
+	  <td7>Retainer Comm.</td7>
+    <td8>Rcpt Bill Ref Req</td8>
+    <td9>GST Applicable</td9>
+    <td10>Debit&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td10>
+    <td11>Credit&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td11>
+    <td12>SAC Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td12>
+    <td13>SubSAC Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td13>
+    <td14>Sub Debit &lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Sub Credit &lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+  </Table>
+
+  <table1>
+
+    <td>NORMAL</td>
+    <td1>NORMAL</td1>
+    <td2>REVERSE</td2>
+    <td3>REVERSE</td3>
+  </table1>
+
+  <table2>
+
+    <td>Required</td>
+    <td1>B</td1>
+    <td2>Not Required</td2>
+    <td3>C</td3>
+  </table2>
+	<table3>
+		<td>Yes</td>
+		<td1>Y</td1>
+		<td2>No</td2>
+		<td3>N</td3>
+		
+	</table3>
+</NewDataSet>

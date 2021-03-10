@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newsdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Center Code</td2>
+    <td3>Center Name</td3>
+    <td4>Import</td4>
+    <td5>Clear</td5>
+    <td6>Exit</td6>
+  </table>
+  <table1>
+    <td>Country Master</td>
+    <td1>1</td1>
+    <td2>Zone Master</td2>
+    <td3>2</td3>
+    <td4>Region Master</td4>
+    <td5>3</td5>
+    <td6>State Master</td6>
+    <td7>4</td7>
+    <td8>District Master</td8>
+    <td9>5</td9>
+    <td10>City Master</td10>
+    <td11>6</td11>
+    <td12>Depot Master</td12>
+    <td13>7</td13>
+    <td14>Product Master</td14>
+    <td15>8</td15>
+    <td16>Language Master</td16>
+    <td17>9</td17>
+    <td18>Publication Master</td18>
+    <td19>10</td19>
+    <td20>Edition Master</td20>
+    <td21>11</td21>
+    <td22>Rate Master</td22>
+    <td23>12</td23>
+    <td24>Comm. Catg. Master</td24>
+    <td25>13</td25>
+    <td26>Comm. Master</td26>
+    <td27>14</td27>
+    <td28>Miscellaneous Type Master</td28>
+    <td29>15</td29>
+    <td30>Miscellaneous Maste</td30>
+    <td31>16</td31>
+    <td32>Society Master</td32>
+    <td33>17</td33>
+    <td34>Locality Master</td34>
+    <td35>18</td35>
+    <td36>Hawker Master</td36>
+    <td37>19</td37>
+    <td38>Hawker Cash Sale</td38>
+    <td39>20</td39>
+    <td40>Competitor Cash Sale</td40>
+    <td41>21</td41>
+    <td42>Depot Supply Dispatch</td42>
+    <td43>22</td43>
+    <td44>Company Master</td44>
+    <td45>23</td45>
+    <td46>Unit Master</td46>
+    <td47>24</td47>
+    <td48>Branch Master</td48>
+    <td49>25</td49>
+    <td50>Module Master</td50>
+    <td51>26</td51>
+    <td52>Module Form Master</td52>
+    <td53>27</td53>
+    <td54>User Group Master</td54>
+    <td55>28</td55>
+    <td56>Create User</td56>
+    <td57>29</td57>
+    <td58>User Permissions</td58>
+    <td59>30</td59>
+    <td60>User Depot Rights</td60>
+    <td61>31</td61>
+    <td62>Preferences</td62>
+    <td63>32</td63>
+    <td64>Insertion Type Master</td64>
+    <td65>33</td65>
+    <td66>Insertion Master</td66>
+    <td67>34</td67>
+    <td68>Coupon Master</td68>
+    <td69>35</td69>
+    
+  </table1>
+  <table1_1>
+    <td>COUNT_MST_LOG~COUNT_MST_LOG~COMP_CODE~~~VTIME</td>
+  </table1_1>
+  <table1_2>
+    <td>CIR_ZONE_MAST_LOG~CIR_ZONE_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_2>
+  <table1_3>
+    <td>CIR_REGION_MAST_LOG~CIR_REGION_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_3>
+  <table1_4>
+    <td>STATE_MST_LOG~STATE_MST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_4>
+  <table1_5>
+    <td>CIR_DIST_MAST_LOG~CIR_DIST_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_5>
+  <table1_6>
+    <td>CIR_CITY_MAST_LOG~CIR_CITY_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_6>
+  <table1_7>
+    <td>CIR_CASH_DEPOT_MAST_LOG~CIR_CASH_DEPOT_MAST_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_7>
+  <table1_8>
+    <td>PUB_TYPE_MAST_LOG~PUB_TYPE_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_8>
+  <table1_9>
+    <td>LANG_MAST_LOG~LANG_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_9>
+  <table1_10>
+    <td>CIR_PUBL_MAST_LOG~CIR_PUBL_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_10>
+  <table1_11>
+    <td>CIR_EDTN_MAST_LOG~CIR_EDTN_MAST_LOG~COMP_CODE~UNIT_CODE~USERID~VTIME</td>
+  </table1_11>
+  <table1_12>
+    <td>CIR_RATE_MAST_LOG~CIR_RATE_MAST_LOG~COMP_CODE~UNIT~USERID~VTIME</td>
+  </table1_12>
+  <table1_13>
+    <td>CIR_COMM_CATG_MAST_LOG~CIR_COMM_CATG_MAST_LOG~COMP_CODE~UNIT~USERID~VTIME</td>
+  </table1_13>
+  <table1_14>
+    <td>CIR_COMM_MAST_LOG~CIR_COMM_MAST_LOG~COMP_CODE~UNIT_CODE~USERID~VTIME</td>
+  </table1_14>
+  <table1_15>
+    <td>CRM_MISC_TYPE_MASTER_TAB_LOG~CRM_MISC_TYPE_MASTER_TAB_LOG~COMP_CODE~~~VTIME</td>
+  </table1_15>
+  <table1_16>
+    <td>CRM_MISC_MASTER_TAB_LOG~CRM_MISC_MASTER_TAB_LOG~COMPCODE~~~VTIME</td>
+  </table1_16>
+  <table1_17>
+    <td>CRM_SOCIETY_MASTER_LOG~CRM_SOCIETY_MASTER_LOG~COMPCODE~LOC_ID~~VTIME</td>
+  </table1_17>
+  <table1_18>
+    <td>CRM_LOCALITY_MASTER_LOG~CRM_LOCALITY_MASTER_LOG~COMPCODE~LOC_ID~~VTIME</td>
+  </table1_18>
+  <table1_19>
+    <td>CRM_HAWKER_MASTER_LOG~CRM_HAWKER_MASTER_LOG~COMPCODE~LOC_ID~~VTIME</td>
+  </table1_19>
+  <table1_20>
+    <td>CRM_HAWKER_DATEWISE_SUPPLY_LOG~CRM_HAWKER_DATEWISE_SUPPLY_LOG~COMPCODE~UNIT_CODE~USERID~VTIME</td>
+  </table1_20>
+  <table1_21>
+    <td>CIR_COMPTITOR_SUP_INPUT_LOG~CIR_COMPTITOR_SUP_INPUT_LOG~COMPCODE~UNIT_CODE~USERID~VTIME</td>
+  </table1_21>
+  <table1_22>
+    <td>CIR_GTPASS_PRESS_HDR_LOG~CIR_GTPASS_PRESS_HDR_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_22>
+  <table1_23>
+    <td>COMP_MST_LOG~COMP_MST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_23>
+  <table1_24>
+    <td>PUB_CENT_MAST_LOG~PUB_CENT_MAST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_24>
+  <table1_25>
+    <td>BRANCH_MST_LOG~BRANCH_MST_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_25>
+  <table1_26>
+    <td>MODULE_MAST_LOG~MODULE_MAST_LOG~~~CREATION_USERID~VTIME</td>
+  </table1_26>
+  <table1_27>
+    <td>MODULE_FORM_MAST_LOG~MODULE_FORM_MAST_LOG~~~CREATION_USERID~VTIME</td>
+  </table1_27>
+  <table1_28>
+    <td>agency_role_master_LOG~agency_role_master_LOG~COMP_CODE~~USERID~VTIME</td>
+  </table1_28>
+  <table1_29>
+    <td>login_LOG~login_LOG~COM_CODE~~USERID~VTIME</td>
+  </table1_29>
+  <table1_30>
+    <td>MODULE_USER_RIGHTS_LOG~MODULE_USER_RIGHTS_LOG~COMP_CODE~UNIT_CODE~USER_CODE~VTIME</td>
+  </table1_30>
+  <table1_31>
+    <td>CIR_LOGIN_DEPO_MAST_LOG~CIR_LOGIN_DEPO_MAST_LOG~COMP_CODE~UNIT_CODE~USER_CODE~VTIME</td>
+  </table1_31>
+  <table1_32>
+    <td>CIR_CASH_SALE_PREF_LOG~CIR_CASH_SALE_PREF_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_32>
+  <table1_33>
+    <td>CIR_CASH_INSERTION_TYPE_MAST_LOG~CIR_CASH_INSERTION_TYPE_MAST_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_33>
+  <table1_34>
+    <td>CIR_CASH_INSERTION_MAST_LOG~lCIR_CASH_INSERTION_MAST_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_34>
+  <table1_35>
+    <td>CIR_CASH_COUPON_DET_LOG~CIR_CASH_COUPON_DET_LOG~COMP_CODE~UNIT_CODE~CREATED_BY~VTIME</td>
+  </table1_35>
+
+
+  <!--<table1>
+    <td>Receipt</td>
+    <td1>1</td1>
+    <td2>Agency</td2>
+    <td3>2</td3>
+    <td4>Billing</td4>
+    <td5>3</td5>
+    <td6>Unsold</td6>
+    <td7>4</td7>
+    <td8>Supply</td8>
+    <td9>5</td9>
+    <td10>Waste Rate Master</td10>
+    <td11>6</td11>
+    <td12>Bank Guarantee</td12>
+    <td13>7</td13>
+    <td14>Bank Master</td14>
+    <td15>8</td15>
+    <td16>Waste Category Master</td16>
+    <td17>9</td17>
+    <td18>Suspend</td18>
+    <td19>10</td19>
+    <td20>Executive</td20>
+    <td21>11</td21>
+    <td22>Agency Type</td22>
+    <td23>12</td23>
+    <td24>Agency Class</td24>
+    <td25>13</td25>
+    <td26>Suspend Type</td26>
+    <td27>14</td27>
+    <td28>Close Agency Reason</td28>
+    <td29>15</td29>
+    <td30>Role Master</td30>
+    <td31>16</td31>
+    <td32>Festival Master</td32>
+    <td33>17</td33>
+    <td34>Race Master</td34>
+    <td35>18</td35>
+    <td36>Publication Master</td36>
+    <td37>19</td37>
+    <td38>Edition Master</td38>
+    <td39>20</td39>
+    <td40>Supplement Master</td40>
+    <td41>21</td41>
+    <td42>Supply type Master</td42>
+    <td43>22</td43>
+    <td44>Expense type Master</td44>
+    <td45>23</td45>
+
+	  <td46>Module Master</td46>
+	  <td47>24</td47>
+	  <td48>Module Form Master</td48>
+	  <td49>25</td49>
+	  <td50>Role Master</td50>
+	  <td51>26</td51>
+	  <td52>Login</td52>
+	  <td53>27</td53>
+	  <td54>Permission</td54>
+	  <td55>28</td55>
+	  <td56>Zone Permission</td56>
+	  <td57>29</td57>
+	  <td58>Region Permission</td58>
+	  <td59>30</td59>
+
+	  <td60>Document Master</td60>
+	  <td61>31</td61>
+	  <td62>Document Permission</td62>
+	  <td63>32</td63>
+	  <td64>Machine Configration Master</td64>
+	  <td65>33</td65>
+	  <td66>Auto Process Scheduler</td66>
+	  <td67>34</td67>
+	  <td68>Reminder Scheduler</td68>
+	  <td69>35</td69>
+	  <td70>Overdue Credit Days</td70>
+	  <td71>36</td71>
+
+	  <td72>Ageing Slab Master</td72>
+	  <td73>37</td73>
+	  <td74>Unsold Control Maste</td74>
+	  <td75>38</td75>
+	  <td76>Unsold Control User wise</td76>
+	  <td77>39</td77>
+	  <td78>Transfer Closing To Opening Balance</td78>
+	  <td79>40</td79>
+	  <td80>Preferences</td80>
+	  <td81>41</td81>
+	  <td82>User Permissions</td82>
+	  <td83>42</td83>
+
+	  <td84>SENT SMS</td84>
+	  <td85>43</td85>
+	  <td86>SENT MAIL</td86>
+	  <td87>44</td87>
+	  <td88>Write off</td88>
+	  <td89>45</td89>
+	  <td90>Role Permission</td90>
+	  <td91>46</td91>
+	  <td92>Suspend Type Wise Permission</td92>
+	  <td93>47</td93>
+    <td94>Auto Process Scheduler</td94>
+    <td95>48</td95>
+    <td96>Country Master</td96>
+    <td97>49</td97>
+    
+  </table1>
+
+  <table1_1>
+    <td>CIR_RCPHDR_LOG~CIR_RCPHDR_LOG~COMP_CODE~UNIT_CODE~USERID~VTIME</td>
+    <td1>CIR_RCPDET_LOG~CIR_RCPDET_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td1>
+    <td2>CIR_OUTMAST_LOG~CIR_OUTMAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td2>
+  </table1_1>
+
+  <table1_2>
+    <td>CIR_AGMAST_LOG~CIR_AGMAST_LOG~COMP_CODE~UNIT~LOG_USER~LOG_DATE</td>
+  </table1_2>
+
+  <table1_3>
+    <td>CIR_BILL_LOG~CIR_BILL_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+    <td1>CIR_BILL_DET_LOG~CIR_BILL_DET_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td1>
+    <td2>CIR_OUTMAST_LOG~CIR_OUTMAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td2>
+  </table1_3>
+  <table1_4>
+    <td>CIR_UNSOLD_HDR_LOG~CIR_UNSOLD_HDR_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+    <td1>CIR_UNSOLD_DTL_log~CIR_UNSOLD_DTL_log~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td1>
+  </table1_4>
+  <table1_5>
+    <td>CIR_SUPPLY_LOG~CIR_SUPPLY_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+    <td1>CIR_DBKSUP_LOG~CIR_DBKSUP_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td1>
+  </table1_5>
+  <table1_6>
+    <td>CIR_WASTE_RATE_MAST_LOG~CIR_WASTE_RATE_MAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_6>
+  <table1_7>
+    <td>CIR_BANK_GUARANTEE_LOG~CIR_BANK_GUARANTEE_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_7>
+  <table1_8>
+    <td>CIR_BANK_MAST_LOG~CIR_BANK_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_8>
+  <table1_9>
+    <td>CIR_WASTE_CATG_MAST_LOG~CIR_WASTE_CATG_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_9>
+  <table1_10>
+    <td>CIR_SUSPEND_TRAN_LOG~CIR_SUSPEND_TRAN_LOG~COMP_CODE~UNIT~LOG_USER~LOG_DATE</td>
+  </table1_10>
+
+  <table1_11>
+    <td>CIR_EXECUTIVE_MAST_LOG~CIR_EXECUTIVE_MAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_11>
+  <table1_12>
+    <td>CIR_AGENCY_TYP_MAST_LOG~CIR_AGENCY_TYP_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+  </table1_12>
+
+  <table1_13>
+    <td>CIR_AGENCY_CLASS_MAST_LOG~CIR_AGENCY_CLASS_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+  </table1_13>
+
+  <table1_14>
+    <td>CIR_SUSPEND_TYPE_MAST_LOG~CIR_SUSPEND_TYPE_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_14>
+
+  <table1_15>
+    <td>CIR_AG_CLOSE_REASON_LOG~CIR_AG_CLOSE_REASON_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_15>
+
+  <table1_16>
+    <td>CIR_ROLE_MAST_LOG~CIR_ROLE_MAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_16>
+
+  <table1_17>
+    <td>CIR_FESTIVAL_MAST_LOG~CIR_FESTIVAL_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+  </table1_17>
+
+  <table1_18>
+    <td>CIR_RACE_MAST_LOG~CIR_RACE_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+  </table1_18>
+
+  <table1_19>
+    <td>CIR_PUBL_MAST_LOG~CIR_PUBL_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_19>
+  <table1_20>
+    <td>CIR_EDTN_MAST_LOG~CIR_EDTN_MAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_20>
+
+
+  <table1_21>
+    <td>CIR_EDTN_SUPL_MAST_LOG~CIR_EDTN_SUPL_MAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+  </table1_21>
+
+  <table1_22>
+    <td>CIR_SUPPLY_TYPE_MAST_LOG~CIR_SUPPLY_TYPE_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_22>
+
+  <table1_23>
+    <td>CIR_EXPENSES_TYPE_MAST_LOG~CIR_EXPENSES_TYPE_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+  </table1_23>
+
+	<table1_24>
+		<td>MODULE_MAST_LOG~MODULE_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_24>
+
+	<table1_25>
+		<td>MODULE_FORM_MAST_LOG~MODULE_FORM_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_25>
+
+	<table1_26>
+		<td>AGENCY_ROLE_MASTER_LOG_NEW~AGENCY_ROLE_MASTER_LOG_NEW~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_26>
+
+	<table1_27>
+		<td>LOGIN_LOG~LOGIN_LOG~COM_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_27>
+
+	<table1_28>
+		<td>MODULE_USER_RIGHTS_LOG~MODULE_USER_RIGHTS_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+	</table1_28>
+
+	<table1_29>
+		<td>LOGIN_ZONE_MAST_LOG~LOGIN_ZONE_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_29>
+
+	<table1_30>
+		<td>LOGIN_REGION_MAST_LOG~LOGIN_REGION_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_30>
+
+	<table1_31>
+		<td>CIR_DOCMST_LOG~CIR_DOCMST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_31>
+
+	<table1_32>
+		<td>CIR_DOCTYP_PERMISSION_LOG~CIR_DOCTYP_PERMISSION_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_32>
+
+	<table1_33>
+		<td>CIR_MACH_CONFIG_MAST_LOG~CIR_MACH_CONFIG_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_33>
+
+	<table1_34>
+		<td>PROCESS_SCHEDULE_MAST_LOG~PROCESS_SCHEDULE_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_34>
+	<table1_35>
+		<td>CIR_SCHEDULE_LOGIN_LOG~CIR_SCHEDULE_LOGIN_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_35>
+
+	<table1_36>
+		<td>CIR_OVERDUE_MAST_LOG~CIR_OVERDUE_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_36>
+
+	<table1_37>
+		<td>CIR_AGEING_SLAB_MAST_LOG~CIR_AGEING_SLAB_MAST_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_37>
+
+	<table1_38>
+		<td>CIR_UNSOLD_RETURN_CONTROL_LOG~CIR_UNSOLD_RETURN_CONTROL_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_38>
+
+	<table1_39>
+		<td>CIR_UNSOLD_APR_PERMISSION_LOG~CIR_UNSOLD_APR_PERMISSION_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_39>
+
+	<table1_40>
+		<td>CIR_AGOMAST_LOG~CIR_AGOMAST_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+	</table1_40>
+
+	<table1_41>
+		<td>PREFERRENCES_LOG~PREFERRENCES_LOG~COMP_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_41>
+
+	<table1_42>
+		<td>USERPERMISSION_LOG~USERPERMISSION_LOG~COMM_CODE~~LOG_USER~LOG_DATE</td>
+	</table1_42>
+
+	<table1_43>
+		<td>SENT_SMS_LOG~SENT_SMS_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_43>
+
+	<table1_44>
+		<td>SENT_MAIL_LOG~SENT_MAIL_LOG~~~LOG_USER~LOG_DATE</td>
+	</table1_44>
+
+	<table1_45>
+		<td>CIR_WRITEOFF_PROCESS_DATA_LOG~CIR_WRITEOFF_PROCESS_DATA_LOG~COMP_CODE~UNIT~LOG_USER~LOG_DATE</td>
+	</table1_45>
+	<table1_46>
+		<td>ROLE_USER_RIGHTS_LOG~ROLE_USER_RIGHTS_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+	</table1_46>
+	<table1_47>
+		<td>CIR_SUSPEND_TYPE_PERMISSION_LOG~CIR_SUSPEND_TYPE_PERMISSION_LOG~COMP_CODE~UNIT_CODE~LOG_USER~LOG_DATE</td>
+	</table1_47>
+  
+  <table1_48>
+    <td>PROCESS_SCHEDULE_MAST_LOG~PROCESS_SCHEDULE_MAST_LOG~~~LOG_USER~LOG_DATE</td>
+  </table1_48>
+  <table1_49>
+    <td>COUNT_MST_LOG~COUNT_MST_LOG~COMP_CODE~~~VTIME</td>
+  </table1_49>-->
+	
+</newsdataset>

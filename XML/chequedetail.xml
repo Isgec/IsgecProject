@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    
+    <tr> Query on Cheque Detail </tr>
+    <tr1>Printing Center</tr1>
+    <tr2>Branch</tr2>
+    <tr3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+    <tr4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr4>
+    <tr5>District&lt;font color=red&gt;*&lt;/Font&gt; </tr5>
+    <tr6>Taluka</tr6>
+    <tr7>Agency Type</tr7>
+    <tr8>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr8>
+    <tr9>Cheque No.</tr9>
+   <tr10>Destination</tr10>
+    <tr11>On Screen</tr11>
+    <tr12>1</tr12>
+    <tr13>Excel</tr13>
+    <tr14>2</tr14>
+    <tr15>PDF</tr15>
+    <tr16>3</tr16>
+    <tr17>Detail</tr17>
+    <tr18>Summary</tr18>
+    <tr19>Exit</tr19>
+    <tr20>Page No.</tr20>
+    
+  </table>
+</newdata>

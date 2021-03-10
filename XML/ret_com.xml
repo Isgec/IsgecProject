@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    <td> Receipt From Date</td>
+    <td1>Receipt To Date&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Submit</td2>
+    <td3>Clear</td3>
+    <td4>Retainer&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Unprocess</td6>
+    <td7>Processed</td7>
+    <td8>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Branch</td9>
+    <td10>TDS(%)</td10>
+    <td11>Process Date &lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Main Account</td12>
+    <td13>Sub Account</td13>
+    <td14>Assey Type</td14>
+    <td15>Section Name</td15>
+    <td16>Section Code</td16>
+    <td17>Threshold Limit</td17>
+    <td18>Grace Days</td18>
+    <td19>Remarks</td19>
+    <td20>All Retainer</td20>
+    <td21>Exit</td21>
+    <td22>Before Posting</td22>
+    <td23>Bill From Date</td23>
+    <td24>Bill To Date</td24>
+    <td25>Type</td25>
+    <td26>District</td26>
+    <td27>Ad Type</td27>
+    <td28>Ad Category</td28>
+    <td29>Ad SubCategory</td29>
+    <td30>Retainer/Executive</td30>
+     <td31>Ad Cat3</td31>
+  </table>
+  <table1>
+    <td>N</td>   <!--Y for show else N-->
+    <td1>Y</td1> <!--Y for finance posting checked as it is  else  N finance posting  check box true-->
+    <td2>Y</td2> <!--Y for show (Allretainer Button)  else N-->
+    <td3>Y</td3><!--Y for enable(checkbox and comm rate) else N-->
+    <td4>Y</td4><!--Y for show gross amount or trade discount or add td amt  else N-->
+    <td5>Y</td5><!--Y for enablecheckbox else N-->
+    <td6>N</td6><!--Y for enablecheckbox else N (Grace Days)--> 
+  </table1>
+</newdata>
+
+
+

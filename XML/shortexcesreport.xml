@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Printing Center Name</td1>
+    <td2>Branch</td2>
+    <td3>Report Destination</td3>
+    <td4>Language</td4>
+    <td5>Date</td5>
+    <td6>Doc. No.</td6>
+    <td7>Particular</td7>
+    <td8> Publication</td8>
+    <td9>Edition</td9>
+    <td10>Rate</td10>
+    <td11>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Copy</td13>
+    <td14>Amt.</td14>
+    <td15>Copy Weight</td15>
+    <td16>Verification</td16>
+    <TD17>Waste Rate</TD17>
+    <td18>Company Code</td18>
+    <td19>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td19>
+    
+  </table>
+  <table1>
+    <td>Run Date</td>
+    <td1>Short/Excess Report</td1>
+    <td2>Branch Name</td2>
+    <td3>Unit</td3>
+    <td4>From Date</td4>
+    <td5>To Date</td5>
+    <td6>Verification</td6>
+
+  </table1>
+  <table2>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+  </table2>
+  <table3>
+    <td>Hindi</td>
+    <td1>hind</td1>
+  </table3>
+
+  <table4>
+    <td>Physical Verification</td>
+    <td1>P</td1>
+    <td2>Branch Transfer</td2>
+    <td3>B</td3>
+	<td4>Unknown Returned</td4>
+	<td5>U</td5>
+  </table4>
+  
+</newdataset>

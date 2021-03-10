@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td>DAILY~D</td>
+		<td1>WEEKELY~W</td1>
+		<td3>MONTHLY~M</td3>
+		<td6>YEARLY~Y</td6>
+	</table>
+	<table1>
+		<td>FIX~F</td>
+		<td1>PER COPY~P</td1>
+    <td2>PER BUNDLE~C</td2>
+	</table1>
+	<table2>
+		<td>Fix~F</td>
+		<td>Auto~A</td>
+		<td>Special~S</td>
+	</table2>
+	<table3>
+		<td>DAILY~D</td>
+		<td1>WEEKELY~W</td1>
+		<td2>FORNIGHTLY~F</td2>
+		<td3>MONTHLY~M</td3>
+		<td4>QUATERLY~Q</td4>
+		<td5>MONTHLY~Q</td5>
+		<td6>YEARLY~Y</td6>
+	</table3>
+</Newdataset>

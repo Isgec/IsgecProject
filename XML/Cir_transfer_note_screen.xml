@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+  <td>Transfer Note Screen</td>
+  <td1>Transfer Type</td1>
+  <td2>Receipt Date</td2>
+  <td3>Created Date</td3>
+  <td4>Voucher No.</td4>
+  <td5>Voucher Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+  <td6>Credit Agency</td6>
+  <td7>Debit Agency</td7>
+  <td8>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+  <td9>From Doctype</td9>
+  <td10>To Doctype</td10>
+  <td11>Reason&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td11>
+  <td12>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td12>
+  <td13>Transfer Note No.</td13>
+  <td14>Agency Code</td14>
+  <td15>Account Type</td15>
+  <td16>Narration&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+  <td17>Amount Transfer&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+  <td18>Adjusted Transfer</td18>
+  <td19>Amount In hand</td19>
+  <td20>Credit A/C&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td20>
+  <td21>Debit A/C&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td21>
+  <td22>Sub Code</td22>
+   <td23>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td23>
+    <td24>Print</td24>
+  </table>
+  
+  <table1>
+    <td>Cir Agency To Cir Agency</td>
+    <td1>C</td1>
+    <td2>Cir Agency To Ad. Agency</td2>
+    <td3>A</td3>
+    </table1>
+  
+  <table2>
+    <td>Transfer Credit</td>
+    <td1>TC</td1>
+    <td2>Transfer Debit</td2>
+    <td3>TD</td3>
+    </table2>
+
+  <table3>
+    <td>Transfer Debit</td>
+    <td1>TD</td1>
+    <td2>Transfer Credit</td2>
+    <td3>TC</td3>
+  </table3>
+  
+  <table4>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>SC</td3>
+    </table4>
+  
+  <table5>
+    <td>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$AMOUNT$~$REASON$~$REMARK$~$ACHD$~$VOUCHERNO$~$VOUCHERDT$~$USERID$~$BRANCH_CODE$~$CCDP$~$RCDP$~$REF_RECPTNO$~$REF_RECPTDT$~$REF_AMOUNT$~$REF_DOCTYPE$~$TRF_NOTE_TYPE$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$AMOUNT$~$REASON$~$REMARK$~$ACHD$~$VOUCHERNO$~$VOUCHERDT$~$USERID$~$BRANCH_CODE$~$CCDP$~$RCDP$~$TRF_NOTE_TYPE$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$ACHD$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$USRID$~$BRANCH_CODE$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td3>
+    <td4>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$CIR_RCPHDR$~$INSERT#UPDATE#DELETE#SELECT</td4>
+    <td5>COMP_CODE$~$UNIT_CODE$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>COMP_CODE$~$UNIT_CODE$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$PUBL$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$TDS$~$STAX$~$USRID$~$BRANCH_CODE$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$BALANCE$~$TDS$~$STAX$~$USRID$~$BRANCH_CODE$~$CIR_OUTMAST$~$INSERT#UPDATE#DELETE#SELECT</td8>
+    <td9>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td9>
+
+  </table5>
+  </dataset>

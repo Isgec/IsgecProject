@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<newdata>
+  <table>
+    
+
+    <tr>Bill No Wise</tr>
+    <tr1>Agency Wise</tr1>
+    <tr2>Exit</tr2>
+    <td3>Run</td3>
+
+  </table>
+  <table1>
+
+
+    <td>On Screen</td>
+    <td1>0</td1>
+    <td2>Excel File</td2>
+    <td3>1</td3>
+    <td4>PDF</td4>
+    <td5>2</td5>
+    <td6>Mail</td6>
+    <td7>3</td7>
+
+
+  </table1>
+
+</newdata>

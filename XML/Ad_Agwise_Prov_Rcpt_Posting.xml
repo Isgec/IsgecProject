@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td1>
+    <td2>Doc Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td2>
+    <td3>Pay Mode\Reason&lt;font color=red&gt; [F2]&lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+    <td5>Provisional Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Post Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Voucher no</td7>
+  </table>
+  <table1>
+    <td>M</td>
+    <!-- F for Financial start date,C for Calander year first date,M for Month fist start date,D for current date-->
+  </table1>
+</newdataset>

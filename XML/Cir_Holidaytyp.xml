@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Holiday Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Status</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+    <td5>H_PUBL$~$H_NAME$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$UNIT$~$H_DATE$~$H_MAIN_EDTN$~$H_EDTN$~$DIST_CODE$~$STATE_CODE$~$cir_holiday_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>H_DATE$~$COMP_CODE$~$H_PUBL$~$UNIT</td6>
+    <td7>H_PUBL$~$H_NAME$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$UNIT$~$H_DATE$~$H_MAIN_EDTN$~$H_EDTN$~$DIST_CODE$~$STATE_CODE$~$cir_holiday_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td311>Date&lt;font color=red&gt;*&lt;/Font&gt;</td311>
+    <td81>COMP_CODE#USERID#SUP_TY_NAME#CIR_SUPPLY_TYPE_MAST</td81>
+    <td71>H_DATE$~$COMP_CODE$~$H_PUBL$~$H_NAME$~$USERID$~$FREEZE_FLAG$~$UNIT$~$H_MAIN_EDTN$~$H_EDTN$~$DIST_CODE$~$STATE_CODE$~$CIR_HOLIDAY_MAST$~$INSERT#UPDATE#DELETE#SELECT</td71>
+    <td711>CIR_HOLIDAY_MAST</td711>
+    <td12>Edition</td12>
+    <td13>Sub Edition</td13>
+    <td14>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>State</td15>
+    <td16>Printing Center Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+	<td17>Printing Center Name&lt;font color=red&gt;&lt;/Font&gt;</td17>
+  </table>
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+  <table2>
+    <td>Do you want to skip this page ?$~$Please enter Holiday Name.$~$Data Saved successfully $~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$Please Select city.$~$You can enter only Numeric Values.$~$First Character can not be special character.$~$Please select Publication.$~$Please select Date.</td>
+  </table2>
+  <table3>
+    <td>Sr No</td>
+    <td1>Holiday Name</td1>
+    <td2>Holiday Date</td2>
+    <td3>Publication</td3>
+    <td4>Status</td4>
+  </table3>
+  <table4>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Publication</td2>
+    <td3>Holiday Name</td3>
+    <td4>Date</td4>
+    <td5>Freeze Flag</td5>
+  </table4>
+  <table5>
+    <td>No</td>
+    <td1>N</td1>
+  </table5>
+  <table6>
+    <td>Yes</td>
+    <td1>Y</td1>
+  </table6>
+</newdataset>

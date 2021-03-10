@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<Table>
+		<td>Company Name</td>
+		<td1>Printing Center &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+		<td2>Publication Type</td2>
+		<td3>Publication</td3>
+		<td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+		<td6>Break On</td6>
+		<td7>Page</td7>
+		<td8>Date From</td8>
+		<td9>Report Destination</td9>
+		<td10>Date To</td10>
+		<td11>Report</td11>
+		<td12>Exit</td12>
+		<td13>Cancel</td13>
+		<td14>Branch &lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+		<td15>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+		<td16>Agency Class  &lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+		<td17>Paid/Free</td17>
+		<td18>Copies/Value</td18>
+		<td19>Return Based On</td19>
+		<td20>Select</td20>
+		<td21>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td21>
+		<td22>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td22>
+		<td23>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td23>
+		<td24>Destrict&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+		<td25>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td25>
+		<td26>Year&lt;font color=red&gt;*&lt;/Font&gt;</td26>
+		<td27>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td27>
+	</Table>
+	<table1>
+		<td>Select</td>
+		<td1>0</td1>
+		<td2>Branch</td2>
+		<td3>1</td3>
+		<td4>Zone</td4>
+		<td5>2</td5>
+		<td6>Region</td6>
+		<td7>3</td7>
+		<td8>State</td8>
+		<td9>4</td9>
+		<td10>District</td10>
+		<td11>5</td11>
+	</table1>
+	<table2>
+		<td>Paid</td>
+		<td1>1</td1>
+		<td2>Free</td2>
+		<td3>2</td3>
+	</table2>
+	<table3>
+	
+		<td>Supply Date</td>
+		<td1>S</td1>
+    <td2>Return Date</td2>
+    <td3>R</td3>
+	</table3>
+
+
+</Newdataset>
+
+
+
+

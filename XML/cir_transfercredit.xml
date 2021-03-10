@@ -1,0 +1,32 @@
+﻿
+<newdataset>
+  <table>
+    <td1>Company</td1>
+    <td2>Unit&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Receipt Date</td4>
+    <td5>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Select</td6>
+    <td7>Process</td7>
+    <td8>Update</td8>
+ 
+  </table>
+
+
+  <table1>
+    <td>INCENTIVE CHARGES</td>
+    <td1>INCENTIVE CHARGES</td1>
+    <td2>SUPPLIMENT CHARGES</td2>
+    <td3>SUPPLIMENT CHARGES</td3>
+    <td4>EXPENSES CHARGES</td4>
+    <td5>EXPENSES CHARGES</td5>
+    <td6>LATE CHARGES</td6>
+    <td7>LATE CHARGES</td7>
+    
+    
+    
+  </table1>
+  
+  
+  
+</newdataset>

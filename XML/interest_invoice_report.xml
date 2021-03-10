@@ -1,0 +1,25 @@
+﻿<newdataset>
+  <table>
+    <td>Unit Name&lt;font color=red &gt; F[2]*</td>
+    <td1>From Date&lt;font color=red &gt;*</td1>
+    <td2>Agency Type</td2>
+    <td3>Agency Name&lt;font color=red &gt; F[2]</td3>
+    <td4>Print</td4>
+    <td5>Exit</td5>
+    <td6>To Date</td6>
+    <td7>From Invoice &lt;font color=red &gt; F[2]</td7>
+    <td8>To Invoice &lt;font color=red &gt; F[2]</td8>
+    <td9>Interest&lt;font color=red &gt;*</td9>
+    
+    
+  </table>
+
+  <table1>
+
+    <td>Interest Invoice Circulation</td>
+    <td1>INI</td1>
+    
+  </table1>
+  
+  
+</newdataset>

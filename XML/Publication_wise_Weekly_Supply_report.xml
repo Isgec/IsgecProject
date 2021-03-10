@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Branch Code</td4>
+    <td5>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Publication Name</td7>
+    <td8>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Supply Type</td11>
+    <td12>Report Destination</td12>
+    <td13>Report Type</td13>
+    <td14>Month</td14>
+    <td15>Year</td15>
+    <td16>Submit</td16>
+    <td17>Clear</td17>
+    <td18>Exit</td18>
+  </table>
+  <table1>
+    <td>SupplyAgency</td>
+    <td1>A</td1>
+    <td2>Billing agency</td2>
+    <td3>B</td3>
+    <td4>Districtwise</td4>
+    <td5>D</td5>
+    <td6>Talukawise</td6>
+    <td7>T</td7>
+  </table1>
+  <table2>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td4>PDF File</td4>
+    <td5>3</td5>
+    <td6>Excel Sheet</td6>
+    <td7>4</td7>
+  </table2>
+  <table3>
+    <td>Based On Supply Posted</td>
+    <td1>1</td1>
+    <td2>Based On Standing Order</td2>
+    <td3>2</td3>
+  </table3>
+  <table4>
+    <td>JANUARY</td>
+    <td1>jan</td1>
+    <td2>FEBRUARY</td2>
+    <td3>feb</td3>
+    <td4>March</td4>
+    <td5>mar</td5>
+    <td6>April</td6>
+    <td7>apr</td7>
+    <td8>May</td8>
+    <td9>may</td9>
+    <td10>June</td10>
+    <td11>jun</td11>
+    <td12>July</td12>
+    <td13>jul</td13>
+    <td14>August </td14>
+    <td15>aug</td15>
+    <td16>September</td16>
+    <td17>sep</td17>
+    <td18>October</td18>
+    <td19>oct</td19>
+    <td20>November</td20>
+    <td21>nov</td21>
+    <td22>December</td22>
+    <td23>dec</td23>
+  </table4>
+</Newdataset>

@@ -1,0 +1,365 @@
+ SELECT x."Comp_code",x."RO_No", x."Cio_Booking_Id", x."No_Insert" ,
+            x."Height",x."Width",x."Size_Book", x."Col_Name", max(x.Page_No)Page_No, x."No_Ofcolumn",
+            SUM(x.Gross_Rate)Gross_Rate, x."Ins.date",
+            sum(x.Agreed_Rate)Agreed_Rate, 
+            x.address as address, x."Agency_Name", x."AD_VAT_NO",
+            x."RO_Date" AS "RO_Date", x."Publication" as "Publication", x."AdCat" as "AdCat",
+            x."client"  AS "client" ,x."Client_address" ,  x."City_Name",
+            x."boxcode" as "boxcode", x."Trade_disc", x."CLIENT_CAT_DISC",
+          x."Card_amount"              as        "Card_amount",
+          x."Uom_code"                 as        "Uom_code",
+          x."CLIENT_CAT_D_AMT"         as        "CLIENT_CAT_D_AMT",
+          x."CLIENT_CAT_D_TYP"         as        "CLIENT_CAT_D_TYP",              
+          x."FLAT_FEQ_DISC"            as        "FLAT_FEQ_DISC",  
+          x."FLAT_FEQ_D_AMT"           as        "FLAT_FEQ_D_AMT", 
+          x."FLAT_FEQ_D_TYP"           as        "FLAT_FEQ_D_TYP",           
+          x."CAT_DISC"                 as        "CAT_DISC",      
+          x."CAT_D_AMT"                as        "CAT_D_AMT",  
+          x."CAT_D_TYP"                as        "CAT_D_TYP",  
+          x."CASHDISCOUNT"             as        "CASHDISCOUNT", 
+          x."CASHDISCTYPE"             as        "CASHDISCTYPE",
+          x.SCHEMEDICPER as SCHEMEDICPER,  x."Scheme_type_code", 
+          x."Agency_pay"as "Agency_pay", x.pageprem as pageprem,
+          sum(x."VATAMT") as  "VATAMT", x."Invoices", x."Add1" AS "Add1", x."Phone1", x."Phone2",
+            x."Key No" AS "Key No", x."Email", x."paydatesys" as "paydatesys",
+            SUM(x."Card_Rate") "Card_Rate", x."Adv_Type_Name", x."No_of_insertion", x."Gross_amount", x."Caption", 
+            x."Special_charges", x."companyname" as "companyname",
+            x."pan" as "pan", /*x."address" as "address",*/x."street" as "street", x."fax" as "fax",
+            x."expremiumch", x."adtd", x."td", x."branch", x."Color_code", x."SYSDATE1", x."EmailID",
+            x."maxdate", x."expr", SUM(x."amtnew") as "amtnew",
+            x."PACKAGERATE", x."Agrred_rate", x."street_new", x."maxdate1",
+            sum(x."Bill_Amt")"Bill_Amt", x.BILL_NO as Bill_no,
+            x."BILL_DATE", x."Fax2", x."Fax3", x."FILE_PATH", x."CASHDISAMT", 
+            nvl(sum(x."SPLDISAMT"),'0') SPLDISAMT, x."premiumch" ,x.commdisc, x."td", x.Agreed_amount,
+            x.EXECUTIVE_NAME, x."Bill_remarks", x.GROSS_AMT
+            ,x."CHKTRADEDISC",/*sum(x."SPLDISAMT")SPLDISAMT,*/sum(x."PREM_AMT")PREM_AMT, x."bill2", x."agenadd"
+            ,x."Remark", x.volume, x.product ,x.special_discount, x.pag_prem,
+            x.ACTIVE_AGREEDRATE, x.amt, sum(x.disc) as disc
+            ,x.CGST_RATE,  x.IGST_RATE, x.SGST_RATE, x.GST_CESS_RATE,
+                (x.CGST_AMT)CGST_AMT, (x.IGST_AMT)IGST_AMT, (x.SGST_AMT)SGST_AMT, x.GST_CESS_AMT,
+                x.CUST_GSTIN, x.AG_GSTIN, x.BRANCH_GSTIN,x.ag_GST_STATE_CODE,
+                x.ag_STATE_NAME,  x.cust_GST_STATE_CODE,x.CUST_STATE_NAME,
+                x.cust_city_name, x.cust_phone,x.cust_zip,x."Prem_per",x.br_GST_STATE_CODE,
+                x.br_STATE_NAME,x.CIN_NO, x."TAN_No" ,x.cust_pan,
+                x.retainer, x.retnm, x.brandnm, x.DEALER_H, x.DEALER_W,
+                x."Publication_Code" ,x.pub_name,  x."Bill_amount", SUM(x.td_amt) td_amt, sum(x.taxval) taxval,
+                /*x."PAN_No",*/ x.GSTIN, x.refno, x.eyecaqtcher AS eyecaqtcher,
+                x."CAT_NAME" as "CAT_NAME", x.SUBCAT_NAME as SUBCAT_NAME,
+                x.SUBCAT3_NAME as SUBCAT3_NAME, x."SUB_Agency_Code", x."Add2", x."Add3",
+                /*x.CUST_GSTIN, x.AG_GSTIN, x.BRANCH_GSTIN, */x.BRANCH_pan, --x.ag_GST_STATE_CODE,
+                x.ag_GST_STATE_name, --x.cust_GST_STATE_CODE, x.CUST_STATE_NAME, x.cust_city_name,
+                --x.cust_phone, x.cust_zip ,x."Prem_per", x.br_GST_STATE_CODE, x.br_STATE_NAME,
+                /*x.CIN_NO,*/ x.GSTINCLUSIVEFLAG, x.ad_city, x.branch_name, --x."branch",
+                x.cust_city, x.gsamttt, --x."PAN_No", x."TAN_No" ,x."Publication_Code",
+                x."clientAd", x."ACTIVE_AGREEDAMT", x."pin_code", x."PACKAGE_CODE", x."package_short_name",
+                x.billto_gstno ,x."AdType" ,sum(x."package rate") "package rate" ,x.trans_disc_amt,
+                 x.translation_per, x.eyscater, x.bulletname, x.translationnm,
+                 sum(x.EXTRA_AMT) EXTRA_AMT ,max(x.EXTRA_SIZE) EXTRA_SIZE,
+                 x.ad_sz, sum(x.splchgamt)splchgamt, x.agemailid,
+                 x.agdesi, x.custdesi, x.bilemil, x."Rate_code", x.serv_acc_NM, x.agmobileno,
+            x.CUSTMOBNO, x.COLLPHONE, x."Agency_type", /*x.serv_acc_NM,*/ x.BOOK_DATE, x.serv_acc_Name,
+            max(x.pos_per) pos_per, round(sum(x.pos_prem_amt),6)pos_prem_amt, x.MAIN_EDTN, x.supp_name,
+                /*x.active_agreedrate,*/max(x.seq_num) seq_num, x."page_position",
+                x.DAVP_IPRD_BILL_CERTI_PRINT, sum(x."Bill_Amt") BILLAMT, x."Uom_Name" "UOM_NAME", x."Print_remark",
+                sum(x.trans_chg_amt) trans_chg_amt ,round(sum(x."CHAMT"),6)CHAMT, x."Cap", x.exec_nam,x.booking_type,max(x.paid_ins) as paid_ins,max(x.hh)as hh
+                ,MAX(x.FIRST_PAID_INSERT_AMT) first_paid_insert_amt,nvl(max(x.bill_round_val),0) BILL_ROUND_VAL
+            FROM
+       (
+            SELECT m."Comp_code",SUBSTR (m."RO_No",1,40) as "RO_No",i."Cio_Booking_Id",i."No_Insert" ,--i."Edition",
+            i."Height",i."Width",i."Size_Book",CL."Col_Name", nvl(max(i.AUTOAUDITPGNO),max(i."Page_No"))Page_No, i."No_Ofcolumn",
+            SUM(i."Gross_Rate")Gross_Rate,
+            CASE 'dd/mm/yyyy'
+            WHEN 'mm/dd/yyyy' THEN TO_CHAR(min(i."Insert_Date"),'mm/dd/yyyy')
+            WHEN 'dd/mm/yyyy' THEN TO_CHAR(min(i."Insert_Date"),'dd-Mon-yyyy')
+            WHEN 'yyyy/mm/dd' THEN TO_CHAR(min(i."Insert_Date"),'yyyy/mm/dd')  END AS "Ins.date",
+            sum(i."Agreed_Rate")Agreed_Rate, --m."AGENCY_MAST_address",
+            a."Add1" as address, a."Agency_Name", a."AD_VAT_NO",
+            CASE 'dd/mm/yyyy' WHEN 'mm/dd/yyyy' THEN TO_CHAR(m."RO_Date",'mm/dd/yyyy')
+            WHEN 'dd/mm/yyyy' THEN TO_CHAR(m."RO_Date",'dd-Mon-yyyy')
+            WHEN 'yyyy/mm/dd' THEN TO_CHAR(m."RO_Date",'yyyy/mm/dd')  END AS "RO_Date",
+            p."Pub_Name" as "Publication",
+            (select adv_cat_mast."Adv_Cat_Name" from adv_cat_mast where ADV_CAT_MAST."Adv_Cat_Code"=m."Ad_cat_code")
+
+            as "AdCat",
+
+            NVL((SELECT "Cust_Alias" FROM CUST_MAST WHERE "Cust_Code"= m."Client_code"), m."Client_code")  AS "client"
+            ,m."Client_address"
+            , (select "City_Name" from city_mst where "Comp_Code" = m."Comp_code" and "City_Code" = a."City_Code"  )"City_Name",
+            i."No_Insert" No_Insert1,
+            (SELECT BOX_MAST."Box_Charges_Native" FROM BOX_MAST WHERE
+            m."Box_code"= BOX_MAST."Box_Code" AND m."cio_booking_id"='WCO02000000001') as "boxcode",
+            m."Trade_disc",
+            m."CLIENT_CAT_DISC"          as "CLIENT_CAT_DISC",
+
+                      m."Card_amount"              as        "Card_amount",
+                      m."Uom_code"                 as        "Uom_code",
+                      m."CLIENT_CAT_D_AMT"         as        "CLIENT_CAT_D_AMT",
+                      m."CLIENT_CAT_D_TYP"         as        "CLIENT_CAT_D_TYP",              
+                      m."FLAT_FEQ_DISC"            as        "FLAT_FEQ_DISC",  
+                      m."FLAT_FEQ_D_AMT"           as        "FLAT_FEQ_D_AMT", 
+                      m."FLAT_FEQ_D_TYP"           as        "FLAT_FEQ_D_TYP",           
+                      m."CAT_DISC"                 as        "CAT_DISC",      
+                      m."CAT_D_AMT"                as        "CAT_D_AMT",  
+                      m."CAT_D_TYP"                as        "CAT_D_TYP",  
+                      m."CASHDISCOUNT"             as        "CASHDISCOUNT", 
+                      m."CASHDISCTYPE"             as        "CASHDISCTYPE",
+                      (select "Discount" from scheme_master where "scheme_id" = m."Scheme_type_code") as SCHEMEDICPER,  
+                      m."Scheme_type_code"         as "Scheme_type_code", 
+                      m."Agency_pay"         as "Agency_pay",   
+                      (select "premiumname" from ADVPOS_PREM_MAST where "Premiumcode" = m."Page_prem") as pageprem,
+                      sum(i."VATAMT")                   as  "VATAMT",
+            m."Invoices",
+            (select  PUB_CENT_MAST."Add1" FROM  PUB_CENT_MAST  WHERE
+            PUB_CENT_MAST."Pub_cent_Code" IN
+            (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch" AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "Add1",
+            1 as "Phone1",
+            2 as "Phone2",
+            --PUB_CENT_MAST ."Fax1" as "Fax1",
+            --u."Uom_Alias" ,
+            m."Key_no" AS "Key No",
+            3 as "Email",
+
+            CASE 'dd/mm/yyyy'
+             WHEN 'mm/dd/yyyy' THEN
+            (select to_char((SELECT SYSDATE + a."Credit_Days" FROM  dual),'mm/dd/yyyy') from dual)
+              WHEN 'dd/mm/yyyy' THEN
+            to_char(nvl(adbills_get_billdue_date ('LOK01',NULL,NULL,a."Agency_Type_Code",i."BILL_DATE",a."Credit_Days",null,null,null,null,null,null),sysdate),'dd-MON-yyyy')
+            WHEN 'yyyy/mm/dd' THEN
+            (select to_char((SELECT SYSDATE + a."Credit_Days" FROM  dual),'yyyy/mm/dd') from dual) end as "paydatesys",
+            SUM(i."Card_Rate") "Card_Rate",t."Adv_Type_Name",m."No_of_insertion",m."Gross_amount",m."Caption",m."Special_charges",
+            CASE WHEN i."Publication_Code"='KA0'THEN
+            (SELECT cm."Comp_Name" FROM COMP_MST cm where cm."Comp_Code"='MED01' )
+            ELSE
+            cp."Comp_Name" END "companyname",
+             CASE WHEN i."Publication_Code"='KA0'THEN
+            (SELECT cm."PAN_No" FROM COMP_MST cm where cm."Comp_Code"='MED01' )
+            ELSE
+            cp."PAN_No" END "pan",cp."Add1" as "address1",cp."Street" as "street",cp."Fax" as "fax",
+            (select distinct "Bullet_Charges"  from BULlet_mast where m."Bullet_code" = BULlet_mast."Bullet_Code") AS "expremiumch",
+            m."ADD_AGENCY_COMM" as "adtd",m."Trade_disc"  as "td",m."branch",cl."Col_Alias" as  "Color_code",
+            CASE 'dd/mm/yyyy'
+            WHEN 'mm/dd/yyyy' THEN TO_CHAR(SYSDATE,'mm/dd/yyyy')
+            WHEN 'dd/mm/yyyy' THEN TO_CHAR(SYSDATE,'dd/mm/yyyy')
+            WHEN 'yyyy/mm/dd' THEN TO_CHAR(SYSDATE,'yyyy/mm/dd')  END AS "SYSDATE1",
+            (select PUB_CENT_MAST ."EmailID" FROM PUB_CENT_MAST WHERE PUB_CENT_MAST."Pub_cent_Code" IN
+            (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch" AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "EmailID",
+            CASE 'dd/mm/yyyy'
+            when 'mm/dd/yyyy'  then(select TO_CHAR(max("Insert_Date"),'mm/dd/yyyy') from tbl_booking_insert where "Cio_Booking_Id" ='WCO02000000001')
+            when 'dd/mm/yyyy' then(select TO_CHAR(max("Insert_Date"),'dd/mm/yyyy') from tbl_booking_insert where "Cio_Booking_Id"='WCO02000000001')
+            when 'yyyy/mm/dd' then(select TO_CHAR(max("Insert_Date"),'yyyy/mm/dd') from tbl_booking_insert where "Cio_Booking_Id" ='WCO02000000001') end as "maxdate",
+            (select advpos_type_mast."Amount" from  advpos_type_mast where advpos_type_mast."Pos_Type_Code"=m."Page_position_code")as "expr",
+            SUM(m."Card_rate")*"Total_area" as "amtnew",
+            ((SELECT SUM("Card_Rate"-ROUND(("Card_Rate"*(nvl(m."Special_disc_per",0)+nvl(m."Space_disc_per",0))/100),2)) FROM TBL_BOOKING_INSERT  WHERE "INSERTS"='1' AND TBL_BOOKING_INSERT
+            ."Cio_Booking_Id"='WCO02000000001' and "Insert_Date" between  '01-JUL-20' and '31-JUL-20'and  "Insert_Status" != 'cancel'  )) AS "PACKAGERATE",
+            m."Agrred_rate",
+            (select  PUB_CENT_MAST."street" FROM  PUB_CENT_MAST  WHERE PUB_CENT_MAST."Pub_cent_Code" IN
+            (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch" AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "street_new",
+            CASE 'dd/mm/yyyy'
+            when 'mm/dd/yyyy'  then(select TO_CHAR(max("Insert_Date"),'mm/dd/yyyy') from tbl_booking_insert where "Cio_Booking_Id" ='WCO02000000001' AND "Insert_Date" between  '11-MAY-20' and'31-JUL-20')
+            when 'dd/mm/yyyy' then(select TO_CHAR(max("Insert_Date"),'dd/mm/yyyy') from tbl_booking_insert where "Cio_Booking_Id"='WCO02000000001' AND "Insert_Date" between  '11-MAY-20' and'31-JUL-20')
+            when 'yyyy/mm/dd' then(select TO_CHAR(max("Insert_Date"),'yyyy/mm/dd') from tbl_booking_insert where  "Cio_Booking_Id" ='WCO02000000001' AND "Insert_Date" between  '11-MAY-20' and'31-JUL-20') end as "maxdate1",
+            sum(i."Bill_Amt")"Bill_Amt",i.BILL_NO as Bill_no,
+            CASE 'dd/mm/yyyy'
+            WHEN 'mm/dd/yyyy' THEN TO_CHAR("BILL_DATE",'mm/dd/yyyy')
+            WHEN 'dd/mm/yyyy' THEN TO_CHAR("BILL_DATE",'dd-Mon-yyyy')
+            WHEN 'yyyy/mm/dd' THEN TO_CHAR("BILL_DATE",'yyyy/mm/dd')  END AS "BILL_DATE",
+             (select  PUB_CENT_MAST."Fax" FROM  PUB_CENT_MAST  WHERE
+            PUB_CENT_MAST."Pub_cent_Code" IN (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch" AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "Fax2",
+            (select  PUB_CENT_MAST."Fax1" FROM  PUB_CENT_MAST  WHERE
+            PUB_CENT_MAST."Pub_cent_Code" IN (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch" AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "Fax3",
+            (select  PUB_CENT_MAST."FILE_PATH" FROM  PUB_CENT_MAST  WHERE PUB_CENT_MAST."Pub_cent_Code" IN
+            (SELECT BRANCH_MST."pub_center" FROM BRANCH_MST WHERE BRANCH_MST."Branch_Name"=m."branch"
+            AND PUB_CENT_MAST."Pub_cent_Code"=BRANCH_MST."pub_center" ))AS "FILE_PATH", i."CASHDISAMT", 
+            sum(i."SPLDISAMT")SPLDISAMT,(SELECT "premium_charges" FROM ADVPOS_PREM_MAST  WHERE   ADVPOS_PREM_MAST. "Premiumcode"=i."Premium1" ) AS "premiumch"
+            ,m."Special_disc_per" as commdisc,m."Trade_disc" Trade_disc1,m."Agreed_amount" as Agreed_amount,
+            AD_GET_EXECNAME ('LOK01', m."Executive_code") AS EXECUTIVE_NAME,m."Bill_remarks",m."Gross_amount" AS GROSS_AMT
+            ,m."CHKTRADEDISC",sum(i."SPLDISAMT")SPLDISAMT1,sum(i."PREM_AMT")PREM_AMT,m."Bill_to" as "bill2",getadd('LOK01','WCO02000000001') as "agenadd"
+            ,m."Bill_remarks" as "Remark",m."Total_area" as volume,
+            nvl((select "prod_desc" from Product_cat_mast where "prod_cat_code"=m."Product_code"),'--')  as product
+            ,m."Special_discount" as special_discount,m."Page_prem" as pag_prem,
+            m.ACTIVE_AGREEDRATE,m."Agreed_amount" as amt,
+            sum(i."Disc_Rate") as disc
+            ,fetch_insert_gst(m."Comp_code",m."cio_booking_id",null,NULL,NULL,NULL,i.BILL_NO,'CGST','R',NULL,NULL)CGST_RATE,
+             fetch_insert_gst(m."Comp_code",m."cio_booking_id",null,NULL,NULL,NULL,i.BILL_NO,'IGST','R',NULL,NULL)IGST_RATE,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",null,NULL,NULL,NULL,i.BILL_NO,'SGST','R',NULL,NULL)SGST_RATE,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",null,NULL,NULL,NULL,i.BILL_NO,'CESS','R',NULL,NULL)GST_CESS_RATE,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",i."No_Insert",NULL,NULL,NULL,i.BILL_NO,'CGST','A',NULL,NULL)CGST_AMT,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",i."No_Insert",NULL,NULL,NULL,i.BILL_NO,'IGST','A',NULL,NULL)IGST_AMT,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",i."No_Insert",NULL,NULL,NULL,i.BILL_NO,'SGST','A',NULL,NULL)SGST_AMT,
+                fetch_insert_gst(m."Comp_code",m."cio_booking_id",null,NULL,NULL,NULL,i.BILL_NO,'CESS','A',NULL,NULL)GST_CESS_AMT,
+                (select GSTIN from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")CUST_GSTIN,a.GSTIN as AG_GSTIN,
+                CASE WHEN i."Publication_Code"='KA0'THEN
+            (SELECT cm.GSTIN FROM COMP_MST cm where cm."Comp_Code"='MED01' )
+            ELSE                
+                (select GSTIN from branch_mst where "Branch_Code"=m."branch" and m."cio_booking_id"='WCO02000000001')END BRANCH_GSTIN,
+               -- (select gst_state_code from state_mst where "Comp_Code"=m."Comp_code" and "State_Code"=a."State_Code")ag_GST_STATE_CODE,
+                ad_get_stategstcd_from_city('LOK01',a."City_Code")ag_GST_STATE_CODE,
+                ad_get_statecd_from_city('LOK01',a."City_Code")ag_STATE_NAME,
+                ad_get_stategstcd_from_city('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01' and "Cust_Code"=m."Client_code"))cust_GST_STATE_CODE,
+                ad_get_statecd_from_city('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01' and "Cust_Code"=m."Client_code"))CUST_STATE_NAME,
+                AD_GET_CITYNAME('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01'  and "Cust_Code"=m."Client_code"))cust_city_name,
+                (select "phone1" from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")cust_phone,
+                (select "Zip"  from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")cust_zip
+                ,m."Prem_per",
+                ad_get_stategstcd_from_city('LOK01',(select "City_Code" from branch_mst where "Comp_Code"='LOK01' and "Branch_Code"=m."branch"))br_GST_STATE_CODE,
+                initcap(ad_get_statecd_from_city('LOK01',(select "City_Code" from branch_mst where "Comp_Code"='LOK01' and "Branch_Code"=m."branch")))br_STATE_NAME,
+                CASE WHEN i."Publication_Code"='KA0'THEN
+            (SELECT cm.CIN_NO FROM COMP_MST cm where cm."Comp_Code"='MED01' )
+            ELSE
+            cp.CIN_NO END CIN_NO,a."PAN_No",a."TAN_No" ,(select "PAN_No" from cust_mast where "Comp_Code"='LOK01'  and "Cust_Code"=m."Client_code")cust_pan,
+                m.retainer,RETAINNAME( 'LOK01',m.retainer)retnm,cir_get_brand_name('LOK01',m."Brand_code")brandnm,m.DEALER_H,m.DEALER_W,--i.INSERT_STATUS_PUB,
+                i."Publication_Code" ,ad_get_publ_name('LOK01',i."Publication_Code")pub_name,m."Gross_amount" Gross_amount1,m."Bill_amount",SUM(AGNCYAMNT) td_amt,(sum(i."Gross_Rate")-(SUM(AGNCYAMNT)))taxval,
+                cp."PAN_No" PAN_No1,cp.GSTIN,(select BILL_REFID from ad_bills  where  COMP_CODE_V='LOK01' and bilno='' and idnum=m."cio_booking_id") refno,
+                (select distinct "Bullet_Charges"  from BULlet_mast where m."Bullet_code" = BULlet_mast."Bullet_Code"  AND m."cio_booking_id"='WCO02000000001' ) AS eyecaqtcher,
+                (select "Adv_Cat_Name" FROM adv_cat_mast  where   "Adv_Cat_Code"= m."Ad_cat_code" ) as "CAT_NAME",(select "Adv_Subcat_Name" FROM adv_subcat_mast  where   "Adv_Subcat_Code" =m."Ad_sub_cat_code" and "Adv_Cat_Code"= m."Ad_cat_code" ) as SUBCAT_NAME,
+                (select "catname" FROM ad_cat3  where   "subcatname" =m."Ad_sub_cat_code" and "catcode"= m."Ad_Subcat3" ) as SUBCAT3_NAME,a."SUB_Agency_Code",a."Add2", a."Add3",
+                (select GSTIN from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")CUST_GSTIN1,upper(a.GSTIN) as AG_GSTIN1,
+                (select GSTIN from branch_mst where "Branch_Code"=m."branch" and m."cio_booking_id"='WCO02000000001')BRANCH_GSTIN1,
+                (select PAN_NO from branch_mst where "Branch_Code"=m."branch" and m."cio_booking_id"='WCO02000000001')BRANCH_pan,
+                --(select gst_state_code from state_mst where "Comp_Code"=m."Comp_code" and "State_Code"=a."State_Code")ag_GST_STATE_CODE,
+                ad_get_stategstcd_from_city('LOK01',a."City_Code")ag_GST_STATE_CODE1,
+                ad_get_statecd_from_city('LOK01',a."City_Code")ag_GST_STATE_name,
+                ad_get_stategstcd_from_city('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01' and "Cust_Code"=m."Client_code"))cust_GST_STATE_CODE1,
+                ad_get_statecd_from_city('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01' and "Cust_Code"=m."Client_code"))CUST_STATE_NAME1,
+                AD_GET_CITYNAME('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01'  and "Cust_Code"=m."Client_code"))cust_city_name1,
+                (select "phone1" from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")cust_phone1,
+                (select "Zip"  from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")cust_zip1
+                ,m."Prem_per" Prem_per1,ad_get_stategstcd_from_city('LOK01',(select "City_Code" from branch_mst where "Comp_Code"='LOK01' and "Branch_Code"=m."branch"))br_GST_STATE_CODE1,
+                ad_get_statecd_from_city('LOK01',(select "City_Code" from branch_mst where "Comp_Code"='LOK01' and "Branch_Code"=m."branch"))br_STATE_NAME1,
+                cp.CIN_NO as CIN_NO1,m.GSTINCLUSIVEFLAG, AD_GET_CITYNAME('LOK01',a."City_Code")ad_city,AD_GET_BRANCHNAME('LOK01',m."branch") branch_name,m."branch" branch1,
+                AD_GET_CITYNAME('LOK01',(select "City_Code" from cust_mast where "Comp_Code"='LOK01'  and "Cust_Code"=m."Client_code"))cust_city,
+                (select round(sum("Gross_Rate"),2) from tbl_booking_insert hh where hh."Comp_Code"=m."Comp_code" and hh."Cio_Booking_Id"=m."cio_booking_id" and hh."No_Insert"=i."No_Insert" ) gsamttt,
+                 a."PAN_No" PAN_No2,a."TAN_No" TAN_No1,i."Publication_Code" Publication_Code1,
+                nvl(m."Client_address",(SELECT DISTINCT CUST_MAST."Add1"  || "Stree" FROM CUST_MAST WHERE  CUST_MAST."Cust_Code" = m."Client_code" )) AS "clientAd",m."ACTIVE_AGREEDAMT",
+                a."pin_code",i."PACKAGE_CODE",get_package_name(m."Comp_code",i."PACKAGE_CODE")AS "package_short_name",
+                (select BILLTO_GSTNO from ad_bills  where  COMP_CODE_V='LOK01' and bilno='' and idnum=m."cio_booking_id")billto_gstno
+                ,(SELECT "Adv_Type_Name" FROM ADV_TYPE_MAST  WHERE "Adv_Type_Code" = m."Ad_type_code" ) AS "AdType"
+                ,case nvl(m."Agrred_rate",0) when 0 then round(sum(i."Card_Rate"),2) else round(sum(i."Disc_Rate"),6)  end as "package rate"
+                ,round(case nvl(to_number(m."TRANSLATION_PREMIUM"),0) when 0 then 0 else (case nvl(m."Agreed_amount",0) when 0 then sum(i."Card_Rate")+nvl(sum(i.EXTRA_AMT),0) else (case when max(m.ACTIVE_AGREEDAMT)='1' then  ("Size_Book"*sum(i."Disc_Rate")) else sum(i."Agreed_Rate") end) end) *to_number(m."TRANSLATION_PREMIUM")/100  end,2)  as trans_disc_amt,
+                 m."TRANSLATION_PREMIUM" as translation_per,(select "Bullet_Charges" from bullet_mast where m."Bullet_code"="Bullet_Code")eyscater,(select "Bullet_Desc" from bullet_mast where m."Bullet_code"="Bullet_Code")bulletname,
+                 (select "CHARGE_NAME" from ad_charge_mast where m."TRANSLATION_CODE"="CHARGE_CODE" )translationnm,
+                 sum(i.EXTRA_AMT) EXTRA_AMT ,max(i.EXTRA_SIZE) EXTRA_SIZE,
+                 ad_get_maxsz (max(i.RATE_UNIQUEID)) ad_sz,sum(i.SPL_CHG_AMT)splchgamt,
+                 --a."EmailID" as agemailid,
+                 AT_RETAIN_emailid (m."Comp_code",a.RETAINER )agemailid,
+                 nvl(a."AGENCY_DESIGNATION",(select "DESIG_NAME" from Ag_DESIGNATION_MaST where "DESIG_CODE"=m.AG_DESIGNATION)) as agdesi,(select "CLIENT_DESIGNATION" from cust_mast where "Comp_Code"=m."Comp_code" and "Cust_Code"=m."Client_code")custdesi,a.BILL_EMAIL bilemil,
+                 m."Rate_code",
+            FA_SAC_CODE_FN('LOK01',(select max(GST_SERV_AC_CODE) from tbl_booking_gst_detail where comp_code=m."Comp_code" and CIO_BOOKING_ID=(m."cio_booking_id")  )) serv_acc_NM,
+            AT_RETAIN_mobilno ('LOK01',a.RETAINER )agmobileno,
+            m.MOBILENO  CUSTMOBNO,
+            (select COLL_PHONE1 from branch_mst where "Comp_Code"='LOK01' and "Branch_Code"=m."branch") COLLPHONE,m."Agency_type",
+            FA_SAC_CODE_FN('LOK01',(select max(GST_SERV_AC_CODE) from tbl_booking_gst_detail where comp_code=m."Comp_code" and CIO_BOOKING_ID=(m."cio_booking_id")  )) serv_acc_NM1,
+            to_char(m."date_time",'dd-Mon-yyyy') AS BOOK_DATE,
+            FA_SAC_name_FN('LOK01',(select max(GST_SERV_AC_CODE) from tbl_booking_gst_detail where comp_code=m."Comp_code" and CIO_BOOKING_ID=(m."cio_booking_id")  )) serv_acc_Name,
+            i.POS_PER as pos_per,round(sum(i.POS_PREM_AMT),6)pos_prem_amt,
+    case when (select yy.MAIN_GROUP_CODE from combin_mast yy where yy."Comp_Code"=m."Comp_code" and yy."Combin_Code"=i.PACKAGE_CODE )='S' then
+    (select yyy."Package_Name" from combin_mast yyy where yyy."Comp_Code"=m."Comp_code" and yyy."Combin_Code"=i.PACKAGE_CODE )
+    else
+            (SELECT distinct max(nvl(short_name,"Edition_Name"))  FROM edition_mast where edition_mast."Comp_Code" = m."Comp_code" and  edition_mast."Pub_Code" = i."Publication_Code" and 
+                edition_mast."City_Code" = i."Pub_Cent_Code" and edition_mast."Edition_Type" = 'Main Edition' )END MAIN_EDTN,
+                case when i."Supp_Code"='MN' then
+            (select distinct MAX(nvl(s.SHORT_NAME, s."Supp_Name")) from tbl_booking_insert i1, supplement_mast s where i1."Comp_Code" = s."Comp_Code" and i1."Cio_Booking_Id" = m."cio_booking_id" and i1."No_Insert" = i."No_Insert"
+                and i1."Pub_Cent_Code" = i."Pub_Cent_Code" and i1."Publication_Code" = i."Publication_Code" and i1."Supp_Code" = s."Supp_Code"  and i1.PACKAGE_CODE = i.PACKAGE_CODE ) 
+                
+        else
+         case when (select yy."Combin_Desc" from combin_mast yy where yy."Comp_Code"=m."Comp_code" and yy."Combin_Code"=i.PACKAGE_CODE ) like '%+%' then
+         (select distinct MAX(nvl(s.SHORT_NAME, s."Supp_Name")) from tbl_booking_insert i1, supplement_mast s where i1."Comp_Code" = s."Comp_Code" and i1."Cio_Booking_Id" = m."cio_booking_id" and i1."No_Insert" = i."No_Insert"
+                and i1."Pub_Cent_Code" = i."Pub_Cent_Code" and i1."Publication_Code" = i."Publication_Code" and i1."Supp_Code" = s."Supp_Code" and i1."Supp_Code"=i."Supp_Code"  and i1.PACKAGE_CODE = i.PACKAGE_CODE )
+                else (select distinct MAX(s."Supp_Name") from tbl_booking_insert i1, supplement_mast s where i1."Comp_Code" = s."Comp_Code" and i1."Cio_Booking_Id" = m."cio_booking_id" and i1."No_Insert" = i."No_Insert"
+                and i1."Pub_Cent_Code" = i."Pub_Cent_Code" and i1."Publication_Code" = i."Publication_Code" and i1."Supp_Code" = s."Supp_Code" and i1."Supp_Code"=i."Supp_Code"  and i1.PACKAGE_CODE = i.PACKAGE_CODE )
+                end end supp_name,
+                m.active_agreedrate as active_agreedrate1,/* i."Edition",*/max(e.SEQ) seq_num,
+                (SELECT ADVPOS_TYPE_MAST."Pos_Type_Alias" FROM ADVPOS_TYPE_MAST WHERE "Comp_Code" = m."Comp_code" and ADVPOS_TYPE_MAST."Pos_Type_Code" = i."Page_Post" ) AS "page_position",
+                a.DAVP_IPRD_BILL_CERTI_PRINT as DAVP_IPRD_BILL_CERTI_PRINT,
+                round(case nvl(to_number(m."TRANSLATION_PREMIUM"),0) when 0 then 0 else (case nvl(m."Agreed_amount",0) when 0 then ("Size_Book"*sum(i."Card_Rate")+nvl(sum(i.EXTRA_AMT),0)) else (case when max(m.ACTIVE_AGREEDAMT)='1' then  ("Size_Book"*sum(i."Disc_Rate")) else sum(i."Agreed_Rate") end) end) *to_number(m."TRANSLATION_PREMIUM")/100  end,6)  as trans_chg_amt
+                ,round((sum(i."Gross_Rate")-NVL(sum(i.EXTRA_AMT),0)),6)CHAMT, m."Caption" as "Cap",
+                AD_GET_EXECNAME( m."Comp_code",m."Executive_code")exec_nam,m."Booking_type" as booking_type,max(i."Pai_Free_Ins") as paid_ins,max(i.INSERT_STATUS_PUB)hh,
+                u."Uom_Name" , m."Print_remark",nvl((select sum("Gross_Rate") from tbl_booking_insert where "Comp_Code" = m."Comp_code" and "Cio_Booking_Id" = m."cio_booking_id" and "No_Insert" = 1
+                and package_code = i.package_code and "Insert_Status" not in('cancel') and "Pai_Free_Ins" = 'Y'),0)
+          first_paid_insert_amt, case when i.bill_no is null then 0 
+		else  (select nvl(BILLAMT_ROUND_DIFF,0) from ad_bills where comp_code_v = m."Comp_code" and bildt = i.bill_date and bilno = i.bill_no) end bill_round_val
+            FROM TBL_BOOKING_MAST m  ,
+            TBL_BOOKING_INSERT i,
+            COL_MAST cl,
+            AGENCY_MAST a,
+            PUB_MAST p,
+            --CITY_MST c,
+            PUB_CENT_MAST pc,
+            uom_mast u,
+            adv_type_mast t,
+            comp_mst cp, edition_mast e
+            WHERE  i."Col_Code"=cl."Col_Code" AND  
+            a."code_subcode"=m."Agency_sub_code" AND i."Publication_Code"=
+
+            p."Pub_Code"
+            and u."Uom_Code"=m."Uom_code"
+            and m."Comp_code"=cp."Comp_Code"
+            and m."Ad_type_code"=t."Adv_Type_Code" and
+            pc."Pub_cent_Code"  =i."Pub_Cent_Code"
+            AND i."Edition_Code" = E."Edition_Code"
+            AND m."cio_booking_id"=i."Cio_Booking_Id"
+            AND i."Cio_Booking_Id"='WCO02000000001'
+            and "Insert_Status"!='cancel'
+            and ((bill_no='') or ('' is null) or (''=''))
+            and bill_no is null
+            -- and i."Insert_Date" between '01-JUL-20' and '31-JUL-20'
+            and exists(select 'x' from tbl_booking_insert tt where  tt."Cio_Booking_Id" = i."Cio_Booking_Id" and 
+                tt."No_Insert" = i."No_Insert" and tt."Insert_Date" between '01-JUL-20' and '31-JUL-20' and tt."Insert_Status"  not in('cancel','billed','hold','publish','booked'))
+            and (not exists(SELECT 'x' FROM tbl_booking_insert i1 WHERE i1."Comp_Code" = m."Comp_code" and 
+                    i1."Cio_Booking_Id" = m."cio_booking_id" and i1."No_Insert" = i."No_Insert" and 
+                    (i1."Insert_Status" IN('hold','booked','publish') or i1."Insert_Date" is null))
+                    or (m."Bill_cycle"<>'4' ))
+            group by m."Comp_code",m."RO_No",i."Cio_Booking_Id",i."No_Insert","Height","Width","Size_Book",
+                cl."Col_Name",/*i."Page_No",*/i."No_Ofcolumn",/*"Insert_Date",*/--i."Agreed_Rate",
+                a."Add1",a."Agency_Name",a."AD_VAT_NO","RO_Date",p."Pub_Name",m."Ad_cat_code",
+                m."Client_code",m."Client_address",i."No_Insert",
+                m."Box_code",m."cio_booking_id",m."Trade_disc",m."CLIENT_CAT_DISC",
+                m."Card_amount",m."Uom_code",m."CLIENT_CAT_D_AMT",m."CLIENT_CAT_D_TYP", m."FLAT_FEQ_DISC",  
+                m."FLAT_FEQ_D_AMT",m."FLAT_FEQ_D_TYP",m."CAT_DISC",m."CAT_D_AMT",m."CAT_D_TYP",  
+                m."CASHDISCOUNT",m."CASHDISCTYPE", m."Scheme_type_code",m."Agency_pay",  
+                m."Page_prem","Invoices",m."branch",
+                m."Key_no",m."Agency_sub_code",t."Adv_Type_Name",m."No_of_insertion",m."Gross_amount",m."Caption",m."Special_charges"
+                ,cp."Comp_Name",cp."PAN_No",cp."Add1",cp."Street",cp."Fax",m."Bullet_code",
+                m."ADD_AGENCY_COMM" ,m."Trade_disc",cl."Col_Alias" ,m."Page_position_code",
+                m."Special_disc_per",m."Agrred_rate",i.BILL_NO,"BILL_DATE",
+                 i."CASHDISAMT",/* i."SPLDISAMT",*/i."Premium1",m."Agreed_amount",
+                m."Executive_code",m."Bill_remarks",m."CHKTRADEDISC",/*i."PREM_AMT",*/m."Bill_to",
+                m."Total_area",m."Product_code",m."Special_discount",m.ACTIVE_AGREEDRATE,/*i."Disc_Rate" ,*/m."Comp_code",
+                a.GSTIN,a."City_Code",m."Prem_per",cp.CIN_NO,a."PAN_No",a."TAN_No" ,
+                m.retainer,m.DEALER_H,m.DEALER_W,/*i.INSERT_STATUS_PUB,*/i."Publication_Code" ,m."Bill_amount",
+                cp."PAN_No",cp.GSTIN,m."Ad_sub_cat_code",m."Ad_Subcat3",a."SUB_Agency_Code",a."Add2", a."Add3",
+                m.GSTINCLUSIVEFLAG,a."pin_code",m."Card_rate",m."Space_disc_per",m."Brand_code",
+                m."ACTIVE_AGREEDAMT",i."PACKAGE_CODE",m."Ad_type_code",m."TRANSLATION_PREMIUM",m."TRANSLATION_CODE",a."EmailID",
+                m.RETAINER,a."AGENCY_DESIGNATION",a.RETAINER,a.BILL_EMAIL,m."Rate_code",m.MOBILENO,m."Agency_type",
+                i.POS_PER, i."Pub_Cent_Code",/* i."Edition",*/a.DAVP_IPRD_BILL_CERTI_PRINT,m.AG_DESIGNATION ,m."date_time",i."Page_Post"
+                ,i."Supp_Code",m."Caption",m."Executive_code",a."Agency_Type_Code",a."Credit_Days",m."Booking_type", u."Uom_Name", m."Print_remark" 
+                )x
+            group by x."Comp_code",x."RO_No", x."Cio_Booking_Id", x."No_Insert" ,x."Height",x."Width",x."Size_Book", x."Col_Name",  x."No_Ofcolumn",
+                x."Ins.date", x.address, x."Agency_Name", x."AD_VAT_NO", x."RO_Date", x."Publication", x."AdCat",
+                x."client", x."Client_address" ,  x."City_Name", x."No_Insert", x."boxcode", x."Trade_disc", x."CLIENT_CAT_DISC",
+                x."Card_amount", x."Uom_code", x."CLIENT_CAT_D_AMT", x."CLIENT_CAT_D_TYP", x."FLAT_FEQ_DISC",  
+                x."FLAT_FEQ_D_AMT", x."FLAT_FEQ_D_TYP", x."CAT_DISC",  x."CAT_D_AMT",  x."CAT_D_TYP",  
+                x."CASHDISCOUNT", x."CASHDISCTYPE", x.SCHEMEDICPER,  x."Scheme_type_code", x."Agency_pay",   
+                x.pageprem, x."Invoices", x."Add1", x."Phone1", x."Phone2", x."Key No", x."Email", x."paydatesys",
+                x."Adv_Type_Name", x."No_of_insertion", x."Gross_amount", x."Caption", x."Special_charges", x."companyname",
+                x."pan",/* x."address",*/x."street", x."fax", x."expremiumch", x."adtd", x."td", x."branch", x."Color_code",
+                x."SYSDATE1", x."EmailID", x."maxdate", x."expr", x."PACKAGERATE", x."Agrred_rate", x."street_new", x."maxdate1",
+                x.BILL_NO, x."BILL_DATE", x."Fax2", x."Fax3", x."FILE_PATH", x."CASHDISAMT", x."premiumch", x.commdisc, x."Trade_disc", 
+                x.Agreed_amount, x.EXECUTIVE_NAME, x."Bill_remarks", x.GROSS_AMT ,x."CHKTRADEDISC", x."bill2", x."agenadd", x."Remark", x.volume,
+                x.product ,x.special_discount, x.pag_prem, x.ACTIVE_AGREEDRATE, x.amt, x.CGST_RATE, x.IGST_RATE, x.SGST_RATE, x.GST_CESS_RATE,
+                x.CGST_AMT, x.IGST_AMT, x.SGST_AMT, x.GST_CESS_AMT, x.CUST_GSTIN, x.AG_GSTIN, x.BRANCH_GSTIN, x.ag_GST_STATE_CODE,
+                x.ag_STATE_NAME, x.cust_GST_STATE_CODE, x.CUST_STATE_NAME, x.cust_city_name, x.cust_phone, x.cust_zip, x."Prem_per",
+                x.br_GST_STATE_CODE, x.br_STATE_NAME, x.CIN_NO, x."PAN_No", x."TAN_No" ,x.cust_pan, x.retainer, x.retnm, x.brandnm, 
+                x.DEALER_H, x.DEALER_W, x."Publication_Code" ,x.pub_name, x."Gross_amount", x."Bill_amount",  x."PAN_No", 
+                x.GSTIN, x.refno, x.eyecaqtcher, x."CAT_NAME", x.SUBCAT_NAME, x.SUBCAT3_NAME, x."SUB_Agency_Code", x."Add2", x."Add3",
+                x.CUST_GSTIN, x.AG_GSTIN, x.BRANCH_GSTIN, x.BRANCH_pan, x.ag_GST_STATE_CODE, x.ag_GST_STATE_name, x.cust_GST_STATE_CODE,
+                x.CUST_STATE_NAME, x.cust_city_name, x.cust_phone, x.cust_zip, x."Prem_per", x.br_GST_STATE_CODE,
+                x.br_STATE_NAME, x.CIN_NO, x.GSTINCLUSIVEFLAG, x.ad_city, x.branch_name, x."branch",
+                x.cust_city, x.gsamttt, x."PAN_No", x."TAN_No" ,x."Publication_Code", x."clientAd", x."ACTIVE_AGREEDAMT",
+                x."pin_code", x."PACKAGE_CODE", x."package_short_name", x.billto_gstno
+                ,x."AdType" ,x.trans_disc_amt, x.translation_per, x.eyscater, x.bulletname,x.translationnm,
+                 x.ad_sz,  x.agemailid, x.agdesi, x.custdesi, x.bilemil, x."Rate_code", x.serv_acc_NM, x.agmobileno, x.CUSTMOBNO,
+                x.COLLPHONE, x."Agency_type",/* x.serv_acc_NM,*/ x.BOOK_DATE, x.serv_acc_Name,
+                /*x.pos_per,*/  x.MAIN_EDTN, x.supp_name, /*x.active_agreedrate,*/ x."page_position",x.DAVP_IPRD_BILL_CERTI_PRINT,
+                x."Cap", x.exec_nam,x.booking_type  ,x."Uom_Name", x."Print_remark"
+            order by x."No_Insert",seq_num,"Ins.date"    

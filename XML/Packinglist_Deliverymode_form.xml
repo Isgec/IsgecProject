@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Route Mode</td3>
+    <td4>Route Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Route/Subroute/SubSub Route</td5>
+    <td6>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Language</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Clear</td10>
+    <td11>Exit</td11>
+    <td12>Packing List/Delivery Mode</td12>
+    <td13>Drop Point</td13>
+    <td14>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td15>
+    <td16>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td16>
+    <td17>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Sub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Sub Sub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+	  <td20>Printing Center Name</td20>
+    <td21>Loose Qty</td21>
+  </table>
+
+  <table1>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>Sub Route</td2>
+    <td3>2</td3>
+    <td4>Sub Sub Route</td4>
+    <td5>3</td5>
+  </table1>
+
+  <table2>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Other Language</td2>
+    <td3>2</td3>
+  </table2>
+
+  <table3>
+    <td>OnScreen</td>
+    <td1>1</td1>
+    <td2>PDF</td2>
+    <td3>2</td3 >
+    <td4>Excel</td4>
+    <td5>3</td5>
+  </table3>
+
+  <table4>
+    <td>Y</td>
+    <!-- FOR Drop Point-->
+
+
+  </table4>
+  <table5>
+    <td>Y~30</td>
+    <!-- FOR SPLITING AGENCY NAME-->
+
+  </table5>
+  <table6>
+    <td>Y</td>
+    <!-- FOR footer show continew-->
+
+
+  </table6>
+  <table7>
+    <td>Delivery Challan</td>
+    <td1>Challan No. </td1>
+    <td2>Route :</td2>
+    <td3>Vehicle No. :</td3>
+    <td4>Issue Date:</td4>
+    <td5>Agency Name </td5>
+    <td6>Drop Point</td6>
+    <td7>Bundle</td7>
+    <td8>Total</td8>
+    <td9>Total Bundle</td9>
+    <td10>Vehicle Arrival Time</td10>
+    <td11>Vehicle Departure Time</td11>
+    <td12>Parsal Despatcher</td12>
+    <td13>Name</td13>
+    <td14>Sign</td14>
+    <td15>Vehicle Driver</td15>
+    <td16>Parsal Receivers</td16>
+    <td17>(Agent/Executive)</td17>
+    <td18>SubRoute :</td18>
+    <td19>SubSubRoute :</td19>
+    <td20>S.No.</td20>
+    <td21>District</td21>
+    <td22>Delivery Challan</td22>
+    <td23>Packing List By Route</td23>
+    <td24>Please accept Publication in Good Condition as follows: </td24>
+    <td25>Please accept by Signing and Restore Contession Copy that is enclosed</td25>
+    <td26>Acceptance Verfication</td26>
+    <td27>Delivery Confirmation</td27>
+    <td28>Signature and Copy</td28>
+  </table7>
+  <table8>
+    <DROP_POINTCODE>N</DROP_POINTCODE>
+    <AGENCYCODE>N</AGENCYCODE>
+    <QTY>N</QTY>
+    <ENDCOPY>N</ENDCOPY>
+  </table8>
+</newdataset>

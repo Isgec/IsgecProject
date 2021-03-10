@@ -1,0 +1,1042 @@
+﻿.imageclass
+ {
+	background-image:url(images/header-img.jpg);
+	background-repeat:repeat-x; 
+  }
+
+.newfont1
+{
+ font-family: verdana ;
+ color:White;
+ FONT-WEIGHT:normal ;
+ font-size: 10px;
+ text-align:left ;
+ padding-left :10px;
+ vertical-align :text-top ;
+ font-weight :bold;
+
+ /*width:60px; */
+}
+
+.agencyname
+{
+ font-family: verdana ;
+ color:White;
+ FONT-WEIGHT:normal ;
+ font-size: 10px;
+ text-align:left ;
+ padding-left:10px;
+ vertical-align :text-top ;
+ font-weight :bold;
+
+}
+
+.agencyname1
+{
+	background-color:#f8f9fd;
+	font-family:Arial;
+	font-size:11px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left ;
+	width:100px;
+}
+
+.newtext
+{
+ font-family: verdana ;
+ color:#5e5c5d;
+ FONT-WEIGHT: bold;	
+ font-size: 11px;
+text-align:center;
+}
+.newtext1
+{
+ font-family: verdana ;
+ color:#5e5c5d;
+ FONT-WEIGHT: bold;	
+ font-size: 11px;
+ text-align:center;
+}
+.forall
+{
+font-family: arial ;
+ font-size: 13px;
+text-align:center;
+	}
+
+
+.forreport
+{
+	font-size:11px;
+	height:30px;
+	font-weight:bold;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:11px;
+	/*border-bottom:dashed;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;*/
+	 background-image:url(Images/header_bg.jpg);
+	 background-repeat:repeat-x; 
+	}
+	.fortotal
+	{
+		background-color:inherit;
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+
+	}
+	
+	
+	.forrecords1
+	{
+		
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		
+		
+	}
+	.forrecords2
+	{
+		
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align :right ;
+	}
+	.pagingleft
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+	
+	
+	}
+	.pagingright
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+
+	}
+	.pagingcenter
+	{  
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff; 
+	}
+	.newhead
+	{
+	font-family :verdana;
+	font-size :20px;
+	font-weight :bold;
+	color :#0a4a83;
+	text-align :center ;
+	
+	}
+	
+	.reportName
+	{
+		font-family :verdana;
+	font-size :14px;
+	font-weight :bold;
+	color :#0a4a83;
+	text-align :center ;
+	}
+	
+	.upperhead
+	{
+	height:5px; 
+	/*width: 300px; */
+	font-size:10px;
+	/*font-weight:bold; */
+	font-family:Verdana;
+	Color: #000000;
+/*	vertical-align:top;*/
+	text-align :left;
+		}
+		
+	.upperheadcolumn
+	{
+	width:10px ;
+	font-size:12px;
+	font-family:Verdana;
+	Color: #000000;
+	height :20px;
+	text-align :left;
+	}
+	.upperheadcolumn1
+	{
+	width:5px ;
+	font-size:12px;
+	font-family:Verdana;
+	Color: #000000;
+	height :20px;
+	text-align :left;
+	}
+		
+		
+.headrep11
+{
+			
+font-size:11px;
+font-weight:normal;
+font-family:Verdana;
+Color:#000000;
+	
+}
+.print
+{
+		font-family:Arial;
+		font-size:12px;
+		color: #000000;
+		font-weight:normal;
+}
+
+.mail
+{
+  font-family:Arial;
+  font-size:11px;
+  font-weight:normal;
+}
+
+
+.colortextbox
+{
+display: block;
+text-indent: 3px;
+border:solid 1px;
+border-color:#B5E2FE;
+padding: 2px 0;
+text-decoration: none;
+color: black;
+}
+
+     .printhead
+	{
+	font-family :verdana;
+	font-size :23px;
+	font-weight :bold;
+	color :#5e5c5d;
+	
+	}
+	
+	.printtext
+	{
+		font-family:Arial;
+		font-size:12px;
+	}
+	
+	.printing
+{
+	font-size:9px;
+	
+	font-family:Verdana;
+	font-weight:bold;
+	border-bottom:dashed;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+	 
+}
+
+.total
+{
+	font-family:Arial;
+	font-size:11px;
+	color: #000000;
+	font-weight:bold;
+	text-align :right ;
+	padding-right :0px;
+	vertical-align :top;
+}
+
+.fordate
+{
+	font-size :11px;
+	color:Black ;
+	font-family :Verdana ;
+	text-align :left;
+}
+
+.serialnumlabel
+{
+ font-family:Verdana ;
+ font-weight:bold ;
+ color:White;
+  font-size: 10px;
+  text-align :left ; 
+  vertical-align :text-top ;
+}
+.recordnum1
+{		
+	
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+		text-align  :center ;
+		vertical-align :top;
+		
+	
+}
+
+.recordnum2
+{		
+		
+		font-family:Arial;
+		font-size:11px;
+		color: #000000;
+		font-weight:normal;
+		text-align  :center ;
+	
+}
+.totallabel
+{
+	font-size :12px;
+	font-family :Verdana ;
+	color:Black;
+	text-align :left;
+	font-weight :bold;
+}
+
+.xlsheader
+{
+	font-size:14px;
+	font-weight :bold;
+	color:Black ;
+	text-align :center;
+}
+
+.break
+{
+	page-break-before :always ;
+	position :fixed ;
+}
+
+.middle4
+{
+	font-size:smaller;
+	color:White;
+	
+	font-weight:bold;
+	border-bottom:dashed;
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+}
+
+.routetotal
+{
+	font-size :12px;
+	font-weight :bold;
+	font-family :Verdana ;
+}
+
+.editiontotal
+{
+	font-size:12px;
+	font-weight :bold;
+	font-family :Verdana ;
+}
+
+.publtotal
+{
+	font-size :12px;
+	font-weight :bold;
+	font-family :Verdana ;
+}
+
+/*========================Print page classes====================*/
+
+.p_head
+{
+	font-size :15px;
+	font-weight :bold;
+	font-family :Arial ;
+	text-align :center;
+}
+.p_serialnumcol
+{
+font-family:Verdana ;
+font-weight:bold ;
+color:Black;
+font-size: 11px;
+text-align :right ; 
+vertical-align :text-top ;
+border-bottom :dashed thin black;
+border-top :dashed thin black;
+ /*width:70px; */
+}
+
+.p_column
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ vertical-align:top;
+ font-weight :bold;
+ border-bottom : solid 1px black;
+ border-top :solid 1px black;
+/* width:60px; */
+}
+
+.A_column
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ vertical-align:top;
+ font-weight :bold;
+ border-bottom : solid 1px black;
+ border-top :solid 1px black;
+ 
+/* width:20px;*/ 
+}
+
+.B_column
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ vertical-align:top;
+ font-weight :bold;
+ border-bottom : solid 1px black;
+ border-top :solid 1px black;
+ border-left: solid 1px black;
+ border-right :solid 1px black;
+ 
+ 
+}
+
+.C_column
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ vertical-align:top;
+ font-weight :bold;
+/* border-bottom : solid 1px black;*/
+ border-top :solid 1px black;
+ 
+ 
+ width:20px; 
+}
+
+
+
+
+
+
+.p_columnHindi
+{
+font-family:4CAadita ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :10px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom : dashed thin black;
+ border-top :dashed thin black;
+/* width:60px; */
+}
+.p_agency
+{
+ font-family: verdana ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :10px;
+ vertical-align :text-top ;
+ font-weight :bold;
+}
+
+.line
+{
+	font-size:smaller;
+	color:White;
+	font-weight:bold;
+	 border-bottom:dashed;
+    border-bottom-color:Black;
+    border-bottom-width:thin;
+    
+}
+.p_upperhead
+{
+	font-size:17px;
+	font-family:Arial;
+	Color: #000000;
+	text-align :left;
+	padding-bottom :5px;
+	vertical-align :top;
+}
+
+.p_upperheadHindi
+{
+	font-size:17px;
+	font-family:4CAadita ;
+	Color: #000000;
+	text-align :left;
+	padding-bottom :5px;
+	vertical-align :top;
+	
+}
+.p_serialnum
+{
+	font-family:Arial ;
+	font-size:10px;
+	color: #000000;
+	font-weight:normal;
+	padding-right:10px;	
+	text-align :right;
+	vertical-align :top;
+}
+.p_records
+{
+	font-family:Arial ;
+	font-size:10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left ;
+	vertical-align :top;	
+	
+}
+
+
+	
+.p_total
+{
+	font-size :11px;
+	font-weight:bold;
+	color:Black;
+	text-align:right;
+	
+}	
+/*=====================Routewise supply===============*/
+.reporthead
+{
+ font-family: verdana ;
+ color:White;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ text-align:left ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ /*width:60px; */
+}
+.route_records
+	{
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+	}
+	
+.routewise
+{
+	font-size :12px;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+	
+}
+
+.grandtotal
+{
+	
+font-size :12px;
+color:Black;
+ vertical-align :text-top ;
+  font-weight :bold;
+  border-top :solid thin #3BB9FF;
+	
+}
+
+
+/*==========================help file========================*/
+
+.column
+{
+	font-size:12px;
+	font-weight :bold;
+	font-family :Arial  ;
+}
+.rptname
+{
+	font-size:12px;
+	font-weight :normal ;
+	font-family :Arial  ;
+}
+/*=======================report form heading ============*/
+.rptformheading
+{
+	font-size:16px;
+	font-family :Arial ;
+	font-weight :bold;
+	color:Black ;
+	text-align :center;
+}
+
+/*==================Daily Variance Report=============*/
+
+.p_column_top
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-top :dashed thin black;
+}
+
+.p_column_bottom
+{
+ font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom :dashed thin black;
+}
+.p_grandtotal
+{
+		font-size :12px;
+	color:Black;
+   vertical-align :text-top ;
+  font-weight :bold;
+  border-top :dashed thin black;
+}
+
+.p_borderOnBothSides
+{
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+ border-top :dashed thin black;
+  border-bottom :dashed thin black;
+}
+.p_borderOnBothSides11
+{
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+ border-top :solid 1px black;
+  border-bottom :solid 1px black;
+}
+
+.p_borderBottomSides11
+{
+font-size :12px;
+color:Black;
+vertical-align :text-top ;
+font-weight :bold;
+
+  border-bottom :solid thin black;
+}
+
+
+
+.p_borderOnBothSid
+{
+font-size :12px;
+color:Black;
+text-align:right;
+vertical-align :text-top ;
+font-weight :bold;
+ border-top :dashed thin black;
+  border-bottom :dashed thin black;
+}
+
+.form_button
+{
+margin:0px 0px 0px 10px;
+}
+
+/* ========= Label Print============ */
+
+.label_print
+{
+	font-weight:bold;
+	font-size:18px;
+	color :Black ;
+	font-family:4CAadita;
+	vertical-align:middle 
+}
+
+
+.label_print_english
+{
+		font-weight:bold;
+	font-size:18px;
+	color :Black ;
+	font-family:arial;
+	vertical-align :middle ;
+}
+/* ========== Dianik Bhasker ============== */
+.lable_print_Bhasker
+{
+	font-weight:bold;
+	font-size:22px;
+	color :Black ;
+	font-family:4CAadita;
+	/*vertical-align:middle */ 
+	margin-top:0px;
+
+}
+
+.bill_printRecords
+{
+ font-family :Arial ;
+ font-size :14px;
+ color:Black ;
+
+
+}
+.dashLine
+{
+	border-bottom-color :Black ;
+	border-bottom-style:dotted ;
+	border-bottom-width:thin ;
+
+}
+
+.bhaskerBillMargin
+{
+	margin-left :0px;
+	margin-top :0px;
+
+
+}
+
+.RDT_supplyRecord
+{
+	font-family:Arial;
+		font-size:9px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+}
+
+.RDT_supplyRecordOtherLang
+{
+	font-family:4CAadita;
+		font-size:13px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+}
+
+.route_otherLang
+{
+	font-size :14px;
+	color:Black;
+	font-weight :bold;
+	vertical-align :top;
+	font-family:4CAadita;
+}
+
+.RDT_tableMargin
+{
+	margin-left :30px;
+}
+
+.hindiText_supplyTypeWsie
+{
+	 font-family:4CAadita;
+		font-size:13px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		
+}
+
+.hindiText
+{
+	 font-family:4CAadita;
+		font-size:13px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		
+}
+.weeklyLineBill_outerTable
+{
+	margin-left :30px;
+	border:solid 1px black;
+}
+
+.weeklyLineBill_innerTable
+{
+	border:solid 1px black;
+}
+
+.weeklyBill_column
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-left:solid 1px black;
+border-bottom:solid 1px black;
+border-top:solid 1px black;
+ 
+}
+.weeklyBill_columnleft
+{
+font-family:Arial ;
+
+ font-size:13px;
+ vertical-align :text-top ;
+ font-weight :bold;
+border-bottom:solid 1px black;
+border-top:solid 1px black;
+ 
+}
+
+.weeklyBill_columnleft111
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ vertical-align :text-top ;
+ font-weight :bold;
+border-bottom:solid 1px black;
+
+ 
+}
+
+
+
+.weeklybill_records
+{
+font-family:Arial ;
+font-size :9px;
+font-weight :normal ;
+vertical-align :text-top;
+border-left:solid 1px black;
+border-bottom:solid 1px black;
+}
+
+.weeklybill_records_hindi
+{
+font-family:4CAadita  ;
+font-size :11px;
+font-weight :normal ;
+border-left:solid 1px black;
+border-bottom:solid 1px black;
+vertical-align :text-top;
+}
+
+.weeklybill_recordsleft
+{
+font-family:Arial ;
+font-size :13px;
+ font-weight :bold;
+vertical-align :text-top;
+border-bottom:solid 1px black;
+}
+
+.weeklybill_records_hindileft
+{
+font-family:4CAadita  ;
+font-size :11px;
+font-weight :normal ;
+border-bottom:solid 1px black;
+vertical-align :text-top;
+}
+
+.weeklyBill_bottom_leftCol
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 7px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-left:solid 1px black;
+border-bottom:solid 1px black;
+border-top:solid 1px black;
+}
+
+.weeklyBill_bottom_leftColleft
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 7px;
+ vertical-align :text-top ;
+ font-weight :bold;
+border-bottom:solid 1px black;
+border-top:solid 1px black;
+}
+
+.weeklyBill_bottom_leftColData
+{
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 7px;
+ vertical-align :text-top ;
+ text-align:left;
+ 
+
+}
+
+.weeklyBill_bottom_rightCol
+{
+ font-family: Arial ;
+ font-size: 9px;
+ vertical-align :text-top ;
+ font-weight :normal;
+ padding-left:5px;
+ border-top:solid 1px black;
+  border-left:solid 1px black;
+}
+.weeklyBill_bottom_rightColData
+{
+ font-family: Arial ;
+ font-size: 9px;
+ vertical-align :text-top ;
+ text-align :right ;
+ padding-right :0px;
+ font-weight :normal;
+  border-top:solid 1px black;
+  border-left:solid 1px black;
+ padding-right:5px;
+}
+
+.weeklyBill_bottom_rightColDataright
+{
+ font-family: Arial ;
+ font-size: 9px;
+ vertical-align :text-top ;
+ text-align :right ;
+ padding-right :0px;
+ font-weight :normal;
+   border-top:solid 1px black;
+  border-left:solid 1px black;
+}
+
+
+.weeklyBillDepo_col
+{
+
+font-family: Arial ;
+ FONT-WEIGHT:normal ;
+ font-size: 11px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom :solid 1px black;
+ border-top:solid 1px black;
+
+}
+
+.weeklybillDepo_records
+{
+font-family:Arial ;
+font-size :9px;
+font-weight :normal ;
+
+vertical-align :text-top;
+}
+
+.weeklybillDepo_recordsHindi
+{
+font-family:4CAadita  ;
+font-size :11px;
+font-weight :normal ;
+
+vertical-align :text-top;
+}
+
+.weeklybillDepo_Retrecords
+{
+font-family:Arial ;
+font-size :9px;
+font-weight :normal ;
+vertical-align :text-top;
+}
+
+
+.weeklybillDepo_Retrecords_borderbotom
+{
+font-family:Arial ;
+font-size :9px;
+font-weight :normal ;
+vertical-align :text-top;
+border-bottom:solid 1px black;
+}
+
+.weeklybillDepo_Retrecords_bordertop
+{
+font-family:Arial ;
+font-size :9px;
+font-weight :normal ;
+vertical-align :text-top;
+border-top:solid 1px black;
+}
+
+.p_TaxiChallanrecords
+{
+	font-family:Arial ;
+	font-size:10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left ;
+	vertical-align :top;	
+	
+}
+
+
+.hindiTextTaxiChallan
+{
+	 font-family:4CAadita;
+		font-size:17px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+		
+}
+.colheading
+{
+border-bottom :dashed thin black;
+border-top :dashed thin black;
+padding-left:5px;
+	}
+
+

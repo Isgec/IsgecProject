@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Edition&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Subedition&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Return Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Agency Class&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td9>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$AGCD$~$DPCD$~$SUPPLY_DT$~$NEW_UNSOLD$~$OLD_UNSOLD$~$RETURN_DT$~$CREATED_BY$~$UPDATED_BY$~$CIR_UNSDTL_LOC$~$INSERT#UPDATE#DELETE#SELECT</td9>
+    <td11>COMP_CODE$~$UNIT_CODE$~$PUBL_CODE$~$EDTN_CODE$~$AGCD$~$DPCD$~$RETURN_DT</td11>
+	<td12>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+  </table>
+</newdataset>

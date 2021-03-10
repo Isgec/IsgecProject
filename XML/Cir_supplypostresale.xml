@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Printing Center Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+    <td4>Publication Code</td4>
+    <td5>Publication Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Edition Code</td6>
+    <td7>Edition Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <td8>Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Day</td9>
+    <td10>Packet Size</td10>
+    <td11>Supply Type</td11>
+    <td12>Agency&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td12>
+    <td13>Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Supply Type&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Supply&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+	  <td16>Printing Center Code&lt;font color=red&gt;&lt;/Font&gt;</td16>
+	  <td17>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+	  <td18>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+ <td19>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+    
+  </table>
+
+
+
+  <table7>
+    <td22>Company Code</td22>
+    <td23>Company Name</td23>
+    <td34>Unit Code</td34>
+    <td35>Unit Name</td35>
+    <td24>Publication Code</td24>
+    <td25>Publication Name</td25>
+    <td26>Edition Code</td26>
+    <td36>Edition Name</td36>
+    <td37>Date</td37>
+    <td34>Day</td34>
+    <td38>Packet Size</td38>
+
+  </table7>
+
+</Newdataset>
+

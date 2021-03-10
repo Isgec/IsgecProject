@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<database>
+  <table>
+    <td>S.No</td>
+    <td1>CIOID</td1>
+    <td2>Agency</td2>
+    <td3>Client</td3>
+    <td4>City</td4>
+    <td5>Pub</td5>
+    <td6>Package</td6>
+    <td7>Depth</td7>
+    <td8>Width</td8>
+    <td9>Area</td9>
+    <td10>Hue</td10>
+    <td11>page</td11>
+    <td12>Ins.No</td12>
+    <td13>Ins.Date</td13>
+    <td14>BookDate</td14>
+    <td15>RoNo</td15>
+    <td16>RoStatus</td16>
+    <td17>AdType</td17>
+    <td18>AdCat</td18>
+    <td19>Area</td19>
+    <td20>RateCode</td20>
+    <td21>CardRate</td21>
+    <td22>AggRate</td22>
+    <td23>Disc</td23>
+    <td24>Status</td24>
+    <td25>MatStatus</td25>
+    <td26>Cap</td26>
+    <td27>Key</td27>
+    <td28>-----------------------------------------------------------------------------  for official use only  ----------------------------------------------------------------------------- </td28>
+    <td29>FromDate</td29>
+    <td30>DateTo</td30>
+    <td31>RunDate</td31>
+    <td32>SubAg</td32>
+    <td33>Amt</td33>
+    <td34>Dev(%)</td34>
+    <td35>PagePremium</td35>
+    <td36>PosPremium</td36>
+    <td37>____________________________________________________________________________________________________________________</td37>
+    <td38>____________________________________________________________________________________________________________________________________________________________________________</td38>
+    <td39>Ro.Date</td39>
+    <td40>Region</td40>
+    <td41>Spl Instruction</td41>
+    <td42>SchemeName</td42>
+    <td43>SchemeType</td43>
+    <td44>SchemeDesc</td44>
+    <td45>ContractName</td45>
+    <td46>ContractType</td46>
+    <td47>FromInsNo</td47>
+    <td48>ToInsNo</td48>
+    <td49>Discount</td49>
+    <td50>PaymentType</td50>
+    <td51>RetainerName</td51>
+    <td52>RetainerCom</td52>
+    <td53>____________________________________________________________________________________________________________________________________________</td53>
+    <td54>______________________________________________________________________________________________________________________________________</td54>
+    <td55>______________________________________________________________________________________________________________________________________________________________________________________________________________________________</td55>
+    <td56>Publication</td56>
+    <td57>ContractRate</td57>
+    <td58>Product</td58>
+    <td59>Brand</td59>
+    <td60>Average Rate Realisation  (ARR)  :</td60>
+
+
+    <td61>____________________________________________________________________________________________________________________________________________________________________________</td61>
+    <td62>___________________________________________________________________________________________________________________________________________________________</td62>s
+    <td63>____________________________________________________________________________________________________________________________________________________</td63>
+    <td64>Trade Discount %</td64>
+    <td65>MR.NO.</td65>
+    <td66>Comm</td66>
+    <td67>Disc %</td67>
+    <td68>GrossAmt</td68>
+    <td69>Ins.No</td69>
+    <td70>NetAmt</td70>
+
+
+
+  </table>
+  <!--bill reports-->
+  <table1>
+    <td>BillStatus</td>
+    <td1>BillableArea</td1>
+    <td2>RevenueCentre</td2>
+    <td3>PaymentType</td3>
+    <td4>BillAmt</td4>
+    <td5>SchemeName</td5>
+    <td6>SchemeValue</td6>
+    <td7>ContractName</td7>
+    <td8>ContractValue</td8>
+    <td9>SpecialDisc</td9>
+    <td10>SpaceDisc</td10>
+    <td11>SpecialDisc%</td11>
+    <td12>SpaceDisc%</td12>
+    <td13>TotalArea</td13>
+    <td14>TotalAmt</td14>
+    <td15>TotalAds</td15>
+    <td16>Totals :</td16>
+    <td17>Submit</td17>
+    <td18>Cancel</td18>
+    <td19>Reset</td19>
+    <!--<td2>Region&lt;font color=red &gt;&lt;/font&gt;</td2>-->
+    <td20>SortingOrder&lt;font color=red &gt;*&lt;/font&gt;</td20>
+    <td21>SortValue&lt;font color=red &gt;*&lt;/font&gt;</td21>
+    <td22>Range</td22>
+
+  </table1>
+
+
+  <table2>
+
+    <td>Low</td>
+    <td1>0</td1>
+    <td2>Normal</td2>
+    <td3>100</td3>
+    <td4>High</td4>
+    <td5>200</td5>
+
+
+
+
+  </table2>
+
+
+  <table3>
+    <td> From Date &lt;font color=red&gt;*&lt;/font&gt;</td>
+    <td1>To Date&lt;font color=red &gt;*&lt;/font&gt;</td1>
+    <td2>Region&lt;font color=red &gt;&lt;/font&gt;</td2>
+    <td3>Product</td3>
+    <td4>Category</td4>
+    <td5>Sub Cat&lt;font color=red &gt;&lt;/font&gt;</td5>
+    <td6>Sub Sub Cat&lt;font color=red &gt;&lt;/font&gt;</td6>
+    <td7>Agency</td7>
+    <td8>Client</td8>
+    <td9>Publication</td9>
+    <td10>Brand</td10>
+    <td11>Variant</td11>
+
+    <td12>Run</td12>
+    <td13>Schedule Register Report</td13>
+    <td14>Destination</td14>
+    <td15>Address</td15>
+    <td16>Address</td16>
+    <td17>PI Report Product Wise</td17>
+    <td18>PI Report Region Wise</td18>
+    <td19>PI Report Publication Wise</td19>
+    <td20>PI Report UpCountry </td20>
+    <td21>Language</td21>
+
+    <td22>Published/not</td22>
+    <td23>PI Report Product Wise</td23>
+    <td24>Advance Display Schedule Report</td24>
+    <td25>PI Report Schedule Wise</td25>
+    <td26>Advance Display Schedule Report</td26>
+    <td27>Client Details For Particular Industry</td27>
+    <td28>Bill Register</td28>
+    <td29>Barter Wise Bill Report</td29>
+    <td30>Billing Register</td30>
+    <td31>Category Wise Bill Report</td31>
+    <td32>Control Of Agencies Publication Wise</td32>
+    <td33>Rebate Report Region Wise</td33>
+    <td34>Rebate Report Publication Wise</td34>
+    <td35>Extra Rebate Report</td35>
+    <td36>Control Of Agencies Region Wise</td36>
+    <td37>Product/Publication</td37>
+    <td38>Value Report Region Wise</td38>
+    <td39>PI Scheme Report</td39>
+    <td40>PI Contract Report</td40>
+    <td41> Retainer Commission Report</td41>
+    <td42>Package</td42>
+    <td43>Ad Category</td43>
+    <td44>Pub Center</td44>
+    <td45>Edition</td45>
+    <td46>All Ads of A Day</td46>
+    <td47>All Ads of The Agency</td47>
+    <td48>Status Based AD List</td48>
+    <td49>Deviation Report</td49>
+    <td50>Page Premium Report</td50>
+    <td51>Advance Display Schedule Report</td51>
+    <td52>Client Details For Particular Industry</td52>
+    <td53>City</td53>
+    <td54>Ad Type</td54>
+    <td55>All Ads Of The Client</td55>
+    <td56>Status</td56>
+    <td57>Page</td57>
+    <td58>Position</td58>
+    <td59>Executive</td59>
+    <td60>State</td60>
+    <td61>District</td61>
+    <td62>Money Recieved Report</td62>
+    <td63>Edition Centre</td63>
+    <td64>Color</td64>
+    <td65>Payment Mode</td65>
+    <td66>Revenue Centre</td66>
+    <td67>Summary Of Revenue And Credit Note Sharing </td67>
+    <!--<td13>Pin Code</td13>
+    <td14>Region</td14>
+    <td15> Fax</td15>
+    <td16>Email Id</td16>
+    <td17>Status Date</td17>
+    <td18>Contact Details |</td18>
+    <td19>Status Details</td19>-->
+
+  </table3>
+
+  <table4>
+    <tr>Group</tr>
+    <td1>Place</td1>
+    <td2>Agency/Client DataBase</td2>
+  </table4>
+
+
+
+
+
+
+  <!--bill reports-->
+
+
+
+
+
+
+
+
+</database>

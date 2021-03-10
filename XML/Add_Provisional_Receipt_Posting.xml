@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Branch Name&lt;font color=red&gt;[F2] &lt;/Font&gt;</td1>
+    <td2>Doc Type&lt;font color=red&gt;* &lt;/Font&gt;</td2>
+    <td3>Pay Mode\Reason&lt;font color=red&gt; &lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Posting Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Till Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bank</td8>
+    <td9>Narration</td9>
+    <td10>Unit Name&lt;font color=red&gt;* [F2]&lt;/Font&gt;</td10>
+  </table>
+  <table1>
+    <td>M</td>
+    <!-- F for Financial start date,C for Calander year first date,M for Month fist start date,D for current date-->
+  </table1>
+
+  <table2>
+    <td>N</td> <!--Y for showing GMR NO AND GMR DATE N FOR NOT SHOWING-->
+    <td1>N</td1>  <!--Y for Cancelletion Required N for Not Required-->
+    <td2>N</td2> <!--Y for Show Bank N for Not Required-->
+  </table2>
+</newdataset>

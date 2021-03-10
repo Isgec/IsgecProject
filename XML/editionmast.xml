@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Other Language</td4>
+    <td5>Nick Name&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Edition Code&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Edition Name&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Edition Start Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Status</td9>
+    <td10>COMP_CODE$~$PUBL$~$EDTN$~$EDTN_NAME$~$EDTN_NAME_OTH_LANG$~$EDITION_NICK$~$DOB$~$PAGE_WT_SUN$~$PAGE_WT_MON$~$PAGE_WT_TUE$~$PAGE_WT_WED$~$PAGE_WT_THU$~$PAGE_WT_FRI$~$PAGE_WT_SAT$~$MAIN_ISSUE_NAME_SUN$~$MAIN_ISSUE_NAME_MON$~$MAIN_ISSUE_NAME_TUE$~$MAIN_ISSUE_NAME_WED$~$MAIN_ISSUE_NAME_THU$~$MAIN_ISSUE_NAME_FRI$~$MAIN_ISSUE_NAME_SAT$~$PULLOUT_PGNO_SUN$~$PULLOUT_PGNO_MON$~$PULLOUT_PGNO_TUE$~$PULLOUT_PGNO_WED$~$PULLOUT_PGNO_THU$~$PULLOUT_PGNO_FRI$~$PULLOUT_PGNO_SAT$~$USERID$~$FREEZE_FLAG$~$MAIN_ISSUE_PGNO_SUN$~$MAIN_ISSUE_PGNO_MON$~$MAIN_ISSUE_PGNO_TUE$~$MAIN_ISSUE_PGNO_WED$~$MAIN_ISSUE_PGNO_THU$~$MAIN_ISSUE_PGNO_FRI$~$MAIN_ISSUE_PGNO_SAT$~$EDTN_SEQ_NO$~$EDTN_TY$~$MAIN_EDTN$~$UNIT_CODE$~$PURBILL_COMM_TY$~$PURBILL_COMM$~$DIS_AGCD$~$DIS_DPCD$~$REG_NO$~$PERIOD$~$SEG_CODE$~$PRINTING_PRESS_CODE$~$EDTN_FOR_UNIT$~$VAT_FLAG$~$PGNO_SUN$~$PGNO_MON$~$PGNO_TUE$~$PGNO_WED$~$PGNO_THU$~$PGNO_FRI$~$PGNO_SAT$~$INTEGRATION_ID$~$SAC_CODE$~$SUB_SAC_CODE$~$CIR_EDTN_MAST$~$SELECT#INSERT#UPDATE#DELETE</td10>
+    <td12>Publication Code&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td12>
+    <td13>Publication Name</td13>
+    <td14>Edition Sequence No.</td14>
+    <td15>COMP_CODE$~$EDTN$~$INSERT#UPDATE#DELETE#SELECT</td15>
+    <td16>COMP_CODE$~$PUBL$~$EDTN$~$EDTN_NAME$~$EDTN_NAME_OTH_LANG$~$EDITION_NICK$~$DOB$~$PAGE_WT_SUN$~$PAGE_WT_MON$~$PAGE_WT_TUE$~$PAGE_WT_WED$~$PAGE_WT_THU$~$PAGE_WT_FRI$~$PAGE_WT_SAT$~$MAIN_ISSUE_NAME_SUN$~$MAIN_ISSUE_NAME_MON$~$MAIN_ISSUE_NAME_TUE$~$MAIN_ISSUE_NAME_WED$~$MAIN_ISSUE_NAME_THU$~$MAIN_ISSUE_NAME_FRI$~$MAIN_ISSUE_NAME_SAT$~$PULLOUT_PGNO_SUN$~$PULLOUT_PGNO_MON$~$PULLOUT_PGNO_TUE$~$PULLOUT_PGNO_WED$~$PULLOUT_PGNO_THU$~$PULLOUT_PGNO_FRI$~$PULLOUT_PGNO_SAT$~$USERID$~$FREEZE_FLAG$~$MAIN_ISSUE_PGNO_SUN$~$MAIN_ISSUE_PGNO_MON$~$MAIN_ISSUE_PGNO_TUE$~$MAIN_ISSUE_PGNO_WED$~$MAIN_ISSUE_PGNO_THU$~$MAIN_ISSUE_PGNO_FRI$~$MAIN_ISSUE_PGNO_SAT$~$EDTN_SEQ_NO$~$EDTN_TY$~$MAIN_EDTN$~$UNIT_CODE$~$PURBILL_COMM_TY$~$PURBILL_COMM$~$DIS_AGCD$~$DIS_DPCD$~$REG_NO$~$PERIOD$~$INTEGRATION_ID$~$SAC_CODE$~$SUB_SAC_CODE$~$CIR_EDTN_MAST$~$SELECT#INSERT#UPDATE#DELETE</td16>
+    <td17>CIR_EDTN_MAST</td17>
+    <td18>COMP_CODE$~$EDTN_NAME$~$EDITION_NICK$~$UNIT_CODE</td18>
+    <td19>Select Edition Type</td19>
+    <td20>Main Edition Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td20>
+    <td21>Bill Commission Type</td21>
+    <td22>Bill Commission</td22>
+    <td23>Registration No.</td23>
+    <td24>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td24>
+    <td25>COMP_CODE$~$PUBL$~$EDTN$~$EDTN_NAME$~$EDTN_NAME_OTH_LANG$~$EDITION_NICK$~$DOB$~$PAGE_WT_SUN$~$PAGE_WT_MON$~$PAGE_WT_TUE$~$PAGE_WT_WED$~$PAGE_WT_THU$~$PAGE_WT_FRI$~$PAGE_WT_SAT$~$MAIN_ISSUE_NAME_SUN$~$MAIN_ISSUE_NAME_MON$~$MAIN_ISSUE_NAME_TUE$~$MAIN_ISSUE_NAME_WED$~$MAIN_ISSUE_NAME_THU$~$MAIN_ISSUE_NAME_FRI$~$MAIN_ISSUE_NAME_SAT$~$PULLOUT_PGNO_SUN$~$PULLOUT_PGNO_MON$~$PULLOUT_PGNO_TUE$~$PULLOUT_PGNO_WED$~$PULLOUT_PGNO_THU$~$PULLOUT_PGNO_FRI$~$PULLOUT_PGNO_SAT$~$FREEZE_FLAG$~$MAIN_ISSUE_PGNO_SUN$~$MAIN_ISSUE_PGNO_MON$~$MAIN_ISSUE_PGNO_TUE$~$MAIN_ISSUE_PGNO_WED$~$MAIN_ISSUE_PGNO_THU$~$MAIN_ISSUE_PGNO_FRI$~$MAIN_ISSUE_PGNO_SAT$~$EDTN_SEQ_NO$~$EDTN_TY$~$MAIN_EDTN$~$UNIT_CODE$~$PURBILL_COMM_TY$~$PURBILL_COMM$~$DIS_AGCD$~$DIS_DPCD$~$REG_NO$~$PERIOD$~$SEG_CODE$~$PRINTING_PRESS_CODE$~$EDTN_FOR_UNIT$~$VAT_FLAG$~$PGNO_SUN$~$PGNO_MON$~$PGNO_TUE$~$PGNO_WED$~$PGNO_THU$~$PGNO_FRI$~$PGNO_SAT$~$INTEGRATION_ID$~$SAC_CODE$~$SUB_SAC_CODE$~$CIR_EDTN_MAST$~$SELECT#INSERT#UPDATE#DELETE</td25>
+    <td26>Language</td26>
+    <td27>Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td27>
+    <td28>COMP_CODE$~$Pub_code$~$Edition_code$~$Frequency_code$~$First_Issue$~$Second_Issue$~$Create_UserId$~$Creation_Datetime$~$Update_Userid$~$Update_Datetime$~$Cir_Edition_Issue_Date$~$SELECT#INSERT#UPDATE#DELETE</td28>
+    <td29>Segment&lt;font color=red&gt;[F2]&lt;/Font&gt;</td29>
+    <td30>Location Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td30>
+    <td31>Colour Pages</td31>
+    <td32>Black N White</td32>
+    <td33>Vat Allow For Billing</td33>
+    <td34>Pastal Item Code</td34>
+    <td35>Integration Id</td35>
+    <td36>Edition For Unit</td36>
+  </table>
+  <table1>
+    <td>Sr.No.</td>
+    <td1>Publication Code</td1>
+    <td2>Publication Name</td2>
+    <td3>Edition Name </td3>
+    <td4>Edition Type</td4>
+    <TD5> Status </TD5>
+  </table1>
+  <table2>
+    <td>--Select Day--</td>
+    <td1>0</td1>
+    <td2>1</td2>
+    <td3>1</td3>
+    <td4>2</td4>
+    <td5>2</td5>
+    <td6>3</td6>
+    <td7>3</td7>
+    <td8>4</td8>
+    <td9>4</td9>
+    <td10>5</td10>
+    <td11>5</td11>
+    <td12>6</td12>
+    <td13>6</td13>
+    <td14>7</td14>
+    <td15>7</td15>
+    <td16>8</td16>
+    <td17>8</td17>
+    <td18>9</td18>
+    <td19>9</td19>
+    <td20>10</td20>
+    <td21>10</td21>
+    <td22>11</td22>
+    <td23>11</td23>
+    <td24>12</td24>
+    <td25>12</td25>
+    <td26>13</td26>
+    <td27>13</td27>
+    <td28>14</td28>
+    <td29>14</td29>
+    <td30>15</td30>
+    <td31>15</td31>
+    <td32>16</td32>
+    <td33>16</td33>
+    <td34>17</td34>
+    <td35>17</td35>
+    <td36>18</td36>
+    <td37>18</td37>
+    <td38>19</td38>
+    <td39>19</td39>
+    <td40>20</td40>
+    <td41>20</td41>
+    <td42>21</td42>
+    <td43>21</td43>
+    <td44>22</td44>
+    <td45>22</td45>
+    <td46>23</td46>
+    <td47>23</td47>
+    <td48>24</td48>
+    <td49>24</td49>
+    <td50>25</td50>
+    <td51>25</td51>
+    <td52>26</td52>
+    <td53>26</td53>
+    <td54>27</td54>
+    <td55>27</td55>
+    <td56>28</td56>
+    <td57>28</td57>
+    <td58>29</td58>
+    <td59>29</td59>
+    <td60>30</td60>
+    <td61>30</td61>
+    <td62>31</td62>
+    <td63>31</td63>
+  </table2>
+  <table3>
+    <td>--Select Month--</td>
+    <td1>0</td1>
+    <td2>January</td2>
+    <td3>JAN</td3>
+    <td4>February</td4>
+    <td5>FEB</td5>
+    <td6>March</td6>
+    <td7>MAR</td7>
+    <td8>April</td8>
+    <td9>APR</td9>
+    <td10>May</td10>
+    <td11>MAY</td11>
+    <td12>June</td12>
+    <td13>JUN</td13>
+    <td14>July</td14>
+    <td15>JUL</td15>
+    <td16>August</td16>
+    <td17>AUG</td17>
+    <td18>September</td18>
+    <td19>SEP</td19>
+    <td20>October</td20>
+    <td21>OCT</td21>
+    <td22>November</td22>
+    <td23>NOV</td23>
+    <td24>December</td24>
+    <td25>DEC</td25>
+  </table3>
+  <table4>
+    <td>All Unit</td>
+    <td1>A</td1>
+    <td2>Single Unit</td2>
+    <td3>S</td3>
+  </table4>
+  <table5>
+    <td>Service Accounting Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Sub Service Accounting Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+  </table5>
+</Newdataset>

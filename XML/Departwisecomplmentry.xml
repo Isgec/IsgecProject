@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newsdataset>
+  <table>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Supply Type&lt;font color=red&gt;&lt;/Font&gt;</td4>
+    <td5>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Report Type </td11>
+    <td12>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Report Destination</td16>
+    <td17>Department&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+
+  </table>
+
+  <table1>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel Sheet</td2>
+    <td3>2</td3>
+  </table1>
+
+  <table2>
+    <td>Department wise complimentory</td>
+    <td1>D</td1>
+    <td2>Agents complimentory</td2>
+    <td3>A</td3>
+  </table2>
+
+  <table3>
+    <td>Department wise Free Copies Report</td>
+    <td1>From:</td1>
+    <td2>To:</td2>
+    <td3>Unit:</td3>
+    <td4>Page No:</td4>
+    <td5>Run Date:</td5>
+    <td6>User:</td6>
+    <td7>Dept No:</td7>
+    <td8>Location:</td8>
+    <td9>Type:</td9>
+  </table3>
+ 
+
+</newsdataset>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+		<td2>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Route Mode</td3>
+		<td4>Route Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+		<td5>Route/Subroute/SubSub Route</td5>
+		<td6>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+		<td7>Language</td7>
+		<td8>Report Destination</td8>
+		<td9>Run Report</td9>
+		<td10>Clear</td10>
+		<td11>Exit</td11>
+		<td12>Delivery Challan Route Wise</td12>
+		<td13>Drop Point</td13>
+		<td14>Show Drop Point</td14>
+		<td15>No Of Copy</td15>
+		<td16>Printing Center Name</td16>
+		<td17>Other Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+	</table>
+
+	<table1>
+		<td>Route</td>
+		<td1>1</td1>
+		<td2>Sub Route</td2>
+		<td3>2</td3>
+		<td4>Sub Sub Route</td4>
+		<td5>3</td5>
+	</table1>
+
+	<table2>
+		<td>English</td>
+		<td1>1</td1>
+		<td2>Other Language</td2>
+		<td3>2</td3>
+	</table2>
+
+	<table3>
+		<td>OnScreen</td>
+		<td1>1</td1>
+		<td2>PDF</td2>
+		<td3>3</td3 >
+		<td4>Excel</td4>
+		<td5>2</td5>
+	</table3>
+
+	<table4>
+		<td>Y</td>
+		<!-- FOR Drop Point-->
+
+
+	</table4>
+	<table5>
+		<td>N~30</td>
+		<!-- FOR SPLITING AGENCY NAME-->
+
+	</table5>
+	<table6>
+		<td>Y</td>
+		<!-- FOR footer show continew-->
+
+
+	</table6>
+
+	<table7>
+		<td>Drop Point</td>
+		<td1>D</td1>
+		<td2>City</td2>
+		<td3>C</td3>
+
+
+	</table7>
+	<table8>
+		<td>One Supply Copy</td>
+		<td1>1</td1>
+		<td2>Two Supply Copy</td2>
+		<td3>2</td3>
+		<td4>Three Supply Copy</td4>
+		<td5>3</td5>
+		<td6>Four Supply Copy</td6>
+		<td7>4</td7>
+		<td8>Five Supply Copy</td8>
+		<td9>5</td9>
+	</table8>
+
+
+
+
+</newdataset>

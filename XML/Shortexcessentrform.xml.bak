@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+
+    <td>Company&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2> From Branch&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Branch&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>VAT</td5>
+    <td6>Other Tax</td6>
+    <td7>Publication</td7>
+    <td8>Main Edition</td8>
+    <td9>Sub Edition</td9>
+    <td10>Rate</td10>
+    <td11>No of copy</td11>
+    <td12>Total Weight </td12>
+    <td13> Rate</td13>
+    <td51>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$OTH_BRANCH$~$VER_TYPE$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$cir_physical_ver_hdr$~$INSERT#UPDATE#DELETE#SELECT</td51>
+    <td61>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT</td61>
+    <td71>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$OTH_BRANCH$~$VER_TYPE$~$UPDATED_BY$~$UPDATED_DT$~$cir_physical_ver_hdr$~$INSERT#UPDATE#DELETE#SELECT</td71>
+    <td81>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$NO_OF_COPY$~$COPY_WEIGHT$~$COPY_RATE$~$SHORT_EXCESS$~$SLNO$~$cir_physical_ver_det$~$INSERT#UPDATE#DELETE#SELECT</td81>
+    <td91>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$SLNO</td91>
+    <td101>COMP_CODE$~$UNIT_CODE$~$BRANCH_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$UPDATED_BY$~$UPDATED_DT$~$PUBL_CODE$~$EDTN_CODE$~$EDTN_RATE$~$NO_OF_COPY$~$COPY_WEIGHT$~$COPY_RATE$~$SHORT_EXCESS$~$SLNO$~$cir_physical_ver_det$~$INSERT#UPDATE#DELETE#SELECT</td101>
+    <td102>VR</td102>
+    <td21>Physical Verification</td21>
+  </table>
+
+  <table1>
+    <td>Fixed</td>
+    <td1>F</td1>
+    <td2>Percentage</td2>
+    <td3>P</td3>
+  </table1>
+
+  <Table6>
+    <td>36,Haji Ismail Gani Build, Opp.Platform No-4 , Byculla (E), Mumbai - 40027 , Tel - 23712028, 24715208</td>
+    <td1>Branch Transfer Slip</td1>
+    <td2>To Branch</td2>
+    <td3>Agency</td3>
+    <td22>Receipt No.</td22>
+    <td13>From Branch</td13>
+    <td24>Total</td24>
+    <td35>Send By:</td35>
+    <td6>Bill Amount</td6>
+    <td17>Rupees in Words :</td17>
+    <td21>Date</td21>
+    <td11>Recieved By :</td11>
+    <td12>Name :</td12>
+    <td14>Signature</td14>
+  </Table6>
+
+  <table3>
+    <td>Physical Verification</td>
+    <td1>P</td1>
+    <td2>Branch Transfer</td2>
+    <td3>B</td3>
+  </table3>
+
+</Newdataset>
+
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;&lt;/Font&gt;</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Branch &lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Route&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency &lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Process</td7>
+    <td8>Report</td8>
+    <td9>Clear</td9>
+    <td10>Report Type</td10>
+    <td11>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+  </table>
+
+  <table1>
+    <td>AKUAN SERAHAN / PENERIMAAN</td>
+    <td1>Lot 6, jalan P/10, Kawasan Perusahaan Bangi, Seksyen 10, 43650 Bandar Baru Bangi, Selangor DarulEhsan. Tel : 603-8924 3888 Fax : 603-8924 3920</td1>
+    <td2></td2>
+  </table1>
+  </newdataset>

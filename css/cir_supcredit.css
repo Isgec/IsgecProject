@@ -1,0 +1,187 @@
+﻿.TextField123
+{
+		
+	font-family: Trebuchet MS;
+	font-size: 11px;
+	/*color:#336699;*/
+	color:white;
+}
+
+.Grid_report
+{
+	font-family: Arial;	
+	font-size: 10px;
+	color:black;
+	text-decoration:none;
+	
+	margin-left: 0px;
+	text-align:center;
+   border-color  :#F8F8FF;
+}
+
+.LabelText   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:right;
+	height:11px;
+	 font-size:small ;
+}
+
+.TextfieldSec  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:135px;
+	
+    
+}
+
+.Textfield_long 
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:235px;
+	
+    
+}
+
+.Textfield
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	/*height:13px;*/
+	height:20px;
+	width:87%;
+	text-transform:uppercase;
+	
+}
+
+.rpttextbox
+{
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:137px;
+}
+.txt_header
+{
+	font-family : Arial;
+	font-size: 11px;
+	font-weight:bold;
+	/*color:#336699;*/
+	color:white;
+}
+
+
+.textingridright    /* for right align*/
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:12px;
+	text-align:right;
+}
+
+
+.header_text
+{
+		
+	font-family: Arial;
+	font-size: 11px;
+	widows:50px;
+	color:black;
+    text-align:center;
+}
+.classfordisable
+{
+	 background-color:#EBECE4;
+}
+.newfont4onscreen_data
+{
+	 background-color:#f8f9fd;
+		font-family:Arial;
+		font-size:12px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		padding-left:5px;
+		width:10%;
+}
+.fordive
+{
+	background-color:White;
+	z-index:99999;
+	position:absolute;
+	display:none;
+	background-repeat:repeat-x;
+	width:800px;
+	height:130px;
+	overflow:auto;
+	border-bottom-style:solid;
+	border-bottom-color:Black;
+	border-bottom-width:1px;
+
+}
+.fordive2
+{
+	background-color:White;
+	z-index:99999;
+	position:absolute;
+	display:none;
+	background-repeat:repeat-x;
+	width:500px;
+	height:320px;
+	
+	border-style:groove;
+	
+	border-width:1px;
+
+}
+.fordive1
+{
+	background-color:White;	
+	position:absolute;
+	display:none;
+	background-repeat:repeat-x;
+	width:300px;
+	height:100px;
+	overflow:auto;
+	border-style:solid;
+	border-color:Black;
+	border-width:1px;
+
+}
+
+.fordiv_RCPT
+{
+	background-color:White;
+	z-index:99999;
+	position:absolute;
+	display:none;
+	background-repeat:repeat-x;
+	width:400px;
+	height:120px;
+	
+	border-style:groove;
+	
+	border-width:1px;
+
+}

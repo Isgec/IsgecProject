@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+  <tr> Printing center name </tr>
+  <tr1> Branch Name </tr1>
+  <tr2> From Date&lt;font color=red&gt;*&lt;/Font&gt; </tr2>
+  <tr3> To Date &lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+  <tr4> Doc Type </tr4>
+  <tr5> Destination </tr5>
+  <tr6> Run </tr6>
+  <tr7>Agency Name&lt;font color=red&gt;(F2)&lt;/Font&gt;</tr7>
+  
+</table>

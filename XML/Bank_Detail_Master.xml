@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdataset>
+  <table>
+
+      <td>Company Code</td>
+      <td1>Company Name</td1>
+      <td2>Bank Code&lt;font color=red&gt;&lt;/Font&gt;</td2>
+      <td3>Bank Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td3>
+      <td4>MICR No&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+      <td5>Record Status&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+      <td6>City Code&lt;font color=red&gt;&lt;/Font&gt;</td6>
+      <td7>City Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+      <td8>Address 1&lt;font color=red&gt;&lt;/Font&gt;</td8>
+      <td9>Address 2&lt;font color=red&gt;&lt;/Font&gt;</td9>
+      <td10>Pin Code&lt;font color=red&gt;&lt;/Font&gt;</td10>
+      
+  </table>
+</Newdataset>

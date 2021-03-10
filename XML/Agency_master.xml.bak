@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Agency Code&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency Sub code&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Agency Name&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Agency Name(Other Language)</td7>
+    <td8>Agency Class&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Agency Type</td9>
+    <td10>Executive Code</td10>
+    <td11>Supply Start Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Address1</td12>
+    <td13>Address2</td13>
+    <td14>Address3</td14>
+    <td15>City&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td15>
+    <td16>District</td16>
+    <td17>State</td17>
+    <td18>Country</td18>
+    <td19>Taluka&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td19>
+    <td20>Drop Point Code(place)</td20>
+    <td21>Pincode</td21>
+    <td22>Phone1</td22>
+    <td23>Phone2</td23>
+    <td24>Mobile1</td24>
+    <td25>Mobile2</td25>
+    <td26>Fax.no</td26>
+    <td27>Email-id</td27>
+    <td28>Suspend</td28>
+    <td29>Suspend Date</td29>
+    <td30>Suspend Type</td30>
+    <td31>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$AG_NAME$~$AG_NAME_OTH_LANG$~$AG_TYPE$~$AG_CLASS$~$EXECUTIVE_CODE$~$SUPPLY_START_DT$~$ADDR1$~$ADDR2$~$ADDR3$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$TEHSIL_TALUKA$~$STATION_CODE$~$AREA_CODE$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO1$~$MOBILE_NO2$~$EMAIL_ID$~$SUSPEND$~$SUSPEND_TYPE$~$SUSPEND_DATE$~$TO_BILL$~$BILL_AGCD$~$BILL_DPCD$~$PAYMODE$~$CREDIT_DAYS$~$PRINT_LABEL$~$PIN_PACKET$~$PIN_AGCD$~$PIN_DPCD$~$PIN_OPEN_INSIDE$~$LBL_LN1$~$LBL_LN2$~$LBL_LN3$~$LBL_LN4$~$LBL_LN5$~$LBL_LN6$~$LBL_LN7$~$LBL_LN8$~$LBL_ATR1$~$LBL_ATR2$~$LBL_ATR3$~$LBL_ATR4$~$LBL_ATR5$~$  LBL_ATR6$~$LBL_ATR7$~$LBL_ATR8$~$ALERT_TEXT$~$USERID$~$NAME_ON_LABEL$~$PRINT_SEQ$~$ALert_valid_date$~$PIN_CODE$~$FAX_NO$~$cir_agmast$~$INSERT#UPDATE#DELETE#SELECT</td31>
+    <td32>Select Option&lt;font color=red&gt;*&lt;/Font&gt;</td32>
+    <td33>Area Code</td33>
+    <td34>Select Bill To</td34>
+    <td35>Select Agency</td35>
+    <td36>Agency Sub Code</td36>
+    <td37>Pay Mode</td37>
+    <td38>Credit Days</td38>
+    <td39>Print Label</td39>
+    <td40>Agency Name on Label</td40>
+    <td41>Print Sequence Number</td41>
+    <td42>Pin Packet</td42>
+    <td43>Pin Agency</td43>
+    <td44>Pin Sub Agency Code</td44>
+    <td45>Agency Details |</td45>
+    <td46>Billing Details |</td46>
+    <td47>Expenses/Charges Details |</td47>
+    <td48>Contact Person Details |</td48>
+    <td49>Supply Details</td49>
+    <td50>Expenses Type Code</td50>
+    <td51>Expenses Type</td51>
+    <td52>Expenses Frequency</td52>
+    <td53>Expenses Amount</td53>
+    <td54>Expenses Status</td54>
+    <td55>Contact Person Name</td55>
+    <td56>Designation</td56>
+    <td57>Role</td57>
+    <td58>Date Of Birth</td58>
+    <td59>Phone No. 1</td59>
+    <td60>Phone No. 2</td60>
+    <td61>Mobile No. 1</td61>
+    <td62>Mobile No. 2</td62>
+    <td63>Fax No.</td63>
+    <td64>Email Id</td64>
+    <td65>Publication Code</td65>
+    <td66>Edition Code</td66>
+    <td67>Supply Flag</td67>
+    <td68>Supply Type Code</td68>
+    <td69>Sun Sup Copy</td69>
+    <td70>Mon Sup Copy</td70>
+    <td71>Tues Sup Copy</td71>
+    <td72>Wed Sup Copy</td72>
+    <td73>Thu Sup Copy</td73>
+    <td74>Fri Sup Copy</td74>
+    <td75>Sat Sup Copy</td75>
+    <td76>Deviation Supply</td76>
+    <td77>Commission Code</td77>
+    <td78>Route Code</td78>
+    <td79>Packet Size</td79>
+    <td80>Alert</td80>
+    <td81>Alert Valid Date</td81>
+    <td82>Base Supply</td82>
+    <td83>Label Narration</td83>
+    <td84></td84>
+    <td85></td85>
+    <td86></td86>
+    <td87></td87>
+    <td88></td88>
+    <td89></td89>
+    <td90></td90>
+    <td91>Label Attribute</td91>
+    <td92></td92>
+    <td93></td93>
+    <td94></td94>
+    <td95></td95>
+    <td96></td96>
+    <td97></td97>
+    <td98></td98>
+    <td99>Pin Open/Inside</td99>
+    <td100>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$EXP_TYPE_CODE$~$EXP_TYPE_MODE$~$EXP_FREQUENCY$~$EXP_AMOUNT$~$FREEZE_FLAG$~$USERID$~$CIR_EXPENSES_DETAIL$~$INSERT#UPDATE#DELETE#SELECT</td100>
+    <td101>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$NAME$~$DESIG$~$PER_ROLE$~$DATE_OF_BIRTH$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO1$~$MOBILE_NO2$~$FAX_NO$~$EMAIL_ID$~$USERID$~$CIR_AG_CON_PER$~$INSERT#UPDATE#DELETE#SELECT</td101>
+    <td102>Commission Flag</td102>
+    <td103>Sub Route Code</td103>
+    <td104>Sub Sub Route Code</td104>
+    <td105>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$SUPPLY_FLAG$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$DEVATION_SUPPLY$~$COMM_FLAG$~$COMM_CODE$~$PACKET_SIZE$~$ROUTE_CODE$~$SUBROUTE_CODE$~$SUB_SUBROUTE_CODE$~$USERID$~$SUPPLY_SPL1$~$SUPPLY_SPL2$~$CIR_SUPPLY$~$INSERT#UPDATE#DELETE#SELECT</td105>
+    
+    <td106>Special Supply Day1 </td106>
+    <td107>Special Supply Day2 </td107>
+    <td108>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$SUPPLY_FLAG$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$DEVATION_SUPPLY$~$COMM_FLAG$~$COMM_CODE$~$PACKET_SIZE$~$ROUTE_CODE$~$SUBROUTE_CODE$~$SUB_SUBROUTE_CODE$~$SUPPLY_SPL1$~$SUPPLY_SPL2$~$CIR_SUPPLY$~$INSERT#UPDATE#DELETE#SELECT</td108>
+    <td109>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$</td109>
+    <td110>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$AG_NAME$~$AG_NAME_OTH_LANG$~$AG_TYPE$~$AG_CLASS$~$EXECUTIVE_CODE$~$SUPPLY_START_DT$~$ADDR1$~$ADDR2$~$ADDR3$~$CITY_CODE$~$DIST_CODE$~$STATE_CODE$~$COUNTRY_CODE$~$TEHSIL_TALUKA$~$STATION_CODE$~$AREA_CODE$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO1$~$MOBILE_NO2$~$EMAIL_ID$~$SUSPEND$~$SUSPEND_TYPE$~$SUSPEND_DATE$~$TO_BILL$~$BILL_AGCD$~$BILL_DPCD$~$PAYMODE$~$CREDIT_DAYS$~$PRINT_LABEL$~$PIN_PACKET$~$PIN_AGCD$~$PIN_DPCD$~$PIN_OPEN_INSIDE$~$LBL_LN1$~$LBL_LN2$~$LBL_LN3$~$LBL_LN4$~$LBL_LN5$~$LBL_LN6$~$LBL_LN7$~$LBL_LN8$~$LBL_ATR1$~$LBL_ATR2$~$LBL_ATR3$~$LBL_ATR4$~$LBL_ATR5$~$  LBL_ATR6$~$LBL_ATR7$~$LBL_ATR8$~$ALERT_TEXT$~$USERID$~$NAME_ON_LABEL$~$PRINT_SEQ$~$ALert_valid_date$~$PIN_CODE$~$FAX_NO$~$cir_agmast$~$INSERT#UPDATE#DELETE#SELECT</td110>
+    <td111>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$EXP_TYPE_CODE$~$EXP_TYPE_MODE$~$EXP_FREQUENCY$~$EXP_AMOUNT$~$FREEZE_FLAG$~$USERID$~$CIR_EXPENSES_DETAIL$~$INSERT#UPDATE#DELETE#SELECT</td111>
+    <td112>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$EXP_TYPE_CODE$~$</td112>
+    
+    <td113>Publication</td113>
+    <td114>Edition</td114>
+    <td115>Supply Type</td115>
+    <td116>Base Supply1</td116>
+    <td117>Base Supply2</td117>
+    <td118>Supply Sun</td118>
+    <td119>Supply Mon</td119>
+    <td120>Supply Tue</td120>
+    <td121>Supply Wed</td121>
+    <td122>Supply Thu</td122>
+    <td123>Supply Fri</td123>
+    <td124>Supply Sat</td124>
+    <td125>Supply Pkt</td125>
+    <td126>Supply Flag</td126>
+    <td127>Comm Flag</td127>
+    <td128>Comm. Code</td128>
+    <td129>Route Name</td129>
+    <td130>S.Route Name</td130>
+    <td131>S.S.Route Name</td131>
+    <td132>Spl1</td132>
+    <td133>Spl2</td133>
+    <td134>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$NAME$~$DESIG$~$PER_ROLE$~$DATE_OF_BIRTH$~$PHONE_NO1$~$PHONE_NO2$~$MOBILE_NO1$~$MOBILE_NO2$~$FAX_NO$~$EMAIL_ID$~$USERID$~$SEQ_NO$~$CIR_AG_CON_PER$~$INSERT#UPDATE#DELETE#SELECT</td134>
+    <td135>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$SEQ_NO$~$</td135>
+    <td136>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$SUPPLY_FLAG$~$SUPPLY_TYPE_CODE$~$BASE_SUPPLY$~$SUPPLY_SUN$~$SUPPLY_MON$~$SUPPLY_TUE$~$SUPPLY_WED$~$SUPPLY_THU$~$SUPPLY_FRI$~$SUPPLY_SAT$~$DEVATION_SUPPLY$~$COMM_FLAG$~$COMM_CODE$~$PACKET_SIZE$~$ROUTE_CODE$~$SUBROUTE_CODE$~$SUB_SUBROUTE_CODE$~$USERID$~$SUPPLY_SPL1$~$SUPPLY_SPL2$~$CIR_SUPPLY$~$INSERT#UPDATE#DELETE#SELECT</td136>
+    <td137>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$PUBL$~$EDTN$~$SUPPLY_TYPE_CODE$~$</td137>
+    <td138>COMP_CODE$~$UNIT$~$AGCD$~$DPCD$~$SUSP$~$SUSPTY$~$SUSP_DATE$~$START_DATE$~$USERID$~$CIR_SUSPEND_TRAN$~$INSERT#UPDATE#DELETE#SELECT</td138>
+    <Td139>cir_agmast,CIR_EXPENSES_DETAIL,CIR_AG_CON_PER,CIR_SUPPLY,CIR_SUSPEND_TRAN</Td139>
+ </table>
+ </Newdataset>

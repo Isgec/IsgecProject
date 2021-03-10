@@ -1,0 +1,125 @@
+﻿.TextFieldNew
+{
+    /* IE 9,10 , Chrome, Firefox */
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    border: 1px solid #929292;
+	color: #000000;
+}
+.DropdownNew
+{
+    width: calc(100% - 2px); /* IE 9,10 , Chrome, Firefox */
+    width: -webkit-calc(100% - 10px);
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: 1px solid #929292;
+}
+.TextDateFieldNew
+{
+    width: calc(100% - 25px); /* IE 9,10 , Chrome, Firefox */
+    width: -webkit-calc(100% - 10px);
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    border: 1px solid #929292;
+    text-align: right;
+	color: #000000;
+}
+.lbtxt  
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:left;
+	margin-left:0px;
+	height:11px;
+	font-size:small;
+	width:100px;	
+}
+.gridtable
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    background: #7DAAE3;
+    border: white 1px solid;
+    border-radius: 3px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    box-shadow: 0 1px 2px #d1d1d1;
+    width: 100%;
+}
+.gridtable th
+{
+    padding: 4px 4px 4px 4px;
+    border-top: 0;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    background: #7DAAE3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: left;
+}
+.gridtable tr
+{
+    text-align: center;
+}
+.gridtable td
+{
+    padding: 1px;
+    border-bottom: 1px solid #7DAAE3;
+    border-left: 1px solid #7DAAE3;
+    background: #fafafa;
+    color: black;
+    text-align:left;
+}
+.gridlblclass
+{
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.gridinputclass
+{
+    width: calc(100% - 5px); /* IE 9,10 , Chrome, Firefox */
+    width: -webkit-calc(100% - 10px);
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: left;
+    border: 1px solid #929292;
+	color: #000000;
+}
+.SamGridHeader {
+padding: 6px  6px 6px  6px; 
+border-top: 0;
+border-bottom: 1px solid #e0e0e0;
+border-left: 1px solid #e0e0e0;
+background: #a0bfeb;
+font-size:10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.imageclass {
+background-image: url(../Images/header-img.jpg);
+background-repeat: repeat-x;
+}
+
+.th
+{
+    background: #5c9afb;
+    position: sticky;
+    top: 0;
+         
+}
+
+.Divpadding_left {
+    padding-left: 5px !important;
+    text-align: center !important;
+}

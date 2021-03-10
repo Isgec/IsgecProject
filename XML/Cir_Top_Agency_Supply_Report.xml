@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td1>
+    <td2>Branch Name&lt;font color=red&gt; [F2]&lt;/Font&gt;</td2>
+    <td3>Publication Type</td3>
+    <td4>Publication&lt;font color=red&gt; *[F2]&lt;/Font&gt;</td4>
+    <td5>Supply Type&lt;font color=red&gt; *&lt;/Font&gt;</td5>
+    <td6>From Date&lt;font color=red&gt; *&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt; *&lt;/Font&gt;</td7>
+    <td8>Report Type&lt;font color=red&gt; *&lt;/Font&gt;</td8>
+    <td9>Top Agencies</td9>
+    <td10>Report Destination</td10>
+  </table>
+  <table1>
+    <td>Supply Agency</td>
+    <td1>A</td1>
+    <td2>Billing Agency</td2>
+    <td3>B</td3>
+  </table1>
+  <table2>
+    <td>Onscreen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+  </table2>
+  <table3>
+    <td>10</td>
+    <td1>10</td1>
+    <td2>20</td2>
+    <td3>20</td3>
+    <td4>30</td4>
+    <td5>30</td5>
+    <td6>40</td6>
+    <td7>40</td7>
+    <td8>50</td8>
+    <td9>50</td9>
+  </table3>
+</dataset>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Company Code</td1>
+    <td2>Unit Name</td2>
+    <td3>Unit Code</td3>
+    <td4>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Branch Code</td5>
+    <td6>Depot Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td6>
+    <td7>Code</td7>
+    <td8>Hawker Depot&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td8>
+    <td9>Code</td9>
+    <td10>Book Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Hawker&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td12>
+    <td13>Code/Area</td13>
+    <td14>Outstanding</td14>
+    <td15>Relation</td15>
+    <td16>Gate Pass No.</td16>
+    <td17>Manual Receipt No.</td17>
+    <td18>Absent Hawker List</td18>
+    <td19>Press &lt;font color=red&gt;F8&lt;/Font&gt; For Save</td19>
+    <td20>Press &lt;font color=red&gt;F9&lt;/Font&gt; For Save and Print</td20>
+    <td21>Press &lt;font color=red&gt;F10&lt;/Font&gt; For Print</td21>
+    <td22>Total Amt.</td22>
+    <td23>Copy Date</td23>
+  </table>
+  <table1>
+    <td>Y</td> <!--Preference Baces Receipt Yes/No-->
+    <td>Y</td> <!--Ret-->
+  </table1>
+</newdataset>

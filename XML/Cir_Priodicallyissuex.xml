@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Publication &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+    <td1>Edition &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Issue Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <td5>PUBL_CODE$~$EDTN_CODE$~$ISSUE_DATE$~$COMP_CODE$~$UNIT_CODE$~$ISSUE_DESC$~$ISSUE_ALIAS$~$ISSUE_DESC_OTH_LANG$~$ISSUE_PRICE$~$ISSUE_PGNO$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$CIR_PRIODICAL_ISSUE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>PUBL_CODE$~$EDTN_CODE$~$ISSUE_DATE$~$COMP_CODE$~$UNIT_CODE</td6>
+    <!--<td7>MODE_CODE$~$MODE_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$cir_route_mode_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>-->
+    <td7>PUBL_CODE$~$EDTN_CODE$~$ISSUE_DATE$~$COMP_CODE$~$UNIT_CODE$~$ISSUE_DESC$~$ISSUE_ALIAS$~$ISSUE_DESC_OTH_LANG$~$ISSUE_PRICE$~$ISSUE_PGNO$~$CREATED_BY$~$UPDATED_BY$~$UPDATED_DT$~$CIR_PRIODICAL_ISSUE_MAST$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td322>Issue Description&lt;font color=red&gt;*&lt;/Font&gt;</td322>
+    <td12>Issue Alias</td12>
+    <td32>Other Name</td32>
+    <td42>Price&lt;font color=red&gt;*&lt;/Font&gt;</td42>
+    <td422>Page No.</td422>
+    <td81>COMP_CODE#PUBL_CODE#EDTN_CODE#ISSUE_DATE#CIR_PRIODICAL_ISSUE_MAST</td81>
+    <td812>CIR_PRIODICAL_ISSUE_MAST</td812>
+    <td18>Unit</td18>
+    <td19>Unit Name</td19>
+  </table>
+
+
+  <table1>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please Select Publication By F2.$~$Data Saved successfully. $~$ There is no Data regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$First charter can not be a special charter.$~$You can not enter only special chartar.$~$Please Select Edition By Pressing F2.$~$Please Enter Issue date.$~$Please Enter Issue Description.$~$Please Enter Issue Price.</td0>
+  </table2>
+
+
+  <table3>
+    <td>Sr No</td>
+    <td1>Issue Date</td1>
+    <td2>Issue Name</td2>
+    <td3>Price</td3>
+  </table3>
+
+  <table4>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication</td4>
+    <td11>Edition</td11>
+    <td11>Issue Date</td11>
+    <td7>Issue Description</td7>
+    <td21>Issue Alias</td21>
+    <td31>Issue Description Other Language</td31>
+    <td41>Issue Price</td41>
+    <td413>Issue Page Number</td413>
+
+  </table4>
+
+ 
+
+  <table5>
+    <td>Debit</td>
+    <td1>1</td1>
+    <td2>Credit</td2>
+    <td3>-1</td3>
+  </table5>
+
+  <table6>
+    <td>Auto</td>
+    <td1>A</td1>
+    <td2>Manual</td2>
+    <td3>M</td3>
+  </table6>
+
+  <table7>
+    <td>Billing</td>
+    <td1>B</td1>
+    <td2>Credit</td2>
+    <td3>C</td3>
+    <td22>Date</td22>
+    <td32>D</td32>
+  </table7>
+</newdataset>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Master>
+    <td1>Agency$Agency Master~show~agency_mast*Bank Guarantee Expiry List~show~bank_guarantee_expiry_list*Agency Unblock Approval Form~show~agencyunblock*Executive Master~show~Cir_Executivetypmast*Agency Type Master~show~Cir_Agencytypmast*Agency Class Master~show~Cir_AgencyClassmast*Suspend type Master~show~Cir_Suspendtypmast*Agency Closing Reason~show~reasonforclose*Role Master~show~Cir_roleMaster*Festival Master~show~festivaldescription*Race Master~show~racemaster</td1>
+    <td2>Publication Master~show~Cir_Publ_Mast</td2>
+    <td3>Edition Master~show~cir_editionmast</td3>
+    <td4>Geographical$Zone Master~show~Cir_Zone_Mast*Region Master~show~Cir_region_mast*District Master~show~Cir_District_mast*Taluka Master~show~cir_taluka_mast*City Master~show~Cir_cityMaster*Area Type Master~show~Cir_Areatypmast*Area Master~show~Cir_areaMaster*Drop Point Master~show~Cir_Droppointmast*Sub Drop Point Master~show~cir_subdroppoint_mast</td4>
+    <td5>Route$Mode Master~show~Cir_Modetypmast*Route Master~show~Cir_Routemast*Sub Route Master~show~cir_sub_routemaster*Sub Sub Route Master~show~Cir_sub_sub_routemast*Forth Route Master~hide~cir_fourthroute_mast*Route Sequences~show~route_seq_mast*Transporter Master~show~Cir_Transporttypmast*Vehicle Master~show~cir_taxi_mast*Route Monitoring~show~cir_get_map_detail*Droppoint Wise Arrival And Stoppage~show~Taxi_Route_detail</td5>
+    <td6>Rate$Price Master~show~Cir_Rate_mast*Special Rate Master~show~Cir_RateSpldy_mast*Waste Rate Master~show~cir_waste_rate*Waste Rate Category Master~show~Waste_rate_cat_mast*Extra Rate for Extra Commission~show~cir_extraRateMaster*Surcharge Master~show~cir_surcharge*Commission Category Master~show~cir_commissioncatmast*Commission Master~show~Cir_commissionmast*Late Factor Fees~show~Cir_Late_Fee_Mast*Supplement Master~show~supplementmaster*Sponsorship Master~show~Cir_Sponsor*Tax Master~show~taxmasterform</td6>
+    <td7>Supply type Master~show~Cir_Supplytypmst</td7>
+    <td8>Expenses Type Master~show~Cir_Expensestypmast</td8>
+    <td9>Reason Master~show~cir_reason_master</td9>
+    <td10>Bank Master~show~cir_bankmaster</td10>
+    <td11>Holiday Master~show~Cir_Holidaytypmast</td11>
+    <td12>Periodical Issue Master~hide~Cir_Priodicalissuemast</td12>
+    <td13>Opening Balance Master~show~opening_balance_entry</td13>
+    <td14>Change Company~show~CngCompany</td14>
+    <td15>Change Branch~show~Cngbranch</td15>
+    <td16>Change PrintingCenter~show~CngPrintingCenter</td16>
+    <td17>Handling Luggage Entry Form~show~Cir_Handling_Luggage_Entry</td17>
+    <td18>Taxi Expences Reason Master~show~cir_taxi_exp_reason</td18>
+    <td19>Department Master~hide~Department_Master</td19>
+    <td20>Division Head Master~hide~DivisionHeadMaster</td20>
+    <td21>Insertion Master~hide~insertionmaster</td21>
+    <td22>Insertion Type Master~hide~insertion_typemaster</td22>
+    <td23>Coupon Master~hide~copunmaster</td23>
+    <td24>Center Master~show~Center_Master</td24>
+    <td25>Preference Master~show~Preference_Master</td25>
+  </Master>
+  <Transaction>
+    <td1>Supply$Supply Alteration~show~Cir_Supplyalter*Supply Alteration Agency Wise~show~Cir_sup_AGN_ALTER*Branch Supply Alteration Entry~hide~cir_supplyAlterationApproval*Supply Alteration Approval Form~hide~Cir_supplyAltrerationApproval_form*Special Supply Updation~show~Cir_special_com*Supply Posting For Backdays~hide~cir_backdays_supplyposting*Supply Posting~show~cir_supplyposting*Resale Supply Posting~hide~Cir_supplypostresale*Multiple Resale Supply Posting~hide~mul_resale_sup_post*Supply Correction~show~Cir_supCorrection*Supply Estimation~hide~Cir_supply_estimation*New Publication Update In Supply~show~Cir_Special_Supply_updation*Indent Letter~hide~cir_indentletter*Supply Target~show~cir_supply_target*Target V/S Achievement~hide~cir_target_vs_achievement*CompEditor Input Form~show~cir_comp_sup_input_form*Competitor Data Input~hide~cir_comp_sup_input_form*Complementry Detail~hide~cir_complementary_detail*Scheme~hide~CIR_SCHEME_WISE_RPT*Edition and Sub edition Page Update~show~cir_edtn_subedtn_form</td1>
+    <td2>Label Generation$Label Process~show~Cir_Label_gen*Label Printing~show~labelprintform*Extra Label Generation~show~Cir_extra_lable_form*Extra Label Printing~show~Extralabelprintform*Greeting Label Printing~hide~greet_card_lbl*Delivery Order(DO)~hide~cir_do_print</td2>
+    <td3>Transporter Entry$Daily Vehicle Entry~hide~TaxiDailyEntry*Route Wise Daily Vehicle Entry~show~taxi_daily_entry_route_wise*Transporter Bill Process~show~cir_taxi_billingProcess*Railway Receipt Entry~hide~cir_rr_update*Taxi Expences Detail Entry~show~cir_taxibill_exp</td3>
+    <td4>Unsold$Unsold Entry~show~Unsoldentry*Branch Unsold Entry ~hide~Unsoldentry_withbranch*Pending for Unsold Approval~show~Cir_pending_unsold_approval*Unsold Approval~show~UnsoldApproval*Unsold Approval Unapproved~show~UnsoldApproval_Unapproved*Unsold Sanction~show~Unsoldsanction*Unsold Credit Note Process~show~cir_unsold_credit_noteprocess*Unsold Credit Note Adjustment~show~cir_unsold_creditnote_adjustment*Branch Transfer Entry~hide~branchtransfferForm*Pending For Transfer In~hide~Pendingfortransferin*Branch Received Entry~hide~BranchReceivedEntryForm*Short/Excess Entry~hide~ShortExcessentryform*Wastage Sale Entry~hide~raddiDailyEntryForm*Daily return Entry~hide~cir_daily_return*Vendor Supply Return Entry~hide~Cir_vendor_supply_return_entry</td4>
+    <td5>Billing$Agency Billing process~show~Cir_billing*Extra Commission Process~show~Cir_extraCommissionProcess* Interest on Overdue Bill~show~overduebillnew*Weekly Billing process~hide~cir_billing_weekly</td5>
+    <td6>Collection/Accounting$Receipt Entry~show~cir_receiptentry*BranchWise Receipt Entry~hide~cir_receiptentry*Receipt Modify~show~cir_receiptentry*Provisional Receipt Entry~show~provisional_receipt*Provisional Receipt Approval~show~cir_provisonal_popupentry*Provisional Receipt Posting~show~cir_provisonal_popupentry_Post*Expenses credit Note Process~hide~cir_expenses_charges_credit_note*Installment Process~show~install_mast*Disputed Bill Entry Form~hide~disputed_bill*Insertion Fee Process~show~Cir_Sup_credit*Late Factor Fee Process~show~cir_late_fee_process*Transfer Note Screen~show~Cir_transfer_note_screen*Transfer CN To Security Deposit~hide~Transfercn_to_secdeposit*Interest Calculation~show~InterestCalculation*Overdue Payment History~hide~Cir_payment_history*Written Off~hide~SmallAmountWriteOff*Agent Wise Receipt Entry~hide~Agent_Wise_Receipt_Entry*Vendor Commission Process~hide~cir_vendor_comm_process*Cash Discount Process~show~Cir_Cash_dis_process*VPL Entry Form~hide~cir_vpl_update_entry*Security Interest Calculation~hide~cir_InterestCalculation*Handling Luggage Process~show~cir_handling_lauggage_process*Outstanding Process~hide~cir_outstanding_process*Cash Sale Process~hide~cir_cash_sale_process*Agency Bonus Process~hide~Cir_Bonus_Process*Cash Deposit Form~show~cir_cash_deposit*Cheque Deposit Form~show~cir_ceque_deposit</td6>
+    <td7>Incentive$Incentive Slab Entry Entry~show~incentive_slab_master*Incentive Credit Note Process~show~incentive_process*Tgt vs Ach Entry~show~cir_incentive_net_sale*Tgt vs Ach Process~show~Cir_inct_net_sale_report</td7>
+    <td8>Suppliment Processes$Suppliment Posting~show~Cir_Supplypost_Supliment*Suppliment Label Generation~show~cir_supp_label_gen*Suppliment Label Print~show~cir_supp_lbl_print*Suppliment Delivery Chalan~show~cir_sup_taxi_form*Suppliment Multiple Days Supply Comparision~show~multiple_day_supl_comp</td8>
+    <td9>Cash Sale$Recieve From Press~show~Cir_centerwise_supply_dispatch*Transfer Out~show~center_transfer_out*Transfer In~show~center_transfer_in</td9>
+    <!--<td9>Patrika Processes$Cash Discount Process~show~Cir_Cash_dis_process*VPL Entry Form~show~cir_vpl_update_entry*Bill Confirmation Form~show~cir_billconfirmation*Supply Target~hide~cir_supply_target*Complimentary Process~show~cir_complementary_detail*Target V/S Achievement~show~cir_target_vs_achievement*Other Publication Master~show~Cir_Publ_Mast*Security Interest Calculation~show~cir_InterestCalculation*Competitor Data Input~show~cir_comp_sup_input_form*Interleaf Posting~show~Cir_Supplypost_Supliment*Agenct Wise Comp report~show~cir_agnt_hwkr_supl_comprsn*Netpaid And print Order report~show~cir_netpaid_po</td9>-->
+    <!--<td10>Cash Sale$Center Wise Supply Dispatch~show~Cir_centerwise_supply_dispatch*Center Wise Report~show~Cir_center_report*Hawker Cash Sale~show~hawkercashsale*Depot Unsold Entry~show~Depot_Wise_Unsold_Entry*Lawajam~show~Lawajam</td10>-->
+  </Transaction>
+  <Report>
+    <td1>Supply Reports$Print Order~show~PrintOrder*Supply Type wise Report~show~supplyReport*Route/District/Taluka wise supply~show~routewisesupply_form*Day Book~show~MonthlySupplyRegister*Daily Variance Report~show~dailyVariance_rpt_form*Daily Variance Report(Multiple Date)~show~Daily_variance_report(multiple_date)*Edition wise Two Date Comparision Report~show~Cir_Paper_Report*Unit Wise Date Wise Supply~show~cir_unitwisedatewisesupply*Edition Wise Rate Report~show~Edition_wise_rate*Supply Challan~show~supplychalan*S.T Passes~show~cir_stpasses*Sponsorship Report~show~sponsorform*Listing Report~show~cir_supply_changes_list*Trade Discount Report~show~trade_disc_rep_form*Branch Summary Report~show~cir_branch_summary*Daily Supply Day Book~show~dailydaybook*Delivery List Report~show~Cir_Delivery_list*Daily Monitor Report~show~cir_daily_monitor_rep_form*Competitor Comparision Report~show~cir_comp_sup_input_rep*Target Vs Achievement Report~hide~cir_target_vs_achievement_rpt*Multiple Days Comparision Report~show~Multipledaysupplycomparisonreport*Po Summary Report~show~Cir_Po_Summary*Top Agency Supply Report~show~Cir_Top_Agency_Supply_Report*Publication Wise Supply~show~Cir_Publication_Wise_Supply_Rpt</td1>
+    <td2>Unsold Return Reports$Publication wise Daily Return Report~show~DailyReturnReport_form*Agency wise Daily Return Report~show~AgencyWiseDailyReturn_rpt_form*Unsold Register Report~show~unsolvedregisterreport*Unsold Summary Report~show~cir_unsoldsummaryreport*Return Received Slip~show~returnrecivedslip*Short/Excess Report~hide~shortexcessreport*Main Godown Report~hide~maingodownreport*Daily Return Report~hide~cir_dailyreturn*Resale Supply Report~hide~Resalesupplyreport*Edition Wise Return Analysis~show~Edition_wise_return_analysis*Daily Return Register~show~Cir_unsold_return_rep_form*Unsold Day Book~show~unsold_daybook*Confirmation Of Unsold Return~hide~UNSOLD7B*Unsold Summary Date Wise~show~cirusolddate*Unsold Physical And Claim Copy~show~unsold_phy_clm_diff_form*Unsold 7 C Report~hide~UNSOLD7C_FORM*Unsold 7 D Report~hide~unsold7d_form*Dmh Daily Return Report~show~dmh_daily_returnrpt*Mobile Unsold Report~show~route_wise_cust_det*Unsold Credit Note Report~show~cir_credit_note_rpt*Rate And Discount Wise Unsold~show~Cir_Rate_Commission_Wise_Unsold_Rpt</td2>
+    <td3>Billing Reports$Bill Print~show~Billprint_form_dailypost*Bill Register~show~cir_billregister*Bill Cum Statement~show~Party_ledger_rep_form*Bill Summary Report~show~cir_billsummary*Unit Wise Month Wise Billing~show~cir_unitwisemonthwisebill*Weekly Bill Report~show~weeklyLineBill_form*Weekly Bill Summary Report~show~cir_weeklybillsummary*Edition wise Net Billing~show~Cir_EditionWiseNetBilling*Bill Control Statement Report~show~datewise_rate_supply_rep_form*Dummy Bill~show~performa*Interest Invoice Report~show~interest_invoice_report*Agency Billwise Status Report~show~agency_billwise_status_report*Billing Management Report~show~cir_billing_mang_rpt*Suppply and Unsold report~show~SUPPLY_AND_UNSOLD_DETAIL</td3>
+    <td4>Collection Reports$Collection Register~show~CollectionRegisterReport_form*Credit/Debit Register~show~cn_cnregister*Collection Datewise/Monthly Summary~show~CollectionDatewise_summrpt_form*Unit Wise Month Wise Collection~show~cir_unitwisemonthwisecollection*Branch Collection Summary~show~rpt_branch_collection_summary*Extra Commission Report~show~Extra_ Commission_ Report*Insertion Fee~show~rpt_insertion_fee*Credit Rating Report~show~cir_credit_rating*Target Vs Collection Report~show~cir_target_vs_collection*Collection Register~show~CollectionRegisterReport_form_RP*Unadjusted Receipt Report~show~cir_unadjusted_report*Day Book Report~show~Cir_Show_Day_Book_*Handling Lauggage After Process~show~cir_handling_lauga_process*Daily Collection Report~show~CirDailyCollectionReport</td4>
+    <td5>Outstanding/Accounting Reports$Agency Ledger Report~show~Party_ledger_rep_form*Agency Wise Outstanding Summary~show~partyOutstandingSummary_rpt_form*Agency Wise Closing Balance~show~partyOutstandingAgencywiseRpt_form*Trial Balance Report~show~Trail_balance_rep_form*Agency Ageing~show~Agency_ageing*Installment Report~show~cir_ins_info*Arrear Comparison Report~show~Searching_creating_area*Letter Of Confirmation~show~letter_of_confirmation*Monitoring Report~show~monitoring_report*Monitoring Total Collection~show~Monitoring_total*Incentive Report~show~rpt_incentive_process*Monitoring Report Ageing~show~monitoring_repo_form*Security Deposit~show~deposit_of_vendor*Agency Ledger Publication Wise~show~agency_ledger_publ_wise_report*Agency Ageing Leadger Balance~show~agency_ageing_ledgerbal_form* Vpl Report~show~vpl_report*SC NM OutStanding~show~Cir_SC_NM_OutStanding_Form*Statement Net Paid~show~Cir_Statement_Net_Paid_Form</td5>
+    <td6>Sales Reports$Net Sales Report~show~monthlyNetSalesRpt_form*Net Sale Report Day Wise~show~net_sale_rep_day_wise*Commission and Rate Wise Sales~show~Commission_ratewisesales*Wastage Sales~show~raddi_sale*National Sales~show~rpt_national_sales*National Sales Summary - Estimation~show~rpt_national_estimation*Sale Comparison Report (Average Per Day)~show~Sales_Comp_report_form*Average To Date~show~avg_todate*Average sales/Returns Repot~show~Averagesales_Reportform*Verification of Sales-Monthly~show~verification_salesreportform*Upline/Dealer Wise Sales Report~show~salesreportdealer*Agent Commission Report~show~agentcommissionreport</td6>
+    <td7>Transporter Reports$Delivery Challan Report~show~taxiChallanReport_form*Packing List/Delivery Order Report~show~Packinglist_Deliverymode_form*Route Wise Vehicle/Lorry Report~show~routewisetaxireport*Vehicle/Lorry Performance Report~show~Taxi_Perf_Report*Transporter Bill Print~show~cir_taxibill*Transporter Bill Register~show~cir_taxibillregister*Analysis of Time and Supply by Route~show~analysis_of_time_and_supply_by_route</td7>
+    <td8>Master Reports$Route Master Report~show~routemastreport*Sub Route Master Report~show~subroutemastreport*Sub Sub Route Master Report~show~subsubroutemastreport*Drop Point Master Report~show~cir_drop_point_report*Agency Master Listing~show~agencymastreport*User Form Wise Rights~show~userformwiserights*Circulation Master Report~show~Cir_master_report*Agency Commission Detail~show~Searching_Criteria_Area*Block/Unblock Status Report~show~Block_unBlockstatusform*Agency Detail Report~show~cir_agency_detail*Reconciliation Report~show~cir_Reconciliation_Report</td8>
+    <td9>Sap Reports$Sap Interface Report~show~cir_sap_interface_report</td9>
+    <!--<td10>Patrika Reports$Agency Ledger Publication Wise~show~agency_ledger_publ_wise_report*Agency Ageing Leadger Balance~show~agency_ageing_ledgerbal_form*Vpl Report~show~vpl_report*Complimentary Report~show~cir_complementary_report*Daily Monitor Report~hide~cir_daily_monitor_rep_form*Target Vs Achievement Report~show~cir_target_vs_achievement_rpt*Multiple Days Comparision Report~show~Multipledaysupplycomparisonreport*Competitor Comparision Report~show~cir_comp_sup_input_rep*Outstanding Reminder Letter~show~Cir_reminderletter</td10>-->
+    <td11>Hawker Reports$Daily Variance Report~show~cir_hawker_variance_rpt*Hawker Monthly DayBook~show~cir_hawker_daybook*Hawker Supply DayBook~show~Cir_hawker_daily_daybook*Hawker Supply DayBook~show~Cir_Hawker_Sale_DayBook*Depot Wise Hawker List~show~Cir_Center_Wise_Hawker_List*Depot Supply Register~show~Cir_Center_Wise_Supply_Register*Hawker Supply Register~show~Cir_Hawkers_Supply_Register*Hawker Absent Report~show~Cir_Hawker_Absent_Rpt*Hawker wise Supply~show~hawkerwise_supply_rpt*Centre Summary~show~centre_summary_rpt*Centre Receiving Report~show~Center_receving_rpt*HawkerVariance Report~show~Hawker_Variance_Report*Competitor Timing Report~show~COMPETITOR_TIMING_REPORT</td11>
+    <td12>DCR Report$Tour Plan~show~Tour_Plan_Rpt*Visit Report~show~visit_report*Reader Visit Report~show~Reader_Visit*Collection report~show~CDR_REPORT*Outstanding Report~show~DCR_OUTSTANDING_RPT*Hawker Supply Register~show~Cir_Hawkers_Supply_Register*Datewise visit Summary~show~Datewise_Visit_Summary*Reader Visit~show~Reader_Visit*Agency Visit Report~show~AGENCY_VISIT_REPORT*Visit Drill Report~show~Visit_Report_New*Tour Visited vs DCR~show~Tour_visited_vs_dcr*Want a copy list~show~Reader_call_page*Pending call form~show~newpending_form*Reader status Update~show~Reader_update_new</td12>
+<!--<td12>Mis~show~Cir_mis_pud</td12>-->
+  </Report>
+  <ABC_Reports>
+    <td1>Commission Wise Supply Unsold~show~Abc_comisionwise_unsoldsup_rep</td1>
+    <td2>Commission Wise Monthwise Supply~show~Abc_monthwise_comwise_suprep</td2>
+    <td3>Agency Wise Supply~show~Abc_agencywise_supp_rep</td3>
+    <td4>Monthly Supply Report~show~ABC_cityWiseSupply</td4>
+    <td5>Monthly Billing Detail~show~month_wise_billing</td5>
+    <td6>Two Months Difference Outstanding~show~Abc_twomonth_diffoutstand_rep</td6>
+    <td7>Area Break Down Report~show~area_break_down_statement</td7>
+    <td8>Summary Billing/Return Report~show~Edition_wise_summary_billing</td8>
+    <td9>Day Book Summary~show~Daybookreport</td9>
+    <td10>Ok Bill Report~show~cir_bill_report</td10>
+    <td11>Monthly Statesment~show~Cir_abc_monthly_statement</td11>
+    <td12>Abc Dyabook~show~Cir_abc_daybook</td12>
+    <td13>Abc Collection summary~show~cir_abc_colletion_summry</td13>
+    <td14>Supply Unsold Detail~show~CIR_SUP_UNSOLD_DTL</td14>
+    <td15>Breakdown Report~show~Cir_abc_breakdown_RP</td15>
+    <td16>Edition / Month / Discountwise Unsold Report~show~cir_edtn_comm_unsold_rpt</td16>
+
+  </ABC_Reports>
+
+  <Management_Reports>
+    <td1>Estimates of Daily Sales~show~mgm_daily_sales</td1>
+    <td2>Sales Performance~show~mgm_sales</td2>
+    <td3>Supply,Sales/Returns(Monthly Analysis Graph)~show~mgm_supply</td3>
+    <td4>Sales Performance(Daily Analysis Graph)~show~mgm_salesperformance</td4>
+  </Management_Reports>
+
+  <Admin_Services>
+
+    <td1>Module Master~show~Cir_module_mast</td1>
+    <td2>Module Form Master~show~module_form_mast</td2>
+    <td3>User Group Master~show~AgencyRoleMaster</td3>
+    <td4>Create User~show~Createuser</td4>
+    <td5>Permission Master~show~Chk_permission</td5>
+    <td6>Zone/Region Permissions~show~ZONE_FORM</td6>
+    <td7>Document Master~show~cir_docmaster</td7>
+    <td8>Document Wise Permissions~show~Cir_docwise_userper</td8>
+    <td9>Machine Configration Master~show~machine_mast</td9>
+    <td10>Auto Process Scheduler~show~cir_auto_process_scheduler</td10>
+    <td11>Reminder Scheduler~show~cir_reminder_setting</td11>
+    <td12>Overdue Credit Days~show~billing_frequency</td12>
+    <td13>Ageing Slab Master~show~ageing_slab_mast</td13>
+    <td14>Unsold Control Master~show~Cir_Unsold_Return_Control</td14>
+    <td15>Unsold Control User wise ~show~Cir_unsold_approval</td15>
+    <td16>Tally XML Report~show~xmlreport</td16>
+    <td17>Transfer Closing To Opening Balance~show~Cir_Trans_Close_to_open</td17>
+    <td18>Preferences~show~updateprefer</td18>
+    <td19>User Permissions~show~cir_userpermission</td19>
+    <td20>Route Monitoring~show~cir_get_map_detail</td20>
+    <td21>Data Transfer To SAP (Asc File)~show~label_sap_integration</td21>
+    <td22>Sap GL Code Entry~show~cir_faaccmast</td22>
+    <td23>Implementation Days For P.O.~show~cir_implementation_days</td23>
+    <td24>Audit Trail~show~Cir_transaction_record</td24>
+    <td25>E-mail And Sms~show~Email_Sms_send</td25>
+    <td26>Update publication to all agencies~show~cir_update_pub_edn</td26>
+    <td27>Data Pos~show~data_pos_interface</td27>
+    <td28>Complain Detail~show~cir_new_form</td28>
+    <td29>Data migration~show~cir_data_migration</td29>
+    <td30>Reasion Permission~show~cir_reason_permission</td30>
+    <td31>Reason Wise Agency Block Unblock~show~reasonwise_agency_block_unblock</td31>
+    <td32>Supply Finalization~show~Cir_Supply_Finalization</td32>
+    <td33>Supply Start Stop~show~Cir_supplyStartStop</td33>
+    <td34>Po Number Modify~show~cir_pono_modify</td34>
+    <td35>Preference Master~show~Preference_Master</td35>
+    <td36>Parameter Download Form(For Serial)~show~cir_handle_download</td36>
+    <td37>Other Record Download Form(For Serial)~show~cir_other_record_download</td37>
+    <td38>Record Upload Form HHC Device To PC(Through Serial)~show~cir_record_upload_form</td38>
+    <td39>HHC Files Status Entry Form~show~cir_hhc_files_status_entry_form</td39>
+    <td40>HHC Auto txt Generation Form~show~cir_hhc_auto_txt_genration_form</td40>cir_data_from_hht_to_database
+    <td41>Data From HHT To Database~show~cir_data_from_hht_to_database</td41>
+    <td42>check download data form~show~check_download_data_form</td42>
+    <td43>MAC Id Permission~show~advtmac_id</td43>
+    <td44>Attendance Report~show~Attendance_rpt</td44>
+    <td45>Competitor Timing~show~cir_comp_timing_entry</td45>
+ <td47>Center/Depot Permission~show~USER_CENTER_PERMISSION_MST</td47>
+    <td48>Tour Plan~show~tour_plan_home</td48>
+    <!--<td43>HHc Data~show~hhc_data</td43>-->
+  </Admin_Services>
+  <!--<Distribution>
+    <td1>Agency~show~agency_mast</td1>
+    <td2>Supply Receiving~show~cir_supplyposting</td2>
+    <td3>Supply Alteration~show~cir_supplyalter</td3>
+    <td4>Supply Correction~show~cir_supcorrection</td4>
+    <td5>Billing~show~Cir_billing</td5>
+    <td6>Unsold Entry~show~Unsoldentry</td6>
+    <td7>Unsold Approval~show~UnsoldApproval</td7>
+    <td8>Unsold Credit Note Process~show~cir_unsold_credit_noteprocess</td8>
+    <td9>Receipt Entry~show~cir_receiptentry</td9>
+    <td10>Pending Unsold Approval~show~Cir_pending_unsold_approval</td10>
+    <td101>Label Generation~show~Cir_Label_gen</td101>
+    <td11>Distribution Reports$Supply Receiving Report~show~routewisesupply_form_dis*Company Bill Print~show~Company_Bill_Report*Company Bill Summary~show~cir_billsummary_ds*Credit/Debit Register~show~cn_cnregister_dis*Collection Register~show~Collectionregisterreport_form_dis*Daily Return Register~show~Cir_unsold_return_rep_form*Bill Register~show~cir_billregister_dis*State/District/Taluka wise Agency wise Outstanding Summary~show~partyOutstandingSummary_rpt_form_dis*Party Leadger~show~Party_ledger_rep_form_dis*Unsold Copy Detail~show~Returnrecivedslip_dis*Agency Commission Detail~show~Searching_Criteria_Area</td11>
+  </Distribution>
+  <Utusan_Admin>
+    <td1>Rate Update~show~rateupdate</td1>
+    <td2>Voucher/Receipt Deletion~show~voucher_deletion</td2>
+    <td3>Invoice Cancellation~show~Invoice_cancellation</td3>
+    <td4>Deviation Supply Updation~show~cir_deviation_syp_update</td4>
+    <td5>Bill Adjustment~show~cir_ucn_adjustment</td5>
+  </Utusan_Admin>-->
+
+  <!--<DistributionReports>
+    <td1>Supply Receiving Report~show~routewisesupply_form_dis</td1>
+    <td2>Company Bill Print~show~Company_Bill_Report</td2>
+    <td3>Company Bill Summary~show~cir_billsummary_ds</td3>
+    <td4>Credit/Debit Register~show~cn_cnregister_dis</td4>
+    <td5>Collection Register~show~Collectionregisterreport_form_dis</td5>
+    <td6>Daily Return Register~show~Cir_unsold_return_rep_form</td6>
+    <td7>Bill Register~show~cir_billregister_dis</td7>
+    <tde8>State/District/Taluka wise Agency wise Outstanding Summary~show~partyOutstandingSummary_rpt_form_dis</tde8>
+    <td9>Party Leadger~show~Party_ledger_rep_form_dis</td9>
+    <td10>Unsold Copy Detail~show~Returnrecivedslip_dis</td10>
+    <td11>Agency Commission Detail~show~Searching_Criteria_Area</td11>
+  </DistributionReports>-->
+  <Change_Password>
+    <td1>Change Password~show~cngpassword</td1>
+  </Change_Password>
+  <!--<Data_Pos>
+    <td1>Data Pos~show~data_pos_interface</td1>
+  </Data_Pos>-->
+  <!--<Sap_Interface>
+    <td1>Data Transfer To SAP~show~label_sap_integration</td1>
+  </Sap_Interface>-->
+  <!--<Draw_Interface>
+    <td1>Draw Scheme Master~show~DrawSchemeMaster</td1>
+    <td2>Draw Registration Entry~show~DrawRegistrationEntry</td2>
+  </Draw_Interface>-->
+</root>
+

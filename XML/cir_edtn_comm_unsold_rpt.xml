@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table0>
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Destination</td9>
+    <td10>Report Type</td10>
+  </table0>
+  <table1>
+    <td>On Screen</td>
+    <td1>ons</td1>
+    <td2>Excel Sheet</td2>
+    <td3>exc</td3>
+  </table1>
+  <table2>
+    <td>Detail</td>
+    <td1>D</td1>
+    <td2>Summary</td2>
+    <td3>S</td3>
+  </table2>
+</newdataset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+	<table>
+		<tr>Transfer Type&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+		<tr1>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+		<tr2>Voucher No&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+		<tr3>Voucher Date&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+		<tr4>Receipt Date&lt;font color=red&gt;*&lt;/Font&gt;</tr4>
+		
+		<tr5>Credit Agency</tr5>
+		<tr6>Branch&lt;font color=red&gt;*&lt;/Font&gt;</tr6>
+		<tr7>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</tr7>
+		<tr8>Reason&lt;font color=red&gt;*&lt;/Font&gt;</tr8>
+		<tr9>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</tr9>
+		<tr10>Ag Code</tr10>
+		<tr11>Sub Code</tr11>
+		<tr12>Debit Agency</tr12>
+		<tr13>Branch&lt;font color=red&gt;*&lt;/Font&gt;</tr13>
+		<tr14>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</tr14>
+		<tr15>Reason&lt;font color=red&gt;*&lt;/Font&gt;</tr15>
+		<tr16>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</tr16>
+		<tr17>Ag Code</tr17>
+		<tr18>Sub Code</tr18>		
+		<tr19>Remark</tr19>
+		<tr20>Tr. Amt.&lt;font color=red&gt;*&lt;/Font&gt;</tr20>
+		<tr21>Adj. Amt.&lt;font color=red&gt;*&lt;/Font&gt;</tr21>
+		<tr22>In Hand&lt;font color=red&gt;*&lt;/Font&gt;</tr22>
+		<tr23>Credit A/C&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr23>
+		<tr24>Debit A/C&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr24>
+		<tr25>Entry Date</tr25>
+		<tr26>Doc No.</tr26>
+    <tr27>Print</tr27>
+    <td28>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td28>
+    <td29>Ref.Doctype&lt;font color=red&gt;[F2]&lt;/Font&gt;</td29>
+    <td30>Ref.Recp No.&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td30>
+    <td31>Ref.Recp Dt&lt;font color=red&gt;*&lt;/Font&gt;</td31>
+    <tr32>Sub Dr.A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr32>
+    <tr33>Sub Cr.A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr33>
+    <tr34>Ad Type&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr34>
+    <tr35>Bill No&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr35>
+	</table>
+	<table1>
+		<tr>Ad Agency To Ad Agency</tr>
+		<tr1>A</tr1>
+		<tr2>Ad Agency To Cir. Agency</tr2>
+		<tr3>C</tr3>
+	</table1>
+  <table2>
+    <td>Security To Normal</td>
+    <td1>SC</td1>
+    <td2>Normal To Normal</td2>
+    <td3>NM</td3>
+  </table2>
+  <table3>
+    <td>N</td>
+    <!--IF Y then multiple marking form from date and to date required else not required  -->
+    <td1>Y</td1>
+    <!--IF Y then Apply Date show else not show  -->
+  </table3>
+</newdata>
+

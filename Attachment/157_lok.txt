@@ -1,0 +1,21 @@
+http://10.59.51.174/Collection/add_recvr_report_view.aspx?dest=Mail&compcode=AU001&branch=&Unit=JA0,DE0,&userid=bh01&dateformat=dd/mm/yyyy&extra1=&extra2=1&extra3=2&extra4=&extra5=&extra6=&extra7=&extra8=&extra9=&extra10=&type=A&compname=AMAR%20UJALA%20LIMITED&txtAgExRet=&extra1=01/06/2020&todate=01/06/2020&mf=puneetg@bs.amarujala.com,vishnut@bs.amarujala.com,ansulg@bs.amarujala.com,amitmishra@bs.amarujala.com&mt=del-clusterhead@del.amarujala.com
+
+http://10.59.51.174/Collection/add_recvr_report_view.aspx?dest=Mail&compcode=AU001&branch=&Unit=&userid=bh01&dateformat=dd/mm/yyyy&extra1=&extra2=1&extra3=2&extra4=&extra5=&extra6=&extra7=&extra8=&extra9=&extra10=&type=A&compname=AMAR%20UJALA%20LIMITED&txtAgExRet=&extra1=01/06/2020&todate=01/06/2020&mf=puneetg@bs.amarujala.com,vishnut@bs.amarujala.com,ansulg@bs.amarujala.com,amitmishra@bs.amarujala.com,anilv@del.amarujala.com,rajul@amarujala.com&mt=tanmay@amarujala.com
+
+http://10.59.51.174/Collection/add_recvr_report_view.aspx?dest=Mail&compcode=AU001&branch=&Unit=CH0,DH0,HI0,JA1,KA1,RO0,&userid=bh01&dateformat=dd/mm/yyyy&extra1=&extra2=1&extra3=2&extra4=&extra5=&extra6=&extra7=&extra8=&extra9=&extra10=&type=A&compname=AMAR%20UJALA%20LIMITED&txtAgExRet=&extra1=01/06/2020&todate=01/06/2020&mf=puneetg@bs.amarujala.com,vishnut@bs.amarujala.com,ansulg@bs.amarujala.com,amitmishra@bs.amarujala.com&mt=puneet.mahajan@bs.amarujala.com
+
+http://10.59.51.174/Collection/add_recvr_report_view.aspx?dest=Mail&compcode=AU001&branch=&Unit=AG0,AL1,BA0,DE1,JH0,ME0,MO0,NA0,&userid=bh01&dateformat=dd/mm/yyyy&extra1=&extra2=1&extra3=2&extra4=&extra5=&extra6=&extra7=&extra8=&extra9=&extra10=&type=A&compname=AMAR%20UJALA%20LIMITED&txtAgExRet=&extra1=01/06/2020&todate=01/06/2020&mf=puneetg@bs.amarujala.com,vishnut@bs.amarujala.com,ansulg@bs.amarujala.com,amitmishra@bs.amarujala.com&mt=sachinn@bs.amarujala.com
+
+http://10.59.51.174/Collection/add_recvr_report_view.aspx?dest=Mail&compcode=AU001&branch=&Unit=AL0,GO0,KA0,LU0,VA0,&userid=bh01&dateformat=dd/mm/yyyy&extra1=&extra2=1&extra3=2&extra4=&extra5=&extra6=&extra7=&extra8=&extra9=&extra10=&type=A&compname=AMAR%20UJALA%20LIMITED&txtAgExRet=&extra1=01/06/2020&todate=01/06/2020&mf=puneetg@bs.amarujala.com,vishnut@bs.amarujala.com,ansulg@bs.amarujala.com,amitmishra@bs.amarujala.com&mt=bhupendra@bs.amarujala.com
+
+change center bta rekha hi en ko
+bhanu ok?
+
+DI00000125
+
+show button  not run
+
+bill gengrate button in above
+
+
+

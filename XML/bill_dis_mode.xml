@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+
+    <td>Compcode</td>
+    <td1>Publication Center&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Bill Dispatch Code</td2>
+    <td3>Bill Dispatch Desc&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Status</td4>
+    
+    
+  </table>
+
+  <table1>
+    <td>Active</td>
+    <td1>A</td1>
+    <td2>Inactive</td2>
+    <td3>I</td3>
+  </table1>
+  
+  
+  
+</Newdataset>

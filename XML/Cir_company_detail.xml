@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<dataset>
+	<table>
+		<td>PUNYANAGRI</td>
+		<td1>N</td1>
+		<td2>DAILYPOST</td2>
+		<td3>N</td3>
+		<td4>UTUSAN</td4>
+		<td5>N</td5>
+		<td6>BOSTWANA</td6>
+		<td7>N</td7>
+		<td8>WINDHOEK, NAMIBIA</td8>
+		<td9>N</td9>
+		<td10>HARIBHOOMI</td10>
+		<td11>N</td11>
+		<td12>SEA EXPRESS</td12>
+		<td13>N</td13>
+		<td14>ARAPMEDIA</td14>
+		<td15>N</td15>
+		<td16>MYANMAR</td16>
+		<td17>N</td17>
+		<td18>UDYAVANI</td18>
+		<td19>N</td19>
+		<td20>INFOMEDIA</td20>
+		<td21>N</td21>
+		<td22>STAR SAMACHAR</td22>
+		<td23>N</td23>
+    <td28>PUDHARI PUBLICATION</td28>
+    <td29>N</td29>
+    <td30>TELANGANA</td30>
+    <td31>N</td31>
+    <td32>PUDHARI PUBLICATION</td32>
+    <td33>N</td33>
+    <td34>kantipur</td34>
+    <td35>N</td35>
+    <td36>Sach Kahoon</td36>
+    <td37>N</td37>
+    <td38>SUPRABHATAM</td38>
+    <td39>N</td39>
+    <td40>NATIONAL DUNIYA</td40>
+    <td41>N</td41>
+    <td42>SACH KAHOON</td42>
+    <td43>N</td43>
+    <td44>METROVARTHA</td44>
+    <td45>N</td45>
+    <td46>ManaTellangana</td46>
+    <TD47>Y</TD47>
+	</table>
+</dataset>

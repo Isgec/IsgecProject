@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Type</td>
+    <td1>Retainer Name &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Retainer Code</td2>
+    <td3>Address</td3>
+    <td4>District</td4>
+    <td5>commission</td5>
+    <td6>Staff</td6>
+    <td7>TDS Deduct</td7>
+    <td8>Main Account&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Sub Account&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Pan No</td10>
+    <td11>Sub Acc Old Code</td11>
+    
+  </table> 
+  
+</newdataset>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+	<table>
+		<td>Company Name</td>
+		<td1>Plant Name&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+		<td2>Installment Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+		<td3>Date Of Entry&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+		<td4>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+		<td5>Date Of Start Installment&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+		<td6>No Of Installment&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+		<td7>Installment Amount&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+		<td8>Total Amount&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+		<td9>Periodicity&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+		<td10>Payment Mode&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+		<td11>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+		<!--<td12>COMP_CODE$~$UNIT_CODE$~$INST_CODE$~$INST_DATE$~$AGCD$~$DPCD$~$INST_STDT$~$NO_OF_INST$~$INST_AMT$~$TOT_INSTAMT$~$INST_FREQ$~$PAYMODE$~$ACHD$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$CIR_INSTALLMENT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td12>-->
+		<td12>COMP_CODE$~$UNIT_CODE$~$INST_CODE$~$INST_DATE$~$AGCD$~$DPCD$~$INST_STDT$~$NO_OF_INST$~$INST_AMT$~$INST_FREQ$~$PAYMODE$~$ACHD$~$PRO_TYPE$~$TOT_INSTAMT$~$OVER_DUE_DAYS$~$INST_STATUS$~$INST_ENDDT$~$RMRK$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$CIR_INSTALLMENT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td12>
+		<td13>COMP_CODE$~$UNIT_CODE$~$AGCD$~$INST_STDT</td13>
+		<td14>CIR_INSTALLMENT_MAST</td14>
+		<td15>COMP_CODE$~$UNIT_CODE$~$INST_CODE</td15>
+		<td16>Publication Type</td16>
+		<td17>Reason</td17>
+		<td18>Total Outstanding</td18>
+		<td19>Overdue Days</td19>
+		<td20>Status</td20>
+		<td21>Remark</td21>
+		<td22>Close Date</td22>
+		<td23>COMP_CODE$~$UNIT_CODE$~$INST_CODE$~$AGCD$~$DPCD$~$INST_NO$~$INST_DUEDT$~$INST_AMT$~$INST_CHQNO$~$INST_CHQDT$~$INST_CHQAMT$~$INST_ENDDT$~$INST_STATUS$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$BANK_CODE$~$PAYMODE$~$STATUS$~$CIR_INSTALLMENT_DET</td23>
+		<td24>COMP_CODE$~$INST_CODE$~$INST_NO</td24>
+		<td25>COMP_CODE$~$INST_CODE</td25>
+	</table>
+  <table1>
+    <td>Normal</td>
+    <td1>NM</td1>
+    <td2>Security</td2>
+    <td3>SC</td3>
+
+  </table1>
+
+  <table2>
+    <td0>Daily</td0>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>
+  </table2>
+  
+  <table3>
+    <td0>cash</td0>
+    <td1>c</td1>
+    <td2>bank</td2>
+    <td3>b</td3>
+    
+  </table3>
+
+  <table4>
+    <td0>Installment Code</td0>
+    <td1>Installment Amount</td1>
+    <td2>Agency Name</td2>
+    <td3>Account Type</td3>
+
+  </table4>
+	<table5>
+		<td>NewsPaper</td>
+		<td1>N</td1>
+		<td3>Magazine</td3>
+		<td4>M</td4>
+	</table5>
+
+	<table6>
+		<td>Start</td>
+		<td1>S</td1>
+		<td3>Close</td3>
+		<td4>C</td4>
+	</table6>
+
+	<table7>
+		<td>From Bill Date</td>
+		<td1>Till Bill Date</td1>
+		<td2>Publication Type</td2>
+		<td3>Publication</td3>
+		<td4>Submit</td4>
+		<td5>Installment Amount</td5>
+		<td6>COMP_CODE$~$UNIT_CODE$~$INST_CODE$~$AGCD$~$DPCD$~$INST_NO$~$INST_BILLNO$~$INST_BILLDT$~$INST_DUE_AMT$~$PUBL_CODE$~$CREATED_BY$~$CREATED_DT$~$UPDATED_BY$~$UPDATED_DT$~$STATUS$~$CIR_INST_BILL_DET$~$INSERT#UPDATE#DELETE#SELECT</td6>
+	</table7>
+  
+</newdata>

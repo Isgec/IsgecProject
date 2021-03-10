@@ -1,0 +1,43 @@
+﻿
+.gridview_correction
+{
+font-family:Trebuchet MS;
+color:Black;
+font-size:10px;
+vertical-align:middle;
+}
+
+.gridview_correction1
+{
+font-family:Trebuchet MS;
+color:Black;
+font-size:11px;
+vertical-align:middle;
+}
+
+
+
+.gridview_red
+{
+font-family:Trebuchet MS;
+color:Green;
+font-size:10px;
+vertical-align:middle;
+
+}
+
+
+.smallTextfield
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:45px;
+	text-transform:uppercase;
+		
+	
+}

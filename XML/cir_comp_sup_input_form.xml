@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newsdataset>
+	<table>
+		<td>Company Code</td>
+		<td1>Company Name</td1>
+		<td2>Unit Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Unit Name</td3>
+		<td4>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+		<td6>Type</td6>
+		<td7>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+		<td10>Other Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Drop Point&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Fatch Last Transection&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+    <td14>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td14>
+    <td15>With/Without Supply</td15>
+
+  </table>
+
+	
+</newsdataset>

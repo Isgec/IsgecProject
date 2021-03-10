@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <Table>
+    <td>Printing Center Code&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Company Code</td1>
+    <td2>Publication Name&lt;font color=red&gt;&lt;/Font&gt;</td2>
+    <td3>Edition</td3>
+    <!--<td4>Month&lt;font color=red&gt;*&lt;/Font&gt;</td4>-->
+    <!--<td5>Year&lt;font color=red&gt;*&lt;/Font&gt;</td5>-->
+    
+    <!--<td7>Order</td7>-->
+    <!--<td8>Day</td8>-->
+    <!--<td9>Language</td9>-->
+    <td4>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Taluka &lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency type </td8>
+    <td9> Agency class</td9>
+    <!--<td16>Supply Type</td16>-->
+    <td10>Company Name</td10>
+    <td11>Printing Center Name</td11>
+    <td12>Publication Type</td12>
+    <!--<td20>Break On</td20>-->
+    <td13>Report type</td13>
+    <td14>Destination</td14>
+    <td15>From Date</td15>
+    <td16>To Date</td16>
+    <!--<td22> Show Run Date</td22>-->
+    <!--<td23>Zone</td23>-->
+  </Table>
+  </Newdataset>

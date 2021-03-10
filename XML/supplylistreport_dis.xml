@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table>
+    <td>Company Code</td>
+    <td1>Unit Code</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Destination</td6>
+    <td7>Supply Type wise Report</td7>
+    <td8>Run Report</td8>
+    <td9>Language</td9>
+    <td10>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Sub Edition</td11>
+    <td12>Branch</td12>
+  </table>
+
+  <table1>
+    <td>Please Select From  Supply Date.$~$Please Select Report Destination.$~$Please Select To Supply Date.</td>
+  </table1>
+
+
+  <table2>
+    <td>Company Code</td>
+    <td1>Unit Code</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Agency</td5>
+    <td6>Agency Subcode</td6>
+    <td7>Label Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Label Print</td10>
+    <td11>Clear</td11>
+    <td12>Sub Edition</td12>
+    <td13>District</td13>
+    <td14>Taluka</td14>
+    <td15>Select Type</td15>
+    <td16>Packet Type</td16>
+    <td17>Supply From</td17>
+    <td18>Supply To</td18>
+    <td19>Order By&lt;font color=red&gt;*&lt;/Font&gt;</td19>
+  </table2>
+
+  <table3>
+    <td>Please Select Label Date.$~$Please Select Report Destination.</td>
+  </table3>
+
+
+  <table4>
+    <td>Company</td>
+    <td1>Unit</td1>
+    <td2>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Edtion</td3>
+    <td4>Route/District/Taluka</td4>
+    <td5>Report Destination</td5>
+    <td6>From Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Route/District/Taluka wise Supply Report</td7>
+    <td8>Report Orientation</td8>
+    <td9>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Language</td10>
+    <td11>Run Report</td11>
+    <td12>Detail</td12>
+    <td13>Summary</td13>
+    <td14>To Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Sub Edition</td15>
+  </table4>
+
+  <table5>
+    <td>Please Select Publication.$~$Please Select Report Destination.$~$Please Select Supply Date.$~$Please Select Report Orientation.$~$Please Select Report type.</td>
+  </table5>
+
+  <table6>
+    <td>SUPPLY TYPE WISE REPORT&lt;font weight=bold&gt;</td>
+    <td1>Supply Date</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Route Total&lt;font weight=bold&gt;</td5>
+    <td6>Edition Total&lt;font weight=bold&gt;</td6>
+    <td7>Publication Total&lt;font weight=bold&gt;</td7>
+    <td8>Grand Total&lt;font weight=bold&gt;</td8>
+  </table6>
+
+  <table7>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>Taluka</td4>
+    <td5>3</td5>
+    <td6>District Taluka</td6>
+    <td7>4</td7>
+  </table7>
+
+  <table8>
+    <td>Vertical</td>
+    <td1>1</td1>
+    <td2>Horizontal</td2>
+    <td3>2</td3>
+  </table8>
+
+  <table9>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td4>PDF File</td4>
+    <td5>3</td5>
+    <td6>Excel Sheet</td6>
+    <td7>4</td7>
+  </table9>
+
+  <table10>
+    <td>English</td>
+    <td1>1</td1>
+    <td2>Hindi</td2>
+    <td3>2</td3>
+  </table10>
+
+  <table11>
+    <td>Daily Variance Report</td>
+    <td1>Company</td1>
+    <td2>Unit</td2>
+    <td3>Publication&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Route/District/Taluka</td5>
+    <td6>First Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Second Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Language</td8>
+    <td9>Report Destination</td9>
+    <td10>Run Report</td10>
+    <td11>Edition</td11>
+    <td12>Edition wise</td12>
+    <td13>Route/District/Taluka wise</td13>
+    <td14>Sub Edition</td14>
+  </table11>
+
+  <table12>
+    <td>Please Select Publication.$~$Please Select Report type whether you want report Route/District/Taluka wise.$~$Please Select First Date.$~$Please Select Second Date.</td>
+  </table12>
+
+
+  <table13>
+    <td>Publication wise Taluka wise Daily Return Report</td>
+    <td1>Company</td1>
+    <td2>Unit</td2>
+    <td3>Publication</td3>
+    <td4>Edition</td4>
+    <td5>Agency</td5>
+    <td6>Taluka</td6>
+    <td7>Supply From Date</td7>
+    <td8>Supply To Date</td8>
+    <td9>Return From Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Return To Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Language</td11>
+    <td12>Report Destination</td12>
+    <td13>Run Report</td13>
+    <td14>Clear</td14>
+    <td15>Document Type&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+    <td16>Flag&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    <td17>Sub Edition</td17>
+  </table13>
+
+  <table14>
+    <td>UCN</td>
+    <td1>UCN</td1>
+  </table14>
+
+  <table15>
+    <td>Approved</td>
+    <td1>Y</td1>
+    <td2>Unapproved</td2>
+    <td3>N</td3>
+  </table15>
+
+  <table16>
+    <td>Please Select Doc Type.$~$Please Select Return From date.$~$Please Select Return To date.</td>
+  </table16>
+
+  <table17>
+    <td>Bill Print Report</td>
+    <td1>Company</td1>
+    <td2>Unit</td2>
+    <td3>Publication</td3>
+    <td4>Bill Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Agency Name</td5>
+    <td6>Agency Type</td6>
+    <td7>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bill From Number&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Bill Till Number&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Language</td11>
+    <td12>Report Destination</td12>
+    <td13>Run Report</td13>
+    <td14>Clear</td14>
+    <td15>Agency Code</td15>
+    <td16>Agency Sub Code</td16>
+    <td17>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Dist.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+
+  </table17>
+
+  <table18>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>
+  </table18>
+
+  <table19>
+    <td>Please Select Bill From Date.$~$Please Select Bill To Date.$~$Please Enter Bill From Number.$~$Please Enter Bill Till Number.</td>
+  </table19>
+
+  <table20>
+    <td>Agency wise Daily Return Report(District/Taluka)</td>
+    <td1>Company</td1>
+    <td2>Unit</td2>
+    <td3>Publication</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Language</td7>
+    <td8>Report Destination</td8>
+    <td9>Run Report</td9>
+    <td10>Cancel</td10>
+    <td11>District/Taluka</td11>
+    <td12>Agency Code</td12>
+    <td13>Agency Name</td13>
+    <td14>Document Type</td14>
+    <td15>Flag</td15>
+    <td16>Agency SubCode</td16>
+    <td17>Edition</td17>
+    <td18>Sub Edition</td18>
+  </table20>
+
+  <table21>
+    <td1>District</td1>
+    <td2>1</td2>
+    <td3>Taluka</td3>
+    <td4>2</td4>
+  </table21>
+
+  <table22>
+    <td>Collection Register Report (Normal/Security)</td>
+    <td1>Company</td1>
+    <td2>Unit&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>NM/Deposit</td5>
+    <td6>Document Type</td6>
+    <td7>Payment Mode</td7>
+    <td8>Language</td8>
+    <td9>Report Destination</td9>
+    <td10>Run Report</td10>
+    <td11>Cancel</td11>
+    <td12>Sub Edition</td12>
+  </table22>
+
+  <table23>
+    <td>--Select A/C Type--</td>
+    <td1>0</td1>
+    <td2>Normal</td2>
+    <td3>NM</td3>
+    <td4>Security</td4>
+    <td5>SC</td5>
+  </table23>
+
+  <table24>
+    <td>Please Select Unit.$~$Please Select From Date.$~$Please Select To Date.</td>
+  </table24>
+
+  <table25>
+    <td>Route</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>Taluka</td4>
+    <td5>3</td5>
+  </table25>
+
+  <table26>
+    <td>Suppliment</td>
+    <td1>S</td1>
+    <td2>Main Issue</td2>
+    <td3>M</td3>
+  </table26>
+
+  <table27>
+    <td>Open</td>
+    <td1>O</td1>
+    <td2>Inside</td2>
+    <td3>I</td3>
+  </table27>
+
+  <table28>
+    <td>On Screen</td>
+    <td1>1</td1>
+
+  </table28>
+</newdataset>
+

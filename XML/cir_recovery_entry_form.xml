@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name</td1>
+    <td2>Printing Center&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Agency Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Current Month Billing</td5>
+    <td6>Old O/s</td6>
+    <td7>Date Of Entry&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>For Month&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Net Balance</td9>
+    <td10>Comp. Copy Charges</td10>
+    <td11>Supply Charges</td11>
+    <td12>Incentive</td12>
+    <td13>Extra commission</td13>
+    <td14>Oth Adj.Amt.</td14>
+    <td15>Narration</td15>
+    <td16>DD Charges</td16>
+    <td17>Courier Charges</td17>
+    <td18>News Papaer Bill</td18>
+    <td19>Cash Discount</td19>
+    <td20>Cheque Bounced</td20>
+    <td21>Ch. No.</td21>
+    <td22>Bounced Chequed</td22>
+    <td23>Other Fine</td23>
+    <td24>Cash</td24>
+    <td25>Cheque</td25>
+    <td26>DD</td26>
+    <td27>Calculate</td27>
+    <td28>Save</td28>
+    <td29>Clear</td29>
+  </table>
+</Newdataset>

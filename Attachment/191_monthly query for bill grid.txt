@@ -1,0 +1,63 @@
+select DISTINCT tbl_booking_insert."Comp_Code",
+    tbl_booking_insert."Cio_Booking_Id",tbl_booking_mast."Trade_disc" as "Commission",
+    (select "Agency_Name" from agency_mast where agency_mast."code_subcode"=tbl_booking_mast."Agency_sub_code") as "Agency",
+     count( distinct tbl_booking_insert."No_Insert")as "NoOfAds",
+     NVL((SELECT "Cust_Alias" FROM CUST_MAST WHERE "Cust_Code"="Client_code"),"Client_code")  AS "client",
+     sum("Gross_Rate") as "TotalAmount","Insert_Status" as "Status",tbl_booking_mast."Agency_sub_code",BILL_NO,
+    (SELECT count(tbl_booking_insert."Insert_Id") FROM  tbl_booking_insert WHERE tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" AND
+    "Insert_Date" between '01-August-2020' and '31-August-2020'   
+     and  TBL_BOOKING_INSERT."Insert_Status" not in('cancel')) as "TotalCount"
+    ,(SELECT count(tbl_booking_insert."Insert_Id") FROM  tbl_booking_insert WHERE tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" AND
+    "Insert_Date" between '01-August-2020' and '31-August-2020' and  TBL_BOOKING_INSERT."Insert_Status" ='audit by rate'  and  TBL_BOOKING_INSERT."Insert_Status" ! ='cancel' )as "AuditCount"
+   ,(select nvl(ad_bills.PRINT_COUNT,0) from ad_bills  where  tbl_booking_insert."Comp_Code"=ad_bills.COMP_CODE_V and ad_bills.BILNO=tbl_booking_insert.BILL_NO and  rownum<=1 ) as "PrintCount"
+   ,(select BILL_REFID from ad_bills where idnum=tbl_booking_mast."cio_booking_id" and bilno=tbl_booking_insert.BILL_NO) refid
+   ,to_char(tbl_booking_insert.BILL_DATE,'dd/mm/yyyy')BILL_DATE,TO_CHAR(max("Insert_Date"),'DD/MM/YYYY')"pubdate", 
+   (select count(*) from ad_rcpthdr where "comp_code" = 'LOK01' and "doctype" in('DN','CN') 
+            and "ref_recptdt" = tbl_booking_insert.bill_date and "ref_recptno" = tbl_booking_insert.bill_no and "ref_doctype"='BILL' and nvl("amount",0)<>0) "INV_CNDN_COUNT",'0' as SEQNO
+     from tbl_booking_insert,tbl_booking_mast  where
+    TBL_BOOKING_INSERT.BILL_DATE between  '01-August-2020' and'31-August-2020' and /*'||ptodate||'=*/
+    --(select max("Insert_Date") from tbl_booking_insert where 
+    --tbl_booking_mast."Comp_code"=tbl_booking_insert."Comp_Code" 
+    --and tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id"
+    --AND  TBL_BOOKING_INSERT."Insert_Status" !='cancel' and bill_no is not null and
+    --bill_date between  '01-August-2020' and'31-August-2020' ) between '01-August-2020' and'31-August-2020'
+    --AND 
+    ("Ad_type_code"='' or  '' is null)  
+    and (TBL_BOOKING_INSERT."Insert_Status" ='billed')
+    AND
+    ((BILL_NO='') OR ('' IS NULL))
+    and tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" and tbl_booking_mast."ro_status" = '1'
+    and "Ad_type_code"='DI0' and tbl_booking_mast."Bill_cycle" in('6') and TBL_BOOKING_MAST."Booking_type" not in ('4','7') and TBL_BOOKING_MAST ."Booking_type" not in ('4','7') and TBL_BOOKING_MAST."Bill_pay" !='CA0' and TBL_BOOKING_MAST."Bill_cycle" ='4' and TBL_BOOKING_MAST."branch" IN (SELECT "Branch_Code" FROM BRANCH_MST WHERE TBL_BOOKING_MAST."branch"="Branch_Code" and "pub_center" = 'NA0') group by tbl_booking_insert."Cio_Booking_Id"
+,tbl_booking_mast."Agency_sub_code",
+"Insert_Status","Trade_disc",tbl_booking_mast."Client_code"
+,tbl_booking_insert.BILL_NO, tbl_booking_mast."cio_booking_id",tbl_booking_insert."Comp_Code",tbl_booking_insert.BILL_DATE  UNION select DISTINCT tbl_booking_insert."Comp_Code",
+    tbl_booking_insert."Cio_Booking_Id",tbl_booking_mast."Trade_disc" as "Commission",
+    (select "Agency_Name" from agency_mast where agency_mast."code_subcode"=tbl_booking_mast."Agency_sub_code") as "Agency",
+     count( distinct tbl_booking_insert."No_Insert")as "NoOfAds",
+     NVL((SELECT "Cust_Alias" FROM CUST_MAST WHERE "Cust_Code"="Client_code"),"Client_code")  AS "client",
+     sum("Gross_Rate") as "TotalAmount","Insert_Status" as "Status",tbl_booking_mast."Agency_sub_code",BILL_NO,
+    (SELECT count(tbl_booking_insert."Insert_Id") FROM  tbl_booking_insert WHERE tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" AND
+    "Insert_Date" between '01-August-2020' and '31-August-2020'   
+     and  TBL_BOOKING_INSERT."Insert_Status" not in('cancel')) as "TotalCount"
+    ,(SELECT count(tbl_booking_insert."Insert_Id") FROM  tbl_booking_insert WHERE tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" AND
+    "Insert_Date" between '01-August-2020' and '31-August-2020' and  TBL_BOOKING_INSERT."Insert_Status" ='audit by rate'  and  TBL_BOOKING_INSERT."Insert_Status" ! ='cancel' )as "AuditCount"
+   ,(select nvl(ad_bills.PRINT_COUNT,0) from ad_bills  where  tbl_booking_insert."Comp_Code"=ad_bills.COMP_CODE_V and ad_bills.BILNO=tbl_booking_insert.BILL_NO and  rownum<=1 ) as "PrintCount"
+   ,(select BILL_REFID from ad_bills where idnum=tbl_booking_mast."cio_booking_id" and bilno=tbl_booking_insert.BILL_NO) refid
+   ,to_char(tbl_booking_insert.BILL_DATE,'dd/mm/yyyy')BILL_DATE,TO_CHAR(max("Insert_Date"),'DD/MM/YYYY')"pubdate", 0 "INV_CNDN_COUNT",'0' as SEQNO
+     from tbl_booking_insert,tbl_booking_mast  where
+    TBL_BOOKING_INSERT.BILL_DATE between  '01-August-2020' and'31-August-2020' and /*'||ptodate||'=*/
+    --(select max("Insert_Date") from tbl_booking_insert where 
+    --tbl_booking_mast."Comp_code"=tbl_booking_insert."Comp_Code" 
+    --and tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id"
+    --AND  TBL_BOOKING_INSERT."Insert_Status" !='cancel' and bill_no is not null and
+    --bill_date between  '01-August-2020' and'31-August-2020' ) between '01-August-2020' and'31-August-2020'
+    --AND ("Ad_type_code"='' or  '' is null)  
+    --and 
+    (TBL_BOOKING_INSERT."Insert_Status" ='billed')
+    AND ((BILL_NO='') OR ('' IS NULL))
+    and tbl_booking_mast."cio_booking_id"=tbl_booking_insert."Cio_Booking_Id" and tbl_booking_mast."ro_status" = '1'
+    and "Ad_type_code"='DI0' --and tbl_booking_mast."Bill_cycle" in('4')
+     and TBL_BOOKING_MAST ."Bill_cycle" ='4' and TBL_BOOKING_MAST ."Bill_cycle" ='4' and TBL_BOOKING_MAST ."Booking_type" not in ('4','7') and TBL_BOOKING_MAST ."Booking_type" not in (select BKTYPE_CODE from ad_bktype_mast where BILL_PAID = 'N') and TBL_BOOKING_MAST ."Bill_pay" !='CA0' and TBL_BOOKING_MAST."branch" IN (SELECT "Branch_Code" FROM BRANCH_MST WHERE TBL_BOOKING_MAST."branch"="Branch_Code" and "pub_center" = 'NA0') group by tbl_booking_insert."Cio_Booking_Id"
+,tbl_booking_mast."Agency_sub_code",
+"Insert_Status","Trade_disc",tbl_booking_mast."Client_code"
+,tbl_booking_insert.BILL_NO, tbl_booking_mast."cio_booking_id" , tbl_booking_insert."Comp_Code",tbl_booking_insert.BILL_DATE order by  BILL_NO, refid, "PrintCount","Cio_Booking_Id"

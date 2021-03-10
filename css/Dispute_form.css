@@ -1,0 +1,54 @@
+﻿.Textbox1
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+width:150px;
+	
+}
+
+
+.label
+{
+	font-family: Trebuchet MS;
+	font-size: 13px;
+	/*color:#336699;*/
+	color:black;
+	text-align:left;
+	
+}
+
+.lblgrid
+{
+	font-family: Trebuchet MS;
+	font-size: 14px;
+	/*color:#336699;*/
+	color:black;
+}
+.grid
+{
+	border:1px solid #7DAAE3;
+	padding-right:4px;
+	font-family: Trebuchet MS;
+	font-size: 14px;
+	/*color:#336699;*/
+	color:black;
+
+}
+.lblgrid_new
+{
+	font-family: Trebuchet MS;
+	font-size: 11px;
+	/*color:#336699;*/
+	color:black;
+}
+.btn
+{
+	font-family: Trebuchet MS;
+	font-size: 12px;
+	
+	color:black;
+
+}

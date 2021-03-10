@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <Table>
+    <td>Location Id</td>
+    <td1>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3></td3>
+    <td4>Suppply Code</td4>
+    <td5>Submission Date</td5>
+    <td6>Report Type</td6> 
+    <td7>Route Wise Customer Detail</td7>
+	<td8>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+	<td9>Country&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+	<td10>Town&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Unsold Check</td11>
+    <td12>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    </Table>
+  
+  </NewDataSet>

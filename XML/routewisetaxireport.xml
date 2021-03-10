@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit</td1>
+    <td2>Route Code</td2>
+    <td3>Transporter Code</td3>
+    <td4>Format</td4>
+    <td5>Language</td5>
+    <td6>From Date</td6>
+    <td7>To Date</td7>
+    <td8>Route Type</td8>
+    <td9>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Sub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Sub Sub Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Based On&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+  </table>
+
+  <table1>
+    <td>Run Date</td>
+    <td1>Route Wise Taxi Report</td1>
+    <td2>Route Name</td2>
+    <td3>TRANS. CODE</td3>
+    <td4>TRANS. NAME</td4>
+    <td5>VEHICLE NAME</td5>
+    <td6>VEHICLE NO.</td6>
+    <td7>VEHICLE MODEL NO.</td7>
+    <td8>VEHICLE OWNER NAME</td8>
+    <td9>START DATE</td9>
+    <td10>NO.OF BUNDLE</td10>
+    <td11>RATE FREQ.</td11>
+    <td12>RATE TYPE</td12>
+    <td13>RATE</td13>
+    <td14>S.NO.</td14>
+    <td15>DEPARTURE DATE</td15>
+    <td16>Distance</td16>
+    <td17>Total Amt</td17>
+    
+  </table1>
+  <table2>
+    <td>Excel</td>
+    <td1>exc</td1>
+    <td2>Pdf Format</td2>
+    <td3>pdf</td3>
+  </table2>
+  <table3>
+    <td>Hindi</td>
+    <td1>hind</td1>
+  </table3>
+
+  <table4>
+    <td>Sub Route</td>
+    <td1>S</td1>
+    <td2>Sub Sub Route</td2>
+    <td3>E</td3>
+  </table4>
+
+  <table5>
+    <td>Summary</td>
+    <td1>S</td1>
+  </table5>
+
+</newdataset>

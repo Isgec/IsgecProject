@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<table>
+  <td>Dispute Code</td>
+  <td1>Dispute Description</td1>
+  <td2>Alias</td2>
+  <td3>Freeze Flag</td3>
+  <td4>dispute_id$~$dispute_desc$~$dispute_alias$~$freeze_flag$~$ins_by$~$ins_date$~$Dispute_Type_mast$~$INSERT#UPDATE#DELETE#SELECT</td4>
+  <td5>dispute_id$~$dispute_desc$~$dispute_alias$~$freeze_flag$~$UPD_BY$~$UPD_DATE$~$Dispute_Type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>
+  <td6>dispute_id$~$</td6>
+  <td7>dispute_id$~$dispute_desc$~$dispute_alias$~$freeze_flag$~$Dispute_Type_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>
+</table>

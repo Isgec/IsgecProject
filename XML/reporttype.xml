@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+	<table>
+		<tr>Branch Wise</tr>
+		<tr1>B</tr1>
+		<tr2>City Wise</tr2>
+		<tr3>C</tr3>
+		<tr4>District Wise</tr4>
+		<tr5>D</tr5>
+		<tr6>Printing Center Wise</tr6>
+		<tr7>P</tr7>
+		<tr8>Region Wise</tr8>
+		<tr9>R</tr9>
+		<tr10>Taluka Wise</tr10>
+		<tr11>T</tr11>
+		<tr12>Zone Wise</tr12>
+		<tr13>Z</tr13>
+		
+		<tr14>Executive</tr14>
+		<tr15>E</tr15>
+		<tr16>Retainer</tr16>
+		<tr17>R</tr17>
+		
+	</table>
+</newdata>

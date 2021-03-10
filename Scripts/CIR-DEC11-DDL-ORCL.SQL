@@ -1,0 +1,255 @@
+/***********************mimoh 7dec 2011*********************************0005889****************/
+ALTER TABLE CIR_SUSPEND_TRAN ADD AGENCY_UNBLOCK_TYPE VARCHAR2(50);
+ALTER TABLE CIR_SUSPEND_TRAN ADD AGENCY_UNBLOCK_APPROVAL VARCHAR2(1);
+
+/***********************mimoh 7-dec-2011*********************************0005889****************/
+
+/***********************Laxman 12-dec-2011*********/
+CREATE TABLE CIR_SPONS_HDR
+(COMP_CODE      VARCHAR2(8) NOT NULL,
+ SPONS_ID       NUMBER(6)   NOT NULL,     
+ UNIT_CODE      VARCHAR2(8) NOT NULL,
+ BRAN_CODE      VARCHAR2(8),
+ SPONS_AGCD     VARCHAR2(8) NOT NULL,
+ SPONS_DPCD     VARCHAR2(8) NOT NULL,
+ SPONS_ST_DATE  DATE        NOT NULL,
+ SPONS_END_DATE DATE        NOT NULL,
+ CREATED_BY     VARCHAR2(30),
+ CREATED_DT     DATE DEFAULT SYSDATE,
+ UPDATED_BY     VARCHAR2(30),
+ UPDATED_DT     DATE,
+ CONSTRAINT CIR_SPONS_HDR_PK PRIMARY KEY(COMP_CODE, SPONS_ID))
+ 
+ CREATE TABLE CIR_SPONS_DET
+(COMP_CODE          VARCHAR2(8) NOT NULL,
+ SPONS_ID           NUMBER(6)   NOT NULL,     
+ UNIT_CODE          VARCHAR2(8) NOT NULL,
+ BRAN_CODE          VARCHAR2(8),
+ SPONS_AGCD         VARCHAR2(8) NOT NULL,
+ SPONS_DPCD         VARCHAR2(8) NOT NULL,
+ SPONS_ST_DATE      DATE        NOT NULL,
+ SPONS_END_DATE     DATE        NOT NULL,
+ PUBL               VARCHAR2(8) NOT NULL,
+ EDTN               VARCHAR2(8) NOT NULL,
+ SUP_TY_CODE        VARCHAR2(8) NOT NULL,
+ SPONS_COPY         NUMBER(5)   NOT NULL,
+ SPONS_COPY_RATE    NUMBER(12,2)NOT NULL,
+ SPONS_LIMIT_AMT    NUMBER(15,2)NOT NULL,
+ SUP_AGCD           VARCHAR2(8) NOT NULL,
+ SUP_DPCD           VARCHAR2(8) NOT NULL,
+ CREATED_BY         VARCHAR2(30),
+ CREATED_DT         DATE        DEFAULT SYSDATE,
+ UPDATED_BY         VARCHAR2(30),
+ UPDATED_DT         DATE,
+ CONSTRAINT CIR_SPONS_DET_PK PRIMARY KEY(COMP_CODE,SPONS_ID,PUBL,EDTN,SUP_TY_CODE,SUP_AGCD,SUP_DPCD),
+ CONSTRAINT CIR_SPONS_DET_FK FOREIGN KEY (COMP_CODE,SPONS_ID) REFERENCES CIR_SPONS_HDR(COMP_CODE,SPONS_ID)
+ ON DELETE CASCADE)
+/***********************Laxman 12-dec-2011*********/
+/************ Sushil 09-12-2011 ************************/
+alter table cir_dbksup add final_supply_flag varchar2(1)
+
+alter table cir_dbksup_dis add final_supply_flag varchar2(1)
+/************ Sushil 09-12-2011 ************************/
+///////////////////////////////////////////13dec
+DROP TABLE CIR_INCT_PROCESS_DET CASCADE CONSTRAINTS;
+
+CREATE TABLE CIR_INCT_PROCESS_DET
+( COMP_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  UNIT_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  PUBL_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  EDTN_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  SUP_TYPE_CODE  VARCHAR2(20 BYTE)              NOT NULL,
+  FROM_PDATE     DATE,
+  TILL_PDATE     DATE,
+  AGCD           VARCHAR2(8 BYTE)               NOT NULL,
+  DPCD           VARCHAR2(8 BYTE)               NOT NULL,
+  TOT_SUPPLY     NUMBER(7)                      DEFAULT 0,
+  FROM_SUPPLY    NUMBER(7)                      DEFAULT 0,
+  TILL_SUPPLY    NUMBER(7)                      DEFAULT 0,
+  INCT_RATE      NUMBER(10,2)                   DEFAULT 0,
+  CALC_TYPE      VARCHAR2(1 BYTE)               DEFAULT 'P',
+  AMOUNT         NUMBER(12,2)                   NOT NULL,
+  DOCTYPE        VARCHAR2(5 BYTE)               NOT NULL,
+  RECPTDT        DATE                           NOT NULL,
+  RECPTNO        VARCHAR2(20 BYTE)              NOT NULL,
+  BILAGCD        VARCHAR2(8 BYTE)               NOT NULL,
+  BILDPCD        VARCHAR2(8 BYTE)               NOT NULL,
+  CREATED_BY     VARCHAR2(8 BYTE),
+  CREATED_DATE   DATE                           DEFAULT SYSDATE,
+  UPDATED_BY     VARCHAR2(8 BYTE),
+  UPDATED_DATE   DATE,
+  TRAN_TYPE      VARCHAR2(3 BYTE)               DEFAULT 'EXP',
+  REASON         VARCHAR2(100 BYTE),
+  EXP_TYPE_CODE  VARCHAR2(8 BYTE),
+  FINAL_PROCESS  VARCHAR2(1 BYTE)               DEFAULT 'N');
+
+//////////////////////////////
+DROP TABLE CIR_INCT_PROCESS_DET_TEMP CASCADE CONSTRAINTS;
+
+CREATE TABLE CIR_INCT_PROCESS_DET_TEMP
+( COMP_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  UNIT_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  PUBL_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  EDTN_CODE      VARCHAR2(8 BYTE)               NOT NULL,
+  SUP_TYPE_CODE  VARCHAR2(20 BYTE)              NOT NULL,
+  FROM_PDATE     DATE,
+  TILL_PDATE     DATE,
+  AGCD           VARCHAR2(8 BYTE)               NOT NULL,
+  DPCD           VARCHAR2(8 BYTE)               NOT NULL,
+  TOT_SUPPLY     NUMBER(7)                      DEFAULT 0,
+  FROM_SUPPLY    NUMBER(7)                      DEFAULT 0,
+  TILL_SUPPLY    NUMBER(7)                      DEFAULT 0,
+  INCT_RATE      NUMBER(10,2)                   DEFAULT 0,
+  CALC_TYPE      VARCHAR2(1 BYTE)               DEFAULT 'P',
+  AMOUNT         NUMBER(12,2)                   NOT NULL,
+  DOCTYPE        VARCHAR2(5 BYTE)               NOT NULL,
+  RECPTDT        DATE                           NOT NULL,
+  RECPTNO        VARCHAR2(20 BYTE)              NOT NULL,
+  BILAGCD        VARCHAR2(8 BYTE)               NOT NULL,
+  BILDPCD        VARCHAR2(8 BYTE)               NOT NULL,
+  CREATED_BY     VARCHAR2(8 BYTE),
+  CREATED_DATE   DATE                           DEFAULT SYSDATE,
+  UPDATED_BY     VARCHAR2(8 BYTE),
+  UPDATED_DATE   DATE,
+  TRAN_TYPE      VARCHAR2(3 BYTE)               DEFAULT 'EXP',
+  REASON         VARCHAR2(100 BYTE),
+  EXP_TYPE_CODE  VARCHAR2(8 BYTE),
+  FINAL_PROCESS  VARCHAR2(1 BYTE)               DEFAULT 'N');
+
+
+CREATE TABLE CIR_INCT_SLAB_TEMP
+( COMP_CODE     VARCHAR2(100 BYTE),
+  INCT_TYPE     VARCHAR2(100 BYTE),
+  UNIT_CODE     VARCHAR2(100 BYTE),
+  BRANCH_CODE   VARCHAR2(100 BYTE),
+  PUBL_CODE     VARCHAR2(100 BYTE),
+  MEDTN_CODE    VARCHAR2(100 BYTE),
+  EDTN_CODE     VARCHAR2(100 BYTE),
+  AGENCY_TYPE   VARCHAR2(100 BYTE),
+  SUPPLY_TYPE   VARCHAR2(100 BYTE),
+  CALC_TYPE     VARCHAR2(1 BYTE),
+  EFF_DATE      DATE,
+  PROCESS_TYPE  VARCHAR2(100 BYTE),
+  SUPPLY_FROM   NUMBER(10),
+  SUPPLY_TILL   NUMBER(10),
+  INCT_AMT      NUMBER(12,2),
+  PROCESS_ID    NUMBER(30));
+
+/************************* 14-dec-2011 Laxman ******************/
+ALTER TABLE PREFERRENCES  ADD CIR_BILL_PUBLWISE VARCHAR2(1) DEFAULT 'N'
+
+ALTER TABLE CIR_INCT_PROCESS_DET_TEMP ADD(SUPPLY_ON_CALC   NUMBER(7),NO_OF_DAYS NUMBER(5))
+ALTER TABLE CIR_INCT_PROCESS_DET ADD(SUPPLY_ON_CALC   NUMBER(7),NO_OF_DAYS NUMBER(5))
+
+ALTER TABLE CIR_UNSOLD_HDR ADD(BRANCH_TRFNO    VARCHAR2(20),BRANCH_TRFDT    DATE,BRANCH_TRF_USERID VARCHAR2(20)) 
+
+ALTER TABLE CIR_UNSOLD_DTL ADD(NO_OF_PACKET NUMBER(5))
+/************************* 14-dec-2011 Laxman ******************/
+
+ALTER TABLE CIR_UNSOLD_APR_PERMISSION ADD(PRINTING_CENTER  VARCHAR2(20),REGION VARCHAR2(20),ZONE  VARCHAR2(20),PUBL  VARCHAR2(20),EDTN   VARCHAR2(20),SUB_EDTN  VARCHAR2(20),FREQUENCY VARCHAR2(20),UNS_APR_DAYS  NUMBER(10))
+
+ALTER TABLE CIR_LATE_FEE_MAST ADD RATE_TYPE VARCHAR2(1) DEFAULT 'F';
+
+/*******************************Laxman 21-dec-2011*************************/
+CREATE TABLE CIR_RCPHDR_PROV
+( COMP_CODE      VARCHAR2(8)    NOT NULL,
+  UNIT_CODE      VARCHAR2(8)    NOT NULL,
+  DOCTYPE        VARCHAR2(3)    NOT NULL,
+  AGCD           VARCHAR2(8)    NOT NULL,
+  DPCD           VARCHAR2(8)    NOT NULL,
+  RECPTNO        VARCHAR2(20)   NOT NULL,
+  RECPTDT        DATE           NOT NULL,
+  CHNO           VARCHAR2(30),
+  CHDT           DATE,
+  CHBANK         VARCHAR2(30),
+  AMOUNT         NUMBER(14,2)   DEFAULT 0,
+  OTH_AMOUNT     NUMBER(14,2),
+  CCDP           VARCHAR2(14),
+  CCDS           VARCHAR2(10),
+  RCDP           VARCHAR2(14),
+  RCDS           VARCHAR2(10),
+  OCDP           VARCHAR2(14),
+  OCDS           VARCHAR2(10),
+  REASON         VARCHAR2(200),
+  REMARK         VARCHAR2(200),
+  ACHD           VARCHAR2(3)    DEFAULT 'NM',
+  PUBL           VARCHAR2(5),
+  RECEIVED_FROM  VARCHAR2(100),
+  STATUS         VARCHAR2(1),
+  REF_RECPTNO    VARCHAR2(20),
+  REF_RECPTDT    DATE,
+  REF_DOCTYPE    VARCHAR2(3),
+  USERID         VARCHAR2(10),
+  CREATION_DATE  DATE           DEFAULT SYSDATE,
+  BRANCH_CODE    VARCHAR2(8),
+  BKUP_SNO       NUMBER(30),
+  UPDATED_BY     VARCHAR2(20),
+  UPDATED_DT     DATE,      
+  CONSTRAINT CIR_RCPHDR_PROV_PK PRIMARY KEY (COMP_CODE, UNIT_CODE, DOCTYPE, RECPTNO))
+/
+
+CREATE TABLE AD_RCPTHDR_SEC
+( UNIT               VARCHAR2(10)          NOT NULL,
+  AGCODE             VARCHAR2(18)          NOT NULL,
+  DOCTYPE            VARCHAR2(20)          NOT NULL,
+  ROIDNUM            VARCHAR2(12),
+  RECPTNO            VARCHAR2(20)         NOT NULL,
+  RECPTDT            DATE                 NOT NULL,
+  CHNO               VARCHAR2(30),
+  CHDT               DATE,
+  BANK               VARCHAR2(30),
+  AMOUNT             NUMBER(15,2),
+  OTH_AMOUNT         NUMBER(15,2),
+  REASON             VARCHAR2(10),
+  VOUCHERNO          VARCHAR2(20),
+  CASHBANK           VARCHAR2(8),
+  REVENUE            VARCHAR2(8),
+  REPCODE            VARCHAR2(8),
+  STATION            VARCHAR2(30),
+  REMARK             VARCHAR2(200),
+  REF_RECPTNO        VARCHAR2(20),
+  REF_RECPTDT        DATE,
+  REF_AMOUNT         NUMBER(15,2),
+  REF_DOCTYPE        VARCHAR2(3),
+  USERID             VARCHAR2(8)           NOT NULL,
+  USERDATE           DATE,
+  USERIP             VARCHAR2(16),
+  COMP_CODE          VARCHAR2(8)           NOT NULL,
+  CREATION_DATETIME  DATE                  DEFAULT SYSDATE   NOT NULL,
+  RECEIVED_REGION    VARCHAR2(8)           NOT NULL,
+  VOUCHERDATE        DATE,
+  AG_MAIN_CODE       VARCHAR2(8),
+  AG_SUB_CODE        VARCHAR2(8),
+  FLAG               VARCHAR2(10),
+  UPDATED_BY         VARCHAR2(30),
+  UPDATED_DT         DATE,
+  BKUP_SNO           NUMBER(30),
+  CONSTRAINT AD_RCPTHDR_SEC_PK PRIMARY KEY (COMP_CODE, UNIT, DOCTYPE, RECPTNO))
+
+ALTER TABLE CIR_INCT_PROCESS_DET_TEMP ADD CN_THROUGH VARCHAR2 (1)
+ALTER TABLE CIR_INCT_PROCESS_DET ADD CN_THROUGH VARCHAR2 (1)
+/*******************************Laxman 21-dec-2011*************************/
+
+/*******************************Laxman 23-dec-2011*************/
+ALTER TABLE CIR_AGENCY_REMARK ADD EFFECTIVE_TILL DATE
+/*******************************Laxman 23-dec-2011*************/
+
+/*******************************Laxman 26-dec-2011 issue no. 6137*************/
+ALTER TABLE CRM_SCH_PUBL_EXPIRY ADD (EDITION_CODE VARCHAR2(3),AGCD VARCHAR2(8),DPCD VARCHAR2(8),SUP_TY_CODE VARCHAR2(5))
+
+ALTER TABLE PREFERRENCES ADD (CRM_SUPPLY_TYPE_PAID VARCHAR2(5),CRM_SUPPLY_TYPE_FREE VARCHAR2(5))
+/*******************************Laxman 23-dec-2011 issue no. 6137*************/
+
+/*******************************Laxman 27-dec-2011*************/
+ALTER TABLE CIR_INCT_SLAB_HDR ADD RMRK VARCHAR2(200)
+
+/*******************************Laxman 27-dec-2011*************/
+/***********************mimoh 28dec 2011*********6162****************************************/
+ALTER TABLE HT18JULY.PREFERRENCES
+ADD (CURRENCY_MEASUREMENT VARCHAR2(5 BYTE));
+
+/***********************mimoh 28dec 2011*********6162****************************************/
+
+/**************************sponsership master laxman ***********************/
+ALTER TABLE CIR_SPONS_DET ADD SPONS_AMT NUMBER(15,2)
+/**************************sponsership master laxman ***********************/

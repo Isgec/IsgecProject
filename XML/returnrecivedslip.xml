@@ -1,0 +1,20 @@
+﻿<newdataset>
+  <table>
+    <td>Return Recieved Slip</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Branch</td3>
+    <td4>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Report Destination</td9>
+    <td10>Approved Flag</td10>
+    <td11>Run Date</td11>
+    <td12>From Date:</td12>
+    <td13>To Date:</td13>
+    <td14>Company Name</td14>
+    <td15>Printing Center Name</td15>
+  </table>
+</newdataset>

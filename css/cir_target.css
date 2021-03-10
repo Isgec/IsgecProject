@@ -1,0 +1,68 @@
+﻿.subhead
+{
+ font-family: verdana ;
+ color:Black;
+ FONT-WEIGHT:normal ;
+ font-size: 12px;
+ text-align:center ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ 
+}
+.records
+	{
+		font-family:verdana;
+		font-size:10px;
+		color: Black;
+		font-weight:normal;
+		text-align:left ;
+		vertical-align :top;
+	}
+	.records2
+	{
+		font-family:verdana;
+		font-size:11px;
+		color: Black;
+		font-weight:normal;
+		text-align:right ;
+		vertical-align :top;
+	}
+	
+		.records3
+	{
+		font-family:verdana;
+		font-size:11px;
+		color: Black;
+		font-weight:normal;
+		text-align:right ;
+		vertical-align :top;
+		border-right:solid 1px black;
+	}
+	
+	.subhead2
+{
+ font-family: verdana ;
+ color:Black;
+ FONT-WEIGHT:normal ;
+ font-size: 12px;
+ text-align:center ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-bottom:solid 1px black;
+ 
+}
+	.subhead3
+{
+ font-family: verdana ;
+ color:Black;
+ FONT-WEIGHT:normal ;
+ font-size: 12px;
+ text-align:center ;
+ padding-left :0px;
+ vertical-align :text-top ;
+ font-weight :bold;
+ border-right:solid 1px black;
+ 
+}

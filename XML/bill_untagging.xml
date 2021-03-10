@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company</td>
+    <td1>Unit Name</td1>
+    <td2>Doctype</td2>
+    <td3>Sales Group</td3>
+    <td4>Remaining Amt.</td4>
+    <td5>Receipt Date</td5>
+    <td6>receipt No.</td6>
+    <td7>Voucher No.</td7>
+    <td8>Voucher Date</td8>
+    <td9>Paymode</td9>
+    <td10>A/C Type</td10>
+    <td11>Receipt By</td11>
+    <td12>GL Code</td12>
+    <td13>Client Name</td13>
+    <td14>Executive</td14>
+    <td15>Cheque No.</td15>
+    <td16>Cheque Date</td16>
+    <td17>Bank</td17>
+    <td18>Narration</td18>
+    <td19>Amount</td19>
+    <td20>Bank Charges</td20>
+    <td21>Old Voucher No.</td21>
+    <td22>Create User</td22>
+    <td23>Debit A/C</td23>
+    <td24>Credit A/C</td24>
+    <td25>Bank Charges</td25>
+    <td26>City Code</td26>
+    <td27>Region</td27>
+    <td28>Dist Code</td28>
+  </table>  
+</dataset>

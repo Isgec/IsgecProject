@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <Table>
+    <td>FILE_NO</td>
+    <td1>BRANCH_CODE</td1>
+    <td2>BRANCH_DESC</td2>
+    <td3>SUPERVISED_BY</td3>
+    <td4>NAMA SUPERVISED_BY</td4>
+    <td5>BILANGAN</td5>
+
+
+
+  </Table>
+
+  <Table1>
+    <td>Bilangan_sekolah_</td>
+    <td1>Fail Maklumat Sekolah</td1>
+    <td2>Bilangan_Agen_</td2>
+    <td3>Fail Maklumat Agent</td3>
+
+
+
+  </Table1>
+
+
+  <Table2>
+    <td>name</td>
+    <td1>company_address1</td1>
+    <td2>company_address2</td2>
+    <td3>company_zip</td3>
+    <td4>company_address3</td4>
+    <td5>state_name</td5>
+    <td6>compute_0007</td6>
+    <td7>contact_person</td7>
+    <td8>phone1</td8>
+    <td9>fax1</td9>
+    <td10>compute_0011</td10>
+    <td11>code</td11>
+    <td12>compute_0013</td12>
+
+  </Table2>
+
+
+  <Table3>
+    <td>C:\CIO365\DATAPOS\stmt_school\</td>
+  </Table3>
+
+
+  <Table4>
+    <td>C:\CIO365\DATAPOS\stmt_monthly\</td>
+  </Table4>
+
+
+
+</Newdataset>

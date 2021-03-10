@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td0>P.O Summary Date</td0>
+    <td1>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Report Destination</td7>
+    <td8>Run Date</td8>
+  </table>
+
+  <table1>
+    <td1>For Supply Type Wise</td1>
+    <td2>1</td2>
+    <td3>For Edition Wise</td3>
+    <td4>2</td4>
+  </table1>
+
+  <table2>
+    <td>On Screen</td>
+    <td1>ons</td1>
+    <td2>Excel sheet</td2>
+    <td3>exc</td3>
+    <td4>Pdf File</td4>
+    <td5>pdf</td5>
+  </table2>
+
+  <table3>
+    <td1>Yes</td1>
+    <td2>y</td2>
+    <td3>NO</td3>
+    <td4>n</td4>
+  </table3>
+  
+  </newdataset>

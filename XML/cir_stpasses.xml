@@ -1,0 +1,38 @@
+﻿<newdataset>
+  <table>
+    <td>S.T Passes</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Branch</td3>
+    <td4>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>To date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Route Mode&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Copy Packet&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Adjust Copy</td10>
+    <td11>Per Packet Rate&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Report Destination</td12>
+    <td13>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>From Date:</td14>
+    <td15>To Date:</td15>
+    <td16>Run date</td16>
+    <td17>Route&lt;font color=red&gt;[F2]&lt;/Font&gt;</td17>
+    <td18>Language</td18>
+    <td19>Dist.</td19>
+    <td20>Taluka</td20>
+    <td21>Supply Date&lt;font color=red&gt;*&lt;/Font&gt;</td21>
+    <td22>Copy Packet</td22>
+    <td23>Packet Rate</td23>
+    <td24>Break On</td24>
+    <td25>Company Name</td25>
+    <td26>Printing Center Name</td26>
+    <td27>Publication Type</td27>
+  </table>
+  <table1>
+    <td>Other Language</td>
+    <td1>2</td1>
+    
+  </table1>
+  
+</newdataset>

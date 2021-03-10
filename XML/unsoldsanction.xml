@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+	<table>
+		<td>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td>
+		<td1>Branch&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+		<td2>Supply Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Receipt No.&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Unsold Sanction Receipt No.</td4>
+		<td5>Unsold Sanction Date</td5>
+
+		<td6>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ENTRYDT$~$AGCD$~$DPCD$~$FRDT$~$TODT$~$USERID$~$APP_USERID$~$APP_DT$~$PUBL$~$EDTN$~$VAR_USERID$~$SUP_AGCD$~$SUP_DPCD$~$REF_DOCTYPE$~$REF_RECPTNO$~$REF_RECPTDT$~$CIR_UNSOLD_HDR$~$INSERT#UPDATE#DELETE#SELECT</td6>
+		<td7>INSERT#UPDATE#DELETE#SELECT</td7>
+
+		<td8>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT$~$ENTRYDT$~$AGCD$~$DPCD$~$SUPDATE$~$SHORT_RECPT$~$LATE_RECPT$~$BNR$~$UNSOLD$~$APR_SHORT_RECPT$~$APR_LATE_RECPT$~$APR_BNR$~$APR_UNSOLD$~$USERID$~$COPY_RATE$~$COMM_RATE$~$WASTE_ALW$~$WASTE_RATE$~$COPY_AMT$~$COMM_AMT$~$WASTE_AMT$~$APP_USERID$~$APP_DT$~$PUBL$~$EDTN$~$SUPPLY_COPY$~$RATE_SUPPLY$~$BRANCH_CODE$~$RETURN_PER$~$DAMAGE$~$APR_DAMAGE$~$VAR_SHORT_RECPT$~$VAR_LATE_RECPT$~$VAR_BNR$~$VAR_UNSOLD$~$VAR_DAMAGE$~$VAR_USERID$~$VAR_DT$~$SUP_AGCD$~$SUP_DPCD$~$UPDATE_BY$~$UPDATE_DT$~$REF_DOCTYPE$~$REF_RECPTNO$~$REF_RECPTDT$~$CIR_UNSOLD_DTL$~$INSERT#UPDATE#DELETE#SELECT</td8>
+      <td9>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO$~$RECPTDT</td9>
+    <td10>From Unsold Return Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>To Unsold Return Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Submit</td12>
+	</table>
+</Newdataset>
+
+

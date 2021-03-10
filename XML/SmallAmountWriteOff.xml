@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <Table>
+    <td>Branch Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td>
+    <td1>Agency Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td1>
+    <td2>Type(Cr./Dr.)&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Process Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Amount Upto&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Write Off A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+	  <td8>Reason&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Agency Type</td9>
+    <td10>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td10>
+	  
+  </Table>
+</NewDataSet>

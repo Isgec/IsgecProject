@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+  <table>
+    <td>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Agency Type&lt;font color=red&gt;&lt;/Font&gt;</td4>
+    <td5>Agency Class&lt;font color=red&gt;&lt;/Font&gt;</td5>
+    <td6>Month&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Year&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td8>
+    <td9>Clear</td9>
+    <td10>Report Type</td10>
+    <td11>Credit Rating Report</td11>
+    <td12>Till Expiry Month</td12>
+  </table>
+
+  <table1>
+    <td1>January</td1>
+    <td2>01</td2>
+    <td3>February</td3>
+    <td4>02</td4>
+    <td5>March</td5>
+    <td6>03</td6>
+    <td7>April</td7>
+    <td8>04</td8>
+    <td9>May</td9>
+    <td10>05</td10>
+    <td11>June</td11>
+    <td12>06</td12>
+    <td13>July</td13>
+    <td14>07</td14>
+    <td15>August</td15>
+    <td16>08</td16>
+    <td17>September</td17>
+    <td18>09</td18>
+    <td19>October</td19>
+    <td20>10</td20>
+    <td21>November</td21>
+    <td22>11</td22>
+    <td23>December</td23>
+    <td24>12</td24>
+  </table1>
+
+  <table2>
+    <td1>2000</td1>
+    <td2>00</td2>
+    <td3>2001</td3>
+    <td4>01</td4>
+    <td5>2002</td5>
+    <td6>02</td6>
+    <td7>2003</td7>
+    <td8>03</td8>
+    <td9>2004</td9>
+    <td10>04</td10>
+    <td11>2005</td11>
+    <td12>05</td12>
+    <td13>2006</td13>
+    <td14>06</td14>
+    <td15>2007</td15>
+    <td16>07</td16>
+    <td17>2008</td17>
+    <td18>08</td18>
+    <td19>2009</td19>
+    <td20>09</td20>
+    <td21>2010</td21>
+    <td22>10</td22>
+    <td23>2011</td23>
+    <td24>11</td24>
+    <td25>2012</td25>
+    <td26>12</td26>
+    <td27>2013</td27>
+    <td28>13</td28>
+    <td29>2014</td29>
+    <td30>14</td30>
+    <td31>2015</td31>
+    <td32>15</td32>
+    <td33>2016</td33>
+    <td34>16</td34>
+    <td35>2017</td35>
+    <td36>17</td36>
+    <td37>2018</td37>
+    <td38>18</td38>
+    <td39>2019</td39>
+    <td40>19</td40>
+    <td41>2020</td41>
+    <td42>20</td42>
+    <td43>2021</td43>
+    <td44>21</td44>
+  </table2>
+
+
+</newdataset>

@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  
+  <!-- Route/District/Taluka wise supply report labels-->
+  <table>
+    <td>Routewise Supply Report</td>
+    <td1>Publication:</td1>
+    <td2>Supply</td2>
+    <td3>From Supply Date:</td3>
+    <td4>Agency name</td4>
+    <td5>Route Total</td5>
+    <td6>District wise Supply Report</td6>
+    <td7>Taluka wise Supply Report</td7>
+    <td8>District Total</td8>
+    <td9>Taluka Total</td9>
+    <td10>Route :</td10>
+    <td11>District :</td11>
+    <td12>Taluka :</td12>
+    <td13>Run Date :</td13>
+    <td14>Page No. :</td14>
+    <td15>Route Name</td15>
+    <td16>District Name</td16>
+    <td17>Taluka Name</td17>
+    <td18>Grand Total</td18>
+    <td19>Summary</td19>
+    <td20>To Supply Date:</td20>
+    <td21>S. No.</td21>
+    <td22>Edition  :</td22>
+    <td23>All</td23>
+    <td24>District Taluka wise Supply Report</td24>
+    <td25>Rate :</td25>
+    <td26>Sub Edition :</td26>
+  </table>
+  
+  <!-- Supply type wise report labels-->
+  <table1>
+    <td>Supply Type wise Report</td>
+    <td1>From Supply Date:</td1>
+    <td2>Publication</td2>
+    <td3>Edition</td3>
+    <td4>Route</td4>
+    <td5>Publication Total</td5>
+    <td6>Edition Total</td6>
+    <td7>Route Total</td7>
+    <td8>Grand Total</td8>
+    <td9>Run Date:</td9>
+    <td10>Page No.:</td10>
+    <td11>S. No.</td11>
+    <td12>To Supply Date:</td12>
+  </table1>
+  
+  <!-- Edition wise two days comparision report -->
+  <table2>
+    <td>Publication:</td>
+    <td1>Run Date:</td1>
+    <td2>Supply Date:</td2>
+    <td3>S. No.</td3>
+    <td4>Yesterday Supply</td4>
+    <td5>Todays Supply</td5>
+    <td6>Difference</td6>
+    <td7>Edition wise Two days Comparision Report</td7>
+    <td8>Edition</td8>
+    <td9>Grand Total:</td9>
+    <td10>Page no.:</td10>
+  </table2>
+  
+  <!-- Daily Variance Report-->
+  <table3>
+    <td>Route wise Daily Variance Report</td>
+    <td1>District wise Daily Variance Report</td1>
+    <td2>Taluka wise Daily Variance Report</td2>
+    <td3>Publication:</td3>
+    <td4>Run Date:</td4>
+    <td5>S. No.</td5>
+    <td6>Agency Code</td6>
+    <td7>Agency Name</td7>
+    <td8>Supply</td8>
+    <td9>Variance</td9>
+    <td10>(+)</td10>
+    <td11>(-)</td11>
+    <td12>Total:</td12>
+    <td13>Differnce:</td13>
+    <td14>Total Supply for the Date  </td14>
+    <td15>Report for the Date:</td15>
+    <td16>Route :</td16>
+    <td17>District :</td17>
+    <td18>Taluka :</td18>
+    <td19>Route Total</td19>
+    <td20>District Total</td20>
+    <td21>Taluka Total</td21>
+    <td22>Grand Total</td22>
+    <td23>Page no.:</td23>
+    <td24>Edition:</td24>
+    <td25>City</td25>
+    <td26>Decreased Copies  </td26>
+    <td27> Variance(%)</td27>
+    <td28>Edition wise Daily Variance Report</td28>
+    <td29>Edition Total</td29>
+    
+      </table3>
+
+  <!-- Publication wise taluka wise Daily Return Report-->
+  <table4>
+    <td>Publication wise taluka wise Daily Return Report</td>
+    <td1>Return From Date   :</td1>
+    <td2>Return To Date   :</td2>
+    <td3>Run Date   :</td3>
+    <td4>S. No.</td4>
+    <td5>Agency</td5>
+    <td6>Publication</td6>
+    <td7>Supply</td7>
+    <td8>Return</td8>
+    <td9>Return %</td9>
+    <td10>Remark</td10>
+    <td11>Taluka Total</td11>
+    <td12>Total</td12>
+    <td13>Page No.</td13>
+  </table4>
+  <!-- Bill Print Report-->
+  <table5>
+    <td>Bill Print Report</td>
+    <td1>Bill Date:</td1>
+    <td2>Bill To Date :</td2>
+    <td3>Bill No. :</td3>
+    <td4>Supply</td4>
+    <td5>Agency :</td5>
+    <td6>Agency Address  :</td6>
+    <td7>Date</td7>
+    <td8>Supply</td8>
+    <td9>Rate</td9>
+    <td10>Total</td10>
+    <td11>Gross Amount</td11>
+    <td12>Return Copy</td12>
+    <td13>Return Amount</td13>
+    <td14>Total</td14>
+    <td15>Total Commission Amount</td15>
+    <td16>Net Total</td16>
+    <td17>Run Date</td17>
+    <td18>NO</td18>
+  </table5>
+
+  <table6>
+    <td>Outstanding Amount</td>
+    <td1>Received Amount</td1>
+    <td2>Credit Amount</td2>
+    <td3>Debit Amount</td3>
+    <td4>Deposit Amount</td4>
+    <td5>Total Outstanding</td5>
+  </table6>
+  
+  <!-- Agency wise Daily Return Report-->
+  <table7>
+    <td>Agency wise District wise Daily Return Report</td>
+    <td1>Agency wise Taluka wise Daily Return Report</td1>
+    <td2>Return From Date :</td2>
+    <td3>Return To Date :</td3>
+    <td4>Run Date :</td4>
+    <td5>Page No.  :</td5>
+    <td6>S. No.</td6>
+    <td7>Agency</td7>
+    <td8>Supply</td8>
+    <td9>Return</td9>
+    <td10>Return %</td10>
+    <td11>Taluka</td11>
+    <td12>District</td12>
+    <td13>Total</td13>
+    <td14>Grand Total</td14>
+  </table7>
+  
+  <!-- Collection Register Report(Noraml/Security)-->
+  
+  <table8>
+    <td>Collection Register Report(Normal/Security)</td>
+    <td1>From Date  :</td1>
+    <td2>To Date  :</td2>
+    <td3>Run Date  :</td3>
+    <td4>Page No. :</td4>
+    <td5>Unit  :</td5>
+    <td6>Payment Mode  :</td6>
+    <td7>S No.</td7>
+    <td8>Document Type</td8>
+    <td9>Document No.</td9>
+    <td10>Agency</td10>
+    <td11>City</td11>
+    <td12>Cheque No.</td12>
+    <td13>Cheque Date</td13>
+    <td14>Bank</td14>
+    <td15>Amount</td15>
+    <td16>Representative</td16>
+    <td17>Narration</td17>
+    <td18>Date  :</td18>
+    <td19>Date Total Amount</td19>
+    <td20>Account Type  :</td20>
+  </table8>
+
+  <!-- Collection Datewise/Monthly Summary Report(Noraml/Security)-->
+  
+  <table9>
+    <td>Collection Datewise Summary Report(Normal/Security)</td>
+    <td1>Collection Monthly Summary Report(Normal/Security)</td1>
+    <td2>Unit  :</td2>
+    <td3>From Date  :</td3>
+    <td4>To Date  :</td4>
+    <td5>Run Date  :</td5>
+    <td6>Page No.  :</td6>
+    <td7>Account Type  :</td7>
+    <td8>Agency Type  :</td8>
+    <td9>S. No.</td9>
+    <td10>Receipt Date</td10>
+    <td11>Total</td11>
+   </table9>
+  
+  <!-- State/District/Taluka wise Agency wise Party Outstanding report-->
+  <table10>
+    <td>State wise Agency wise Party Outstanding Report</td>
+    <td1>District wise Agency wise Party Outstanding Report</td1>
+    <td2>Taluka wise Agency wsie Party Outstanding Report</td2>
+    <td3>Date  :</td3>
+    <td4>Rundate  :</td4>
+    <td5>Page No.  :</td5>
+    <td6>Unit  :</td6>
+    <td7>Account Type  :</td7>
+    <td8>S. No.</td8>
+    <td9>Agency</td9>
+    <td10>Credit Amount</td10>
+    <td11>Debit Amount</td11>
+    <td12>City</td12>
+    <td13>State  :</td13>
+    <td14>District  :</td14>
+    <td15>Taluka  :</td15>
+    <td16>Total </td16>
+  </table10>
+  
+  <!-- Monthly Net Sales Report-->
+  <table11>
+    <td>Monthly Net Sales Report</td>
+    <td1>Run Date  :</td1>
+    <td2>Page No.  :</td2>
+    <td3>Statement of Net Paid Sale From </td3>
+    <td4>To</td4>
+    <td5>Month</td5>
+   </table11>
+  
+  <!-- State/District/Taluka wise Party Outstanding Summary Report-->
+  <table12>
+    <td>State wise Party Outstanding Summary Report</td>
+    <td1>District wise Party Outstanding Summary Report</td1>
+    <td2>Taluka wise Party Outstanding Summary Report</td2>
+    <td3>From Date  :</td3>
+    <td4>To Date  :</td4>
+    <td5>Rundate  :</td5>
+    <td6>Page No.  :</td6>
+    <td7>Unit  :</td7>
+    <td8>Account Type  :</td8>
+    <td9>S. No.</td9>
+    <td10>Agency</td10>
+    <td11>City</td11>
+    <td12>Opening Credit</td12>
+    <td13>Opening Debit</td13>
+    <td14>Bill Amount</td14>
+    <td15>Other Debits</td15>
+    <td16>Receipt Amount</td16>
+    <td17>Other Credits</td17>
+    <td18>Closing Debit</td18>
+    <td19>Closing Credit</td19>
+    <td20>State  :</td20>
+    <td21>District  :</td21>
+    <td22>Taluka  :</td22>
+    <td23>State Total </td23>
+    <td24>District Total  </td24>
+    <td25>Taluka Total</td25>
+    <td26>Total </td26>
+    </table12>
+  
+  <!-- Label Print Report-->
+  <table13>
+    <td>नाव  :</td>
+    <td1>तारीख  :</td1>
+    <td2></td2>
+    <td3>पेपरचे नाव </td3>
+    <td4>कीं  :</td4>
+    <td5>एक्रुण प्रती </td5>
+    <td6>B.</td6>
+    <td7>Label Print Report</td7>
+  </table13>
+  
+  <!-- Taxi Challan Report-->
+  <table14>
+    <td>Taxi Challan</td>
+    <td1>Challan No. </td1>
+    <td2>Taxi Route :</td2>
+    <td3>Taxi No. :</td3>
+    <td4>Date :</td4>
+    <td5>Agency Name </td5>
+    <td6>Drop Point</td6>
+    <td7>Bundle</td7>
+    <td8>Total</td8>
+    <td9>Total Bundle</td9>
+    <td10>Taxi Arrival Time</td10>
+    <td11>Taxi Departure Time</td11>
+    <td12>Parsal Despatcher</td12>
+    <td13>Name</td13>
+    <td14>Sign</td14>
+    <td15>Taxi Driver</td15>
+    <td16>Parsal Receivers</td16>
+    <td17>(Agent/Executive)</td17>
+    <td18>Taxi SubRoute :</td18>
+    <td19>Taxi SubSubRoute :</td19>
+    <td20>S. No.</td20>
+  </table14>
+  
+  <!-- Weekly Line Bill-->
+  <table15>
+    <td>Weekly Statement</td>
+    <td1>Agency Name  :</td1>
+    <td2>From Date :</td2>
+    <td3>To :</td3>
+    <td4>Edition Name</td4>
+    <td5>Mon</td5>
+    <td6>Tues</td6>
+    <td7>Wed</td7>
+    <td8>Thrus</td8>
+    <td9>Fri</td9>
+    <td10>Sat</td10>
+    <td11>Sun</td11>
+    <td12>Total</td12>
+    <td13>Amount</td13>
+    <td14>Ret</td14>
+    <td15>Daily</td15>
+    <td16>S. No.</td16>
+    <td17>Doc No.</td17>
+    <td18>Date</td18>
+    <td19>Particulers</td19>
+    <td20>C/D</td20>
+    <td21>Amount</td21>
+    <td22>Supply Amount</td22>
+    <td23>Commission</td23>
+    <td24>Total Amount</td24>
+    <td25>Return Amount</td25>
+    <td26>Total</td26>
+    <td27>Deposit Amount</td27>
+    <td28>Total</td28>
+    <td29>Previous Balance</td29>
+    <td30>Total Receipt</td30>
+    <td31>Debit</td31>
+    <td32>Credit</td32>
+    <td33>Net Amount</td33>
+    <td34>Deposit Bill</td34>
+    <td35>Supply</td35>
+    <td36>Sun.</td36>
+    <td37>Ret. D</td37>
+  </table15>
+</newdataset>

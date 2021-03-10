@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Code </td>
+    <td1>Company Name</td1>
+    <td2>Commission Code</td2>
+    <td3>Commission Description&lt;font color=red&gt;*&lt;/font&gt;</td3>
+    <td4>Commission Type</td4>
+    <td5>Status</td5>
+    <td6>COMP_CODE$~$CATG_CODE$~$CATEG_DESC$~$CREATED_BY$~$CREATED_DT$~$STATUS$~$CIR_WASTE_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td6>
+    <td7>COMP_CODE$~$CATG_CODE$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td8>COMP_CODE$~$CATG_CODE$~$</td8>
+    <td9>COMP_CODE$~$CATG_CODE$~$CATEG_DESC$~$STATUS$~$USERID$~$CIR_WASTE_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td9>
+    <td10>CIR_WASTE_CATG_MAST</td10>
+    <td11>CIR_WASTE_CATG_MAST</td11>
+    <td12>COMP_CODE$~$CATEG_DESC</td12>
+    <td13>CIR_WASTE_CATG_MAST</td13>
+    <td14>COMP_CODE$~$CATG_CODE$~$CATEG_DESC$~$STATUS$~$CIR_WASTE_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td14>
+    <td15>COMP_CODE$~$CATG_CODE$~$CATEG_DESC$~$UPDATED_BY$~$UPDATED_DT$~$STATUS$~$CIR_WASTE_CATG_MAST$~$INSERT#UPDATE#DELETE#SELECT</td15>
+
+</table>
+  <table1>
+    <tr>Inactive</tr>
+    <tr1>Y</tr1>
+
+  </table1>
+  <table2>
+    <td>Percentage Type</td>
+    <td1>P</td1>
+    <td2>Per Copy</td2>
+    <td3>C</td3>
+  </table2>
+
+  <table3>
+    <td>SrNo</td>
+    <td1>Commission Code</td1>
+    <td2>Commission Desc</td2>
+    <td3>Commission type</td3>
+    <td4>Status</td4>
+  </table3>
+
+</Newdataset>

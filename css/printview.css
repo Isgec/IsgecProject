@@ -1,0 +1,63 @@
+﻿
+.printbtn
+{
+     width:50px;
+     background-color: Silver;
+     font-family:Verdana;
+	 font-size:12px;
+
+}
+
+
+.spacereportheader
+{
+   width:30px;	
+   background-color: Silver;
+  
+}
+
+.spacereport
+{
+	width:30px;
+}
+.headerreport
+{
+     font-family:Verdana;
+	 font-size:11px;
+	 height:32px;
+	/* text-decoration: underline;	*/
+	 background-color:Silver;
+	 text-align:center;	
+	 border-bottom-color:Black;
+	 border-bottom-width:thin;
+	 font-weight: bold;
+}
+
+.textreport
+{
+      font-family:Verdana;
+	 font-size:11px;
+	 height:32px;
+	 text-align:center;	
+}
+.textreport1
+{
+      font-family:Verdana;
+	 font-size:11px;
+	 height:32px;
+	 width:50px;
+	 text-align:center;	
+}
+
+
+
+
+.heading
+{
+	 font-family:Verdana;
+	 font-size:20px;
+	 height:32px;
+	 width:80px;
+	 text-decoration:underline;
+	/* font-weight: bold;	*/
+}

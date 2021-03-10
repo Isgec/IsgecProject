@@ -1,0 +1,37 @@
+﻿<newdataset>
+  <table>
+    <td0>comp</td0>
+    <td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Agency Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Publication&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>From Date</td6>
+    <td7>To Date</td7>
+    <td8>Month Wise Copies</td8>
+    <td9>Year WIse Copies</td9>
+    <td10>Vouchers</td10>
+    <td11>Agency Wise Incentives</td11>
+    <td12>Company Name</td12>
+    <td13>Printing Center Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td13>
+    <td14>Break On&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>City/District/State</td15>
+    <td16>Format</td16>
+    <td17>Month Wise copies</td17>
+    <td18>Voucher</td18>
+    <td19>Agency Wise Incentives</td19>
+    <td20>Group  by Agency/Agency Type</td20>
+    
+  </table>
+
+  <table1>
+    <td>City</td>
+    <td1>1</td1>
+    <td2>District</td2>
+    <td3>2</td3>
+    <td4>State</td4>
+    <td5>3</td5>
+
+  </table1>
+  
+</newdataset>

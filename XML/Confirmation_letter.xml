@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <tr>As On Date&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>Debit UpTo&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>Agency&lt;font color=red&gt;*[F2]&lt;/Font&gt;</tr2>
+    <tr3>Unit&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+    <tr4>Branch&lt;font color=red&gt;&lt;/Font&gt;</tr4>
+    <tr5>Credit Upto&lt;font color=red&gt;*&lt;/Font&gt;</tr5>
+    <tr6>District</tr6>
+    <tr7>Agency Type</tr7>
+    <tr8>Include</tr8>
+    <td9>Destination</td9>
+    <td10>Branch Based On</td10>
+  </table>
+
+  <table1>
+    <td>Individual</td>
+    <td1>N</td1>
+    <td2>Parent</td2>
+    <td3>Y</td3>
+  </table1>
+
+  <table2>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+    <td4>PDF</td4>
+    <td5>3</td5>
+  </table2>
+
+  <table3>
+    <tr>DATE:</tr>
+    <tr1>SUB: REQUEST FOR CONFIRMATION OF ACCOUNT AS ON ****</tr1>
+    <tr2>Dear Sir/Madam,</tr2>
+    <tr3>As per our books of Accounts your account shows a balance of Rs. ***** </tr3>
+    <tr4>as on ******</tr4>
+    <tr5>You are requested to kindly send the confirmation duly signed to our below</tr5>
+    <tr6>mentioned office address:</tr6>
+    <tr7>In case the reply is not received from you in 15 days from the issue of this </tr7>
+    <tr8>letter, it will be presumed that the above balance as reflected in the books</tr8>
+    <tr9>of accounts is in agreement with your books of accounts.</tr9>
+    <tr10>Yours faithfully,</tr10>
+    <tr11>Authorised Signatory</tr11>
+    <tr12>FORM OF CERTIFICATE </tr12>
+    <tr13>REF: DEBTORS/CREDITORS BALANCE</tr13>
+    <tr14>We hereby certify that the following balance is appearing in our books as</tr14>
+    <tr15>at ???? is receivable/payable</tr15>
+    <tr16>Balance of Rs. ####</tr16>
+    <tr17>(To be signed by officer responsible for this payment)</tr17>
+    
+
+  </table3>
+
+  <table4>
+    <td>Transaction</td>
+    <td1>T</td1>
+    <td2>Master</td2>
+    <td3>M</td3>
+  </table4>
+  
+</newdata>

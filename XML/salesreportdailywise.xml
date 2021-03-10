@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Region</td>
+		<td1>R</td1>
+		<td2>State</td2>
+		<td3>S</td3>
+		<td4>District</td4>
+		<td5>D</td5>
+		<td6>Branch</td6>
+		<td7>B</td7>
+		<td8>Publication</td8>
+		<td9>P</td9>
+		<td10>Zone</td10>
+		<td11>Z</td11>
+		<td12>Center</td12>
+		<td13>C</td13>
+		<td14>Route</td14>
+		<td15>O</td15>
+		<td16>Edition</td16>
+		<td17>E</td17>
+	</table>
+
+	<table1>
+		<td>Return Date</td>
+		<td1>R</td1>
+		<td2>Supply Date</td2>
+		<td3>S</td3>
+	</table1>
+
+	<table2>
+		<td>Net Sales Report</td>
+		<td1>Company Name</td1>
+		<td2>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+		<td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+		<td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+		<td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+		<td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+		<td7>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+		<td8>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+		<td9>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+		<td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+		<td11>Agency Class</td11>
+		<td12>Agency Type</td12>
+		<td13>Report Type</td13>
+		<td14>Break On</td14>
+		<td15>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+		<td16>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+		<td17>Return BasedOn</td17>
+		<td18>Language</td18>
+		<td19>Destination</td19>
+		<td20>Run</td20>
+		<td21>Clear</td21>
+		<td22>Exit</td22>
+		<td23>Commission&lt;font color=red&gt;*&lt;/Font&gt;</td23>
+		<td24>Copies/Amount</td24>
+		<td25>%</td25>
+		<td26>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td26>
+		<td27>Paid/Free</td27>
+		<td28>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td28>
+		<td29>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td29>
+		<td30>Comm.Category&lt;font color=red&gt;[F2]&lt;/Font&gt;</td30>
+		<td31>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td31>
+		<td32>Area&lt;font color=red&gt;[F2]&lt;/Font&gt;</td32>
+		<td33>Select</td33>
+		<td34>Build</td34>
+	</table2>
+
+	<table3>
+		
+		<td>Agency Class Wise</td>
+		<td1>1</td1>
+		<td2>Agency Type Wise</td2>
+		<td3>2</td3>
+	</table3>
+
+	<table4>
+		<td>Supply</td>
+		<td1>Return</td1>
+		<td2>Net Sale</td2>
+		<td3>Return %</td3>
+		<td4>Days</td4>
+		<td5>Avg.Net Sale</td5>
+		<td6>Rate</td6>
+		<td7>From Date</td7>
+		<td8>To Date</td8>
+		<td9>Copy Rate</td9>
+		<td10>City Name</td10>
+		<td11>Zone wise Net Sale Report</td11>
+		<td12>Publication wise Net Sale Report</td12>
+		<td13>Center wise Net Sale Report</td13>
+		<td14>Route wise Net Sale Report</td14>
+	</table4>
+
+	<table5>
+		<td>सप्लाय</td>
+		<td1>रिटर्न</td1>
+		<td2>नेट सेल</td2>
+		<td3>रिटर्न %</td3>
+		<td4>दिन</td4>
+		<td5>अवे नेट सेल</td5>
+		<td6>रेट</td6>
+		<td7>From Date</td7>
+		<td8>To Date</td8>
+		<td9>कॉपी रेट</td9>
+		<td10>सिटी नेम</td10>
+	</table5>
+
+	<table6>
+		<td>English</td>
+		<td1>1</td1>
+		<td2>Other Lang</td2>
+		<td3>2</td3>
+	</table6>
+
+	<table7>
+		<td>Commission More Than</td>
+		<td1>G</td1>
+		<td2>Commission Not More Than</td2>
+		<td3>L</td3>
+	</table7>
+
+	<table8>
+		<td>Copies</td>
+		<td1>C</td1>
+		<td2>Amount</td2>
+		<td3>A</td3>
+	</table8>
+
+	<table9>
+		<td>All</td>
+		<td1>0</td1>
+		<td2>Paid</td2>
+		<td3>S01</td3>
+		<td4>Free</td4>
+		<td5>S02</td5>
+	</table9>
+
+	<table10>
+		<td>Region</td>
+		<td1>R</td1>
+		<td2>District</td2>
+		<td3>D</td3>
+		<td4>Branch</td4>
+		<td5>B</td5>
+		<td6>Publication</td6>
+		<td7>P</td7>
+		<td8>Zone</td8>
+		<td9>Z</td9>
+		<td10>Center</td10>
+		<td11>C</td11>
+		<td12>Route</td12>
+		<td13>O</td13>
+	</table10>
+
+	<table11>
+		<td>State</td>
+		<td1>S</td1>
+		<td2>District</td2>
+		<td3>D</td3>
+		<td4>Branch</td4>
+		<td5>B</td5>
+		<td6>Publication</td6>
+		<td7>P</td7>
+		<td8>Region</td8>
+		<td9>R</td9>
+		<td10>Center</td10>
+		<td11>C</td11>
+		<td12>Route</td12>
+		<td13>O</td13>
+	</table11>
+
+	<table12>
+		<td>State</td>
+		<td1>S</td1>
+		<td2>District</td2>
+		<td3>D</td3>
+		<td4>Branch</td4>
+		<td5>B</td5>
+		<td6>Publication</td6>
+		<td7>P</td7>
+		<td8>Zone</td8>
+		<td9>Z</td9>
+		<td10>Center</td10>
+		<td11>C</td11>
+		<td12>Region</td12>
+		<td13>R</td13>
+	</table12>
+
+	<table13>
+		<td>State</td>
+		<td1>S</td1>
+		<td2>District</td2>
+		<td3>D</td3>
+		<td4>Branch</td4>
+		<td5>B</td5>
+		<td6>Publication</td6>
+		<td7>P</td7>
+		<td8>Zone</td8>
+		<td9>Z</td9>
+		<td10>Center</td10>
+		<td11>C</td11>
+		<td12>Route</td12>
+		<td13>O</td13>
+	</table13>
+
+	<table14>
+		<td>Region</td>
+		<td1>R</td1>
+		<td2>State</td2>
+		<td3>S</td3>
+		<td4>District</td4>
+		<td5>D</td5>
+		<td6>Zone</td6>
+		<td7>Z</td7>
+		<td8>Route</td8>
+		<td9>O</td9>
+		</table14>
+
+	<table15>
+		<td>Region</td>
+		<td1>R</td1>
+		<td2>State</td2>
+		<td3>S</td3>
+		<td4>District</td4>
+		<td5>D</td5>
+		<td6>Branch</td6>
+		<td7>B</td7>
+		<td8>Publication</td8>
+		<td9>P</td9>
+		<td10>Zone</td10>
+		<td11>Z</td11>
+		<td12>Center</td12>
+		<td13>C</td13>
+		<td14>Route</td14>
+		<td15>O</td15>
+		<td16>Edition</td16>
+		<td17>E</td17>
+	</table15>
+
+	<table16>
+    <td>Category Wise Net Sale Report(Summary)</td>
+    <td1>Category Wise Net Sale Report(Detail)</td1>
+    <td2>Agency Type Wise Net Sale Report(Summary)</td2>
+    <td3>Agency Type Wise Net Sale Report(Detail)</td3>
+	</table16>
+
+	<table17>
+		<td>Comm.Category</td>
+		<td1>Publication</td1>
+		<td2>State Name</td2>
+		<td3>Branch Name</td3>
+		<td4>Zone Name</td4>
+		<td5>Route Name</td5>
+		<td6>Region Name</td6>
+		<td7>Main Edition </td7>
+		<td8>Route  Date</td8>
+	</table17>
+
+	<table18>
+		<td>State Total</td>
+	</table18>
+
+
+	<table19>
+		<td>Summary</td>
+		<td1>S</td1>
+		<td2>Detail</td2>
+		<td3>D</td3>
+	</table19>
+	<table20>
+
+		<td> Region wise Net Sale Report</td>
+		<td1>Publication:</td1>
+		<td2>Supply</td2>
+		<td3>From Supply Date:</td3>
+		<td4>Agency Name</td4>
+		<td5>Route Total</td5>
+		<td6>District wise Net Sale Report</td6>
+		<td7>Taluka wise Net Sale Report</td7>
+		<td8>District Total</td8>
+		<td9>Taluka Total</td9>
+		<td10>Route :</td10>
+		<td11>District :</td11>
+		<td12>Taluka :</td12>
+		<td13>Run Date :</td13>
+		<td14>Page No. :</td14>
+		<td15>Category</td15>
+		<td16>State Name</td16>
+		<td17>District Name</td17>
+		<td18>Grand Total</td18>
+		<td19>Summary</td19>
+		<td20>To Supply Date:</td20>
+		<td21>S. No.</td21>
+		<td22>Edition  :</td22>
+		<td23>All</td23>
+		<td24>District Taluka Wise Net Sale Report</td24>
+		<td25>Rate :</td25>
+		<td26>Sub Edition :</td26>
+		<td27>Agency Code</td27>
+		<td28>Agency SubCode</td28>
+		<td29>Branch wise Net Sale Report</td29>
+		<td30>State wise Net Sale Report</td30>
+		<td31>District wise Net Sale Report</td31>
+		<td32>Branch Name</td32>
+		<td33>Taluka Name</td33>
+		<td34>Branch</td34>
+		<td35>District Taluka wise Net sale Report</td35>
+		<td36>Edition wise Net sale Report</td36>
+		<td37>Region Total</td37>
+		<td38>District Total</td38>
+		<td39>Branch Total</td39>
+		<td40>Publication Total</td40>
+		<td41>State Total</td41>
+		<td42>Printing Center</td42>
+		<td43>Billed Orders</td43>
+		<td44>Unbilled Orders</td44>
+	</table20>
+  
+	<table21>
+		<td> Region wise Net Sale Report</td>
+		<td1>Publication:</td1>
+		<td2>Supply</td2>
+		<td3>From Supply Date:</td3>
+		<td4>Agency Name</td4>
+		<td5>Route Total</td5>
+		<td6>District wise Net Sale Report</td6>
+		<td7>Taluka wise Net Sale Report</td7>
+		<td8>District Total</td8>
+		<td9>Taluka Total</td9>
+		<td10>Route :</td10>
+		<td11>District :</td11>
+		<td12>Taluka :</td12>
+		<td13>Run Date :</td13>
+		<td14>Page No. :</td14>
+		<td15>Edition Name</td15>
+		<td16>State Name</td16>
+		<td17>District Name</td17>
+		<td18>Grand Total</td18>
+		<td19>Summary</td19>
+		<td20>To Supply Date:</td20>
+		<td21>S. No.</td21>
+		<td22>Edition  :</td22>
+		<td23>All</td23>
+		<td24>District Taluka Wise Net Sale Report</td24>
+		<td25>Rate :</td25>
+		<td26>Sub Edition :</td26>
+		<td27>Agency Code</td27>
+		<td28>Agency SubCode</td28>
+		<td29>Branch wise Net Sale Report</td29>
+		<td30>State wise Net Sale Report</td30>
+		<td31>District wise Net Sale Report</td31>
+		<td32>Branch Name</td32>
+		<td33>Taluka Name</td33>
+		<td34>Branch</td34>
+		<td35>District Taluka wise Net sale Report</td35>
+		<td36>Edition wise Net sale Report</td36>
+		<td37>Region Total</td37>
+		<td38>District Total</td38>
+		<td39>Branch Total</td39>
+		<td40>Publication Total</td40>
+		<td41>State Total</td41>
+	</table21>
+  
+	<table22>
+		<td>Publication wise Daily Return Report</td>
+		<td1>Return From Date   :</td1>
+		<td2>Return To Date   :</td2>
+		<td3>Run Date   :</td3>
+		<td4>S. No.</td4>
+		<td5>Agency</td5>
+		<td6>Publication</td6>
+		<td7>Supply</td7>
+		<td8>Return</td8>
+		<td9>Return %</td9>
+		<td10>Remark</td10>
+		<td11>Taluka Total</td11>
+		<td12>Total</td12>
+		<td13>Page No.</td13>
+	</table22>
+  
+	<table23>
+		<td> Region wise Net Sale Report</td>
+		<td1>Publication:</td1>
+		<td2>Supply</td2>
+		<td3>From Supply Date:</td3>
+		<td4>Agency Name</td4>
+		<td5>Route Total</td5>
+		<td6>District wise Net Sale Report</td6>
+		<td7>Taluka wise Net Sale Report</td7>
+		<td8>District Total</td8>
+		<td9>Taluka Total</td9>
+		<td10>Route :</td10>
+		<td11>District :</td11>
+		<td12>Taluka :</td12>
+		<td13>Run Date :</td13>
+		<td14>Page No. :</td14>
+		<td15>Edition Name</td15>
+		<td16>State Name</td16>
+		<td17>District Name</td17>
+		<td18>Grand Total</td18>
+		<td19>Summary</td19>
+		<td20>To Supply Date:</td20>
+		<td21>S. No.</td21>
+		<td22>Edition  :</td22>
+		<td23>All</td23>
+		<td24>District Taluka Wise Net Sale Report</td24>
+		<td25>Rate :</td25>
+		<td26>Sub Edition :</td26>
+		<td27>Agency Code</td27>
+		<td28>Agency SubCode</td28>
+		<td29>Branch wise Net Sale Report</td29>
+		<td30>State wise Net Sale Report</td30>
+		<td31>District wise Net Sale Report</td31>
+		<td32>Branch Name</td32>
+		<td33>Taluka Name</td33>
+		<td34>Branch</td34>
+		<td35>District Taluka wise Net sale Report</td35>
+		<td36>Edition wise Net sale Report</td36>
+		<td37>Region Total</td37>
+		<td38>District Total</td38>
+		<td39>Branch Total</td39>
+		<td40>Publication Total</td40>
+		<td41>State Total</td41>
+	</table23>
+
+  <table24>
+    <td>Onscreen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+  </table24>
+</newdataset>
+

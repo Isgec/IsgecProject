@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+	<table>
+		<tr>Branch</tr>
+		<tr1>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr1>
+		<tr2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+		<tr3>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr3>
+		<tr4>Detail</tr4>
+		<tr5>Agency Summary</tr5>
+		<tr6>Destination</tr6>
+		<tr7>On Screen</tr7>
+		<tr8>1</tr8>
+		<tr9>Excel</tr9>
+		<tr10>2</tr10>
+		<tr11>CSV</tr11>
+		<tr12>3</tr12>
+		<tr13>Printing Center</tr13>
+		<tr14>Region</tr14>
+		<tr15>District</tr15>
+		<tr16>Report Type</tr16>
+		<tr17>Complete</tr17>
+		<tr18>Y</tr18>
+		<tr19>Outstanding Bill</tr19>
+		<tr20>N</tr20>
+		<tr21>Credit Up To&lt;font color=red&gt;*&lt;/Font&gt;</tr21>
+		<tr22>Summary</tr22>
+		<tr23>Zone</tr23>
+		<tr24>State</tr24>
+		<tr25>Taluka</tr25>
+		<tr26>City</tr26>
+		<tr27>Based On</tr27>
+		<tr28>Report Type</tr28>
+		<tr29>Based On&lt;font color=red&gt;*&lt;/Font&gt;</tr29>
+		<tr30>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr30>
+		<tr31>Client&lt;font color=red&gt;[F2]&lt;/Font&gt;</tr31>
+	</table>
+  
+</newdata>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<newdata>
+  <table>
+    <tr>Printing Center</tr>
+    <tr1>Unit</tr1>
+    <tr2>Branch</tr2>
+    <tr3>Region</tr3>
+    <tr4>District</tr4>
+    <tr5>From Date&lt;font color=red&gt;*&lt;/Font&gt;</tr5>
+    <tr6>To Date&lt;font color=red&gt;*&lt;/Font&gt;</tr6>
+    <tr7>Destination</tr7>
+    <tr8>On Screen</tr8>
+    <tr9>1</tr9>
+    <tr10>Excel</tr10>
+    <tr11>2</tr11>
+    <tr12>PDF</tr12>
+    <tr13>3</tr13>
+    <tr14>Run</tr14>
+    <tr15>Exit</tr15>
+    <tr16>From Date</tr16>
+    <tr17>To Date</tr17>
+    <tr18>Collection and Billing Summary Report</tr18>
+  </table>
+  
+ </newdata>

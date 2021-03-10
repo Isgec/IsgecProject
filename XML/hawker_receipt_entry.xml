@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Company</td>
+    <td1>Printing Center</td1>
+    <td2>Receipt No</td2>
+    <td3>Receipt Date</td3>
+    <td4>Pay Mode&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Hawker Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Agency Code</td6>
+    <td7>City</td7>
+    <td8>Amount&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bank Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td9>
+    <td10>Cheque No.&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Cheque Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Executive&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+    <td13>Narration/Remarks&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>CIR_RCPHDR_PROV</td14>
+    <td15>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$RECPTDT$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$OTH_AMOUNT$~$CCDP$~$CCDS$~$RCDP$~$RCDS$~$OCDP$~$OCDS$~$REASON$~$REMARK$~$ACHD$~$PUBL$~$RECEIVED_FROM$~$STATUS$~$REF_RECPTNO$~$REF_DOCTYPE$~$USERID$~$CREATION_DATE$~$BRANCH_CODE$~$BKUP_SNO$~$MANNUALRECPTNO$~$REMARK_OTH$~$CIR_RCPHDR_PROV$~$INSERT#UPDATE#DELETE#</td15>
+    <td16>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$AGCD$~$DPCD$~$RECPTNO$~$CHNO$~$CHDT$~$CHBANK$~$AMOUNT$~$OTH_AMOUNT$~$CCDP$~$CCDS$~$RCDP$~$RCDS$~$OCDP$~$OCDS$~$REASON$~$REMARK$~$ACHD$~$PUBL$~$RECEIVED_FROM$~$STATUS$~$REF_RECPTNO$~$REF_DOCTYPE$~$USERID$~$BRANCH_CODE$~$BKUP_SNO$~$UPDATED_By$~$UPDATED_DT$~$MANNUALRECPTNO$~$REMARK_OTH$~$CIR_RCPHDR_PROV$~$INSERT#UPDATE#DELETE#</td16>
+    <td17>COMP_CODE$~$UNIT_CODE$~$DOCTYPE$~$RECPTNO</td17>
+    <td18>Print Receipt</td18>
+    <td19>Single Marking</td19>
+    <td20>Multiple Marking</td20>
+    <td21>Amount In Hand</td21>
+    <td22>Adjustable Amount</td22>
+    <td23>Doc Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td23>
+    <td24>A/C Type&lt;font color=red&gt;*&lt;/Font&gt;</td24>
+    <td25>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$CIR_RCPDET$~$CIR_OUTMAST_PROV$~$UPDATE</td25>
+    <td26>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$BILLNO$~$REMARK$~$</td26>
+    <td27>REMARK$~$</td27>
+    <td28>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$BALANCE$~$TDS$~$STAX$~$USRID$~$CIR_OUTMAST_PROV$~$INSERT#UPDATE#DELETE#SELECT</td28>
+    <td29>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$AMOUNT$~$UPDATED_BY$~$UPDATED_DATE$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td29>
+    <td30>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$RECPTDT$~$PUBL$~$CIR_RCP_UNADJ$~$INSERT#UPDATE#DELETE#SELECT</td30>
+    <td31>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$RECPTNO$~$CIR_OUTMAST_PROV$~$INSERT#UPDATE#DELETE#SELECT</td31>
+    <td32>COMP_CODE$~$UNIT_CODE$~$AGCD$~$DPCD$~$DOCTYP$~$BILLNO$~$BILLDT$~$RECPTNO$~$RECPTDT$~$PAYFOR$~$ACHD$~$PUBL$~$CHNO$~$CHBNK$~$CHDT$~$AMOUNT$~$REASON$~$REMARK$~$VOUCHERNO$~$VOUCHERDT$~$TDS$~$STAX$~$USRID$~$CIR_RCPDET$~$INSERT#UPDATE#DELETE#SELECT</td32>
+    <td33>Debit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td33>
+    <td34>Credit A/C Head&lt;font color=red&gt;[F2]&lt;/Font&gt;</td34>
+    <td35>Narr. in Oth. Lang.</td35>
+    <td36>Manual Receipt No.</td36>
+    <td37>Depot Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td37>
+    <td38>Hawker Depot&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td38>
+    <td39>Branch Name</td39>
+  </table>
+  <table1>
+    <td>Single Marking</td>
+    <td1>hide</td1>
+    <td2>Multiple Marking</td2>
+    <td3>hide</td3>
+
+  </table1>
+  <table2>
+    <tr>RECEIPT</tr>
+    <tr1>
+      <![CDATA[
+        SHREE AMBIKA PRINTERS & PUBLICATIONS
+        ]]>
+    </tr1>
+    <tr2> H.O.:214/215, Industrial Estate, Dr. Ambedkar Babasaheb Ambedkar Marg, Lalbaug, Mumbai-12. Tel:24715208/24.</tr2>
+    <td3> &lt;b&gt;Classified Booking Receipt&lt;/b&gt;</td3>
+    <td4> Receipt Date:</td4>
+    <tr5> Design Type </tr5>
+    <tr6> Category:</tr6>
+    <tr7> Category Name</tr7>
+    <tr8> Sub-Category</tr8>
+    <tr9> Publication Details</tr9>
+    <tr10> Commission : </tr10>
+    <tr11> Box Charge :</tr11>
+    <tr12> Amount Paid :</tr12>
+    <tr13> Booking User :</tr13>
+    <td14> Edition </td14>
+    <td15> Publication Date </td15>
+    <td16> Amount(Rs.) </td16>
+    <td17> CN No.: </td17>
+    <td18> Color </td18>
+    <td19>Party Name:</td19>
+    <td20>Party Address:</td20>
+    <td21> Insertions </td21>
+    <td22>Matter to be printed :</td22>
+    <td23>RO Status</td23>
+
+    /*for receipt */
+    <td24>Branch  :</td24>
+    <td25>Receipt</td25>
+    <td26>Date:</td26>
+    <td27>Receipt No.</td27>
+    <td28>Received From</td28>
+    <td29>Client Name</td29>
+    <td30>Pay Mode</td30>
+    <td31>Bill Detail</td31>
+    <td32>Main Amt.In Word Rupees.</td32>
+    <td33>Customer's Sign</td33>
+    <td34>Signature</td34>
+    <td35>Subject To Realisation Of Cheque</td35>
+
+    <td36>Reg.Off:-</td36>
+    <td37>CHQ/DD:</td37>
+    <td38>Pro. Date:</td38>
+    <td39>Bank Name:</td39>
+    <td40>Narration</td40>
+
+    <td41>Cheque No.</td41>
+    <td42>DD No.</td42>
+
+    <TD43>&lt;b&gt;Reg.Off:-     &lt;/b&gt;</TD43>
+
+    <td44>Agency Name</td44>
+    <td45>Client Name</td45>
+    <td46>Prepared By :</td46>
+    <td47>RECEIPT</td47 >
+    <td48>DEBIT NOTE</td48>
+    <TD49>CREDIT NOTE</TD49>
+    <td50>Debit Note No.</td50>
+    <td51>Credit Note No.</td51>
+    <td52>Debit Note Against</td52>
+    <td53>Credit Note Against</td53>
+    <td54>RECEIPT(Consolidate)</td54>
+    <td55>Receipt :</td55>
+    <td56>Receipt Date :</td56>
+    <td57>Reason</td57>
+    <td58>Receipt</td58>
+    <td59>Bank charges In Words Rupees.</td59>
+    <td60>Post charges In Words Rupees.</td60>
+    <td61>Oth. charges In Words Rupees.</td61>
+    <td62>:</td62>
+    <td63>Security Amt In Words Rupees.</td63>
+    <td64>RP</td64>
+    <td65>BH</td65>
+    <td66>CM</td66>
+    <td67>OTH.</td67>
+    <td68>Publication Wise Amount</td68>
+    <td69>Advance Refund Voucher</td69>
+    
+  </table2>
+  <table3>
+    <tr1>State:</tr1>
+    <td2>State Code:</td2>
+    <td3>GSTIN:</td3>
+    <tr4>Agency State</tr4>
+    <tr5>Agency State Name</tr5>
+    <tr6>GSTIN</tr6>
+    <tr7>SAC Code</tr7>
+    <tr8>GST On Amt</tr8>
+  </table3>
+</dataset>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Company</td>
+    <td1>Printing Center&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Percentage</td9>
+    <td10>Report Type&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Break On</td11>
+    <td12>First Period&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Second Period&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Destination</td14>
+    <td15>Report</td15>
+    <td16>From&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+    <td17>To&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+    <td18>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td18>
+    <td19>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td19>
+    <td20>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td20>
+    <td21>Copies/Amount</td21>
+  </table>
+
+  <table1>
+    <td>Onscreen</td>
+    <td1>0</td1>
+    <td2>Excel</td2>
+    <td3>1</td3>
+    <td4>Pdf</td4>
+    <td5>2</td5>
+  </table1>
+
+  <table2>
+    <td>Agency Wise</td>
+    <td1>1</td1>
+    <td2>Zone</td2>
+    <td3>2</td3>
+    <td4>Region</td4>
+    <td5>3</td5>
+    <td6>State</td6>
+    <td7>4</td7>
+    <td8>District</td8>
+    <td9>5</td9>
+    <td10>Route</td10>
+    <td11>6</td11>
+  </table2>
+
+  <table3>
+    <td>Publication</td>
+    <td1>P</td1>
+    <td2>Branch</td2>
+    <td3>B</td3>
+    <td4>Zone</td4>
+    <td5>Z</td5>
+    <td6>Region</td6>
+    <td7>R</td7>
+    <td8>State</td8>
+    <td9>S</td9>
+    <td10>District</td10>
+    <td11>D</td11>
+  </table3>
+
+  
+  
+  <table4>
+    <td>Copies</td>
+    <td1>C</td1>
+    <td2>Amount</td2>
+    <td3>A</td3>
+  </table4>
+  
+  <table5>
+    <td>All</td>
+    <td1>A</td1>
+    <td2>Paid</td2>
+    <td3>P</td3>
+    <td4>Free</td4>
+    <td5>F</td5>
+  </table5>
+</newdataset>

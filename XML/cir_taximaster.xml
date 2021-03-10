@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Newdataset>
+  <table>
+
+    <td>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Company Name &lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Printing Center Code&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Printing Center Name &lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Transporter Code &lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Transporter Name &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td5>
+    <td6>Route Code &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td6>
+    <td7>Route Name &lt;font color=red&gt;*[F2]&lt;/Font&gt;</td7>
+    <td8>Sub Route Code &lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Sub Route Name &lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Sub Sub Route Code &lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Sub Sub Route Name &lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Vehicle Name</td12>
+    <td13>Vehicle Number &lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Vehicle Model Number </td14>
+    <td15>Owner Name</td15>
+    <td16>No. of Bundle</td16>
+    <td17>Vehicle Rate</td17>
+    <td18>Rate of Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td18>
+    <td19>Rate Type</td19>
+    <td20>Start From Date&lt;font color=red&gt;*&lt;/Font&gt;</td20>
+    <td21>Status</td21>
+    <td22>COMP_CODE$~$UNIT_CODE$~$TPT_CODE$~$RT_CODE$~$VEHICLE_NAME$~$VEHICLE_NO$~$VEHICLE_MODEL$~$VEHICLE_OWNER$~$START_DATE_FROM$~$NO_OF_BUNDLE$~$RATE_FREQUNCY$~$RATE_TYPE$~$RATE$~$USERID$~$FREEZE_FLAG$~$SUBRT_CODE$~$SUB_SUBRT_CODE$~$TAXI_ID$~$EXTRA_AMT$~$VECHILE_TYPE$~$AVERAGE$~$DEVICE_ID$~$BRANCH_CODE$~$BILL_CYCLE$~$cir_taxi_mast$~$INSERT#UPDATE#DELETE#SELECT</td22>
+    <td23>COMP_CODE$~$UNIT_CODE$~$TAXI_ID</td23>
+    <td24>CIR_TAXI_MAST</td24>
+    <td25>Vehicle Code</td25>
+    <td26>COMP_CODE$~$UNIT_CODE$~$TPT_CODE$~$VEHICLE_NO</td26>
+    <td27> Extra Rate</td27>
+    <td28>Vehicle Type</td28>
+    <td29>Average</td29>
+    <td30>Device Id</td30>
+    <td31>Expences Detail</td31>
+	  <td32>Branch Code&lt;font color=red&gt;F[2]*&lt;/Font&gt;</td32>
+	  <td33>Branch Name</td33>
+	  <td34>COMP_CODE$~$UNIT_CODE$~$TPT_CODE$~$RT_CODE$~$VEHICLE_NAME$~$VEHICLE_NO$~$VEHICLE_MODEL$~$VEHICLE_OWNER$~$START_DATE_FROM$~$NO_OF_BUNDLE$~$RATE_FREQUNCY$~$RATE_TYPE$~$RATE$~$USERID$~$FREEZE_FLAG$~$SUBRT_CODE$~$SUB_SUBRT_CODE$~$TAXI_ID$~$EXTRA_AMT$~$VECHILE_TYPE$~$AVERAGE$~$DEVICE_ID$~$cir_taxi_mast$~$INSERT#UPDATE#DELETE#SELECT</td34>
+	  <td35>Bill Frequency&lt;font color=red&gt;*&lt;/Font&gt;</td35>
+     </table>
+    <table1>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Monthly</td2>
+    <td3>M</td3>
+  </table1>
+
+  <table2>
+    <td>Rate(Per Km.)</td>
+    <td1>R</td1>
+    <td2>Fixed Amount</td2>
+    <td3>F</td3>
+  </table2>
+
+  <table3>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table3>
+
+  <table4>
+    <td>SNo.</td>
+    <td1>Vehicle No.</td1>
+    <td2>Vehicle Name</td2>
+    <td3>Route Name</td3>
+    <td4>Sub Route Name</td4>
+    <td5>Sub Sub Route Name</td5>
+    <td6>Status</td6>
+  </table4>
+
+  <table5>
+    <td>Two Wheeler</td>
+    <td1>2</td1>
+    <td2>Three Wheeler</td2>
+    <td3>3</td3>
+    <td4>Four Wheeler</td4>
+    <td5>4</td5>
+    </table5>
+  <table6>
+    <td>Expences Detail</td>
+    <td1>SHOW</td1>
+  </table6>
+
+	<table7>
+		<td>Monthly</td>
+		<td1>M</td1>
+		<td2>Weekly</td2>
+		<td3>W</td3>
+		<td4>Daily</td4>
+		<td5>D</td5>
+	</table7>
+</Newdataset>

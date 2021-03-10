@@ -1,0 +1,98 @@
+﻿
+
+.lbltextname
+{
+font-family:Trebuchet MS;
+	color:Black;
+	height:11px;
+	font-size:12px;
+	width:120px;	
+}
+
+
+
+.lbltextname1
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:200px;
+	
+}
+.lblbutton
+{
+	font-family:Trebuchet MS;
+	color:Black;
+	height:24px;
+	font-size:12px;
+	width:80px;
+	
+}
+
+.lbltextgrid
+{
+	font-family:Trebuchet MS;
+	color:Black;
+	height:12px;
+	font-size:12px;
+			
+}
+
+
+.lbltxtname2
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:98px;	
+}
+
+.lbltextgrid1
+{
+	font-family:Trebuchet MS;
+	color:Black;
+	height:12px;
+	font-size:12px;
+	text-align:center;
+			
+}
+
+.lbltextgrid2
+{
+	font-family:Trebuchet MS;
+	color:Black;
+	height:12px;
+	font-size:12px;
+	text-align:right;
+	
+			
+}
+
+
+
+.newprinterreport 
+{
+ font-family: Verdana ;
+ color:black;
+
+ font-size: 12px;
+ vertical-align :text-top ;
+
+
+ 
+}
+
+.newprinterreport1 
+{
+ font-family: Verdana ;
+  color:Blue;
+ font-size: 12px;
+ vertical-align :text-top ;
+
+}

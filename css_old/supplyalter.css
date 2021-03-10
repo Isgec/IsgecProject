@@ -1,0 +1,189 @@
+﻿.LabelText    /*for label*/
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:small;
+
+
+}
+
+
+.dropdown   /*for dropdown*/
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:17px;
+	width:144px;
+}
+.Textfield  /*for textbox*/
+{
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: verdana;
+    width:158px;*/
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:138px;
+	
+    
+}
+.Textfieldlarge  /*for textbox*/
+{
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: verdana;
+    width:158px;*/
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:458px;
+	
+    
+}
+
+.RightTable
+{
+	POSITION: relative;
+	/*margin-top:-10px;
+	margin-left:-550px;*/
+}
+
+
+.hdntextfield  /*for textbox*/
+{
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: verdana;
+    width:158px;*/
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:50px;
+ 
+}
+
+.Popupbar
+{
+	POSITION:relative;
+	WIDTH:692px;
+}
+
+.dtGrid
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #999999;
+	border-collapse: collapse;
+}
+
+.dtGridHd12
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #ffffff;
+	/*border: 1px solid #999999;*/
+	border: 0;
+	text-decoration:none;
+	border-collapse: collapse;
+
+}
+
+.dtGridtext
+{
+	/*border: 1px solid #929292;
+*/
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	height:13px;
+	width:100px;
+  
+
+}
+
+.dtGridtext
+{
+	/*border: 1px solid #929292;
+*/
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	height:13px;
+	width:100px;
+
+}
+
+.Grid
+{
+	/*border: 1px solid #929292;
+*/
+	background-color: #7daae3;
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	height:13px;
+	width:100px;
+
+}
+
+.btnlink
+{
+	font-family: verdana;
+	font-size: XX-Small;
+	color: White;
+	text-decoration:none;
+	position:relative;
+    right:20px;
+    left:0px;
+    text-align:justify;
+    height:10px;
+    cursor:hand;
+}
+
+.HeadingText    /*for label*/
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:medium;
+
+
+}
+
+.dynamicgrid
+{
+	text-align:right
+}
+
+
+.spacing
+{
+	padding-left:20px;
+}
+
+.Labelgrid    /*for label*/
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:center;
+	height:11px;
+	font-size:x-small;
+
+
+}

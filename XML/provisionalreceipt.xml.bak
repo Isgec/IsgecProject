@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+
+    <tr>Branch&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>Doc Type&lt;font color=red&gt;*&lt;/Font&gt;</tr1>
+    <tr2>Inward No&lt;font color=red&gt;*&lt;/Font&gt;</tr2><!--Receipt No-->
+    <tr3>Inward Date&lt;font color=red&gt;*&lt;/Font&gt;</tr3><!--Receipt Date-->
+    <tr4>PayMode/Reason&lt;font color=red&gt;*&lt;/Font&gt;</tr4>
+    <tr5>Agency Region&lt;font color=red&gt;*&lt;/Font&gt;</tr5>
+    <tr6>Voucher No&lt;font color=red&gt;*&lt;/Font&gt;</tr6>
+    <tr7>Amount Recd.&lt;font color=red&gt;*&lt;/Font&gt;</tr7>
+    <tr8>Amount</tr8>
+    <tr9>Amount In Hand</tr9>
+    <tr10>Agency&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr10>
+    <tr14>Cheque No</tr14>
+    <tr15>Cheque Date</tr15>
+    <tr16>Drawee Bank&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr16>
+    <tr17>Othercd</tr17>
+    <tr18>Remark</tr18>
+    <tr19>Client </tr19>
+    <tr21>Executive&lt;font color=red&gt; &lt;/Font&gt;</tr21>
+    <tr22>Agency Code</tr22>
+    <tr23>Agency SubCode</tr23>
+    <tr24>Voucher Date&lt;font color=red&gt;*&lt;/Font&gt;</tr24>
+    <tr25>Adjusted Amt.</tr25>
+    <tr26>Bill No</tr26>
+    <tr27>Bill Date</tr27>
+    <tr28> Outstanding</tr28>
+    <tr29> Amount</tr29>
+    <tr37>Publication</tr37>
+    <tr30> TDS</tr30>
+    <tr31>Service Tax</tr31>
+    <tr32>  Remark</tr32>
+    <tr33>Adjusted Amount</tr33>
+    <tr34>Narration</tr34>
+    <tr35>Prov.Doc No.&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr35>
+    <tr36>Cash/Bank&lt;font color=red&gt;*&lt;/Font&gt;</tr36>
+    <tr38>SAC&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr38>
+    <tr39>Sub SAC&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr39>
+    <tr40>GST On Amount</tr40>
+    <tr41>Bank Branch</tr41>
+    <tr42>Printing Center&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr42>
+    <tr43>Bill No. help&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr43>
+    <tr44>CMS Tag</tr44>
+    <tr45>Main Receipt No</tr45>
+    <tr46>Retainer &lt;font color=red&gt; [F2]&lt;/Font&gt;</tr46>
+    <tr47>Bank Tag</tr47>
+    <tr48>PRT Amount</tr48>
+    <tr49>Ad Type &lt;font color=red&gt; [F2]&lt;/Font&gt;</tr49>
+  </table>
+
+  <table1>
+    <tr>Debit A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr>
+    <tr1>Credit A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr1>
+    <tr2>Clearance  Type</tr2>
+    <tr3>Received From</tr3>
+    <tr4>Finance Pass</tr4>
+    <tr5>Cheque Deposit</tr5>
+    <tr6>Consolidate Amt.</tr6>
+    <tr7>Rest Consolidate Amt.</tr7>
+    <tr8>Sub Debit A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr8>
+    <tr9>Sub Credit A/c head&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr9>
+    <tr10>VAT A/c Head&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr10>
+    <tr11>VAT Base.Amt</tr11>
+    <tr12>VAT Flag</tr12>
+    <tr13>VAT Type&lt;font color=red&gt;* [F2]&lt;/Font&gt;</tr13>
+    <tr14>VAT Amt</tr14>
+    <tr15>SAC Code&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr15>
+    <tr16>Sub SAC Code&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr16>
+    <tr17>Ref Doctype&lt;font color=red&gt; [F2]&lt;/Font&gt;</tr17>
+    <tr18>PRT No.&lt;font color=red&gt; &lt;/Font&gt;</tr18><!--Manual Receipt-->
+    <tr19>PRT Date</tr19><!--Manual Receipt-->
+    <tr20>GMR No.</tr20>
+    <tr21>GMR Dt.</tr21>
+  </table1>
+  <table2>
+    <td>N</td><!-- IF Y then Bill Adjustment For Myanmar else Others Client-->!>
+  </table2>
+  <table3>
+    <td>N</td>
+    <!--IF Y then LINEAGE_MARKING show  else  hide (For Amar Ujala) -->
+    <td1>Y</td1>
+    <!--IF Y then Branch Enable  else  disable(For Amar Ujala) -->
+    <td2>Y</td2>
+    <!--IF Y then show heading (Apply Date,Cleint Name, Ro No, Pending Amount, Reference Id ) this use for amar ujala -->
+    <td3>Y</td3>
+    <!--IF Y then Bill Untag direct Execute and Bill Untag button enable in receipt form else button not show (For Amar Ujala) -->
+    <td4>N</td4>
+    <!--IF Y then Rest Con.Amt is Zero(0)  else show (For Amar Ujala) -->
+    <td5>Y</td5> <!--IF Y tHEN HIDE GST TR ELSE SHOW( FOR Amar UJALA)-->
+    <td6>Y</td6>  <!--if Y than Check Cheque Deposite date is not sunday ( FOR Amar UJALA)-->
+    <td7>Y</td7>    <!--if Y than Check Cheque Deposite date and Cheque Date can't be less than current date ( FOR Amar UJALA)-->
+    <td8>N</td8><!--if N print alert hise else show(for lokmat )-->
+    <td9>Y</td9><!--if Y fixed reason and doctype else N  not fixed (for lokmat)-->
+  </table3>
+</newdata>

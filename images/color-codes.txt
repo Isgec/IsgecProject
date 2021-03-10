@@ -1,0 +1,6 @@
+Tab Color		#d77827
+Find Bg Color 	#f2f4e7
+Find BorderColor	#f1a34f
+Find TextColor 	#a63018
+Button BgColor 	#a63018
+Top : arial 24pt bold color-red

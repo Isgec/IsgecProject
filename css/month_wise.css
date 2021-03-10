@@ -1,0 +1,546 @@
+﻿.upperhead
+{
+	font-size:12px;
+	/*font-weight:bold; */
+	font-family:Arial;
+	Color: #000000;
+	height :20px;
+	text-align :left;
+}
+
+.upperheadforagbill
+{
+	font-size:12px;
+	/*font-weight:bold; */
+	font-family:Arial;
+	Color: #000000;
+	height :20px;
+	text-align :left;
+}
+.p_head
+   {
+	font-family :verdana;
+	font-size :23px;
+	font-weight :bold;
+	color :#0a4a83;
+	text-align :center ;
+}
+.p_head1
+   {
+	font-family :verdana;
+	font-size :20px;
+	font-weight :bold;
+	color :black;
+	text-align :center ;
+}
+.upperhead1
+	{
+	/*height:0px; 
+	width: 300px; */
+	font-size:12px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	width: 440px;
+}
+.tdforcolname
+{
+		 border-top:solid 1px black;
+  border-bottom:solid 1px black; 
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:black;
+ width:10%;
+text-align:left;
+}
+.tdforcolname1
+{
+		 border-top:solid 1px black;
+  border-bottom:solid 1px black; 
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:black;
+ width:18%;
+text-align:left;
+}
+
+.tdforcolname4
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:White;
+ width:20%;
+text-align:left;
+}
+.tdforcolname3
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:White;
+ width:21%;
+text-align:left;
+}
+.tdforcolname5
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:White;
+ width:14%;
+text-align:left;
+}
+.tdforcolname6
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:White;
+ width:10%;
+ padding-right:5px;
+text-align:right;
+}
+
+
+
+.tdforcolname4print
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ width:10%;
+ border-bottom:dotted 1px black;
+ border-top:dotted 1px black;
+text-align:right;
+}
+.tdforcolname3print
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ border-bottom:dotted 1px black;
+ border-top:dotted 1px black;
+ width:15%;
+text-align:left;
+}
+
+.tdforcolname3printcity
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ border-bottom:dotted 1px black;
+ border-top:dotted 1px black;
+ width:17%;
+ padding-left:5px;
+text-align:left;
+}
+
+.tdforcolname5printedition
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ border-bottom:dotted 1px black;
+ border-top:dotted 1px black;
+ width:12%;
+text-align:left;
+}
+.tdforcolname6print
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ border-bottom:dotted 1px black;
+ border-top:dotted 1px black;
+ width:9%;
+text-align:right;
+}
+
+
+
+.tdforcolname6fortot
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:10px;
+ font-family:Verdana;
+ color:black;
+ width:10%;
+text-align:left;
+padding-right:5px;
+}
+
+.tdforcolname6fortotborder
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:10px;
+ font-family:Verdana;
+ color:black;
+ width:15%;
+ text-align:left;
+ border-bottom:solid 1px black;
+ border-top:solid 1px black;
+ 
+ 
+}
+
+.tdforcolname6fortotborder1
+{
+	height:20px; 
+ font-weight:bold; 
+ font-size:10px;
+ font-family:Verdana;
+ color:black;
+ width:15%;
+ text-align:left;
+ border-bottom:solid 1px black;
+ 
+ 
+}
+
+
+
+.tdforcolname7
+{
+ border-top:solid 1px black;
+  border-bottom:solid 1px black; 
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:black;
+ width:14%;
+text-align:right;
+}
+.tdforcolname8
+{
+		 border-top:solid 1px black;
+  border-bottom:solid 1px black; 
+	height:20px; 
+ font-weight:bold; 
+ font-size:11px;
+ font-family:Verdana;
+ color:black;
+ width:22%;
+text-align:left;
+}
+.imageclass
+ {
+	background-image:url('images/header-img.jpg');
+	background-repeat:repeat-x; 
+}
+.upperhead2
+	{
+	/*height:0px; 
+	width: 300px; */
+	font-size:11px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	width: 440px;
+}
+
+
+.upperhead4
+{
+	
+	font-size:11px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	border-bottom:solid 1px black;
+	
+	 
+}
+
+.line
+{
+font-size:11px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	border-bottom:solid 1px black;
+	border-top:solid 1px black;	
+}
+.upperhead5
+{
+	/*height:0px; 
+	width: 300px; */
+	font-size:12px;
+	/*font-weight:bold; */
+	font-family:Arial;
+	Color: #000000;
+	height :20px;
+	text-align:left;
+}
+.upperhead6
+	{
+	/*height:0px; 
+	width: 300px; */
+	font-size:14px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	width: 440px;
+	text-align:center;
+}
+.upperhead8
+	{
+	/*height:0px; 
+	width: 300px; */
+	font-size:14px;
+	font-weight:bold; 
+	font-family:Arial;
+	Color: #000000;
+	
+	text-align:center;
+}
+.upperhead7
+{
+	/*height:0px; 
+	width: 300px; */
+	font-size:12px;
+	/*font-weight:bold; */
+	font-family:Arial;
+	Color: #000000;
+	height :20px;
+	text-align:left;
+}
+
+
+
+
+
+
+.upperhead3
+{
+	/*height:0px; 
+	width: 300px; */
+	font-size:12px;
+	/*font-weight:bold; */
+	font-family:Verdana;
+	Color: #000000;
+	height :20px;
+	text-align :left;
+}
+ .newfont
+{
+	
+    background-color:#f8f9fd;
+	font-family:Arial;
+	font-size:10px;
+	color: #000000; 
+	font-weight:normal;
+	text-align:left ;
+	width:21%;
+		
+}
+ .newfont1
+{
+	
+      background-color:#f8f9fd;
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		width:14%;
+		
+}
+ .newfont2
+{
+	
+  
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		width:20%;
+		
+}
+.newfont3
+{
+	
+ 
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		padding-right:5px;
+		width:10%;
+		
+}
+
+
+.newfontprint
+{
+	
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		width:7%;
+		
+}
+ .newfont1print
+{
+	
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		width:21%;
+		
+}
+
+.newfont1printedition
+{
+	
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		width:12%;
+		
+}
+
+ .newfont2print
+{
+	
+  
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		
+		width:10%;
+		
+}
+.newfont3print
+{
+	
+ 
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		width:23%;
+		
+}
+
+.newfont3printcity
+{
+	
+ 
+		font-family:Arial;
+		font-size:10px;
+		font-weight:normal;
+		text-align:left ;
+		padding-left:5px;
+		width:17%;
+		
+}
+
+
+.newfont4
+{
+	
+ 
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:right ;
+		width:14%;
+		
+}
+.newfont5
+{
+	
+   background-color:#f8f9fd;
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:right ;
+		width:10%;
+		
+}
+.newfont6
+{
+	
+   background-color:#f8f9fd;
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		width:22%;
+		
+}
+.newfont7
+{
+	
+ 
+		font-family:Arial;
+		font-size:10px;
+		color: #000000;
+		font-weight:normal;
+		text-align:left ;
+		width:22%;
+		
+}
+
+.pagingcenter
+	{  
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff; 
+	}
+	.pagingright
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+
+	}
+	.pagingleft
+	{
+    
+	background-color:#5195dd;
+	font-weight:bold;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+	}
+	.break
+{
+	/*page-break-after :always; */
+	page-break-before :always ;
+	/*position :fixed ; */
+}
+
+

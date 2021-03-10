@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<dataset>
+  <table>
+    <td>MANIPAL MEDIA NETWORK LIMITED</td>
+    <td1>Regd. Office:Udayavani New Bldg.,Manipal-576 104,Karnataka.India</td1>
+    <td2>CIRCULATION AGENCY BILL</td2>
+    <td3>Tel:2570848(UDUPI)</td3>
+    <td4>Fax:91-0820-2570563</td4>
+    <td5>Grams:UDAYAVANI</td5>
+    <td6>AGENCY NAME &amp; ADDRESS</td6>
+    <td7>Net Amount</td7>
+    <td8>Old Arrears</td8>
+    <td9>Tot Payable</td9>
+    
+    <td10>BILL NO.</td10>
+    <td11>DATE</td11>
+    <td12>MONTH</td12>
+    <td13>CODE</td13>
+    
+    <td14>DAY</td14>
+    <td15>COPIES</td15>
+    <td16>RATE</td16>
+    <td17>AMOUNT</td17>
+    <td18>DISCOUNT AMOUNT</td18>
+    <td19>NET AMT</td19>
+
+    <td20>TOTAL</td20>
+    <td21>GRAND TOTAL</td21>
+    <td22>AMOUNT IN WORDS</td22>
+    <td23>TUSHARA</td23>
+    <td24>ROOPATARA</td24>
+    <td25>TUNTURU</td25>
+    
+    <td26>REMITTANCE DETAILS:CHQ/DD NO./CASH/AMT. DATE</td26>
+    <td27>MANIPAL MEDIA NETWORK LIMITED</td27>
+    <td28>I Confirm that copies supplied by you are as per my indent.</td28>
+    <td29>some text in other language</td29>
+    <td30>other text</td30>
+    <td31>E&amp;O.E.</td31>
+    <td32>Authorised Signatory</td32>
+    <td33>P.T.O.</td33>
+
+    <td34>WEEKDAYS</td34>
+    <td35>UDAYAVANI</td35>
+    <td36>FRIDAYS</td36>
+    <td37>SUNDAYS</td37>
+    <td38>TARANGA</td38>
+    </table>
+  </dataset>

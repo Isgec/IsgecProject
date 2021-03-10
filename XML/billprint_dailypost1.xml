@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<table>
+  <td1>Agency Name :</td1>
+  <td2>Place :</td2>
+  <td3>Bill No. :</td3>
+  <td4>Bill for the Month of :</td4>
+  <td5>Bill Date :</td5>
+  <td6>Sr No.</td6>
+  <td7>Description</td7>
+  <td8>Unit Price (Kyats)</td8>
+  <td9>Sales Copy</td9>
+  <td10>Total Copy</td10>
+  <td11> Free Copy</td11>
+  <td12>Sales Copy</td12>
+  <td13>Sales Amount</td13>
+  <td14>Discount</td14>
+  <td15>No.379/383, Bo Aung Kyaw Street, Kyauktada Township, Yangon, Myanmar.</td15>
+  <td16>Tel: (951) 253642,392928, Fax: (951)254148</td16>
+  <td17>Email: administration@myanmartimes.com.mm  Web: http//www.mmtimes.com</td17>
+  <td18></td18>
+  <td19>THE MAYANMARTIMES</td19>
+      <td20> A Division Of Mayanmar Consolidated Media Ltd.</td20>
+	<td21>Issue No.</td21>
+	<td22>Qty</td22>
+	<td23>Total(kyats)</td23>
+	<td24>Payment:</td24>
+	<td25>Remarks:</td25>
+	<td26>Thanks for reading The Myanmar Times Journal</td26>
+	<td27>Thanks and Best regards</td27>
+	<td28>Mon Mon Tha Saing</td28>
+	<td29>Finance and Accounts Manager</td29>
+</table>

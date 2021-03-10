@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<table>
+  <td>ROUTE</td>
+  <td1>AGENCY NAME  :</td1>
+  <td2>PLACE       :</td2>
+  <td3>SUPPLY COPY      :</td3>
+  <td4>DATE      :</td4>
+  <td5>SIGNATURE</td5>
+  <td6>UTUSAN MELAYU(MALAYSIA) BERHAD(7170-V)</td6>
+  <td7>ADDRESS</td7>
+  <td8>TARIKH KELUARAN</td8>
+  <td9>MEGA</td9>
+  <td10>TAMBAHAN</td10>
+  <td11>C/P</td11>
+  <td12>PESANAN</td12>
+  <td13>JUMLAH</td13>
+  <td14>PESANAN</td14>
+  <td15>BKS STD</td15>
+  <td16>KUANTITI</td16>
+  <td17>BKS AKHIR</td17>
+  <td18>JUMLAH</td18>
+  <td19>BKS</td19>
+  <td20>STD</td20>
+  <td21>NSK</td21>
+  
+</table>
+<table1>
+  <td>C:\CIO365\Labels\MPC\FILE_A\</td>
+  <td1>C:\CIO365\Labels\MPC\FILE_B\</td1>
+  <td2>C:\CIO365\Labels\MPC\</td2>
+  <td3>C:\CIO365\Labels\WAMAC\</td3>
+  <td4>C:\CIO365\Labels\FERAG\</td4>
+</table1>
+</dataset>

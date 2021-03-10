@@ -1,0 +1,51 @@
+﻿<newdataset>
+  <table>
+    <td>Unit Wise Month Wise Billing</td>
+    <td1>Company Code</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Run Date</td5>
+    <td6>Report Destination</td6>
+    <td7>Bill Frequency</td7>
+    <td8>Publication Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>From Date:</td9>
+    <td10>To Date:</td10>
+    <td11>Company Name</td11>
+    <td12>Printing Center Code</td12>
+    <td13>Publication Code</td13>
+    <td14>Publication Type</td14>
+  </table>
+  
+  <table1>
+    <td>Weekly</td>
+    <td1>W</td1>
+    <td2>Daily</td2>
+    <td3>D</td3>    
+  </table1>
+
+  <table2>
+    <td>S. No</td>
+    <td1>Month</td1>
+    <td2>Unit Name</td2>
+    <tdt3>January</tdt3>
+    <ttd4>February</ttd4>
+    <td5>March</td5>
+    <td6>April</td6>
+    <td7>May</td7>
+    <td8>June</td8>
+    <td9>July</td9>
+    <td10>August</td10>
+    <td11>Septembr</td11>
+    <td12>October</td12>
+    <td13>November</td13>
+    <td14>December</td14>
+  </table2>
+  <table3>
+    <td>Excel Sheet</td>
+    <td1>exc</td1>
+    <td2>Pdf File</td2>
+    <td3>pdf</td3>
+    
+  </table3>
+</newdataset>

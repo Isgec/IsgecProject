@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+
+<table>
+	<td>Branch Summary Report</td>
+	<td1>Company Name</td1>
+	<td2>Printing Center&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+	<td3>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+	<td4>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+	<td5>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+	<td6>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+	<td7>Branch&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td7>
+	<td8>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+	<td9>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+	<td10>Taluka&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+	<td11>Agency Class</td11>
+	<td12>Agency Type</td12>
+	<td13>Report Type</td13>
+	<td14>Break On</td14>
+	<td15>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+	<td16>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+	<td17>Return BasedOn</td17>
+	<td18>Language</td18>
+	<td19>Destination</td19>
+	<td20>Run</td20>
+	<td21>Clear</td21>
+	<td22>Exit</td22>
+	<td23>Commission&lt;font color=red&gt;*&lt;/Font&gt;</td23>
+	<td24>Copies/Amount</td24>
+	<td25>%</td25>
+	<td26>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td26>
+	<td27>Paid/Free</td27>
+	<td28>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td28>
+	<td29>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td29>
+	<td30>Comm.Category&lt;font color=red&gt;[F2]&lt;/Font&gt;</td30>
+	<td31>City&lt;font color=red&gt;[F2]&lt;/Font&gt;</td31>
+	<td32>Area&lt;font color=red&gt;[F2]&lt;/Font&gt;</td32>
+	<td33>Date&lt;font color=red&gt;*&lt;/Font&gt;</td33>
+</table>
+	<table1>
+		<td>Branch Date wise Summary</td>
+		<td1>Amount</td1>
+		<td2>Commission</td2>
+		<td3>Net Amount</td3>
+		<td4>Bill Detail:</td4>
+		<td5>Return:</td5>
+		<td6>Collection:</td6>
+		<td7>NOMBOR PENYATA AKAUN (STATEMENT OF ACC. NUMBER) DAR!________________KE___________ </td7>
+		<td8>PERHATIAN :</td8>
+		<td9>Salinan asal slip bank hendaklah dilampirkan.     ______________________</td9>
+		<td10>Cek Tak Laku mestilah dìgantikan dalam tempoh tujuh hari.      Tandatangan Kerani Jualan</td10>
+	</table1>
+</newdataset>

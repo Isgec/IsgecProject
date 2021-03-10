@@ -1,0 +1,63 @@
+﻿<newdataset>
+  <table>
+
+    <td>Company Code</td>
+    <td1>Company Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name</td3>
+    <td4>Publication&lt;font color=red&gt;*[F2]&lt;/font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;*[F2]&lt;/font&gt;</td5>
+    <td6>Opening Date&lt;font color=red&gt;*&lt;/font&gt;</td6>
+    <td7>Amount&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Security Amount</td8>
+
+    <td9>Agency&lt;font color=red&gt;*[F2]&lt;/font&gt;</td9>
+    <td10>COMP_CODE$~$UNIT_CODE$~$PUBL$~$AGCD$~$DPCD$~$FOR_MONTH$~$OPBAL$~$SEC_OPBAL$~$CREATION_USERID$~$TYPE$~$CIR_AGOMAST_DIS$~$INSERT#UPDATE#DELETE#SELECT</td10>
+    <td11>COMP_CODE$~$UNIT_CODE$~$PUBL$~$AGCD$~$DPCD$~$FOR_MONTH</td11>
+    <td12>COMP_CODE$~$UNIT_CODE$~$PUBL$~$AGCD$~$DPCD$~$FOR_MONTH$~$OPBAL$~$SEC_OPBAL$~$LAST_UPDATED_DATE$~$LAST_UPDATED_USERID$~$CIR_AGOMAST_DIS$~$INSERT#UPDATE#DELETE#SELECT</td12>
+    <td13>S.No.</td13>
+    <td14>Publication</td14>
+
+    <td15>Opening Balance</td15>
+    <td16>Security Amount</td16>
+    <td17>Opening Date</td17>
+    <td18>Agency</td18>
+    <td19>CIR_AGOMAST_DIS</td19>
+    <td20>COMP_CODE$~$UNIT_CODE$~$FOR_MONTH$~$PUBL$~$AGCD$~$DPCD</td20>
+    <td21>Show Agency</td21>
+    <td22>Type</td22>
+    <td23>Agency Code</td23>
+    <td24>Agency Sub Code</td24>
+
+  </table>
+  <table1>
+
+    <td>S.No.</td>
+    <td1>Opening Date</td1>
+    <td2>Opening Balance</td2>
+
+
+  </table1>
+
+  <table2>
+    <td>Opening Date_s</td>
+    <td1>Amount_s</td1>
+  </table2>
+
+  <table3>
+    <td>Main And Sub Agencies</td>
+    <td1>S</td1>
+  </table3>
+
+
+  <table4>
+    <td>Show Agency</td>
+  </table4>
+
+  <table5>
+    <td>Distribution</td>
+    <td1>Dis</td1>
+  </table5>
+
+
+</newdataset>

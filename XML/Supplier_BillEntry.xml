@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>IRNO&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Purchase Type&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Tran. Type&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Ship To State&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>PO No&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Supplier Name&lt;font color=red&gt;*&lt;/Font&gt;</td5>
+    <td6>Supplier GSTIN&lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>Isgec GSTIN&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>Bill Number&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Bill Date&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Bill Remark&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Bill Total&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Advice No&lt;font color=red&gt;*&lt;/Font&gt;</td12>
+    <td13>Employee Id&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Created by &lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Created On&lt;font color=red&gt;*&lt;/Font&gt;</td15>
+  </table>
+</newdata>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+  <td>Company Name</td>
+  <td1>Company Code</td1>
+  <td2>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+  <td3>Unit Code</td3>
+  <td4>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+  <td5>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+  <td6>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+  <td7>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+  <td8>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+  <td9>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+  <td10>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+  <td11>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+  <td12>Include Depo Supply</td12>
+  <td13>Include Free Copies</td13>
+  <td14>Break On</td14>
+  <td15>Slab Display</td15>
+  <td16>Destination</td16>
+  <td17>Report Type</td17>
+</table>
+</newdataset>

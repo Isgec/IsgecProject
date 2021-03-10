@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+    <td>Scheme Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Scheme Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td1>
+    <td2>Curr. Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+    <td3>Date &lt;font color=red&gt;*&lt;/Font&gt;</td3>
+    <td4>Coupon No. &lt;font color=red&gt;*&lt;/Font&gt;</td4>
+    <td5>Publication &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Edition &lt;font color=red&gt;[F2]*&lt;/Font&gt;</td6>
+    <td7>Branch </td7>
+    <td8>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+    <td9>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+    <td10>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+    <td11>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Branch Code</td12>
+    <td13>Phone No.</td13>
+    <td14>Mobile No.</td14>
+    <td15>Name</td15>
+    <td16>Mail Id</td16>
+    <td17>Address 1</td17>
+    <td18>Address 2</td18>
+    <td19>Land Mark</td19>
+    <td20>City</td20>
+    <td21>Pin Code</td21>
+    <td22>Taluka</td22>
+    <td23>District</td23>
+    <td24>State</td24>
+    <td25>Country</td25>
+    <td26>Region</td26>
+    <td27>Zone</td27>
+  </table>
+  <table1>
+    <td>Daily</td>
+    <td1>D</td1>
+    <td2>Weekly</td2>
+    <td3>W</td3>
+    <td4>Monthly</td4>
+    <td5>M</td5>
+    <td6>Quarterly</td6>
+    <td7>Q</td7>
+    <td4>Half Yearly</td4>
+    <td5>H</td5>
+    <td6>Yearly</td6>
+    <td7>Y</td7>
+  </table1>
+  <Table_Group_Bind>
+    <Group>1</Group>
+    <Group>2</Group>
+    <Group>3</Group>
+    <Group>4</Group>
+    <Group>5</Group>
+  </Table_Group_Bind>
+</newdata>

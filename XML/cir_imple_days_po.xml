@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+
+    <td>Company</td>
+    <td1>Printing Center&lt;font color=red&gt;*[F2]&lt;/Font&gt;</td1>
+    <td2>Product Type&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+  </table>
+</dataset>

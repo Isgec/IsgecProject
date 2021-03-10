@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Suspend Type Code</td>
+    <td1>Suspend Type Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Status</td2>
+    <td3>Company Code</td3>
+    <td4>Company Name</td4>
+    <!--<td5>AREA_TYPE$~$AREA_TYPE_NAME$~$USERID$~$COMP_CODE$~$cir_area_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>-->
+    <td5>SUSPEND_TYPE_CODE$~$SUSPEND_DESC$~$USERID$~$FREEZE_FLAG$~$COMP_CODE$~$cir_suspend_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td5>
+    <td6>SUSPEND_TYPE_CODE$~$COMP_CODE</td6>
+    <td7>SUSPEND_TYPE_CODE$~$SUSPEND_DESC$~$FREEZE_FLAG$~$COMP_CODE$~$cir_suspend_type_mast$~$INSERT#UPDATE#DELETE#SELECT</td7>
+    <td81>COMP_CODE#USERID#SUSPEND_DESC#CIR_SUSPEND_TYPE_MAST</td81>
+    <td815>CIR_SUSPEND_TYPE_MAST</td815>
+  </table>
+
+
+
+
+
+  <table1>
+    <td>Inactive</td>
+    <td1>Y</td1>
+    <td2>Active</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td0>Do you want to skip this page ?$~$Please enter Suspend Type Name.$~$Data Saved successfully at Suspend Type Code $~$ There is not available any entry regarding your Query.$~$Are you sure! Do you want to delete this entry ?$~$Data deleted successfully.$~$ There is no more data to be deleted.$~$Data updated successfully.$~$First charter can not be a special charter.$~$You can not enter only special chartar.</td0>
+  </table2>
+
+
+  <table3>
+    <td>Sr No</td>
+    <td1>Suspend Type Code</td1>
+    <td2>Suspend Type Name</td2>
+	  <td3>Status</td3>
+  </table3>
+
+  <table4>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Suspend Type Code</td2>
+    <td3>Suspend Type Name</td3>
+    <td4>Freeze Flag</td4>
+
+  </table4>
+
+</newdataset>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table0>
+    <td0>Company Code</td0>
+    <td1>Company Name</td1>
+    <td2>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3> Printing Center code</td3>
+    <td4>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>
+    <td5>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+    <td6>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+    <td7>Zone&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Region&lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>State&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>District&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Bill From Date&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    <td12>Report Destination</td12>
+    <td13>Bill To Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>Report</td14>
+
+
+  </table0>
+</newdataset>

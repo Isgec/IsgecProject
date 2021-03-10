@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newdata>
+  <table>
+    
+    <tr>Center&lt;font color=red&gt;*&lt;/Font&gt;</tr>
+    <tr1>Branch&lt;font color=red&gt;&lt;/Font&gt;</tr1>
+    <tr2>User Name&lt;font color=red&gt;*&lt;/Font&gt;</tr2>
+  </table>
+
+  <table1>
+    <td>Y</td>
+    <!--default flag  Y for default center and branch and N for regular use  -->
+    <td1>N</td1>
+    <!--for enable Apply Date Y and N for Disable-->
+    <td2>30/09/2018</td2>
+    <!--month end date -->
+  </table1>
+</newdata>

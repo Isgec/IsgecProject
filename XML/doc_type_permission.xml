@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+	<Table>
+		<td>Bank Name&lt;font color=red&gt;*&lt;/Font&gt;</td>
+		<tr1>Login Id&lt;font color=red&gt;[F2]*&lt;/Font&gt;</tr1>
+		<td2>City&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+	</Table>
+</NewDataSet>
+

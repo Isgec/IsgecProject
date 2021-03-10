@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+<table>
+  <td>Comp Code</td>
+  <td1>Comp Name</td1>
+  <td2>Unit Name</td2>
+  <td3>From Center</td3>
+  <td4>To Center</td4>
+  <td5>Gate Dispatch No</td5>
+  <td6>Date&lt;font color=red&gt;* &lt;/Font&gt;</td6>
+  <td7>Transfer Time&lt;font color=red&gt;* &lt;/Font&gt;</td7>
+  <td8>Transfer Incharge&lt;font color=red&gt;* &lt;/Font&gt;</td8>
+  <td9>Vehicle No&lt;font color=red&gt;* &lt;/Font&gt;</td9>
+  <td10>Manual Receipt No</td10>
+  <td11>From date&lt;font color=red&gt;*</td11>
+  <td12>To date&lt;font color=red&gt;*</td12>
+  <td13>Press Name</td13>
+  <td14>Center Name</td14>
+</table>
+
+  <table1>
+    <td>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$PRESS_CODE$~$CENTER_AGCD$~$CENTER_DPCD$~$GT_DATE$~$GT_PASS_NO$~$MANUAL_GT_PASS_NO$~$GT_TIME$~$DISPATCH_IN_CHARGE$~$VEHICLE_NO$~$CREATED_BY$~$CIR_GTPASS_PRESS_HDR_TMP$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1>COMP_CODE$~$UNIT_CODE$~$GT_DATE$~$GT_PASS_NO$~$PUBL_CODE$~$EDTN_CODE$~$SUP_COPY$~$CREATED_BY$~$CIR_GTPASS_PRESS_DET_TMP$~$INSERT#UPDATE#DELETE#SELECT</td1>
+    <td2>COMP_CODE$~$UNIT_CODE$~$PRESS_CODE$~$GT_DATE$~$GT_PASS_NO$~$DOCTYPE$~$CIR_GTPASS_PRESS_HDR$~$INSERT#UPDATE#DELETE#SELECT</td2>
+    <td3>COMP_CODE$~$UNIT_CODE$~$GT_DATE$~$GT_PASS_NO</td3>
+    <td4>COMP_CODE$~$UNIT_CODE$~$BRAN_CODE$~$PRESS_CODE$~$CENTER_AGCD$~$CENTER_DPCD$~$GT_DATE$~$GT_PASS_NO$~$MANUAL_GT_PASS_NO$~$GT_TIME$~$DISPATCH_IN_CHARGE$~$VEHICLE_NO$~$UPDATED_BY$~$UPDATED_DT$~$CIR_GTPASS_PRESS_HDR$~$INSERT#UPDATE#DELETE#SELECT</td4>
+  </table1>
+</newdataset>

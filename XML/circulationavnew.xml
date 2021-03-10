@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newsdataset>
+<table>
+  
+  <td1>Company code</td1>
+	<td2>Company name</td2>
+	<td3>Printing Center code&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+	<!--<td4>Printing Center Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td4>-->
+  <td4>Printing Center Name</td4>
+	<td5>Branch&lt;font color=red&gt;[F2]&lt;/Font&gt;</td5>
+	<td6>Publication Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+	<td7>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+	<td9>Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+	<td10>Sub Edition&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+	<td11>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+	<td12>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td12>
+	<td13>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td13>
+	<td14>Return Based On</td14>
+	<td15>Break on</td15>
+	<td16>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td16>
+	<td17>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td17>
+	<td18>Destination</td18>
+  
+</table>
+	<table1>
+		<td>Issue</td>
+		<td1>0</td1>
+		<td2>Return</td2>
+		<td3>1</td3>
+		
+	</table1>
+
+	<table2>
+		<td>Publication wise</td>
+		<td1>0</td1>
+		<td2>Publication Agency Wise</td2>
+		<td3>1</td3>
+		<td4>Branch and Agency Wise</td4>
+		<td5>2</td5>
+
+	</table2>
+	<table3>
+		<td>On Screen</td>
+		<td1>0</td1>
+		<td4>PDF File</td4>
+		<td5>1</td5>
+		<td6>Excel Sheet</td6>
+		<td7>2</td7>
+	</table3>
+  
+  <table4>
+   <td>Unsold Summary Date Wise</td>
+    <td1>From Date:</td1>
+    <td2>To Date:</td2>
+    <td3>Run Date:</td3>
+    
+  </table4>
+
+
+</newsdataset>

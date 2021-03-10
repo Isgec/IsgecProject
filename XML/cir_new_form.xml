@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Company Name</td>
+    <td1>Unit Name</td1>
+    <td2>Complaint Type</td2>
+    <td3>Agency&lt;font color=red&gt;[F2]&lt;/Font&gt;</td3>
+    <td4>Company Code</td4>
+    <td5>Unit Code</td5>
+    <td6>Branch Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td6>
+    <td7>Branch Code</td7>
+  </table>
+
+  <tabe1>
+    <td>Other</td>
+    <td1>O</td1>
+    <td2>Agent</td2>
+    <td3>A</td3>
+  </tabe1>
+
+  <table2>
+    <td>COMP_CODE$~$LOC_ID$~$SCHEME_ID$~$SCHEME_OPT$~$COMPL_ID$~$COMPL_DT$~$COMPL_TYPE$~$R_ID$~$CUST_ID$~$COMPL_DESC$~$MODE_OF_COMPL$~$CREATED_BY$~$CREATED_DATE$~$UPDATED_BY$~$UPDATED_DATE$~$COMPL_FROM$~$DPCD$~$AGCD$~$BRANCH$~$CRM_COMPLAINT_MAST$~$INSERT#UPDATE#DELETE#SELECT</td>
+    <td1></td1>
+    <td2></td2>
+  </table2>
+  
+  
+</Newdataset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+	<table>
+		<td>Step 1</td>
+		<td1>Create MRV Form</td1>
+		<td2>( Create MRV Form in Specific Location )</td2>
+		<td3>Step 2</td3>
+		<td4>Get Agency Name, MRV Ref. No.</td4>
+		<td5>( Read New Agency Name and their MRV Ref Number )</td5>
+		<td6>Publication&lt;font color=red&gt;[F2]&lt;/Font&gt;</td6>
+		<td7>Step 3</td7>
+		<td8>MRV Process</td8>
+		<td9>( Process MRV one by one for all Publications ) </td9>
+		<td10>Step 4</td10>
+		<td11>DAVP Process</td11>
+		<td12>( Process DAVP MRV one by one for all Publications )</td12>
+		<td13>Date</td13>
+		<td14>SLNO$~$MRVREFNO$~$MRVAGNAME</td14>
+		<td15>insert</td15>
+		<td16>mrv_agency</td16>
+	</table>
+
+</newdataset>

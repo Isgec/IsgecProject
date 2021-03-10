@@ -1,0 +1,211 @@
+﻿.textingridright
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:right;
+	background-color: #ffffff;
+	height:13px;
+}
+
+.textingridleft
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:left;
+	
+}
+
+
+.textingridcenter
+{
+	
+	font-family:Arial;
+	Color:Gray;	
+	font-size:10px;
+	text-align:center;
+}
+
+.textingridhead
+{
+	
+	font-family:Arial;
+	Color:White;
+	font-size:14px;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+.textingridleft_supply
+{
+	
+	font-family:Arial;
+	
+	font-size:11px;
+	text-align:left;
+}
+
+
+.textingridright_supply
+{
+	
+	font-family:Arial;
+	
+	font-size:11px;
+	text-align:right;
+	
+}
+
+.textingridleft_supply_red
+{
+	
+	font-family:Arial;	
+	Color:Red;	
+	font-size:11px;
+	text-align:left;
+	
+}
+
+
+.Textfield_large_corr  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:190px;
+	text-transform:uppercase;
+	
+}
+
+.dropdown_large_corr
+
+{
+
+border: 1px solid #929292;
+background-color: #ffffff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+height:16px;
+width:195px;
+
+}
+
+.dropdown_large_corr1
+
+{
+
+border: 1px solid #929292;
+background-color: #ffffff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+height:16px;
+width:196px;
+
+}
+
+
+
+.Textfield_exlarge_corr  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:520px;
+	text-transform:uppercase;
+	
+}
+
+
+.textingridleft_black
+{
+	
+	font-family:Arial;
+	Color:Black;	
+	font-size:10px;
+	text-align:left;
+}
+
+
+.Textfield_exlarge_corr11  
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:560px;
+	text-transform:uppercase;
+
+}
+
+.textingridright_red
+{
+	
+	font-family:Arial;
+	Color:Red;
+	height:13px;	
+	font-size:10px;
+	text-align:right;
+	background-color: #ffffff;
+}
+
+.btext_withborder_red
+{
+
+	
+	
+	font-family: Arial;
+	font-size: 10px;
+	height:13px;
+	text-align:right;
+	color:Red;
+	background-color: #ffffff;
+	
+}
+
+
+.textingridright_grn
+{
+	
+	font-family:Arial;
+	Color:#52D017;	
+	font-size:10px;
+	text-align:right;
+	background-color: #ffffff;
+	height:13px;
+	
+}
+
+ .textintablesupply
+{
+	width:98%;
+	height:270px;
+	overflow:auto;
+	border: 1px solid black;
+	width:100%;
+	
+}
+.textinbuttonsupply
+{
+
+}
+.textinbuttonsupply_det
+{
+
+} 

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Newdataset>
+  <table>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Code</td2>
+    <td3>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Publication Code</td4>
+    <td5>Publication Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>Main Edition Code</td6>
+    <td7>Main Edition Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td7>
+    <td8>Sub Edition Code</td8>
+    <td9>Sub Edition Name&lt;font color=red&gt;[F2]&lt;/Font&gt;</td9>
+    <td10>Agency Type&lt;font color=red&gt;[F2]&lt;/Font&gt;</td10>
+    <td11>Agency Class&lt;font color=red&gt;[F2]&lt;/Font&gt;</td11>
+    <td12>Bill Pay</td12>
+    <td13>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td13>
+    <td14>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td14>
+    <td15>Report Destination</td15>
+    <td16>Report Type</td16>
+  </table>
+
+  <table1>
+    <td>Yes</td>
+    <td1>Y</td1>
+    <td2>No</td2>
+    <td3>N</td3>
+  </table1>
+
+  <table2>
+    <td>On Screen</td>
+    <td1>1</td1>
+    <td2>Excel</td2>
+    <td3>2</td3>
+    <td4>Pdf</td4>
+    <td5>3</td5>
+  </table2>
+
+  <table3>
+    <td>Control Statement Rate Wise</td>    
+  </table3>
+
+  <table4>
+    <td>Date Wise</td>
+    <td1>D</td1>
+    <td2>Commission Wise</td2>
+    <td3>C</td3>
+  </table4>
+</Newdataset>

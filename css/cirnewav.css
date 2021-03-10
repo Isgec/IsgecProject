@@ -1,0 +1,34 @@
+﻿.LabelText   
+{ 
+	font-family:Trebuchet MS;
+	color:Black;
+	text-align:right;
+	height:11px;
+	 font-size:small ;
+}
+
+.Textfield
+{
+	
+    border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:13px;
+	width:134px;
+	text-transform:uppercase;
+	
+}
+
+.dropdown   
+{
+	border: 1px solid #929292;
+	background-color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	color: #000000;
+	height:17px;
+	width:127px;
+	z-index:0px;
+}

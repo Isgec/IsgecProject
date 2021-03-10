@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+  <table>
+
+
+    <tr>Agency Wise Summary Report</tr>
+    <tr1>36</tr1>
+    <tr2>Receipt Wise Summary Report</tr2>
+    <tr3>15</tr3>
+    <tr4>Agency Ledger</tr4>
+    <tr5>70</tr5>
+    <tr6>Agency Wise Monthly Summary</tr6>
+    <tr7>15</tr7>
+	  <tr8>Record At Header Space</tr8>
+	  <tr9>7</tr9>
+
+	  <tr10>Client/Exc/Reainer ledger</tr10>
+	  <tr11>43</tr11>
+   
+      <tr14>ACC_REMAINDER</tr14>
+      <tr15>40</tr15>
+    <tr16>CHEQUE DETAIL</tr16>
+    <tr17>65</tr17>
+    <tr18> summary report</tr18>
+    <tr19> 25</tr19>
+<tr20>Rate Certificate</tr20>
+ <tr21>40</tr21>
+
+  </table>
+</newdata>

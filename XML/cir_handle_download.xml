@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <table>
+    <td>Unit Name &lt;font color=red&gt;*&lt;/Font&gt;</td>
+    <td1>Branch Name &lt;font color=red&gt;*&lt;/Font&gt;</td1>
+    <td2>Depo (15)&lt;font color=red&gt;[F2]&lt;/Font&gt;</td2>
+    <td3>IP (16)&lt;font color=red&gt;&lt;/Font&gt;</td3>
+    <td4>port No(17)&lt;font color=red&gt;&lt;/Font&gt;</td4>
+    <td5>Network (18)&lt;font color=red&gt;&lt;/Font&gt;</td5>
+    <td6>Date (19)&lt;font color=red&gt;&lt;/Font&gt;</td6>
+    <td7>No. Of Print (20)&lt;font color=red&gt;&lt;/Font&gt;</td7>
+    <td8>Filewise Download(For Serial)</td8>
+    <td9>Exit </td9>
+    <td10>Remark &lt;font color=red&gt;&lt;/Font&gt;</td10>
+    <td11>Record Status&lt;font color=red&gt;&lt;/Font&gt;</td11>
+    <td12>commport&lt;font color=red&gt;&lt;/Font&gt;</td12>
+  </table>
+  <table1>
+    <td>Airtel</td>
+    <td1>0</td1>
+    <td2>Bsnl</td2>
+    <td3>1</td3>
+  </table1>
+</dataset>

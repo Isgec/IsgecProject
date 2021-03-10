@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+	<td>ORDER NUMBER</td>
+	<td1>ORDER DATE</td1>
+	<td2>PARTICULARS</td2>
+	<td3>ADVT. DATE</td3>
+	<td4>SIZE</td4>
+	<td5>TYPE OF ADVT.</td5>
+	<td6>TOTAL SPACE</td6>
+	<td7>UNIT</td7>
+	<td8>RATE</td8>
+	<td9>ORIGNAL</td9>
+	<td10>DUPLICATE</td10>
+	<td11>TRIPICATE</td11>
+	<td12>RONO</td12>
+</table>

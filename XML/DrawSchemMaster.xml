@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdata>
+    <table>
+        <td>Scheme Code&lt;font color=red&gt;*&lt;/Font&gt;</td>
+        <td1>Scheme Name&lt;font color=red&gt;*&lt;/Font&gt;</td1>
+        <td2>From Date&lt;font color=red&gt;*&lt;/Font&gt;</td2>
+        <td3>To Date &lt;font color=red&gt;*&lt;/Font&gt;</td3>
+        <td4>Scheme Freq. &lt;font color=red&gt;*&lt;/Font&gt;</td4>
+        <td5>Publication &lt;font color=red&gt;*&lt;/Font&gt;</td5>
+        <td6>Edition &lt;font color=red&gt;*&lt;/Font&gt;</td6>
+        <td7>Branch </td7>
+        <td8>Company Code&lt;font color=red&gt;*&lt;/Font&gt;</td8>
+        <td9>Company Name&lt;font color=red&gt;*&lt;/Font&gt;</td9>
+        <td10>Unit Code&lt;font color=red&gt;*&lt;/Font&gt;</td10>
+        <td11>Unit Name&lt;font color=red&gt;*&lt;/Font&gt;</td11>
+    </table>
+    <table1>
+        <td>Daily</td>
+        <td1>D</td1>
+        <td2>Weekly</td2>
+        <td3>W</td3>
+        <td4>Monthly</td4>
+        <td5>M</td5>
+        <td6>Quarterly</td6>
+        <td7>Q</td7>
+        <td4>Half Yearly</td4>
+        <td5>H</td5>
+        <td6>Yearly</td6>
+        <td7>Y</td7>
+    </table1>
+    <Table_Group_Bind>
+        <Group>1</Group>
+        <Group>2</Group>
+        <Group>3</Group>
+        <Group>4</Group>
+        <Group>5</Group>
+    </Table_Group_Bind>
+</newdata>

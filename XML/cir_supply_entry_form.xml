@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<newdataset>
+  <table>
+    <td>Comp Code</td>
+    <td1>Comp Name</td1>
+    <td2>Unit Name&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td2>
+    <td3>Publication&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td3>
+    <td4>Edition&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td4>
+    <td5>Agency&lt;font color=red&gt;[F2]*&lt;/Font&gt;</td5>
+    <td6>From Date &lt;font color=red&gt;*&lt;/Font&gt;</td6>
+    <td7>To Date&lt;font color=red&gt;*&lt;/Font&gt;</td7>
+    <td8>District &lt;font color=red&gt;[F2]&lt;/Font&gt;</td8>
+    <td9>Supply Type</td9>
+  </table>
+
+</newdataset>
+
